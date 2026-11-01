@@ -85,29 +85,51 @@ def reference_text(src, git_repo, tmpdir):
     return txt, pages
 
 
-THRESHOLDS = {"어절_실패": 0.85, "어절_주의": 0.93, "글자_주의": 0.95, "글없는쪽_주의": 0.10, "메타_주의": 5}
+THRESHOLDS = {
+    "인코딩_이상문자": 0.30,  # (라틴확장+한자) / (한글+라틴확장+한자) 초과 -> 글꼴 인코딩 깨짐
+    "인코딩_한글": 0.05,      # 한글 / (한글+영문) 미만 -> 한글 보고서인데 한글이 거의 없음
+    "글자_실패": 0.60,
+    "어절_주의": 0.85, "글자_주의": 0.90, "글없는쪽_주의": 0.10, "기호_주의": 0.01,
+}
 
 
 def judge(r):
-    """성공 / 주의 / 실패. Residual 3-5% word gap on clean reports is reference noise
-    (letter-spaced titles, removed running headers), hence 93% as the warning line."""
+    """파싱 판정(성공 / 주의 / 실패). 메타데이터 추출은 별도 열(메타상태)로 본다.
+
+    실패 = kordoc 결과를 그대로 쓸 수 없는 경우만: 변환 오류, 글꼴 인코딩 깨짐, 글자 대량 손실.
+    pdftotext 기준은 잡음이 크다(반복 머리글 중복, 자간 벌린 영문을 글자 단위로 쪼갬,
+    그래프 축 글자, kordoc 이 LaTeX 로 바꾼 수식). 그래서 어절 성공률은 '주의' 신호로만 쓴다.
+    """
     t = THRESHOLDS
-    if r["kordoc_종료코드"] != 0 or r["어절성공률"] is None:
-        return "실패", "kordoc 변환 실패" if r["kordoc_종료코드"] != 0 else "기준 텍스트 없음"
+    if r["kordoc_종료코드"] != 0:
+        return "실패", "kordoc 변환 오류"
+    if r["이상문자비율"] > t["인코딩_이상문자"] or r["한글비율"] < t["인코딩_한글"]:
+        return "실패", "글꼴 인코딩 깨짐 — 텍스트층을 읽을 수 없음, OCR 필요 (kordoc --ocr-force)"
+    if r["어절성공률"] is None:
+        return "실패", "기준 텍스트 없음"
+    if r["글자재현율"] < t["글자_실패"]:
+        return "실패", f"글자재현율 {r['글자재현율']:.1%}"
     reasons = []
-    if r["어절성공률"] < t["어절_실패"]:
-        return "실패", f"어절성공률 {r['어절성공률']:.1%}"
     if r["어절성공률"] < t["어절_주의"]:
         reasons.append(f"어절성공률 {r['어절성공률']:.1%}")
-    if r["글자재현율"] is not None and r["글자재현율"] < t["글자_주의"]:
+    if r["글자재현율"] < t["글자_주의"]:
         reasons.append(f"글자재현율 {r['글자재현율']:.1%}")
     if r["쪽수"] and r["글없는쪽"] / r["쪽수"] > t["글없는쪽_주의"]:
         reasons.append(f"글 없는 쪽 {r['글없는쪽']}쪽(OCR 후보)")
-    if r["깨진글자"] > 0.001 * max(r["추출글자"], 1):
-        reasons.append(f"깨진 글자 {r['깨진글자']}")
-    if r["메타항목"] < t["메타_주의"]:
-        reasons.append(f"메타 {r['메타항목']}/7")
+    if r["깨진글자"] > t["기호_주의"] * max(r["추출글자"], 1):
+        reasons.append(f"사용자정의 기호 {r['깨진글자']}자")
     return ("주의" if reasons else "성공"), "; ".join(reasons)
+
+
+def script_mix(text):
+    h = len(re.findall(r"[가-힣]", text))
+    a = len(re.findall(r"[A-Za-z]", text))
+    odd = len(re.findall(r"[À-ɏ㐀-䶿一-鿿]", text))
+    return round(h / max(h + a, 1), 4), round(odd / max(h + odd, 1), 4)
+
+
+def meta_state(n):
+    return "완전" if n == 7 else ("없음" if n == 0 else f"부분 {n}/7")
 
 
 def main():
@@ -167,6 +189,8 @@ def main():
                           "글자재현율": round(ov_c / nrc, 4) if nrc else None,
                           "추출글자": sum(oc.values()),
                           "깨진글자": len(re.findall(r"[�-]", out))})
+            r["한글비율"], r["이상문자비율"] = script_mix(out)
+            r["메타상태"] = meta_state(r["메타항목"]) if mdp.exists() else ""
             if num not in runlog and ref is None:
                 r["판정"], r["사유"] = "대기", "LFS 파일 — 원본 미수신, 변환 전"
             else:
@@ -174,7 +198,8 @@ def main():
             rows.append(r)
 
     cols = ["번호", "보고서제목", "판정", "사유", "어절성공률", "어절정밀도", "글자재현율", "기준어절", "추출어절", "추출글자",
-            "깨진글자", "쪽수", "글없는쪽", "메타항목", "수행연도", "수행조직", "소속구분", "변환초", "kordoc_종료코드"]
+            "깨진글자", "한글비율", "이상문자비율", "쪽수", "글없는쪽", "메타항목", "메타상태", "수행연도", "수행조직",
+            "소속구분", "변환초", "kordoc_종료코드"]
     with open(a.out, "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader()
         for r in rows:

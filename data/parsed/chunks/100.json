@@ -1,0 +1,2578 @@
+[
+  {
+    "id": "c0001",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "<!-- <table id=\"t1\" /> -->\n| KOREA WATER RESOURCES CORPORATION | 시<br>·<br>공<br>간<br>적<br>변<br>동<br>성<br>을<br>고<br>려<br>한<br>댐<br>저<br>수<br>지<br>내<br>부<br>부<br>하<br>량<br>산<br>정<br>방<br>안<br>연<br>구 | 2024-WR-RR-73-433 <!-- <table parent_id=\"t1\" child_id=\"t2\" /> --> Final Report<br><u>시·공간적 변동성을</u><br>고려한 댐저수지<br><u>내부부하량</u><br>산정방안 연구<br>A Study on the Estimation of Internal Loading with Spatio-temporal variability in Reservoirs<br>2024. 04 |\n| --- | --- | --- |\n\n<!-- <table id=\"t2\" parent_id=\"t1\" /> -->\n| K-water연구원 |\n| --- |\n|  |\n| G230238 |",
+    "blockRange": [
+      0,
+      0
+    ],
+    "page": 1,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0002",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "![image](image_001.png)\n\n\n![image](image_002.png)\n\n(속)",
+    "blockRange": [
+      1,
+      3
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0003",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 시·공간적 변동성을 고려한 댐저수지 내부부하량 산정방안 연구",
+    "blockRange": [
+      4,
+      4
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0004",
+    "type": "heading",
+    "breadcrumb": [
+      "시·공간적 변동성을 고려한 댐저수지 내부부하량 산정방안 연구"
+    ],
+    "text": "### A Study on the Estimation of Internal Loading with Spatio-temporal variability in Reservoirs",
+    "blockRange": [
+      5,
+      5
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0005",
+    "type": "text",
+    "breadcrumb": [
+      "시·공간적 변동성을 고려한 댐저수지 내부부하량 산정방안 연구",
+      "A Study on the Estimation of Internal Loading with Spatio-temporal variability in Reservoirs"
+    ],
+    "text": "2024. 04\n\n첨부 2",
+    "blockRange": [
+      6,
+      7
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0006",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제\t출\t문",
+    "blockRange": [
+      8,
+      8
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0007",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "한국수자원공사장 귀하\n\n이 보고서를 2024 년도 물환경관리처에서 수행한 “시·공간적 변동성을 고려한 댐저수지 내부부하량 산정방안 연구”의 최종보고서로 제출합니다.\n\n2024. 04\\. 30",
+    "blockRange": [
+      9,
+      11
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0008",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "2024. 04. 30"
+    ],
+    "text": "연구책임자 : 물환경계획처 책임위원 이승재\n\n연구수행자 : 물환경관리처 전문위원 이희숙\n\n물환경관리처 책임위원 박연정\n\n물환경관리처 선임위원 윤석제\n\n물환경관리처 책임위원 송대성\n\nK-water 연구원 책임연구원 최정규\n\n기술기획처 기술위원 김진원\n\n위탁 안동대학교 교수 김영훈",
+    "blockRange": [
+      12,
+      19
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0009",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "- III -",
+    "blockRange": [
+      20,
+      20
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0010",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "- III -"
+    ],
+    "text": "첨부 3",
+    "blockRange": [
+      21,
+      21
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0011",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구개발결과 활용보고서",
+    "blockRange": [
+      22,
+      22
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0012",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "HY견고딕 20pt",
+    "blockRange": [
+      23,
+      23
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0013",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 1.<br>연구<br>총괄 | [간행물 관리번호: 2024-WR-RR-73-433] |  | [과제번호: G230238 ] |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1.<br>연구<br>총괄 | (1)연구과제명 | 시·공간적 변동성을 고려한 댐저수지 내부부하량 산정 방안 연구 |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 물환경계획처 | (3)연구 책 임자 | 성명 | 이승재 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 물환경계획처 | (3)연구 책 임자 | 소속 | 물환경계획처 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 물환경계획처 | (3)연구 책 임자 | 전화번호 | 042-629-5384 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 물환경계획처 | (3)연구 책 임자 | E-mail | dlsjb@kwater.or.kr |\n| 1.<br>연구<br>총괄 | (4)연구기간 | 2023. 1 . \\~ 2024. 3.<br>(총 15개월) | (5) 총연구개발비<br>(천원) | 총액 | 80,000천원 |\n| 1.<br>연구<br>총괄 | (6)협동기관 |  | (5) 총연구개발비<br>(천원) | 정부 |  |\n| 1.<br>연구<br>총괄 | (7)참여기업 |  | (5) 총연구개발비<br>(천원) | 기업 |  |\n| 1.<br>연구<br>총괄 | (8)기술분야 |  | (9)참여 연구원 | 7명/ 15개월 |  |\n| 1.<br>연구<br>총괄 | (10)연구개발목표 |  |  |  |  |\n| 1.<br>연구<br>총괄 | □ 댐내 목표 수질 달성을 위한 다양한 오염저감 대책들이 계획·시행되고 있음<br>□ 댐별 내·외부 오염원 파악 및 기여율의 정량화를 통한 맞춤형 수질개선대책의 수립이 필요<br>□ 내부오염부하의 영향인자를 도출하고, 통계기법을 활용하여 인자들간의 상관성 도출<br>및 시·공간적 내부부하량 정량화 |  |  |  |  |\n| 1.<br>연구<br>총괄 | (11)주요연구내용 |  |  |  |  |\n| 1.<br>연구<br>총괄 | □ 내부부하 영향인자 관련 연구사례 및 문헌조사<br>□ 대상지점의 현장 수질 및 퇴적물 용출 조사<br>□ 영향인자들간의 상관성 분석을 통한 내부부하량 정량화<br>□ 댐내 내·외부 오염원의 수질영향 기여율 평가 |  |  |  |  |",
+    "blockRange": [
+      24,
+      24
+    ],
+    "page": 4,
+    "table": {
+      "rows": 14,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0014",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 연구개발결과 활용보고서 작성시, 지면이 부족하거나 또는 상기 문항 이외의 성과 활용 사항이 있는 경우 별지를 사용하여 작성해 주시기 바랍니다.\n- ※ 해당사항이 없을 경우 공란으로 비워두시기 바랍니다.\n- I -",
+    "blockRange": [
+      25,
+      27
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0015",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- I -"
+    ],
+    "text": "| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (12) 연구결과의 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 기술실용화 |  |  |  |  |  |  |  |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 실용화<br>완료 |  | 실용화<br>추진중 |  |  | 실용화<br>보류<br>(중단) |  | 선행<br>연구 |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 |  |  | ◯ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 기타를 선택한 경우 구체적 활용실적 기재... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (13) 주요 연구성과 및 기술 개발단계 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | ∘기술명:<br>∘기술특성 : |  |  |  |  |  |  |  |  | ∘기술의 완성도<br>기초, 탐색연구단계 (◯), 응용연구단계 ( ),<br>개발연구단계 ( )<br>기업화 준비단계 ( ), 상품화 완료단계 ( )<br>∘기술 수명주기<br>기술개념 정립기 (◯), 기술 실험기 ( )<br>기술적용 시작기 ( ), 기술적용 성장기 ( )<br>기술적용 성숙기 ( ), 기술적용 쇠퇴기 ( ) |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | (14) 현장적용실적 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  | 공사명 |  |  | 공사기간 |  |  |  | 물량<br>(총물량) |  |  | 발주기관 |  |  | 시공기관 |  |  | R&D<br>참여자 역활 |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 가. 현장명 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 구분 |  | 기 존<br>(A) |  |  | 개 선<br>(B) |  |  | 단위효과<br>(C=A-B) |  |  | 현장<br>총물량<br>(D) |  |  | 향상도 |  |  | 적용현장<br>총효과<br>(C×D) |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공사비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 유지관리비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 기타비용절감<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 사고율<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 고 용<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공 기<br>(일/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 내구성<br>(年) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      28,
+      28
+    ],
+    "page": 5,
+    "table": {
+      "rows": 20,
+      "cols": 22
+    }
+  },
+  {
+    "id": "c0016",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 개별 공사에 가장 적합한 척도 사용가능 ex) m2, Km\n- ※ 적용 현장이 여러 곳일 경우 위 서식 복사해서 사용\n- II -",
+    "blockRange": [
+      29,
+      31
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0017",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- II -"
+    ],
+    "text": "| 4.<br>기술적<br>효과 | (15) 기술개발목표 달성도 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 4.<br>기술적<br>효과 | 구분 | 지표명<br>(단위) | 개발전<br>국내수준 |  | 당개발사업<br>최종목표치 |  |  |  |  |  | 개발결과<br>실제달성치 |  |  |  |  | 현재국내<br>기술수준 |  |  |  |  |  | 세계 최고<br>기술수준 |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (16) 산업재산권 (발명특허‧실용신안‧의장‧s/w ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 |  | 출원 및<br>등록자 |  |  | 출원 |  |  |  |  |  |  |  |  | 등록 |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 |  | 출원 및<br>등록자 |  |  | 출원일 |  |  | 출원번호 |  |  |  |  |  | 등록일 |  |  |  |  | 등록번호 |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (17) 건설신기술 지정 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  |  | 출원일 |  |  | 고시일 |  |  | 보호기간 |  |  |  |  |  | 지정번호 |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (18) 기타 등록 및 지정현황(상품, 서비스 등록, KT 마크 등) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  |  | 출원일 |  |  |  | 고시일 |  |  | 보호기간 |  |  |  |  |  | 기 타 |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (19) 국내외 전문학술지 게재 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 구분 | 논문제목 |  |  |  |  |  | 학술지명 |  |  |  |  |  |  | 국명 |  |  |  | 통권, 호 |  |  |  |  | 년,월 |\n| 5.<br>학술적<br>효과 | SCI<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 일반<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (20) 학술회의 발표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 논문제목 |  |  |  |  |  |  |  |  | 학술회의 명칭 |  |  |  |  |  |  | 국 명 |  |  |  | 연도‧호 |  |  |  |\n| 5.<br>학술적<br>효과 | K-water의 녹조관리 |  |  |  |  |  |  |  |  | 물환경 포럼<br>대한환경공학회 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      32,
+      32
+    ],
+    "page": 6,
+    "table": {
+      "rows": 22,
+      "cols": 25
+    }
+  },
+  {
+    "id": "c0018",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- III -",
+    "blockRange": [
+      33,
+      33
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0019",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- III -"
+    ],
+    "text": "| 6.<br>공공적<br>효과 | (21) 법ㆍ제도 (설계기준, 시방서, 지침) 등에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6.<br>공공적<br>효과 | 구분 | 명칭 및 조항1) |  | 시행일시 |  | 기존내용 |  |  |  | 신규내용 |  |  |\n| 6.<br>공공적<br>효과 | 법 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 규정/지침 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기준 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 시방서 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (22) 정책수립에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 정책명 | 정책추진 실적 |  | 정책추진<br>일시 |  |  | 담당부처ㆍ팀 |  |  |  | 기대효과 |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (23) 교육 및 지도에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 구분 | 교육명 | 교육내용 |  | 교육대상 |  |  | 교육시간 | 교육인원 |  |  | 교육회수 |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 현장기술지도 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (24) 사회적 성과 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (현업기술지원)<br>- 물환경 분야 브라운백 세미나(물환경처-772, 3.16)<br>- 녹조 대응 전문가 세미나(물환경처-1750, 6.28) |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      34,
+      34
+    ],
+    "page": 7,
+    "table": {
+      "rows": 18,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0020",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- IV -",
+    "blockRange": [
+      35,
+      35
+    ],
+    "page": 7
+  },
+  {
+    "id": "c0021",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      36,
+      36
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0022",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 1. 연구제목",
+    "blockRange": [
+      37,
+      37
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0023",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1. 연구제목"
+    ],
+    "text": "시·공간적 변동성을 고려한 댐저수지 내부부하량 산정 방안 연구",
+    "blockRange": [
+      38,
+      38
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0024",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 2. 연구기간",
+    "blockRange": [
+      39,
+      39
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0025",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "2. 연구기간"
+    ],
+    "text": "2023. 01. 01 ∼ 2024. 03. 31",
+    "blockRange": [
+      40,
+      40
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0026",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 3. 연구목적",
+    "blockRange": [
+      41,
+      41
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0027",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3. 연구목적"
+    ],
+    "text": "퇴적물 용출에 영향을 미치는 인자들에 대해 실험을 수행하고 내부부하 영향인자 도출",
+    "blockRange": [
+      42,
+      42
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0028",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4. 연구내용",
+    "blockRange": [
+      43,
+      43
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0029",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "- 가. 유입하천 및 댐체 내의 홍수기 전·후 현장 수질 및 퇴적물 조사\n\n(1) 3개 지점(덕천강, 경호강 및 댐체 내)에 대한 현장조사 실시 (연 2회)\n\n(2) 채취한 수질(11개 항목) 및 퇴적물(4개 항목)에 대한 분석 실시\n\n- 나. 다양한 조건에서의 영향인자별 용출 특성 분석\n\n(1) 각 퇴적물의 조건 변경(수온, 용존산소)에 따른 퇴적물 용출 특성 실험 실시\n\n(2) 시기별 채수한 시료(총 7회)에 대한 분석(4개 항목) 실시\n\n- 다. 용출률 분석을 통한 결론 도출\n\n(1) 통계기법을 활용한 용출률 분석 및 결론 도출",
+    "blockRange": [
+      44,
+      51
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0030",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 5. 연구결과",
+    "blockRange": [
+      52,
+      52
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0031",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "본 연구는 퇴적물 내에 포함되어있는 물질들의 특성을 파악하고 퇴적물 용출에 영향을 미치는 인자들에 대해 실험을 수행하고 내부부하 영향인자를 도출하고자 하였다. 선행 연구를 참고하여 연구지역의 세 지점에서 채취한 퇴적물을 사용하여 용출시험을 수행하였다. 지름 22cm, 높이 60cm의 크기인 아크릴 재질 반응조에 1 : 5의 부피비로 대상 퇴적물과 표층수를 채우고 호기성 조건과 혐기성 조건을 형성하여 수행하였다 각 지점별 퇴적물은 아크릴 반응조에서 5℃, 10℃, 20℃, 30℃의 각 온도 조건에서 용출되었다. 용출기간 1, 2, 5, 10, 15, 20, 30일에 용출 반응조에서 총 7번의 수질시료를 채취하여 퇴적물에서 용출된 용존 총질소, 암모니아성 질소, 용존 총인, 인산염인과 같은 항목을 일관되게 분석하였으며. 수질, 퇴적물 시료의 분석은 수질오염 공정시험방법을 따라 행하였다.\n\n- V -\n\n- 1\\) 수질 분석 결과\n\n- 표층 채취 시료의 N-계열 분석 결과 총 질소, 용존 총 질소, 질산정 질소의 농도가 모든 지점에서 1차 현장 수질시료의 값에 비해 2차 현장 수질시료의 값이 높게 분석되었다. 암모니아성 질소는 L3 지점을 제외한 L1, L2 지점에서 1차 현장 수질시료의 농도에 비해 대 부분 낮은 농도가 관찰되었다.\n\n- 표층 채취 시료의 P-계열 분석 결과 총인, 용존 총인의 농도는 L2 지점을 제외한 L1, L2 지점에서 1차 현장 수질시료의 농도가 2차 현장 수질시료의 농도보다 높게 나타났다.\n\n- 심층 채취 시료의 N-계열 분석 결과 총 질소, 용존 총 질소, 암모니아성 질소, 질산성 질소의 농도는 총 질소 L2, 암모니아성 질소 L1 지점을 제외한 모든 지점에서 1차 현장 수질시료의 농도가 2차 현장 수질 시료의 농도보다 높게 나타났다.\n\n- 심층 채취 시료의 P-계열 분석 결과 총인, 용존 총인, 인삼염인의 농도는 L2 지점의 인산염인 농도를 제외한 모든 지점에서 1차 현장 수질시료의 농도가 2차 현장 수질 시료의 농도보다 높게 나타났다.\n\n- 2\\) 퇴적물 분석 결과\n\n- 1, 2차 퇴적물 분석결과 모든 지점의 완전연소가능량이 1차 퇴적물 분석결과에 비해 2차 퇴적물 분석결과에서 소폭 감소하였으며, L2, L3 지점의 함수율이 1차 퇴적물 분석결과에 비해 2차 퇴적물 분석결과에서 감소한 모습이 관찰되었다.\n\n- 총 질소는 1차 퇴적물 분석결과 농도값에 비해 2차 퇴적물 분석결과 모든 지점에서 소폭 감소하였으며, 총인과 수용성인은 L1, L2 지점에서 소폭 감소하였으며 L3 지점의 농도가 2차 퇴적물 분석결과 증가했다.\n\n- 3\\) 퇴적물 용출 실험\n\n- 1차 퇴적물 용출 실험은 호기조건 L3 지점의 경우를 제외하고, 호기, 혐기성 조건 모두 높은 온도일수록 용존 총질소가 용출되는 모습이 관찰되었지만, 2차 퇴적물 용출 실험에서는 호기조건의 반응조에서는 용존 총질소의 용출이 거의 나타나지 않았고 혐기성 조건에서만 온도 조건에 따른 농도의 차이를 보이며 용존 총질소의 용출이 관찰되었다.\n\n- 1차 퇴적물 용출 실험과 마찬가지로 2차 퇴적물 용출 실험 결과 5℃부터 30℃의 혐기성 조건에서 L1 지점의 암모니아성 질소의 용출 농도가 계속 증가하는 유사한 경향이 관찰되었다. 1차 퇴적물 용출 실험과 2차 퇴적물 용출 실험의 모든 온도조건에서 호기 조건의 반응조에서는 암모니아성 질소의 용출이 크게 관찰되지 않았다.\n\n- 1차 퇴적물 용출 실험은 실험 시작 5일차 20℃, 30℃조건에서 혐기성 조건의 용존 총인 용\n\n- VI -",
+    "blockRange": [
+      53,
+      67
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0032",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과",
+      "- VI -"
+    ],
+    "text": "출이 관찰되었지만 2차 퇴적물 용출 실험 결과 30℃ 혐기성 조건 반응조에서만 1차 퇴적물 용출 실험 결과보다 낮은 농도의 용존 총인 용출이 나타났다. 1, 2차 퇴적물 용출 실험 모두 호기성 조건 반응조에서 용존 총인의 용출은 관찰하지 못했다.",
+    "blockRange": [
+      68,
+      68
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0033",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- 1차 퇴적물 용출 실험은 5℃부터 혐기성 조건의 인산염인 용출이 관찰되었지만 2차 퇴적물 용출 실험 결과 30℃ 혐기성 조건 반응조에서만 1차 퇴적물 용출 실험 결과보다 낮은 농도의 인산염인 용출이 나타났다.\n\n- 1, 2차 용출 실험에서 총질소와 암모니아성 질소의 용출속도가 총인 및 인산염인과 비교하여 빠르게 관찰되었다. 지점별로는 L1지점의 용출속도가 상대적으로 높았으며, L2는 가장 느린 것으로 보여진다. 호기조건보다 혐기조건에서 용출속도가 크게 나타났으며, 온도에 의한 영향은 모든 실험에서 동일하게 관찰되어졌다.\n\n- 총질소 용출량은 온도가 높아짐에 따라 용출량이 증가되었으며, 실험조건에 따라 최대 용출량은 52.83 mg/m2/d에 달하였다. 일부 호기조건에서는 온도증가에 따라 용출량이 감소되는 결과를 보여주는데 질산화에 의한 영향으로 보여진다.\n\n- 암모니아성 질소의 경우에 충분한 산소가 공급되고, 상등액의 온도가 높게 유지됨에 따라 암모니아성 질소 용출량이 감소되는 것은 질산화 박테리아에 의한 영향으로 판단된다. 본 실험은 20시간의 반응을 평가하고 있으므로 일반적인 질산화 박테리아의 세대 시간(generation time)이 8-10시간 정도인 점을 고려하면 미생물 작용에 의한 것이 주요한 원인으로 판단된다.\n\n- 혐기조건에서 20℃ 이상일 때 명확한 총인과 인산염인의 용출량이 크게 증가되었다. 이는 상기 총질소 및 암모니아성 질소 실험의 결과와 동일하게 미생물에 의한 영향이 크게 작용된 결과로 판단되며, 이 때 주요한 해리 종은 유기물과 결합한 형태의 인 또는 금속 이온과 결합된 인의 용출이 가속된 결과로 판단된다. 아울러 L2와 L3지점 또한 동일한 경향이 나타났다.\n\n- 총인과 인산염인의 경우 2차 용출 실험에서는 용출량이 크게 감소되었다. 인산염인의 경우 용존된 철 이온 또는 철 산화물과 결합하여 용존된 농도가 감소될 수 있으므로, 퇴적물 채취시기에 따른 시료 내 철 농도가 영향을 미칠 수 있다.\n\n- 지점별로는 L1지점의 용출량이 L2, L3지점에 비하여 높게 나타났으며, 분석된 영양염류 4종 모두 동일한 경향을 보여주었다. 4종의 영양염류는 상등액 온도에 따라서도 유사한 용출특성을 보여주었다. 5-10℃의 조건에서는 유의미한 차이가 관찰되지 않으나, 20℃ 이상의 조건에서 평균 용출량이 점진적으로 증가되었다.\n\n- 퇴적물 내 총질소 농도와 용출된 총질소 및 암모니아성 질소의 용출량 간에는 각각 R=0.897, 0.687으로 나타났다. 총질소 간에는 높은 상관성이 확인되었으며, 암모니아성 질소 또한 상대적\n\n- VII -",
+    "blockRange": [
+      69,
+      77
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0034",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과",
+      "- VII -"
+    ],
+    "text": "으로 높은 상관관계가 확인되었다. 그러나 퇴적물 내 총인의 농도와 용출된 총인 간에는 R=0.388의 낮은 상관관계를 보여주며, 퇴적물 내 인산염인 농도와 인산염인 용출량 간에는 R=0.015으로 나타나 농도간의 상관성이 나타나지 않는다.",
+    "blockRange": [
+      78,
+      78
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0035",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- 퇴적물 내 농도와 용출량 간의 상관관계 분석결과에서, 총질소의 용출량은 퇴적물 내 농도에 크게 영향을 받으며, 인산염인은 농도가 아닌 외부요인에 크게 영향을 받음을 알 수 있다. 즉 상관관계가 높을수록 용출량은 퇴적물 내 농도와 물리화학적 확산인자에 크게 영향을 받음을 알 수 있으며, 인산염인과 같이 낮은 상관관계를 가지는 경우는 1차적으로 인의 형태, 2차적 요인으로 미생물 작용이나 철과 같은 착화합물의 양에 영향을 크게 받는 것으로 판단된다.\n\n- VIII -",
+    "blockRange": [
+      79,
+      80
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0036",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# S U M M A R Y",
+    "blockRange": [
+      81,
+      81
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0037",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "1. Project Title/Subtitle",
+    "blockRange": [
+      82,
+      82
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0038",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1. Project Title/Subtitle"
+    ],
+    "text": "A Study on the Precise Investigation of Sediments for the Analysis of Elution Characteristics of Namgang Dam",
+    "blockRange": [
+      83,
+      83
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0039",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "2. Research Period",
+    "blockRange": [
+      84,
+      84
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0040",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "2. Research Period"
+    ],
+    "text": "2023. 07. 28 ∼ 2024. 03. 23",
+    "blockRange": [
+      85,
+      85
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0041",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "3. Objective of Research",
+    "blockRange": [
+      86,
+      86
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0042",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "3. Objective of Research"
+    ],
+    "text": "The purpose of this study is to conduct experiments on factors affecting sediment elution and derive internal load influencing factors",
+    "blockRange": [
+      87,
+      87
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0043",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "4. Content, Scope and Method of Research",
+    "blockRange": [
+      88,
+      88
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "4. Content, Scope and Method of Research"
+    ],
+    "text": "A. Field investigation of water quality and sedimentation before and after flooding in inflowing streams and dam reservoirs",
+    "blockRange": [
+      89,
+      89
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0045",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "(1) Field surveys conducted at 3 locations (Deokcheon River, Gyeongho River, and within the dam reservoir) twice annually.\n\n(2) Analysis conducted on collected water quality (11 items) and sediment (4 items).",
+    "blockRange": [
+      90,
+      91
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0046",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "(2) Analysis conducted on collected water quality (11 items) and sediment (4 items)."
+    ],
+    "text": "B. Analysis of elution characteristics by influencing factors under various conditions",
+    "blockRange": [
+      92,
+      92
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0047",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "(1) Experimental investigation conducted on sediment elution characteristics under varying conditions (temperature, dissolved oxygen) of each sediment.\n\n(2) Analysis conducted on samples collected at different times (total 7 times) for 4 items",
+    "blockRange": [
+      93,
+      94
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0048",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "(2) Analysis conducted on samples collected at different times (total 7 times) for 4 items"
+    ],
+    "text": "C. Conclusion drawn through emission rate analysis",
+    "blockRange": [
+      95,
+      95
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0049",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "(1) Emission rate analysis and conclusion drawn using statistical techniques.\n\n5. Research Result & Conclusion",
+    "blockRange": [
+      96,
+      97
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0050",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "5. Research Result & Conclusion"
+    ],
+    "text": "This study aimed to understand the characteristics of substances contained in sediment and investigate factors influencing sediment discharge, as well as to derive internal load influencing factors through experimentation. Using sediment collected from three locations in the study area, sediment discharge tests were conducted, referencing previous studies. Sediment samples were filled into acrylic reaction vessels measuring 22cm in diameter and 60cm in height at a volume ratio of 1:5, and tests were conducted under aerobic and anaerobic conditions. Sediment from each location was discharged at temperatures of 5°C, 10°C, 20°C, and 30°C. Water quality items such as total dissolved nitrogen, ammonia nitrogen, total dissolved phosphorus, and phosphate were consistently analyzed by collecting water quality samples from the sediment discharge vessel on days 1, 2, 5, 10, 15, 20, and 30. Water quality and sediment sample analysis followed standard water pollution testing methods.",
+    "blockRange": [
+      98,
+      98
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0051",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- IX -\n\n- 1\\) Water Quality Analysis Results\n\n- N-series analysis results of surface water samples showed higher concentrations of total nitrogen, total dissolved nitrogen, and nitrate nitrogen in secondary field water samples compared to primary field water samples at all locations. Ammonia nitrogen concentrations were generally lower in secondary field water samples compared to primary field water samples, except for the L3 location.\n\n- P-series analysis results of surface water samples showed higher concentrations of total phosphorus and total dissolved phosphorus in secondary field water samples compared to primary field water samples, except for the L2 location.\n\n- N-series analysis results of deep water samples showed higher concentrations of total nitrogen, total dissolved nitrogen, ammonia nitrogen, and nitrate nitrogen in secondary field water samples compared to primary field water samples, except for total nitrogen at L2 and ammonia nitrogen at L1.\n\n- P-series analysis results of deep water samples showed higher concentrations of total phosphorus, total dissolved phosphorus, and phosphate, except for phosphate at the L2 location, in secondary field water samples compared to primary field water samples.\n\n- 2\\) Sediment Analysis Results\n\n- The combustion capacity of all sites in the first and second sediment analyses decreased slightly in the second sediment analysis compared to the first sediment analysis, and the humus rate decreased at the L2 and L3 locations.\n\n- Total nitrogen concentrations decreased slightly at all locations in the second sediment analysis compared to the first sediment analysis, while total phosphorus and soluble phosphorus decreased slightly at the L1 and L2 locations and increased at the L3 location.",
+    "blockRange": [
+      99,
+      107
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0052",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "- Total nitrogen concentrations decreased slightly at all locations in the second sediment analysis compared to the first sediment analysis, while total phosphorus and soluble phosphorus decreased slightly at the L1 and L2 locations and increased at the L3 location."
+    ],
+    "text": "2.3 Analysis of Sediment Elution",
+    "blockRange": [
+      108,
+      108
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0053",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- In the first sediment elution experiment, except for the L3 point under aerobic conditions, it was observed that the higher the temperature under both aerobic and anaerobic conditions, the more dissolved total nitrogen was elutiond. However, in the second sediment elution experiment, in the reactors under aerobic conditions, there was almost no observed elution of dissolved total nitrogen, and elution was observed only under anaerobic conditions, showing differences in concentration depending on temperature.\n\n- Similar to the results of the first sediment elution experiment, in the second sediment elution experiment, a similar trend was observed in the elution concentration of ammonia nitrogen at the L1 point under anaerobic conditions from 5°C to 30°C. Significant elution of ammonia nitrogen was not observed in reactors under aerobic conditions for both the first and second sediment elution experiments. experiment. Dissolved total phosphorus elution was not observed in reactors under aerobic conditions for both the first and second sediment elution experiments.\n\n- X -\n\n- In the first sediment elution experiment, the elution of dissolved total phosphorus was observed under anaerobic conditions from the 5th day at 20°C and 30°C, but in the results of the second sediment elution experiment, lower concentrations of dissolved total phosphorus were observed only in the reactors under anaerobic conditions at 30°C compared to the results of the first sediment elution\n\n- In the first sediment release experiment, the release of orthophosphate was observed under anaerobic conditions from 5°C, but in the results of the second sediment release experiment, lower concentrations of orthophosphate were observed only in the reactors under anaerobic conditions at 30°C compared to the results of the first sediment release experiment.\n\n- The elution rates of total nitrogen and ammonia nitrogen were observed to be faster compared to total phosphorus and orthophosphate in both the first and second elution experiments. The elution rate at each point was relatively higher at the L1 point and appeared to be the slowest at L2. The elution rate was significantly higher under anaerobic conditions than under aerobic conditions, and the temperature effect was consistently observed in all experiments. The resulting elution rates showed a high correlation with standard deviation (se).\n\n- The elution of total nitrogen increased with increasing temperature in both the first and second elution experiments, with elution rates ranging from 24.45-68.02 and 21.61-54.65 mg/m2/d, respectively.\n\n- The decrease in ammonia nitrogen elution with sufficient oxygen supply and maintenance of a higher temperature of the supernatant is considered to be influenced by nitrosation bacteria. Considering the generation time of typical nitrosation bacteria is around 8-10 hours, microbial action is considered to be the primary cause, as the experiment evaluates a 20-hour reaction.\n\n- Clear increases in the elution of total phosphorus and orthophosphate were observed at temperatures above 20°C under anaerobic conditions. This is interpreted as a significant microbial influence, similar to the results of total nitrogen and ammonia nitrogen experiments, resulting in accelerated release of bound forms of phosphorus, either bound to organic matter or metal ions. Additionally, similar trends were observed at L2 and L3 points.\n\n- In the case of total phosphorus and orthophosphate, there was a significant decrease in elution in the second elution experiment. In the case of orthophosphate, this may be due to the combination with dissolved iron ions or iron oxides, which could decrease the dissolved concentration, indicating that the iron concentration in the sample at the time of sediment collection may affect it.\n\n- The elution rates at the L1 point were higher compared to L2 and L3 points, showing the same trend for all four analyzed nutrients. The four nutrients showed similar elution characteristics according to supernatant temperature. There were no significant differences observed under 5-10°C conditions, but the average elution rate gradually increased under conditions above 20°C.\n\n- The correlation analysis between sediment concentrations and elution amounts showed R=0.897 for total nitrogen and R=0.687 for ammonia nitrogen, indicating a high correlation between them. However, sediment concentration and elution of total phosphorus showed a low\n\n- XI -",
+    "blockRange": [
+      109,
+      121
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0054",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "- XI -"
+    ],
+    "text": "correlation of R=0.388, and there was no correlation between sediment concentration of orthophosphate and its elution amount with R=0.015.",
+    "blockRange": [
+      122,
+      122
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0055",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- From the correlation analysis results between sediment concentration and elution amount, it can be inferred that the elution amount of total nitrogen is significantly influenced by sediment concentration, while orthophosphate is significantly influenced by external factors rather than concentration. Thus, higher correlation indicates a significant influence of sediment concentration and physicochemical diffusion factors on elution amount, while lower correlations, such as in the case of orthophosphate, suggest a primary influence of the form of phosphorus initially and secondary factors like microbial activity or the quantity of complex compounds like iron.\n\n- XII -",
+    "blockRange": [
+      123,
+      124
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0056",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# C O N T E N T S",
+    "blockRange": [
+      125,
+      125
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0057",
+    "type": "text",
+    "breadcrumb": [
+      "C O N T E N T S"
+    ],
+    "text": "Foreword ············································································································· I Summary Statement ··························································································· VI Contents ··········································································································· XV List of Tables ···································································································· XVI List of Figures ································································································· XVII\n\nChapter 1 Introduction \t 1\n\n1.1 Purpose and background of the study \t 1\n\n1.2 Scope and Content of the Study \t 3\n\n1.2.1 Investigation of Water Quality and Sediment within Inflowing Rivers\n\nand Dam Reservoirs Before and After Flood Events \t 3\n\n1.2.2 Analysis of Discharge Characteristics by Various Conditions \t 3\n\n1.2.3 Conclusion Drawing through Discharge Rate Analysis \t 3\n\n1.3 Methods \t 4\n\n1.3.1 Investigation method \t 4\n\n1.3.2 Sample Collection \t 4\n\n1.3.3 Experimental Methods and Conditions \t 6\n\nChapter 2 Result and discussion \t 11\n\n2.1 Water Quality Analysis Results \t 11\n\n2.1.1 Field Water Quality Sample Measurement Results \t 11\n\n2.1.2 Field Water Quality Sample Analysis Results \t 13\n\n2.2 Sediment Analysis Results \t 17\n\n2.2.1 General Items of Sediments \t 17\n\n2.2.2 Sediment Elution Experiment Measurement Item \t 20\n\n2.2.3 Analysis of Sediment Elution Experiments Item \t 32\n\n2.2.4 Analysis of the Results of the Sediment Elution Experiment \t 44\n\nChapter 3 Conclusion \t 74\n\nReferences \t 77\n\n- XIV -",
+    "blockRange": [
+      126,
+      149
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0058",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목\t차",
+    "blockRange": [
+      150,
+      150
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0059",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "제 출 문 ··············································································································· I 요 약 문 ··········································································································· VI 목 차 ··········································································································· XV 표 목 차 ·········································································································· XVI 그림목차 ········································································································ XVII\n\n제 1 장 서 론 \t 1\n\n1.1 연구의 목적 및 배경 \t 1\n\n1.2 연구내용 및 범위 \t 3\n\n1.2.1 유입하천 및 댐체 내의 홍수기 전 후 현장수질 및 퇴적물 조사 \t 3\n\n1.2.2 다양한 조건에서의 영향인자별 용출 특성 분석 \t 3\n\n1.2.3 용출률 분석을 통한 결론 도출 \t 3\n\n1.3 연구수행 방법 \t 4\n\n1.3.1 조사방법 \t 4\n\n1.3.2 시료 채취 \t 4\n\n1.3.3 실험방법 및 조건 \t 6\n\n제 2 장 본 론 \t 11\n\n2.1 수질 분석 결과 \t 11\n\n2.1.1 현장 수질시료 측정 결과 \t 11\n\n2.1.2 현장 수질시료 분석 결과 \t 13\n\n2.2 퇴적물 분석 결과 \t 17\n\n2.2.1 퇴적물 일반항목 \t 17\n\n2.2.2 퇴적물 용출 실험 측정 항목 \t 20\n\n2.2.3 퇴적물 용출 실험 분석 항목 \t 32\n\n2.2.4 퇴적물 용출 실험 결과 분석 \t 44\n\n제 3 장 결 론 \t 74\n\n참고문헌 \t 77\n\n- XV -",
+    "blockRange": [
+      151,
+      173
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0060",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표\t목\t차",
+    "blockRange": [
+      174,
+      174
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0061",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차"
+    ],
+    "text": "표 1. 퇴적물 용출 실험조건 및 분석 항목 ····························································· \t 7 표 2. 퇴적물 일반항목 분석결과 \t 17\n\n표 3. 퇴적물 일반항목 분석결과 \t 19\n\n표 4. 실험조건별 선형회귀분석 결과: 1차 용출 실험 \t 62\n\n표 5. 실험조건별 선형회귀분석 결과 : 2차 용출 실험 \t 64\n\n표 6. 영양염류별 용출량(mg/m2/d): 1차 용출 실험 \t 69\n\n표 7. 영양염류별 용출량(mg/m2/d): 2차 용출 실험 \t 70\n\n표 8. 지점별 퇴적물 영양염 용출률 \t 73\n\n표 9. 조건별 용출량 평가 (mg/m2/d) \t 73\n\n표 10. 퇴적물 중 영양염류 농도와 용출량의 상관관계 \t 73\n\n- XVI -",
+    "blockRange": [
+      175,
+      184
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0062",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그\t림\t목\t차",
+    "blockRange": [
+      185,
+      185
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0063",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "그림 1. 남강댐 현장조사 및 시료 채취 \t 4\n\n그림 2. 연구지역 내 조사지점 \t 5\n\n그림 3. 시료 채취 기구 \t 5\n\n그림 4. 퇴적물 용출 반응조 개념도 \t 7\n\n그림 5. 퇴적물 용출 실험 장치 구성 \t 8\n\n그림 6. 퇴적물 용출 실험 준비 \t 9\n\n그림 7. 퇴적물 용출 실험 조건 유지 장치 및 시료 채취 \t 10\n\n그림 8. 현장 수질시료 측정 결과 \t 11\n\n그림 9. 현장 수질시료 분석 결과(N-계열) \t 13\n\n그림 10. 현장 수질시료 분석 결과(P-계열) \t 15\n\n그림 11. 퇴적물 일반항목 분석 결과 \t 17\n\n그림 12. 퇴적물 일반항목 분석 결과 \t 18\n\n그림 13. 퇴적물 용출 실험 측정 항목 (pH) \t 20\n\n그림 14. 퇴적물 용출 실험 측정 항목 (EC) \t 23\n\n그림 15. 퇴적물 용출 실험 측정 항목 (DO) \t 26\n\n그림 16. 퇴적물 용출 실험 측정 항목 (온도) \t 29\n\n그림 17. 퇴적물 용출 실험 분석 항목(용존 총질소) \t 32\n\n그림 18. 퇴적물 용출 실험 분석 항목(암모니아성 질소) \t 34\n\n그림 19. 퇴적물 용출 실험 분석 항목(용존 총인) \t 36\n\n그림 20. 퇴적물 용출 실험 분석 항목(인산염인) \t 38\n\n그림 21. 심도에 따른 총질소 농도: 좌) 1차실험, 우) 2차실험 \t 38\n\n그림 22. 심도에 따른 총인 농도: 좌) 1차실험, 우) 2차실험 \t 40\n\n그림 23. 금속이온 농도 모니터링 결과: 알루미늄, 철 \t 41\n\n그림 24. 금속이온 농도 모니터링 결과: 망간, 아연 \t 42\n\n그림 25. 구성된 실험의 영양염류 용출특성(예) \t 44\n\n그림 26. 지점별 총질소 용출속도 분석 결과: 좌) 5℃, 우) 10℃ \t 46\n\n그림 27. 지점별 총질소 용출속도 분석 결과: 좌) 20℃, 우) 30℃ \t 47\n\n그림 28. 지점별 암모니아성 질소 용출속도 분석 결과: 좌) 5℃, 우) 10℃ \t 48\n\n그림 29. 지점별 암모니아성 질소 용출속도 분석 결과: 좌) 20℃, 우) 30℃ \t 49\n\n그림 30. 지점별 총인 용출속도 분석 결과: 좌) 5℃, 우) 10℃ \t 50\n\n그림 31. 지점별 총인 용출속도 분석 결과: 좌) 20℃, 우) 30℃ \t 51\n\n그림 32. 지점별 인산염인 용출속도 분석 결과: 좌) 5℃, 우) 10℃ \t 52\n\n그림 33. 지점별 인산염인 용출속도 분석 결과: 좌) 20℃, 우) 30℃ \t 53\n\n그림 34. 지점별 총질소 용출속도 분석 결과: 좌) 5℃, 우) 10℃ \t 54\n\n그림 35. 지점별 총질소 용출속도 분석 결과: 좌) 20℃, 우) 30℃ \t 55\n\n그림 36. 지점별 암모니아성 질소 용출속도 분석 결과: 좌) 5℃, 우) 10℃ \t 56\n\n그림 37. 지점별 암모니아성 질소 용출속도 분석 결과: 좌) 20℃, 우) 30℃ \t 57\n\n- XVII -",
+    "blockRange": [
+      186,
+      223
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0064",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- XVII -"
+    ],
+    "text": "그림 38. 지점별 총인 용출속도 분석 결과: 좌) 5℃, 우) 10℃ \t 58\n\n그림 39. 지점별 총인 용출속도 분석 결과: 좌) 20℃, 우) 30℃ \t 59\n\n그림 40. 지점별 인산염인 용출속도 분석 결과: 좌) 5℃, 우) 10℃ \t 60\n\n그림 41. 지점별 인산염인 용출속도 분석 결과: 좌) 20℃, 우) 30℃ \t 61\n\n그림 42. 용존 총질소 용출량 분석결과: 좌) 1차 용출, 우) 2차 용출 \t 67\n\n그림 43. 암모니아성 질소 용출량 분석결과: 좌) 1차 용출, 우) 2차 용출 \t 67\n\n그림 44. 용존 총인 용출량 분석결과: 좌) 1차 용출, 우) 2차 용출 \t 68\n\n그림 45. 인산염인 용출량 분석결과: 좌) 1차 용출, 우) 2차 용출 \t 68\n\n그림 46. 1차, 2차 용출실험의 항목별 용출 특성: 좌) 1차 용출, 우) 2차 용출 \t 72\n\n그림 47. 지점별 용출 특성: 좌) 1차 용출, 우) 2차 용출 \t 72\n\n그림 48. 용출 온도별 용출 특성: 좌) 1차 용출, 우) 2차 용출 \t 72",
+    "blockRange": [
+      224,
+      234
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0065",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- XVIII -",
+    "blockRange": [
+      235,
+      235
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0066",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제1장 서론",
+    "blockRange": [
+      236,
+      236
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0067",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론"
+    ],
+    "text": "## 1.1 연구의 목적 및 배경",
+    "blockRange": [
+      237,
+      237
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0068",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구의 목적 및 배경"
+    ],
+    "text": "하천 및 호소의 수질에 영향을 주는 영양염의 기원은 외부로부터 유입되는 오염물질에 의한 외부부하(external loading)와 오염물질의 용출에 의한 내부부하 (internal loading)로 나뉜다 [1]. 퇴적물은 내부부하로서, 하천의 퇴적물 내에는 유기물질뿐만 아니라 하천의 수질에 영향을 미치는 주요 인자인 영양염류가 다량 존재한다 [2]. 퇴적물이 수층의 영양염 분포에 미치는 영향을 평가하기 위해서 퇴적물의 용출률을 정확하게 측정할 필요가 있다. 국내 퇴적물 관련 조사 및 연구는 2006년부터 정부 주도로 본격적으로 이루어지기 시작하였고, 지난 2019년 전 국 306개 지점에 대한 하천·호소 퇴적물 조사를 수행하였다. 국내 연구 논문을 통해 하천 및 호소의 퇴적물이 수질에 미치는 영향을 평가하기 위한 결과가 발표되었으나, 각각의 연구 논문마다 실험방법이 상이하여 자료를 비교 ‧ 평가하기 어려운 실정이다 [3-6]. 일반적으로 퇴적물 용출을 측정하는 방법은 현장에 저층 챔버(in situ benthic chamber)를 설치하여 측정하는 방법과 실험실에서 퇴적물 코어를 배양하여 측정하는 방법(laboratory core incubation)으로 나뉜다. 최근의 연구 결과를 보면, 현장에서 직접 용출률을 측정하는 방법이 다른 측정 방법에 비해 실제 용출률과 유사하게 재현한다고 보고된 바 있다. 하지만, 현장 측정법은 측정에 이용되는 장비는 고가이며, 현장 측정을 수행할 전문 기술 인원 및 많은 시간과 비용을 필요로 한다 [7]. 그래서 일부 연구에서는 현장에서 직접 용출 실험을 진행하는 저층챔버 대신 측정방법이 용이하고 실험실 내에서 다양한 환경조건을 모사할 수 있는 코어 배양을 실시하였다 [3-5, 7-10]. 코어 배양은 다양한 환경조건을 구성하여 실험을 수행할 수 있는 장점을 가지고 있어 다수의 연구에서 활용되었다 [3, 6, 7, 11, 12]. 본 연구에서는 남강댐의 3개지점(L1:댐체앞, L2:덕천강하단, L3:경호강하단)에서 채취된 퇴적물의 오염도와 퇴적물에서 온도와 용존산소조건이 다른 환경에서 영양염류의 용출을 정밀하게 측정하고자 하였다. 본 연구와 유사한 국내연구사례를 아래와 같이 요약하였다.\n\n한국수자원공사(2019)에 의하면 남강댐 복합이상수질 특성 중 퇴적물로 인한 내부부하 기여 도를 파악하기 위해 퇴적물에 대한 기초조사, 용출특성조사, 유입특성조사 등을 실시하였으며, 용출 영향인자에 대한 제어 연구를 수행하였다. 영양염 용출률 평가 결과 혐기 환경에서 PO4-P와 NH4-N농도는 용출되었고, NOX-N는 퇴적층으로 유입되는 것으로 나타났다. 특히 빈산소 수계와 유사한 DO 농도를 나타내는 경호강 지점에서 NOX-N와 NH4-N의 역상관성이 가장 뚜렷하게 나타났다. Cho et al. (2007)에 의하면 퇴적물로부터 용출되는 영양염류가 인공호수인 남양호의 수질에 미치는 영향을 예측하기 위하여, 실험실에서 퇴적물의 조건을 호기 및 혐기성 조건으로 설정한 후 영양염류의 용출속도를 측정하였다. 본 연구에서 퇴적물로부터 유기물과 질소의 용출은 일어나지 않는 것으로 판단된다. 또한, 인산염 인과 총인의 경우 수체 내 산소조건에 따라 용출 양상이 달랐는데, 혐기성 조건에서는 인이 용출되지 않은 반면, 호기 조건에서는 많은 양의 인이 용출되었다. 상류에서 채집한 퇴적물에서 인의 용출속도가 가장 빨랐는데, 이는 유입수에 쉽게 분해 가능한 유기물이 다량 포함되어있기 때문으로 판단하였다.\n\nOh et al. (2007)에 의하면 소규모 저수지에서 퇴적물이 수질에 미치는 영향을 조사하기 위하여 경기도 시흥시에 위치한 홍부저수지를 대상으로 4개의 지점을 선정하여, 퇴적물의 물리 화학적 요인, 퇴적물 산소요구량(SOD) 및 영양염류 용출 속도를 측정하였다. 본 연구에서 용출 실험에서 인의 경우 거의 용출이 일어나지 않는 것으로 나타났는데, 이는 퇴적물에 포함된 인의 농도가 다른 저수지에 비해 낮기 때문인 것으로 판단하였다. 질소의 경우 초기 용출량이 크게 증가하나 이후 용출은 일어나지 않고 오히려 감소하는 경향을 보였다. 초기 용출 속도를 기초로 혐기성 조건에서 용출량을 산정하면, 저수지 전역에서 용출되는 질소의 양은 42.1 kg-N/day로 유입 하천의 부하량인 52.7 kg-N/day와 비슷하여 퇴적물로부터 질소의 용출이 저수지 오염에 중요한 부분을 차지하고 있는 것으로 나타났다.\n\nKim et al. (2015)에 의하면 굴포천에서 하천수 및 하상 퇴적물의 이화학적 특성을 분석하였고, 퇴적물로부터 영양염 용출 특성을 실험실 내 실험으로 호기와 혐기성 조건에서 규명하고자 하였다. 본 연구에서 퇴적물로부터 용출되는 유기물질의 양을 측정한 결과, 혐기성 조건 하에서 초기에 갑작스런 증가가 관찰되었으나, 이후 농도가 일정하게 안정화되는 경향을 보였으며, 상류와 중류에 비해 하류에서 암모니아성 질소의 농도 증가가 크지 않은 것은 퇴적물 내 질소의 함량이 적어 수계로 용출이 제한되었기 때문으로 판단하였다.\n\nJoo et al. (2017)에 의하면 낚시터로 장기 임대 중인 농업용 저수지 2곳을 대상으로 낚시터 영향권 2지점의 퇴적물과 비영향권 1지점의 퇴적물을 호기와 혐기성 조건을 조성한 실험실 코어 배양법을 이용해 영양염류 용출시험을 2회씩 실시하였다. 본 연구에서 용출 실험 동안 표층수 내 DO, EC, pH, ORP의 변화는 낚시터 영향구간과 비영향구간 사이에 유의미한 차이는 관측되지 않았다. 질산성 질소를 제외하고 암모니아성 질소, 총인, 인산염 인이 호기 조건보다는 혐기성 조건에서 통계학적으로 유의한 수준으로 퇴적물에서 표층수로 더 많은 용출량이 측정되었다. 이는 표층수 내 DO 농도 감소에 따라 미생물 매개의 암모늄화가 촉진되고 질산화 작용이 억제되어 암모니아성 질소가 퇴적물에서 표층수로 확산, 용출되고 퇴적물 표층의 산화층이 환원되어 유기물에 결합 된 인과 금속 산화물과 결합 된 인의 해리 등을 통해 인산염 인이 퇴적물에서 표층수로 확산 및 용출이 가속화되었기 때문이라고 판단하였다.\n\n국내에서 수행된 퇴적물용출연구는 각각의 장단점이 있으며 본 연구에 부분적으로 참고가 되나 본 연구와 수행방법과 목적이 동일한 연구는 없어 직접적 비교는 어렵다. 코어 배양법을 이용하여 퇴적물 용출 실험을 수행한 선행 연구들을 참고하여 연구지역 내 3개 조사지점에서 표층 퇴적물 시료를 채취한 후, 퇴적물 내에 포함되어있는 물질들의 특성을 파악하고 퇴적물 용출에 영향을 미치는 인자들에 대해 실험을 수행하고 내부부하 영향인자를 도출하고자 하였다.",
+    "blockRange": [
+      238,
+      243
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0069",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론"
+    ],
+    "text": "## 1.2 연구내용 및 범위",
+    "blockRange": [
+      244,
+      244
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0070",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "### 1.2.1 유입하천 및 댐체 내의 홍수기 전·후 현장 수질 및 퇴적물 조사",
+    "blockRange": [
+      245,
+      245
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0071",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 유입하천 및 댐체 내의 홍수기 전·후 현장 수질 및 퇴적물 조사"
+    ],
+    "text": "- 가) 3개 지점 (덕천강, 경호강 및 댐체 내)에 대한 현장조사 (연 2회)",
+    "blockRange": [
+      246,
+      246
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0072",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 유입하천 및 댐체 내의 홍수기 전·후 현장 수질 및 퇴적물 조사",
+      "가) 3개 지점 (덕천강, 경호강 및 댐체 내)에 대한 현장조사 (연 2회)"
+    ],
+    "text": "남강댐 3개 지점에 대한 현장조사를 통하여 수질 및 퇴적물의 오염도를 평가하여 연속된 용출연구의 기초자료로 활용하고자 하였다. 정해진 과업기간 중 선박의 운항이 가능한 날짜를 택하여 댐내 3개지점에서 수질시료채취, 퇴적물시료 채취, 현장수질 분석을 실시하였다.",
+    "blockRange": [
+      247,
+      247
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0073",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 유입하천 및 댐체 내의 홍수기 전·후 현장 수질 및 퇴적물 조사"
+    ],
+    "text": "- 나) 채취한 수질 (11개 항목) 및 퇴적물 (4개 항목)에 대한 분석",
+    "blockRange": [
+      248,
+      248
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0074",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 유입하천 및 댐체 내의 홍수기 전·후 현장 수질 및 퇴적물 조사",
+      "나) 채취한 수질 (11개 항목) 및 퇴적물 (4개 항목)에 대한 분석"
+    ],
+    "text": "채취한 수질에 대하여 11개 항목 수온, pH, 용존산소, 전기전도도, 암모니아성 질소, 질산성 질소, 총질소, 용존 총질소, 총인, 용존 총인, 인산염 인에 대한 분석을 실시 하였으며 분석은 수질오염공정시험기준에 준하여 수행되었다. 퇴적물의 경우 그랩 샘플러를 이용하여 채취하였으며 4개 분석항목 퇴적물 총인, 퇴적물 총질소, 퇴적물 수용성인, 퇴적물 총유기탄소에 대하여 수질오염공정시험기준에 준하여 분석하였다.",
+    "blockRange": [
+      249,
+      249
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0075",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "### 1.2.2 다양한 조건에서의 영향인자별 용출 특성 분석",
+    "blockRange": [
+      250,
+      250
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0076",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 다양한 조건에서의 영향인자별 용출 특성 분석"
+    ],
+    "text": "- 가) 각 퇴적물의 조건 변경 (수온, 용존산소)에 따른 퇴적물 용출 특성 실험",
+    "blockRange": [
+      251,
+      251
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0077",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 다양한 조건에서의 영향인자별 용출 특성 분석",
+      "가) 각 퇴적물의 조건 변경 (수온, 용존산소)에 따른 퇴적물 용출 특성 실험"
+    ],
+    "text": "채취된 퇴적물은 신속히 실험실로 운반하여 수온과 용존산소 등의 환경조건을 다양하게 하여 용출실험을 30일간 수행하고 각 시기별로 채취된 시료를 분석하였다.",
+    "blockRange": [
+      252,
+      252
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0078",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 다양한 조건에서의 영향인자별 용출 특성 분석"
+    ],
+    "text": "- 나) 시기별 채수한 시료(총 7회)에 대한 분석(4개 항목)",
+    "blockRange": [
+      253,
+      253
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0079",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 다양한 조건에서의 영향인자별 용출 특성 분석",
+      "나) 시기별 채수한 시료(총 7회)에 대한 분석(4개 항목)"
+    ],
+    "text": "실험실에서 수행된 용출실험에서 총 7회이상 시료를 채취하였으며 채취된 수질시료에 대하여 4개 항목 암모니아성 질소, 용존 총질소, 용존 총인, 인산염 인에 대하여 분석을 실시하여주요 영양염의 농도의 변화를 관찰하였다.",
+    "blockRange": [
+      254,
+      254
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0080",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "### 1.2.3 용출률 분석을 통한 결론 도출",
+    "blockRange": [
+      255,
+      255
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0081",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.3 용출률 분석을 통한 결론 도출"
+    ],
+    "text": "가) 통계기법을 활용한 용출률 분석 및 결론 도출",
+    "blockRange": [
+      256,
+      256
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0082",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.3 용출률 분석을 통한 결론 도출",
+      "가) 통계기법을 활용한 용출률 분석 및 결론 도출"
+    ],
+    "text": "용출실험을 통하여 얻어진 데이터는 통계적 방법을 통하여 분석하였으며 각 환경조건별 용출률를 평가하였다. 또한 유사연구사례와 비교하여 남강댐 퇴적물에서 환경변화에 따라 영양염의 용출가능성을 결론으로 도출하였다.",
+    "blockRange": [
+      257,
+      257
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0083",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론"
+    ],
+    "text": "## 1.3 연구수행 방법",
+    "blockRange": [
+      258,
+      258
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0084",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법"
+    ],
+    "text": "### 1.3.1 조사방법",
+    "blockRange": [
+      259,
+      259
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0085",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.1 조사방법"
+    ],
+    "text": "가) 조사시기\n\n(1) 반기 중 각 2회\n\n- 1차 : 2023년 8월 7일\n- 2차 : 2023년 12월 13일",
+    "blockRange": [
+      260,
+      263
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0086",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법"
+    ],
+    "text": "### 1.3.2 시료 채취",
+    "blockRange": [
+      264,
+      264
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0087",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.2 시료 채취"
+    ],
+    "text": "그림 1. 남강댐 현장조사 및 시료 채취\n\n\n![image](image_003.png)\n\n\n![image](image_004.png)\n\n\n![image](image_005.png)\n\n\n![image](image_006.png)\n\n\n![image](image_007.png)\n\n\n![image](image_008.png)\n\n\n![image](image_009.png)\n\n\n![image](image_010.png)\n\n\n![image](image_011.png)\n\n- 가) 시료 채취\n- L1, L2, L3 지점의 수질 시료 및 퇴적물 시료를 채취하여 실험에 사용\n- 수질 시료는 두레박, 반돈 채수기로 채취\n- 퇴적물 시료는 그랩 샘플러 (Grab Sampler)를 이용하여 채취\n- 용출 실험을 위한 수질 시료는 해당 지점의 표층수 채취하여 이용\n- 나) 시료의 보관 및 운반\n- 수질 시료는 채수 후 멸균채수병(2L)에 담아 냉장보관하여 분석 업체로 운반\n- 각 지점 별 100mL의 수질 시료를 별도로 분취하여 멀티미터기로 일부 항목 측정\n- 퇴적물 용출 실험에 사용되는 표층수는 20L 플라스틱 통에 담아 실험실로 운반\n- 다) 현장 측정 항목\n- 수질 : pH, DO, EC, 온도",
+    "blockRange": [
+      265,
+      285
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0088",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.2 시료 채취",
+      "- 수질 : pH, DO, EC, 온도"
+    ],
+    "text": "그림 2. 연구지역 내 조사지점\n\n반돈 채수기 그랩 샘플러 멀티미터기\n\n그림 3. 시료 채취 기구\n\n\n![image](image_012.png)\n\n\n![image](image_013.png)\n\n\n![image](image_014.png)\n\n\n![image](image_015.png)",
+    "blockRange": [
+      286,
+      292
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0089",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법"
+    ],
+    "text": "### 1.3.3. 실험방법 및 조건",
+    "blockRange": [
+      293,
+      293
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0090",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.3. 실험방법 및 조건"
+    ],
+    "text": "- 가) 실험방법",
+    "blockRange": [
+      294,
+      294
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0091",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.3. 실험방법 및 조건",
+      "가) 실험방법"
+    ],
+    "text": "본 연구는 선행 연구를 참고하여 연구지역에서 채취한 퇴적물을 사용하여 용출시험을 수행하였다. 지름 22cm, 높이 60cm의 크기인 아크릴 재질 반응조에 1 : 5의 부피비로 대상 퇴적물과 표층수를 채우고 호기성 조건과 혐기성 조건을 형성하여 수행하였다 [3-7]. 호기 조건과 혐기성 조건은 밀폐한 반응조 상단의 밸브에 연결된 튜브를 통해 공기와 질소가스를 지속적으로 공급함으로써 유지하였으며, 스티로폼으로 각 환경조건 별 반응조를 구분하고 단열하였으며 반응조 전체를 감싸 빛을 차단하여 광합성에 의한 변화를 방지하였다. 실험에 사용한 표층수는 현장의 조건을 반영하기 위하여 현장에서 채수한 물을 사용하였다. 용출 실험 장치에 대상 퇴적물을 넣고, 표층수를 채우는 과정에서 퇴적물의 부유에 의한 영양염류의 용출을 최소화하기 위하여 반응조의 벽면을 따라 천천히 물을 채웠다. 각 반응기에 물을 채우는데 소요된 시간을 1시간 이상으로 하여 퇴적물의 부유에 의한 실험오차를 최소화하기 위해 많은 노력을 하였다. 퇴적물과 물을 채운 반응조는 온도조절용 냉각수가 채워진 고무재질의 통에 넣어 용출을 시작하였다. 용출기간 중 반응조 외부의 냉각수 온도를 냉각기(cooler)와 수중히터를 이용하여 일정하게(T±1℃) 유지하였으며 일 2회 이상 점검하여 수온유지에 노력하였다. 반응조의 개념도와 평면도, 반응조를 준비하는 과정을 아래 그림에 요약하였다. 정해진 시료 채취 시기에 각 반응조에 설치된 밸브를 통하여 수질시료을 채취하였으며 채취량은 전체 부피에 미치는 영향을 최소화하기 위해 각 분석에 필요한 최소량으로 하였으며 채취된 시료는 냉장보관하여 신속히 분석기관으로 운반하였다. 퇴적물에서 용출된 영양염류는 위에서 언급한 4개 항목을 일관되게 분석하였으며. 수질, 퇴적물 시료의 분석은 수질오염 공정시험방법을 따라 행하였다.",
+    "blockRange": [
+      295,
+      295
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0092",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.3. 실험방법 및 조건"
+    ],
+    "text": "- 나) 실험조건",
+    "blockRange": [
+      296,
+      296
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0093",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.3. 실험방법 및 조건",
+      "나) 실험조건"
+    ],
+    "text": "퇴적물 용출실험 조건은 아래 표에 요약되었다. 각 지점별 퇴적물은 아크릴 반응조에서 5℃, 10℃, 20℃, 30℃의 각 온도 조건에서 용출되었으며, 용출기간 1, 2, 5, 10, 15, 20, 30일에 용출 반응조에서 총 7번의 시료를 채취하였다. 회당 0.5 L씩 무균 채수병에 채수하여 분석용 시료로 하였다.\n\n표 1. 퇴적물 용출 실험조건 및 분석 항목",
+    "blockRange": [
+      297,
+      298
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0094",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.3. 실험방법 및 조건",
+      "나) 실험조건"
+    ],
+    "text": "| 지점 | 조작 조건 |  | 반응시간 | 분석 항목 |\n| --- | --- | --- | --- | --- |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 수온 | 용존산소 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 5℃ | 호기 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 5℃ | 혐기성 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 10℃ | 호기 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 10℃ | 혐기성 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 20℃ | 호기 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 20℃ | 혐기성 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 30℃ | 호기 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |\n| 댐체 앞(L1)<br>덕천강 (L2)<br>경호강 (L3) | 30℃ | 혐기성 | 30일 | 암모니아성 질소, 용존 총질소, 용존<br>총인, 인산염인 |",
+    "blockRange": [
+      299,
+      299
+    ],
+    "page": 28,
+    "table": {
+      "rows": 10,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0095",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.3. 실험방법 및 조건",
+      "나) 실험조건"
+    ],
+    "text": "그림 4. 퇴적물 용출 반응조 개념도\n\n\n![image](image_016.png)\n\n그림 5. 퇴적물 용출 실험 장치 구성\n\n\n![image](image_017.png)\n\n그림 6. 퇴적물 용출 실험 준비\n\n그림 7. 퇴적물 용출 실험 조건 유지 장치 및 시료 채취\n\n\n![image](image_018.png)\n\n\n![image](image_019.png)\n\n\n![image](image_020.png)\n\n\n![image](image_021.png)\n\n\n![image](image_022.png)\n\n\n![image](image_023.png)\n\n\n![image](image_024.png)\n\n\n![image](image_025.png)\n\n\n![image](image_026.png)\n\n\n![image](image_027.png)\n\n\n![image](image_028.png)\n\n\n![image](image_029.png)\n\n\n![image](image_030.png)\n\n\n![image](image_031.png)\n\n\n![image](image_032.png)\n\n\n![image](image_033.png)\n\n\n![image](image_034.png)",
+    "blockRange": [
+      300,
+      322
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0096",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제2장 본론",
+    "blockRange": [
+      323,
+      323
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0097",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## 2.1 수질 분석결과",
+    "blockRange": [
+      324,
+      324
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0098",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 수질 분석결과"
+    ],
+    "text": "### 2.2.1 현장 수질시료 측정 결과",
+    "blockRange": [
+      325,
+      325
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0099",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 수질 분석결과",
+      "2.2.1 현장 수질시료 측정 결과"
+    ],
+    "text": "표층 채취 시료 심층 채취 시료\n\n그림 8. 현장 수질시료 측정 결과\n\n\n![image](image_035.png)\n\n\n![image](image_036.png)\n\n\n![image](image_037.png)\n\n\n![image](image_038.png)\n\n\n![image](image_039.png)\n\n\n![image](image_040.png)\n\n\n![image](image_041.png)\n\n\n![image](image_042.png)\n\n1차 표층 채취 시료의 측정 결과 pH는 L1 9.26, L2는 9.56, L3가 8.89로 나타났으며 2차 표층 채취 시료의 pH는 L1 7.73, L2는 8.43, L3가 7.93으로 나타나 2차 표층 채취 시료의 pH가 1차 표층 채취 시료 측정 결과에 비해 소폭 감소한 것으로 나타났다. 1차 표층 채취 시료의 측정 결과 DO는 L1 8.99 ppm, L2는 8.77 ppm, L3가 8.42 ppm으로 나타났다. 2차 표층 채취 시료의 DO는 L1 8.15 ppm, L2는 8.19 ppm, L3가 8.18 ppm으로 나타나 1, 2차 표층 채취 시료 측정 결과 유사한 농도가 관찰되었다. 1차 표층 채취 시료의 측정 결과 EC는 L1 92 μS/cm, L2는 74 μS/cm, L3가 85μS/cm으로 나타났으며 2차 표층 채취 시료의 EC는 1차 표층 채취 시료 측정 결과보다 높은 L1 117 μS/cm, L2는 177 μS/cm, L3가 126 μS/cm으로 나타났다. 1차 표층 채취 시료의 측정 결과 온도는 L1 33.07℃ L2는 29.67℃, L3가 31.26℃로 나타났으며 2차 표층 채취 시료의 온도는 L1 10.36℃, L2는 9.88℃, L3가 9.67℃로 나타났다.\n\n1차 심층 채취 시료의 측정 결과 pH는 L1 7.44, L2는 8.72, L3가 7.86으로 나타났으며 2차 심층 채취 시료의 pH는 L1 7.62, L2는 8.27, L3가 7.66으로 1차 심층 채취 시료의 측정 결과와 유사한 경향이 나타났다. 1차 심층 채취 시료의 측정 결과 DO는 L1 1.71 ppm, L2는 1.60 ppm, L3가 1.72 ppm으로 나타났으며 2차 심층 채취 시료의 DO는 L1 1.89 ppm, L2는 2.12 ppm, L3가 1.92 ppm으로 관찰되어 1차 심층 채취 시료의 측정 결과와 유사한 값이 나타났다. 1차 심층 채취 시료의 측정 결과 EC는 L1 62 μS/cm, L2는 77 μS/cm, L3가 81μS/cm으로 나타났으며 2차 심층 채취 시료의 EC는 1차 심층 채취 시료보다 높은 값인 L1 122 μS/cm, L2는 107 μS/cm, L3가 125 μS/cm으로 나타났다. 1차 심층 채취 시료의 측정 결과 온도는 L1 23.06℃ L2는 22.20℃, L3가 24.51℃로 나타났으며 2차 심층 채취 시료의 온도는 L1 9.56℃, L2는 9.85℃, L3가 9.64℃로 나타났다.",
+    "blockRange": [
+      326,
+      337
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0100",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 수질 분석결과"
+    ],
+    "text": "### 2.2.2 현장 수질시료 분석 결과",
+    "blockRange": [
+      338,
+      338
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0101",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 수질 분석결과",
+      "2.2.2 현장 수질시료 분석 결과"
+    ],
+    "text": "표층 채취 시료 심층 채취 시료\n\n그림 9. 현장 수질시료 분석 결과 (N-계열)\n\n\n![image](image_043.png)\n\n\n![image](image_044.png)\n\n\n![image](image_045.png)\n\n\n![image](image_046.png)\n\n\n![image](image_047.png)\n\n\n![image](image_048.png)\n\n\n![image](image_049.png)\n\n\n![image](image_050.png)\n\n1차 표층 채취 시료의 분석결과 총 질소는 L1 0.744 mg/L, L2는 0.696 mg/L, L3가 0.734 mg/L로 나타났으며 2차 표층 채취 시료의 총 질소는 L1 0.724 mg/L, L2는 0.836 mg/L, L3가 0.913 mg/L로 나타났다. 1차 표층 채취 시료의 분석결과 용존 총 질소는 L1 0.634 mg/L, L2는 0.602 mg/L, L3가 0.672 mg/L로 나타났다. 2차 표층 채취 시료의 용존 총 질소는 L1 0.663 mg/L, L2는 0.773 mg/L, L3가 0.795 mg/L로 나타났다. 1차 표층 채취 시료의 분석결과 암모니아성 질소는 L1 0.080 mg/L, L2는 0.073 mg/L, L3가 0.077 mg/L로 나타났으며 2차 표층 채취 시료의 암모니아성 질소는 L1 0.064 mg/L, L2는 0.045 mg/L, L3가 0.086 mg/L로 나타났다. 1차 표층 채취 시료의 분석결과 질산성 질소는 L1 0.516 mg/L L2는 0.485 mg/L, L3가 0.512 mg/L로 나타났으며 2차 표층 채취 시료의 질산성 질소는 L1 0.497 mg/L, L2는 0.510 mg/L, L3가 0.590 mg/L로 나타났다.\n\n표층 채취 시료의 분석결과 총 질소는 2차시 L2, L3 지점의 채취 퇴적물의 농도가 소폭 높게 나타났으며 용존 총 질소 또한 2차시 L2, L3 지점의 채취 시료의 농도가 1차시 채취 퇴적물의 농도에 비해 높게 나타난다. 암모니아성 질소의 경우는 L2 지점에서 2차시 채취 퇴적물의 농도가 감소하였고 질산성 질소는 크게 차이나지 않는 유사한 농도가 관찰되었다.\n\n1차 심층 채취 시료의 분석결과 총 질소는 L1 1.080 mg/L, L2는 0.870 mg/L, L3가 1.166 mg/L로 나타났으며 2차 심층 채취 시료의 총 질소는 L1 1.092 mg/L, L2는 0.925 mg/L, L3가 0.960 mg/L로 나타났다. 1차 심층 채취 시료의 분석결과 용존 총 질소는 L1 1.066 mg/L, L2는 0.851 mg/L, L3가 1.087 mg/L로 나타났다. 2차 심층 채취 시료의 용존 총 질소는 L1 0.899 mg/L, L2는 0.783 mg/L, L3가 0.836 mg/L로 나타났다. 1차 심층 채취 시료의 분석결과 암모니아성 질소는 L1 0.065 mg/L, L2는 0.161 mg/L, L3가 0.170 mg/L로 나타났으며 2차 심층 채취 시료의 암모니아성 질소는 L1 0.067 mg/L, L2는 0.050 mg/L, L3가 0.062 mg/L로 나타났다. 1차 심층 채취 시료의 분석결과 질산성 질소는 L1 0.844 mg/L L2는 0.549 mg/L, L3가 0.325 mg/L로 나타났으며 2차 심층 채취 시료의 질산성 질소는 L1 0.711 mg/L, L2는 0.560 mg/L, L3가 0.608 mg/L로 나타났다.\n\n심층 채취 시료의 분석결과 총 질소는 2차시 채취 퇴적물 L3 지점의 농도가 1차시 채취 퇴적물의 농도에 비해 소폭 감소하였다. 용존 총질소의 경우에는 1차시 채취 퇴적물의 농도에 비해 2차시 채취 퇴적물 L1. L3 지점의 농도의 감소가 관찰된다. 암모니아성 질소는 2차시 채취 퇴적물 L2, L3 지점의 농도가 1차시 채취 퇴적물 농도에 비해 대폭 감소하였다. 질산성 질소는 L1 지점의 농도가 1차시 채취 퇴적물 농도에 비해 2차시 채취 퇴적물 농도가 소폭 감소하였다.\n\n표층 채취 시료 심층 채취 시료\n\n그림 10. 현장 수질시료 분석 결과 (P-계열)\n\n\n![image](image_051.png)\n\n\n![image](image_052.png)\n\n\n![image](image_053.png)\n\n\n![image](image_054.png)\n\n\n![image](image_055.png)\n\n\n![image](image_056.png)\n\n1차 표층 채취 시료의 분석결과 총 인은 L1 0.028 mg/L, L2는 0.019 mg/L, L3가 0.036 mg/L로 나타났으며 2차 표층 채취 시료의 총 인은 L1 0.021 mg/L, L2는 0.022 mg/L, L3가 0.022 mg/L로 나타났다. 1차 표층 채취 시료의 분석결과 용존 총 인은 L1 0.027 mg/L, L2는 0.018 mg/L, L3가 0.027 mg/L로 나타났다. 2차 표층 채취 시료의 용존 총 인은 L1 0.017 mg/L, L2는 0.017 mg/L, L3가 0.018 mg/L로 나타났다. 1차 표층 채취 시료의 분석결과 인산염 인은 L1 0.003 mg/L, L2는 0.004 mg/L, L3가 0.008 mg/L로 나타났으며 2차 표층 채취 시료의 인산염 인은 L1 0.010 mg/L, L2는 0.011 mg/L, L3가 0.010 mg/L로 나타났다.\n\n표층 채취 시료 분석 결과, 총 인의 경우 3개 지점의 1차시 채취 퇴적물 각 농도는 L3, L1, L2 순서로 높았으나 2차시 채취 퇴적물의 농도는 1차시 채취 퇴적물 농도에 비해 전체적으로 감소하여 3개 지점 모두 유사한 농도로 나타났다. 용존 총 인의 경우에도 마찬가지로 L1, L3 지역의 큰 편차를 제외하면 2차시 채취 퇴적물 농도와 유사한 경향이 나타난다.\n\n용존 총 인은 총 인의 결과와 같이 1차시 채취 퇴적물 각 농도는 L3, L1, L2 순서로 높았으나 2차시 채취 퇴적물의 농도는 1차시 채취 퇴적물 농도에 비해 L2 지점을 제외하고 전체적으로 감소하여 3개 지점 모두 유사한 농도로 나타났다. 인산염 인의 경우에는 1차시 채취 퇴적물 농도에 비해 2차시 퇴적물 농도의 값이 확연히 높게 나타났다.\n\n1차 심층 채취 시료의 분석결과 총 인은 L1 0.057 mg/L, L2는 0.031 mg/L, L3가 0.046 mg/L로 나타났으며 2차 심층 채취 시료의 총 인은 L1 0.022 mg/L, L2는 0.022 mg/L, L3가 0.022 mg/L로 나타났다. 1차 심층 채취 시료의 분석결과 용존 총 인은 L1 0.037 mg/L, L2는 0.027 mg/L, L3가 0.033 mg/L로 나타났다. 2차 심층 채취 시료의 용존 총 인은 L1 0.018 mg/L, L2는 0.018 mg/L, L3가 0.017 mg/L로 나타났다. 1차 심층 채취 시료의 분석결과 인산염 인은 L1 0.016 mg/L, L2는 0.006 mg/L, L3가 0.013 mg/L로 나타났으며 2차 심층 채취 시료의 인산염 인은 L1 0.010 mg/L, L2는 0.011 mg/L, L3가 0.010 mg/L로 나타났다.\n\n심층 채취 시료 분석결과 총 인의 경우 3개 지점의 1차시 채취 퇴적물의 각 농도는 L1, L3, L2 순서로 높았으나 2차시 채취 퇴적물의 농도는 1차시 채취 퇴적물의 농도에 비해 전체적으로 감소하여 3개 지점 모두 유사한 농도로 나타났다. 용존 총 인의 경우 마찬가지로 3개 지점 모두 2차시 채취 퇴적물의 농도가 1차시 채취 퇴적물의 농도에 비해 압도적으로 높게 관찰된다. 인산염 인의 경우 1차시 채취 퇴적물의 농도에 비해 L1, L3의 농도가 감소한 모습을 보여주지만 L2의 농도가 상승하였음을 관찰하였다.",
+    "blockRange": [
+      339,
+      365
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0102",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## 2.2 퇴적물 분석결과",
+    "blockRange": [
+      366,
+      366
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0103",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과"
+    ],
+    "text": "### 2.2.1 퇴적물 일반항목",
+    "blockRange": [
+      367,
+      367
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0104",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.1 퇴적물 일반항목"
+    ],
+    "text": "1차시 채취 퇴적물 2차시 채취 퇴적물\n\n그림 11. 퇴적물 일반항목 분석 결과\n\n1차 퇴적물 분석결과 완전연소가능량은 L1에서 16.40%, L2 12.31%, L3가 12.54%로 나타났고, 함수율은 L1에서 68.47%, L2 66.15%, L3가 80.39%로 분석되었다. 2차 퇴적물 분석결과 완전연소가능량은 L1에서 12.87%, L2 11.54%, L3가 7.01%로 나타났고, 함수율은 L1에서 67.58%, L2 60.92%, L3가 66.05%로 분석되었다. 모든 지점의 완전연소가능량이 1차 퇴적물 분석결과에 비해 2차 퇴적물 분석결과에서 소폭 감소하였으며, L2, L3 지점의 함수율이 1차 퇴적물 분석결과에 비해 2차 퇴적물 분석결과에서 감소한 모습이 관찰되었다.",
+    "blockRange": [
+      368,
+      370
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0105",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.1 퇴적물 일반항목"
+    ],
+    "text": "**표 2. 퇴적물 일반항목 분석결과**\n\n| 지점 | 1차 퇴적물 분석결과 |  | 2차 퇴적물 분석결과 |  |\n| --- | --- | --- | --- | --- |\n| 지점 | 완전연소가능량<br>(%) | 함수율<br>(%) | 완전연소가능량<br>(%) | 함수율<br>(%) |\n| L1 | 16.40 | 68.47 | 12.87 | 67.58 |\n| L2 | 12.31 | 66.15 | 11.54 | 60.92 |\n| L3 | 12.54 | 80.39 | 7.01 | 66.05 |",
+    "blockRange": [
+      371,
+      371
+    ],
+    "page": 38,
+    "table": {
+      "rows": 5,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0106",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.1 퇴적물 일반항목"
+    ],
+    "text": "![image](image_057.png)\n\n\n![image](image_058.png)\n\n\n![image](image_059.png)\n\n\n![image](image_060.png)\n\n1차시 채취 퇴적물 2차시 채취 퇴적물\n\n그림 12. 퇴적물 일반항목 분석 결과\n\n\n![image](image_061.png)\n\n\n![image](image_062.png)\n\n\n![image](image_063.png)\n\n\n![image](image_064.png)\n\n\n![image](image_065.png)\n\n\n![image](image_066.png)\n\n\n![image](image_067.png)\n\n\n![image](image_068.png)\n\nT-N은 1차시 채취 퇴적물 분석 결과 L1 5866 mg/kg, L2는 4877 mg/kg, L3가 5576 mg/kg으로 나타났다. 2차시 채취 퇴적물 분석 결과 T-N은 5093 mg/kg, L2는 4657 mg/kg, L3가 5216 mg/kg 으로 관찰되었다. 1차시 L1 지점 채취 퇴적물의 농도보다 약 800mg/kg 감소하였으며 나머지 L2, L3 지점은 1, 2차 모두 유사한 농도가 관찰되었다. T-P는 1차시 채취 퇴적물 분석 결과 L1 2204 mg/kg, L2는 2115 mg/kg, L3가 1280 mg/kg으로 나타났다. 2차시 채취 퇴적물 분석 결과 T-P는 1553 mg/kg, L2는 1478 mg/kg, L3가 1687 mg/kg으로 나타났다. 1차시 L1, L2 지점 채취 퇴적물의 농도보다 약 600mg/kg 감소하였으며 L3는 400mg/kg의 농도가 증가하였다. SRP는 1차시 채취 퇴적물 분석 결과 L1 15.80 mg/kg, L2는 14.32 mg/kg, L3가 15.74 mg/kg으로 나타났다. 2차시 채취 퇴적물 분석 결과 SRP는 16.62 mg/kg, L2는 11.48 mg/kg, L3가 19.52 mg/kg으로 나타나 1, 2차시 채취 퇴적물 모두 유사한 농도가 관찰된다. TOC는 1차시에서 L1지점의 경우 1.86%, L2지점 1.56%, L3지점 1.00%로 측정되었으며, 2차시의 경우 L1 지점 1.06%, L2지점 0.93%, L3지점 0.89%로 측정되었다.",
+    "blockRange": [
+      372,
+      386
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0107",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.1 퇴적물 일반항목"
+    ],
+    "text": "**표 3. 퇴적물 일반항목 분석결과**\n\n| 지점 | 1차 퇴적물 분석결과 |  |  |  | 2차 퇴적물 분석결과 |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 지점 | T-N<br>(mg/kg) | T-P<br>(mg/kg) | SRP (mg/kg) | TOC (%) | T-N<br>(mg/kg) | T-P<br>(mg/kg) | SRP (mg/kg) | TOC (%) |\n| L1 | 5866 | 2204 | 15.80 | 1.86 | 5093 | 1553 | 16.62 | 1.06 |\n| L2 | 4877 | 2115 | 14.32 | 1.56 | 4657 | 1478 | 11.48 | 0.93 |\n| L3 | 5576 | 1280 | 15.74 | 1.00 | 5216 | 1687 | 19.52 | 0.89 |",
+    "blockRange": [
+      387,
+      387
+    ],
+    "page": 40,
+    "table": {
+      "rows": 5,
+      "cols": 9
+    }
+  },
+  {
+    "id": "c0108",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과"
+    ],
+    "text": "### 2.2.2 퇴적물 용출 실험 측정 항목",
+    "blockRange": [
+      388,
+      388
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0109",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.2 퇴적물 용출 실험 측정 항목"
+    ],
+    "text": "- 가) pH",
+    "blockRange": [
+      389,
+      389
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0110",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.2 퇴적물 용출 실험 측정 항목",
+      "가) pH"
+    ],
+    "text": "1차 용출 실험 2차 용출 실험\n\n그림 13. 퇴적물 용출 실험 측정 항목 (pH)\n\n\n![image](image_069.png)\n\n\n![image](image_070.png)\n\n\n![image](image_071.png)\n\n\n![image](image_072.png)\n\n\n![image](image_073.png)\n\n\n![image](image_074.png)\n\n\n![image](image_075.png)\n\n\n![image](image_076.png)\n\n1차 퇴적물 용출 실험 시 초기 pH는 7.40, 5℃ L1 호기 조건 반응조에서는 6.40 – 7.79의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 6.47 – 8.93으로 나타났다. L2 호기 조건 반응조에서는 6.30 – 7.97의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 6.56 – 8.08로 나타났다. L3 호기 조건 반응조에서는 6.38 – 7.94의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 6.22 – 8.66으로 나타났다. 2차 퇴적물 용출 실험 시 초기 pH는 7.44, 5℃ L1 호기 조건 반응조에서는 7.06 – 8.70의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 7.44 – 8.98로 나타났다. L2 호기 조건 반응조에서는 7.04 – 8.06의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 7.31 – 8.68로 나타났다. L3 호기 조건 반응조에서는 6.88 – 8.46의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 6.95 – 8.91로 나타났다.\n\n1차 퇴적물 용출 실험 시 pH는 10℃ L1 호기 조건 반응조에서 6.48 – 8.43의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 6.43 – 8.83으로 나타났다. L2 호기 조건 반응조에서는 6.47 – 8.45의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 6.50 – 8.88로 나타났다. L3 호기 조건 반응조에서는 6.70 – 8.35의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 6.52 – 8.92로 나타났다. 2차 퇴적물 용출 실험 시 pH는 10℃ L1 호기 조건 반응조에서 6.87 – 8.43의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 6.88 – 8.93으로 나타났다. L2 호기 조건 반응조에서는 6.98 – 8.47의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 7.15 – 8.90로 나타났다. L3 호기 조건 반응조에서는 6.98 – 8.35의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 6.96 – 8.98로 나타났다.\n\n1차 퇴적물 용출 실험 시 pH는 20℃ L1 호기 조건 반응조에서 6.26 – 8.12의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 6.53 – 9.00으로 나타났다. L2 호기 조건 반응조에서는 6.27 – 8.17의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 6.67 – 8.57로 나타났다. L3 호기 조건 반응조에서는 6.32 – 8.01의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 6.74 – 8.84로 나타났다. 2차 퇴적물 용출 실험 시 pH는 20℃ L1 호기 조건 반응조에서 7.18 – 7.90의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 7.44 – 7.83으로 나타났다. L2 호기 조건 반응조에서는 7.05 – 7.86의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 7.44 – 7.81로 나타났다. L3 호기 조건 반응조에서는 7.02 – 7.79의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 7.31 – 7.84로 나타났다.\n\n1차 퇴적물 용출 실험 시 pH는 30℃ L1 호기 조건 반응조에서 6.58 – 8.28의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 6.98 – 8.55로 나타났다. L2 호기 조건 반응조에서는 6.54 – 8.08의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 6.91 – 8.55로 나타났다. L3 호기 조건 반응조에서는 6.57 – 7.91의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 6.80 – 9.03으로 나타났다. 2차 퇴적물 용출 실험 시 pH는 30℃ L1 호기 조건 반응조에서 6.93\n\n– 7.70의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 7.16 – 7.46으로 나타났다. L2 호기 조건 반응조에서는 6.72 – 7.65의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 6.96\n\n– 7.58로 나타났다. L3 호기 조건 반응조에서는 6.84 – 7.63의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 7.13 – 7.84로 나타났다.",
+    "blockRange": [
+      390,
+      405
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0111",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.2 퇴적물 용출 실험 측정 항목"
+    ],
+    "text": "- 나) EC",
+    "blockRange": [
+      406,
+      406
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0112",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.2 퇴적물 용출 실험 측정 항목",
+      "나) EC"
+    ],
+    "text": "1차 용출 실험 2차 용출 실험\n\n그림 14. 퇴적물 용출 실험 측정 항목 (EC)\n\n\n![image](image_077.png)\n\n\n![image](image_078.png)\n\n\n![image](image_079.png)\n\n\n![image](image_080.png)\n\n\n![image](image_081.png)\n\n\n![image](image_082.png)\n\n\n![image](image_083.png)\n\n\n![image](image_084.png)\n\n1차 퇴적물 용출 실험 시 초기 EC는 62μS/cm, 5℃ L1 호기 조건 반응조에서는 62 – 94μS/cm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 62 – 99μS/cm으로 나타났다. L2 호기 조건 반응조에서는 62 – 67μS/cm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 62 – 78μS/cm으로 나타났다. L3 호기 조건 반응조에서는 62 – 98μS/cm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 62 – 118μS/cm으로 나타났다. 2차 퇴적물 용출 실험 시 초기 EC는 64μS/cm, 5℃ L1 호기 조건 반응조에서는 64 – 123μS/cm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 64 – 174μS/cm로 나타났다. L2 호기 조건 반응조에서는 64 – 111μS/cm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 64 – 114μS/cm으로 나타났다. L3 호기 조건 반응조에서는 64 – 163μS/cm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 64 – 140μS/cm으로 나타났다.\n\n1차 퇴적물 용출 실험 시 EC는 10℃ L1 호기 조건 반응조에서 62 – 87μS/cm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 62 – 100μS/cm으로 나타났다. L2 호기 조건 반응조에서는 62 – 67μS/cm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 62 – 81μS/cm으로 나타났다. L3 호기 조건 반응조에서는 62 – 96μS/cm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 62 – 102μS/cm으로 나타났다. 2차 퇴적물 용출 실험 시 EC는 10℃ L1 호기 조건 반응조에서 64 – 146μS/cm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 64\n\n– 146μS/cm로 나타났다. L2 호기 조건 반응조에서는 64 – 126μS/cm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 64 – 122μS/cm으로 나타났다. L3 호기 조건 반응조에서는 64\n\n– 163μS/cm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 64 – 131μS/cm으로 나타났다.\n\n1차 퇴적물 용출 실험 시 EC는 20℃ L1 호기 조건 반응조에서 62 – 148μS/cm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 62 – 126μS/cm으로 나타났다. L2 호기 조건 반응조에서는 62 – 84μS/cm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 62 – 118μS/cm으로 나타났다. L3 호기 조건 반응조에서는 62 – 133μS/cm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 62 – 164μS/cm으로 나타났다. 2차 퇴적물 용출 실험 시 EC는 2 0℃ L1 호기 조건 반응조에서 64 – 165μS/cm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 64 – 218μS/cm로 나타났다. L2 호기 조건 반응조에서는 64 – 115μS/cm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 64 – 139μS/cm으로 나타났다. L3 호기 조건 반응조에서는 64 – 230μS/cm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 64 – 244μS/cm으로 나타났다.\n\n1차 퇴적물 용출 실험 시 EC는 30℃ L1 호기 조건 반응조에서 62 – 147μS/cm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 62 – 154μS/cm으로 나타났다. L2 호기 조건 반응조에서는 62 – 138μS/cm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 62 – 134μS/cm으로 나타났다. L3 호기 조건 반응조에서는 62 – 150μS/cm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 62 – 187μS/cm으로 나타났다. 2차 퇴적물 용출 실험 시 EC는 3 0℃ L1 호기 조건 반응조에서 64 – 158μS/cm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 64 – 229μS/cm 범위로 나타났다. L2 호기 조건 반응조에서는 64 – 211μS/cm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 64 – 212μS/cm 범위로 나타났다. L3 호기성 조건 반응조에서는 64 – 212μS/cm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 64\n\n– 292μS/cm범위로 측정되었다.\n\n1차 퇴적물 용출 실험 시 5, 10℃의 혐기성 조건 반응조에서는 모든 지점의 퇴적물에서 모두 EC의 증가가 관찰 되었지만, 호기성 조건의 반응조에서는 시간에 따른 EC의 증가가 관찰되지 않았다. 20℃ 조건부터 호기성 반응조의 EC 증가가 관찰되었으며 30℃의 조건에서는 모든 반응조에서 EC의 증가가 관찰되었으며 유사한 기울기가 나타났다.\n\n2차 퇴적물 용출 실험 시 5, 10℃의 호기, 혐기성 조건 반응조에서는 모든 지점의 퇴적물에서 모두 EC의 소폭 증가가 관찰 되었다. 20℃에서는 L3 지점 호기성 조건, L1, L2 지점 혐기성 조건을 제외한 나머지 지점은 EC의 값이 크게 증가하지 않았다.",
+    "blockRange": [
+      407,
+      425
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0113",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.2 퇴적물 용출 실험 측정 항목"
+    ],
+    "text": "- 다) DO",
+    "blockRange": [
+      426,
+      426
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0114",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.2 퇴적물 용출 실험 측정 항목",
+      "다) DO"
+    ],
+    "text": "1차 용출 실험 2차 용출 실험\n\n그림 15. 퇴적물 용출 실험 측정 항목 (DO)\n\n\n![image](image_085.png)\n\n\n![image](image_086.png)\n\n\n![image](image_087.png)\n\n\n![image](image_088.png)\n\n\n![image](image_089.png)\n\n\n![image](image_090.png)\n\n\n![image](image_091.png)\n\n\n![image](image_092.png)\n\n1차 퇴적물 용출 실험 시 초기 DO는 7.75 ppm, 5℃ L1 호기 조건 반응조에서는 7.75 – 15.32ppm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 2.25 – 9.26ppm으로 나타났다. L2 호기 조건 반응조에서는 7.75 – 14.84ppm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 2.22 – 9.38ppm으로 나타났다. L3 호기 조건 반응조에서는 7.75 – 15.01ppm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 1.97 – 12.71ppm으로 나타났다. 2차 퇴적물 용출 실험 시 초기 DO는 7.70ppm, 5℃ L1 호기 조건 반응조에서는 2.90 – 8.78ppm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 0.20 – 7.70ppm로 나타났다. L2 호기 조건 반응조에서는 3.39 – 7.95ppm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 0.50 – 7.70ppm으로 나타났다. L3 호기 조건 반응조에서는 3.86 – 9.65ppm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 0.96 – 7.70ppm으로 나타났다.\n\n1차 퇴적물 용출 실험 시 DO는 10℃ L1 호기 조건 반응조에서 7.75 – 14.69ppm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 1.93 – 8.38ppm으로 나타났다. L2 호기 조건 반응조에서는 7.75 – 14.19ppm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 1.89 – 8.17ppm으로 나타났다. L3 호기 조건 반응조에서는 7.75 – 14.53ppm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 1.85 – 10.89ppm으로 나타났다. 2차 퇴적물 용출 실험 시 DO는 10℃ L1 호기 조건 반응조에서 4.99 – 7.86ppm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 0.00 – 7.70ppm로 나타났다. L2 호기 조건 반응조에서는 6.09 – 8.03ppm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 0.00 – 8.32ppm으로 나타났다. L3 호기 조건 반응조에서는 7.26 – 8.74ppm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 0.00 – 7.99ppm으로 나타났다.\n\n1차 퇴적물 용출 실험 시 DO는 20℃ L1 호기 조건 반응조에서 7.75 – 9.85ppm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 1.57 – 7.75ppm으로 나타났다. L2 호기 조건 반응조에서는 7.75 – 10.15ppm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 1.51 – 7.75ppm으로 나타났다. L3 호기 조건 반응조에서는 7.75 – 10.12ppm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 1.63 – 7.75ppm으로 나타났다. 2차 퇴적물 용출 실험 시 DO는 20℃ L1 호기 조건 반응조에서 4.75 – 7.70ppm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 0.00 – 7.70ppm로 나타났다. L2 호기 조건 반응조에서는 4.45 – 7.70ppm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 0.00 – 8.43ppm으로 나타났다. L3 호기 조건 반응조에서는 4.45 – 7.70ppm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 0.00 – 7.84ppm으로 나타났다.\n\n1차 퇴적물 용출 실험 시 DO는 30℃ L1 호기 조건 반응조에서 2.21 – 7.75ppm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 1.18 – 7.75ppm으로 나타났다. L2 호기 조건 반응조에서는 2.20 – 7.75ppm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 1.23 – 7.75ppm으로 나타났다. L3 호기 조건 반응조에서는 2.21 – 7.75ppm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 1.13 – 7.75ppm으로 나타났다. 2차 퇴적물 용출 실험 시 DO는 30℃ L1 호기 조건 반응조에서 3.35 – 7.75ppm의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 0.00 – 7.70ppm로 나타났다. L2 호기 조건 반응조에서는 3.25 – 7.70ppm의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 0.00 – 7.70ppm으로 나타났다. L3 호기 조건 반응조에서는 3.28 – 7.75ppm의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 0.00 – 7.70ppm으로 나타났다.",
+    "blockRange": [
+      427,
+      440
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0115",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.2 퇴적물 용출 실험 측정 항목"
+    ],
+    "text": "- 라) 온도",
+    "blockRange": [
+      441,
+      441
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0116",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.2 퇴적물 용출 실험 측정 항목",
+      "라) 온도"
+    ],
+    "text": "1차 용출 실험 2차 용출 실험\n\n그림 16. 퇴적물 용출 실험 측정 항목 (온도)\n\n\n![image](image_093.png)\n\n\n![image](image_094.png)\n\n\n![image](image_095.png)\n\n\n![image](image_096.png)\n\n\n![image](image_097.png)\n\n\n![image](image_098.png)\n\n\n![image](image_099.png)\n\n\n![image](image_100.png)\n\n1차 퇴적물 용출 실험 시 초기 온도는 17.35℃, 5℃ L1 호기 조건 반응조에서는 5.56 – 17.3 5℃의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 5.48 – 17.35℃로 나타났다. L2 호기 조건 반응조에서는 5.45 – 17.35℃의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 5.63 – 17.35℃로 나타났다. L3 호기 조건 반응조에서는 5.27 – 17.35℃의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 5.35 – 17.35℃로 나타났다. 2차 퇴적물 용출 실험 시 초기 온도는 8.87℃, 5℃ L1 호기 조건 반응조에서는 5.23 – 8.87℃의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 5.00 – 8.87℃로 나타났다. L2 호기 조건 반응조에서는 5.18 – 8.87℃의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 5.22 – 8.87℃로 나타났다. L3 호기 조건 반응조에서는 5.18 – 8.87℃의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 5.18 – 8.87℃로 나타났다.\n\n1차 퇴적물 용출 실험 시 온도는 10℃ L1 호기 조건 반응조에서 7.46 – 17.35℃의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 8.10 – 17.35℃로 나타났다. L2 호기 조건 반응조에서는 7.71 – 17.35℃의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 7.95 – 17.35℃로 나타났다. L3 호기 조건 반응조에서는 7.77 – 17.35℃의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 8.25 – 17.35℃로 나타났다. 2차 퇴적물 용출 실험 시 온도는 10℃ L1 호기 조건 반응조에서 8.87 – 12.92℃의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 8.87 – 13.4 3℃로 나타났다. L2 호기 조건 반응조에서는 8.87 – 12.52℃의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 8.87 – 12.74℃로 나타났다. L3 호기 조건 반응조에서는 8.87 – 12.75℃의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 8.87 – 12.58℃로 나타났다.\n\n1차 퇴적물 용출 실험 시 온도는 20℃ L1 호기 조건 반응조에서 17.35 – 21.84℃의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 17.35 – 21.95℃로 나타났다. L2 호기 조건 반응조에서는 17.35 – 21.85℃의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 17.35 – 21.9 0℃로 나타났다. L3 호기 조건 반응조에서는 17.35 – 21.95℃의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 17.35 – 21.91℃로 나타났다. 2차 퇴적물 용출 실험 시 온도는 20℃ L1 호기 조건 반응조에서 8.87 – 21.90℃의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 8.87 – 21.32℃로 나타났다. L2 호기 조건 반응조에서는 8.87 – 21.81℃의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 8.87 – 21.72℃로 나타났다. L3 호기 조건 반응조에서는 8.87 – 21.79℃의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 8.87 – 21.45℃로 나타났다.\n\n1차 퇴적물 용출 실험 시 온도는 30℃ L1 호기 조건 반응조에서 17.35 – 30.89℃의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 17.35 – 31.00℃로 나타났다. L2 호기 조건 반응조에서는 17.35 – 31.33℃의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 17.35 – 31.2 5℃로 나타났다. L3 호기 조건 반응조에서는 17.35 – 31.25℃의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 17.35 – 31.19℃로 나타났다. 2차 퇴적물 용출 실험 시 온도는 30℃ L1 호기 조건 반응조에서 8.87 – 28.85℃의 범위로 측정되었으며 L1 혐기성 조건 반응조에서는 8.87 – 28.97℃로 나타났다. L2 호기 조건 반응조에서는 8.87 – 28.971℃의 범위로 측정되었으며 L2 혐기성 조건 반응조에서는 8.87 – 28.90℃로 나타났다. L3 호기 조건 반응조에서는 8.87\n\n– 28.75℃의 범위로 측정되었으며 L3 혐기성 조건 반응조에서는 8.87 – 28.82℃로 나타났다.",
+    "blockRange": [
+      442,
+      456
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0117",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과"
+    ],
+    "text": "### 2.2.3 퇴적물 용출 실험 분석 항목",
+    "blockRange": [
+      457,
+      457
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0118",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목"
+    ],
+    "text": "- 가) 용존 총질소",
+    "blockRange": [
+      458,
+      458
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0119",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목",
+      "가) 용존 총질소"
+    ],
+    "text": "1차 용출 실험 2차 용출 실험\n\n그림 17. 퇴적물 용출 실험 분석 항목 (용존 총질소)\n\n\n![image](image_101.png)\n\n\n![image](image_102.png)\n\n\n![image](image_103.png)\n\n\n![image](image_104.png)\n\n\n![image](image_105.png)\n\n\n![image](image_106.png)\n\n\n![image](image_107.png)\n\n\n![image](image_108.png)\n\n1차 퇴적물 용출 실험 분석 결과 용출 전 표층수의 용존 총질소 농도는 0.356 mg/L, 5℃ 호기성 조건에서의 농도는 0.385 mg/L \\~ 1.199 mg/L 5℃ 혐기성 조건에서 0.409 mg/L \\~ 1.570 mg/L 의 범위로 나타났다. 10℃ 호기성 조건에서는 0.302 mg/L \\~ 1.355 mg/L 10℃ 혐기성 조건에서는 0.371 mg/L \\~ 1.516 mg/L 의 범위의 농도가 측정되었다. 20℃ 호기성 조건에서는 0.394 mg/L \\~ 1.595 mg/L 20℃ 혐기성 조건에서는 0.352 mg/L \\~ 2.520 mg/L 의 범위로 나타났다. 30℃ 호기성 조건에서는 0.323 mg/L \\~ 2.791 mg/L 30℃ 혐기성 조건에서는 0.362 mg/L \\~ 3.418 mg/L 의 범위로 나타났다.\n\n1차 퇴적물 용출 실험 1일 차 모든 온도 조건에서 용존 총질소의 농도가 급상승 후 감소한 것은 실험 준비 시, 균일하게 혼합된 퇴적물 표층 용출의 영향으로 판단된다. 용존 총질소의 경우, 반응조 내 퇴적물이 안정화 된 용출 실험 2일 차부터 호기 조건 L1, L2, 혐기성 조건 모든 지점에서 온도와 호기, 혐기성 조건에 따른 차이 없이 모두 농도가 증가하는 경향이 나타났다.\n\n2차 퇴적물 용출 실험 분석 결과 용출 전 표층수의 용존 총질소 농도는 0.623 mg/L, 5℃ 호기성 조건에서의 농도는 0.486 mg/L \\~ 1.604 mg/L 5℃ 혐기성 조건에서 0.473 mg/L \\~ 1.914 mg/L 의 범위로 나타났다. 10℃ 호기성 조건에서는 0.458 mg/L \\~ 1.419 mg/L 10℃ 혐기성 조건에서는 0.505 mg/L \\~ 2.533 mg/L 의 범위의 농도가 측정되었다. 20℃ 호기성 조건에서는 0.449 mg/L \\~ 1.321 mg/L 20℃ 혐기성 조건에서는 0.505 mg/L \\~ 3.497 mg/L 의 범위로 나타났다. 30℃ 호기성 조건에서는 0.515 mg/L \\~ 1.216 mg/L 30℃ 혐기성 조건에서는 0.592 mg/L \\~ 3.723 mg/L 의 범위로 나타났다.\n\n2차 퇴적물 용출 실험 1일 차 모든 온도 조건에서 용존 총질소의 농도가 급상승 후 감소한 것은 실험 준비 시, 균일하게 혼합된 퇴적물 표층 용출의 영향으로 판단된다. 온도에 따라 반응 5일 이후 용출 정도의 차이가 관찰되었다. 용존 총질소의 경우, 반응조 내 퇴적물이 안정화 된 용출 실험 5일 차부터 혐기성 조건에서 높은 온도의 조건일수록 용존 총질소의 농도가 증가하는 경향이 나타나는 것으로 판단된다.\n\n1차 퇴적물 용출 실험은 호기조건 L3 지점의 경우를 제외하고, 호기, 혐기성 조건 모두 높은 온도일수록 용존 총질소가 용출되는 모습이 관찰되었지만, 2차 퇴적물 용출 실험에서는 호기 조건의 반응조에서는 용존 총질소의 용출이 거의 나타나지 않았고 혐기성 조건에서만 온도 조건에 따른 농도의 차이를 보이며 용존 총질소의 용출이 관찰되었다.",
+    "blockRange": [
+      459,
+      473
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0120",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목"
+    ],
+    "text": "- 나) 암모니아성 질소",
+    "blockRange": [
+      474,
+      474
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0121",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목",
+      "나) 암모니아성 질소"
+    ],
+    "text": "1차 용출 실험 2차 용출 실험\n\n그림 18. 퇴적물 용출 실험 분석 항목 (암모니아성 질소)\n\n\n![image](image_109.png)\n\n\n![image](image_110.png)\n\n\n![image](image_111.png)\n\n\n![image](image_112.png)\n\n\n![image](image_113.png)\n\n\n![image](image_114.png)\n\n\n![image](image_115.png)\n\n\n![image](image_116.png)\n\n1차 퇴적물 용출 실험 분석 결과 용출 전 표층수의 암모니아성 질소 농도는 0.124 mg/L, 5℃ 호기성 조건에서의 농도는 0.047 mg/L \\~ 0.354 mg/L 5℃ 혐기성 조건에서 0.130 mg/L \\~ 1.324 mg/L 의 범위로 나타났다. 10℃ 호기성 조건에서는 0.125 mg/L \\~ 0.670 mg/L 10℃ 혐기성 조건에서는 0.154 mg/L \\~ 1.346 mg/L 의 범위의 농도가 측정되었다. 20℃ 호기성 조건에서는 0.043 mg/L \\~ 0.337 mg/L 20℃ 혐기성 조건에서는 0.143 mg/L \\~ 2.708 mg/L 의 범위로 나타났다. 30℃ 호기성 조건에서는 0.039 mg/L \\~ 0.396 mg/L 30℃ 혐기성 조건에서는 0.209 mg/L \\~ 4.132 mg/L 의 범위로 나타났다.39 mg/L \\~ 0.396 mg/L 30℃ 혐기성 조건에서는 0.209 mg/L \\~ 0.698 mg/L 의 범위로 나타났다.\n\n1차 용출 실험 1일 차 모든 온도 조건에서 암모니아성 질소의 농도가 급상승 후 감소한 것은 실험 준비 시, 균일하게 혼합된 퇴적물 표층 용출의 영향으로 판단된다. 반응조 내 퇴적물이 안정화 된 용출 실험 2일차부터 모든 온도조건의 혐기성 조건에서 암모니아성 질소의 농도가 용출 실험 전 표층수의 농도에 비해 증가된 값이 측정되며, 호기성 조건의 경우 표층수의 농도와 같거나 소폭 감소하는 경향이 나타나는 것으로 판단된다.\n\n2차 퇴적물 용출 실험 분석 결과 용출 전 표층수의 암모니아성 질소 농도는 0.062 mg/L, 5℃ 호기성 조건에서의 농도는 0.009 mg/L \\~ 0.500 mg/L 5℃ 혐기성 조건에서 0.005 mg/L \\~ 1.497 mg/L 의 범위로 나타났다. 10℃ 호기성 조건에서는 0.006 mg/L \\~ 1.027 mg/L 10℃ 혐기성 조건에서는 0.029 mg/L \\~ 1.934 mg/L 의 범위의 농도가 측정되었다. 20℃ 호기성 조건에서는 0.014 mg/L \\~ 0.750 mg/L 20℃ 혐기성 조건에서는 0.006 mg/L \\~ 4.989 mg/L 의 범위로 나타났다. 30℃ 호기성 조건에서는 0.000 mg/L \\~ 0.362 mg/L 30℃ 혐기성 조건에서는 0.066 mg/L \\~ 5.339 mg/L 의 범위로 나타났다.\n\n2차 용출 실험 결과 L1 지점 혐기성 조건 암모니아성 질소의 농도는 5℃부터 30℃의 온도 조건에서 꾸준히 증가하는 경향이 관찰되었다. 20℃의 혐기성 조건과 30℃의 혐기성 조건의 모든 반응조에서 암모니아성 질소의 용출의 진행을 확인할 수 있다. 암모니아성 질소의 경우, 반응조 내 퇴적물이 안정화 된 용출 실험 5일 차부터 모든 온도조건의 혐기성 조건에서 농도가 용출 전 표층수의 농도에 비해 증가된 농도 값이 측정되며, 호기성 조건의 경우 유사하거나 다소 감소하는 경향이 나타나는 것으로 판단되며 온도 및 산소 공급 조건에 따른 용출률의 차이가 확인되었다.\n\n1차 퇴적물 용출 실험과 마찬가지로 2차 퇴적물 용출 실험 결과 5℃부터 30℃의 혐기성 조건에서 L1 지점의 암모니아성 질소의 용출 농도가 계속 증가하는 유사한 경향이 관찰되었다. 1차 퇴적물 용출 실험과 2차 퇴적물 용출 실험의 모든 온도조건에서 호기 조건의 반응조에서는 암모니아성 질소의 용출이 크게 관찰되지 않았다.",
+    "blockRange": [
+      475,
+      489
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0122",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목"
+    ],
+    "text": "- 다) 용존 총인",
+    "blockRange": [
+      490,
+      490
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0123",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목",
+      "다) 용존 총인"
+    ],
+    "text": "1차 용출 실험 2차 용출 실험\n\n그림 19. 퇴적물 용출 실험 분석 항목 (용존 총인)\n\n\n![image](image_117.png)\n\n\n![image](image_118.png)\n\n\n![image](image_119.png)\n\n\n![image](image_120.png)\n\n\n![image](image_121.png)\n\n\n![image](image_122.png)\n\n\n![image](image_123.png)\n\n\n![image](image_124.png)\n\n1차 퇴적물 용출 실험 분석 결과 용출 전 표층수의 용존 총인 농도는 0.030 mg/L, 5℃ 호기성 조건에서 의 농도는 0.008 mg/L \\~ 0.030 mg/L 5℃ 혐기성 조건에서 0.017 mg/L \\~ 0.323 mg/L 의 범위로 나타났다. 10℃ 호기성 조건에서는 0.006 mg/L \\~ 0.120 mg/L 10℃ 혐기성 조건에서는 0.012 mg/L \\~ 0.280 mg/L 의 범위의 농도가 측정되었다. 20℃ 호기성 조건에서는 0.007 mg/L \\~ 0.045 mg/L 20℃ 혐기성 조건에서는 0.017 mg/L \\~ 1.333 mg/L 의 범위로 나타났다. 30℃ 호기성 조건에서는 0.007 mg/L \\~ 0.070 mg/L 30℃ 혐기성 조건에서는 0.012 mg/L \\~ 1.557 mg/L 의 범위로 나타났다.\n\n1차 용출 실험 시작 5일 이후 20℃와 30℃의 혐기성 조건의 반응조에서 용존 총인의 농도가 증가하는 경향을 보이며, 실험 시작 15일 이후 5, 10℃ 조건에서 용존 총인의 용출은 혐기성 조건 반응조에서 낮은 농도로 시작되었다. 호기성 조건의 경우 농도 증감의 폭이 거의 나타나지 않았다.\n\n2차 퇴적물 용출 실험 분석 결과 용출 전 표층수의 용존 총인 농도는 0.010 mg/L, 5℃ 호기성 조건에서 의 농도는 0.008 mg/L \\~ 0.018 mg/L 5℃ 혐기성 조건에서 0.009 mg/L \\~ 0.019 mg/L 의 범위로 나타났다. 10℃ 호기성 조건에서는 0.009 mg/L \\~ 0.019 mg/L 10℃ 혐기성 조건에서는 0.010 mg/L \\~ 0.019 mg/L 의 범위의 농도가 측정되었다. 20℃ 호기성 조건에서는 0.009 mg/L \\~ 0.020 mg/L 20℃ 혐기성 조건에서는 0.013 mg/L \\~ 0.024 mg/L 의 범위로 나타났다. 30℃ 호기성 조건에서는 0.014 mg/L \\~ 0.028 mg/L 30℃ 혐기성 조건에서는 0.013 mg/L \\~ 0.520 mg/L 의 범위로 나타났다.\n\n2차 용출 실험 시작 10일차부터 20℃, 30℃의 혐기성 조건 반응조의 용존 총인 농도가 증가하는 경향을 보이며, 호기성 조건의 경우 농도 증감의 폭이 거의 나타나지 않았다.\n\n1차 퇴적물 용출 실험은 실험 시작 5일차 20℃, 30℃조건에서 혐기성 조건의 용존 총인 용출이 관찰되었지만 2차 퇴적물 용출 실험 결과 30℃ 혐기성 조건 반응조에서만 1차 퇴적물 용출 실험 결과보다 낮은 농도의 용존 총인 용출이 나타났다. 1, 2차 퇴적물 용출 실험 모두 호기성 조건 반응조에서 용존 총인의 용출은 관찰하지 못했다.",
+    "blockRange": [
+      491,
+      505
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0124",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목"
+    ],
+    "text": "- 라) 인산염인",
+    "blockRange": [
+      506,
+      506
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0125",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목",
+      "라) 인산염인"
+    ],
+    "text": "1차 용출 실험 2차 용출 실험\n\n그림 20. 퇴적물 용출 실험 분석 항목 (인산염인)\n\n\n![image](image_125.png)\n\n\n![image](image_126.png)\n\n\n![image](image_127.png)\n\n\n![image](image_128.png)\n\n\n![image](image_129.png)\n\n\n![image](image_130.png)\n\n\n![image](image_131.png)\n\n\n![image](image_132.png)\n\n1차 퇴적물 용출 실험 분석결과 용출 전 표층수의 인산염인 농도는 0.015 mg/L, 5℃ 호기성 조건에서 의 농도는 0.002 mg/L \\~ 0.010 mg/L 5℃ 혐기성 조건에서 0.002 mg/L \\~ 0.221 mg/L 의 범위로 나타났다. 10℃ 호기성 조건에서는 0.001 mg/L \\~ 0.010 mg/L 10℃ 혐기성 조건에서는 0.001 mg/L \\~ 0.188 mg/L 의 범위의 농도가 측정되었다. 20℃ 호기성 조건에서는 0.001 mg/L \\~ 0.113 mg/L 20℃ 혐기성 조건에서는 0.004 mg/L \\~ 0.975 mg/L 의 범위로 나타났다. 30℃ 호기성 조건에서는 0.001 mg/L \\~ 0.039 mg/L 30℃ 혐기성 조건에서는 0.007 mg/L \\~ 1.096 mg/L 의 범위로 나타났다.\n\n2차 퇴적물 용출 실험 분석결과 용출 전 표층수의 인산염인 농도는 0.010 mg/L, 5℃ 호기성 조건에서 의 농도는 0.005 mg/L \\~ 0.013 mg/L 5℃ 혐기성 조건에서 0.005 mg/L \\~ 0.014 mg/L 의 범위로 나타났다. 10℃ 호기성 조건에서는 0.004 mg/L \\~ 0.014 mg/L 10℃ 혐기성 조건에서는 0.005 mg/L \\~ 0.014 mg/L 의 범위의 농도가 측정되었다. 20℃ 호기성 조건에서는 0.004 mg/L \\~ 0.013 mg/L 20℃ 혐기성 조건에서는 0.007 mg/L \\~ 0.015 mg/L 의 범위로 나타났다. 30℃ 호기성 조건에서는 0.009 mg/L \\~ 0.020 mg/L 30℃ 혐기성 조건에서는 0.007 mg/L \\~ 0.217 mg/L 의 범위로 나타났다.\n\n1차 용출 실험 결과, 인산염 인의 경우 20℃, 30℃의 혐기성 조건의 농도가 증가하는 경향을 보이며, 호기 조건의 경우 농도 증감의 폭이 거의 나타나지 않았다.\n\n2차 용출 실험 1일 차 모든 온도 조건에서 앞의 용존 총질소, 암모니아성 질소의 농도는 급상승 후 감소하는 경향을 보였지만 용존 총 인의 경우와 마찬가지로 인산염 인의 농도 또한 상승하지 않은 것으로 판단된다. 인산염 인의 경우 30℃의 혐기성 조건의 농도가 증가하는 경향을 보이며, 호기성 조건의 경우 농도 증감의 폭이 거의 나타나지 않았다.\n\n1차 퇴적물 용출 실험은 5℃부터 혐기성 조건의 인산염인 용출이 관찰되었지만 2차 퇴적물 용출 실험 결과 30℃ 혐기성 조건 반응조에서만 1차 퇴적물 용출 실험 결과보다 낮은 농도의 인산염인 용출이 나타났다.",
+    "blockRange": [
+      507,
+      521
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0126",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목"
+    ],
+    "text": "- 마) 퇴적 심도 및 상등액 금속이온 농도영향\n\n(1) 심도별 용출특성",
+    "blockRange": [
+      522,
+      523
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0127",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목",
+      "(1) 심도별 용출특성"
+    ],
+    "text": "퇴적물의 용출은 이론적으로 확산에 크게 의존하므로, 확산경계층의 두께는 용출속도에 큰\n\n영향을 미친다. 본 연구의 용출실험은 외부인자가 제한된 상태이며 동일한 반응기를 구성하여\n\n용출평가를 수행하였으므로, 모든 실험의 확산경계층이 동일하다고 가정하였다. 30일간 수행\n\n된 실험에서 유의미한 퇴적물 표층 변화는 육안으로 관찰되지 않았으나, 앞서 기술된 용출농\n\n도 분석을 통하여 다량의 영양염류가 용출되었음을 알 수 있었다. 영양염류 용출량이 가장 높\n\n게 평가된 L1지점 시료의 30℃, 혐기조건에서 용출실험한 퇴적물을 아래와 같이 심도별 총질\n\n소, 총인 농도를 분석하였다. 총질소는 모든 실험군에서 심도가 깊어질수록 퇴적물의 총질소\n\n농도가 높게 측정되었다. 3cm 이내 표층의 총질소 농도가 상대적으로 매우 낮게 측정되어 용\n\n출반응은 표층에서 주로 일어나는 것을 알 수 있다. 중간 심도인 3\\~6cm 지점의 농도도 저층\n\n부에 비하여 다소 감소되었는데 이는 공극수에 의한 확산 및 용출결과로 판단된다. 다만 총인\n\n의 경우에는 심도에 따른 유의미한 용출특성이 확인되지 않는다.\n\n그림 21. 심도에 따른 총질소 농도: 좌) 1차실험, 우) 2차실험\n\n그림 22. 심도에 따른 총인 농도: 좌) 1차실험, 우) 2차실험\n\n\n![image](image_133.png)\n\n\n![image](image_134.png)\n\n\n![image](image_135.png)\n\n\n![image](image_136.png)",
+    "blockRange": [
+      524,
+      540
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0128",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목"
+    ],
+    "text": "(2) 상등액 금속이온 농도",
+    "blockRange": [
+      541,
+      541
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0129",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.3 퇴적물 용출 실험 분석 항목",
+      "(2) 상등액 금속이온 농도"
+    ],
+    "text": "실험조건 1차 용출 실험 2차 용출 실험\n\n10℃ 호기\n\n무산소\n\n30℃ 호기\n\n무산소\n\n그림 23. 금속이온 농도 모니터링 결과: 알루미늄, 철\n\n실험조건 1차 용출 실험 2차 용출 실험\n\n10℃ 호기\n\n무산소\n\n30℃ 호기\n\n무산소\n\n그림 24. 금속이온 농도 모니터링 결과: 망간, 아연\n\n\n![image](image_137.png)\n\n\n![image](image_138.png)\n\n\n![image](image_139.png)\n\n\n![image](image_140.png)\n\n\n![image](image_141.png)\n\n\n![image](image_142.png)\n\n\n![image](image_143.png)\n\n\n![image](image_144.png)\n\n\n![image](image_145.png)\n\n\n![image](image_146.png)\n\n\n![image](image_147.png)\n\n\n![image](image_148.png)\n\n\n![image](image_149.png)\n\n\n![image](image_150.png)\n\n\n![image](image_151.png)\n\n\n![image](image_152.png)\n\n인산염인은 알루미늄 또는 철 이온과 반응하여 침전물을 생성하거나, 또는 퇴적물로 흡수될 수 있다. 이에 인산염인의 거동을 추적하는데에 금속이온의 추적은 매우 중요하다. 앞서 수행된 용출실험에서 인산염인의 용출농도가 명확하게 다른 실험군의 상등액을 취하여 알루미늄, 철, 망간, 아연의 농도를 모니터링하였다. 모니터링된 실험군은 L1지점의 10℃, 30℃ 조건이 며, 각각 호기, 혐기실험의 결과이다. 인산염인의 거동에 큰 영향을 주는 알루미늄과 철의 경우 대부분의 경우 초기농도보다 빠르게 감소되었다. 이는 초기 확산용출되는 인산염인과 반응하여 농도가 감소되는 경우일 수 있으며, 용액의 pH가 8-9 범위의 알칼리성인 것도 큰 영향을 미칠 수 있다. 다만 일부 실험군에서 철의 농도가 높아지는 경우가 있는데 이때 유의미한 인산염인의 농도 변화가 관찰되지 않는 점은 인산염인이 퇴적물에서 철염의 상태로 존재하지 않는 것으로 볼 수 있다. 이외 망간과 아연의 경우 대부분의 경우 초기에 농도가 증가되다가 30일에는 농도가 안정화되는 것으로 보인다. 다만 일부 실험군에서 망간의 농도가 지속적으로 증가하거나 아연의 농도가 급격하게 증가한 뒤 감소되는 결과를 보여주는데, 이와 관련된 실험인자와의 상관성은 확인되지 않는다.",
+    "blockRange": [
+      542,
+      570
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0130",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과"
+    ],
+    "text": "### 2.2.4 퇴적물 용출 실험 결과분석",
+    "blockRange": [
+      571,
+      571
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0131",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "상기 측정된 영양염류 용출 결과를 바탕으로 각 실험조건별 용출속도를 구하였다. 본 연구에서는 객관적인 자료분석을 위하여 이상치(outlier)를 임의적으로 제외하지 않았으며, 용출실험 결과를 토대로 용출속도 평가구간을 설정하였다. 분석항목별 차이는 있으나, 구성된 용출실험 조건에서 많은 경우에 아래 그림의 예와 같이 기간별로 구분되는 영양염류 용출특성을 보여주었다. 본 연구는 상등액 주입시 퇴적물의 부유를 최소화하기 위하여 매우 적은 유량을 장시간 주입하며 교란을 최소화하였음에도 일부 항목, 조건에서는 초기 농도가 높게 측정되는 경우가 관찰되었다. 또한 30일까지 진행된 용출시험은 20일 이후로 용출량이 크게 변하지 않는 경우 또한 다수의 경우에서 관찰되었다. 영양염류의 용출은 상등액의 농도에 크게 영향을 받으므로, 20일 이후에는 퇴적물 경계면과 상등액 간의 농도구배가 크지 않은 것으로 판단된다. 이에 본 연구는 측정된 용출특성을 평가함에 있어, 상등액 주입초기의 안정화기, 상등액 중 영양염류가 선형증가하는 용출단계, 그리고 영양염류의 농도가 증가하지 않거나, 속도가 크게 감소하는 안정단계로 구분하였으며, 해석의 오류를 예방하고자 용출속도 및 용출량 평가에 상등액 주입 후 1일째까지의 측정결과와 20일 이후의 결과는 분석에서 제외하였다.\n\n그림 25. 구성된 실험의 영양염류 용출특성(예)\n\n퇴적물과 공극수 내 영양염류의 용출량(flux, Js)은 Fick’s law에 따라 퇴적물과 상등수의 경계에서 농도구배에 의한 확산(diffusion) 반응으로 해석될 수 있다.\n\n$J_{s}=-nD_{s}(\\frac{dC}{dZ})_{z=0}$\t(1) 여기서, n은 퇴적물 공극, Ds는 오염물질의 확산계수(cm2/s), C는 오염물질의 농도(mg/L), z는 퇴적물과 상등수의 확산경계층(cm)이다. 확산에 의한 용출이 Fick’s law를 따르는 경우, 퇴적물과 상등수 경계면에서 농도구배가 일정하고 확산경계층의 깊이가 변화하지 않는 경우 동일한 값의 용출량이 산출된다. 하지만 회분식 용출반응기의 경우 반응시간이 증가됨에 따라 경계면의 농도구배가 감소되며 확산경계층이 두꺼워지므로 상기 서술된 바와 같이 용출량이 감소된다. 확산에 의한 용출량은 퇴적물 깊이 및 공극수 내 영양염류의 농도분포도 중요한 영향 요인으로 작용될 수 있으나 본 연구에서는 퇴적물 깊이에 따른 농도분포와 확산경계층의 변화가 없으으로 큰 고려사항은 아니다. 영양염류 용출량은 용출속도를 통하여 산출될 수 있으며 실험된 퇴적물 표면적(A)과 상등액의 부피(V)에서 용출량은 아래와 같다. 본 연구에서는 영양염류 용출량이 선형증가되는 용출단계의 용출속도(rate)를 이용하여 용출량을 산출하였다.\n\n\n![image](image_153.png)\n\n$J_{s}=\\frac{dC}{dt}\\frac{V}{A}$\n\n(2)\n\n농도 변화속도(dC/dT)는 측정된 결과를 아래 식 3과 같이 선형회귀분석을 통하여 계산되었다.\n\n$y=b+ax$\t(3)\n\n여기서 a는 농도 변화속도이며, b는 절편이다.\n\n용출량이 양(+)의 값으로 계산되는 경우는 상등수 내 영양염류 농도가 시간이 지남에 따라 증가하여 퇴적물에서 수층으로 영양염류가 용출된다는 것을 나타내며, 반대로 음(-)의 값으로 계산되는 것은 상등수에서 영양염의 농도가 감소되어 퇴적물로 유입되는 것을 의미한다.\n\n가) 1차 용출실험 결과\n\n(1) 용존 총질소",
+    "blockRange": [
+      572,
+      584
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0132",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "(1) 용존 총질소"
+    ],
+    "text": "그림 26. 지점별 용존 총질소 용출속도 분석 결과: 좌) 5℃, 우) 10℃ 그림 27. 지점별 용존 총질소 용출속도 분석 결과: 좌) 20℃, 우) 30℃\n\n\n![image](image_154.png)\n\n\n![image](image_155.png)\n\n\n![image](image_156.png)\n\n\n![image](image_157.png)\n\n\n![image](image_158.png)\n\n\n![image](image_159.png)\n\n\n![image](image_160.png)\n\n\n![image](image_161.png)\n\n\n![image](image_162.png)\n\n\n![image](image_163.png)\n\n\n![image](image_164.png)",
+    "blockRange": [
+      585,
+      596
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0133",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "(2) 암모니아성 질소",
+    "blockRange": [
+      597,
+      597
+    ],
+    "page": 69
+  },
+  {
+    "id": "c0134",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "(2) 암모니아성 질소"
+    ],
+    "text": "그림 28. 지점별 암모니아성 질소 용출속도 분석 결과: 좌) 5℃, 우) 10℃ 그림 29. 지점별 암모니아성 질소 용출속도 분석 결과: 좌) 20℃, 우) 30℃\n\n\n![image](image_165.png)\n\n\n![image](image_166.png)\n\n\n![image](image_167.png)\n\n\n![image](image_168.png)\n\n\n![image](image_169.png)\n\n\n![image](image_170.png)\n\n\n![image](image_171.png)\n\n\n![image](image_172.png)\n\n\n![image](image_173.png)\n\n\n![image](image_174.png)\n\n\n![image](image_175.png)\n\n\n![image](image_176.png)",
+    "blockRange": [
+      598,
+      610
+    ],
+    "page": 69
+  },
+  {
+    "id": "c0135",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "(3) 용존 총인",
+    "blockRange": [
+      611,
+      611
+    ],
+    "page": 71
+  },
+  {
+    "id": "c0136",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "(3) 용존 총인"
+    ],
+    "text": "그림 30. 지점별 용존 총인 용출속도 분석 결과: 좌) 5℃, 우) 10℃ 그림 31. 지점별 용존 총인 용출속도 분석 결과: 좌) 20℃, 우) 30℃\n\n\n![image](image_177.png)\n\n\n![image](image_178.png)\n\n\n![image](image_179.png)\n\n\n![image](image_180.png)\n\n\n![image](image_181.png)\n\n\n![image](image_182.png)\n\n\n![image](image_183.png)\n\n\n![image](image_184.png)\n\n\n![image](image_185.png)\n\n\n![image](image_186.png)\n\n\n![image](image_187.png)\n\n\n![image](image_188.png)",
+    "blockRange": [
+      612,
+      624
+    ],
+    "page": 71
+  },
+  {
+    "id": "c0137",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "(4) 인산염인",
+    "blockRange": [
+      625,
+      625
+    ],
+    "page": 73
+  },
+  {
+    "id": "c0138",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "(4) 인산염인"
+    ],
+    "text": "그림 32. 지점별 인산염인 용출속도 분석 결과: 좌) 5℃, 우) 10℃ 그림 33. 지점별 인산염인 용출속도 분석 결과: 좌) 20℃, 우) 30℃\n\n\n![image](image_189.png)\n\n\n![image](image_190.png)\n\n\n![image](image_191.png)\n\n\n![image](image_192.png)\n\n\n![image](image_193.png)\n\n\n![image](image_194.png)\n\n\n![image](image_195.png)\n\n\n![image](image_196.png)\n\n\n![image](image_197.png)\n\n\n![image](image_198.png)\n\n\n![image](image_199.png)",
+    "blockRange": [
+      626,
+      637
+    ],
+    "page": 73
+  },
+  {
+    "id": "c0139",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "- 나) 2차 용출실험 결과\n\n(1) 용존 총질소",
+    "blockRange": [
+      638,
+      639
+    ],
+    "page": 75
+  },
+  {
+    "id": "c0140",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "(1) 용존 총질소"
+    ],
+    "text": "그림 34. 지점별 용존 총질소 용출속도 분석 결과: 좌) 5℃, 우) 10℃ 그림 35. 지점별 용존 총질소 용출속도 분석 결과: 좌) 20℃, 우) 30℃\n\n\n![image](image_200.png)",
+    "blockRange": [
+      640,
+      641
+    ],
+    "page": 75
+  },
+  {
+    "id": "c0141",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "(2) 암모니아성 질소",
+    "blockRange": [
+      642,
+      642
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0142",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "(2) 암모니아성 질소"
+    ],
+    "text": "그림 36. 지점별 암모니아성 질소 용출속도 분석 결과: 좌) 5℃, 우) 10℃ 그림 37. 지점별 암모니아성 질소 용출속도 분석 결과: 좌) 20℃, 우) 30℃",
+    "blockRange": [
+      643,
+      643
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0143",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "(3) 용존 총인",
+    "blockRange": [
+      644,
+      644
+    ],
+    "page": 79
+  },
+  {
+    "id": "c0144",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "(3) 용존 총인"
+    ],
+    "text": "그림 38. 지점별 용존 총인 용출속도 분석 결과: 좌) 5℃, 우) 10℃ 그림 39. 지점별 용존 총인 용출속도 분석 결과: 좌) 20℃, 우) 30℃",
+    "blockRange": [
+      645,
+      645
+    ],
+    "page": 79
+  },
+  {
+    "id": "c0145",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "(4) 인산염인",
+    "blockRange": [
+      646,
+      646
+    ],
+    "page": 81
+  },
+  {
+    "id": "c0146",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "(4) 인산염인"
+    ],
+    "text": "그림 40. 지점별 인산염인 용출속도 분석 결과: 좌) 5℃, 우) 10℃ 그림 41. 지점별 인산염인 용출속도 분석 결과: 좌) 20℃, 우) 30℃",
+    "blockRange": [
+      647,
+      647
+    ],
+    "page": 81
+  },
+  {
+    "id": "c0147",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "- 다) 조건별 용출속도",
+    "blockRange": [
+      648,
+      648
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0148",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "다) 조건별 용출속도"
+    ],
+    "text": "**표 4. 실험조건별 선형회귀분석 결과: 1차 용출 실험**\n\n| 항목 | 수온 | 상수 | L1 |  | L2 |  | L3 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 항목 | 수온 | 상수 | Oxic | Anoxic | Oxic | Anoxic | Oxic | Anoxic |",
+    "blockRange": [
+      649,
+      649
+    ],
+    "page": 83,
+    "table": {
+      "rows": 2,
+      "cols": 9
+    }
+  },
+  {
+    "id": "c0149",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "다) 조건별 용출속도"
+    ],
+    "text": "Dissolved T-N 5 b 0.6082 0.5275 0.393 0.4077 0.6027 0.4894\n\na 0.0345 0.0549 0.0219 0.0145 0.0376 0.0425\n\nr\\* 0.89 0.97 0.86 0.82 0.98 0.96\n\nse\\*\\* 0.15 0.1176 0.1108 0.0865 0.0631 0.0977\n\n10 b 0.5057 0.5871 0.2684 0.3393 0.5526 0.4977\n\na 0.0389 0.049 0.032 0.0181 0.0444 0.0308\n\nr 0.96 0.99 0.95 0.88 0.92 0.93\n\nse 0.095 0.0708 0.0908 0.0811 0.1613 0.1016\n\n20 b 0.5231 0.4896 0.3433 0.2814 0.5714 0.2534\n\na 0.0602 0.1057 0.0258 0.0356 0.0463 0.0853\n\nr 0.95 0.99 0.98 0.93 0.97 1.00\n\nse 0.169 0.1064 0.0492 0.1161 0.0902 0.0428\n\n30 b 0.0934 0.4472 0.3739 0.142 0.5224 0.1736\n\na 0.1251 0.1363 0.0331 0.0779 0.0636 0.1008\n\nr 0.98 0.99 0.97 0.98 0.99 0.97\n\nse 0.1971 0.1259 0.0708 0.1234 0.0703 0.2023\n\nNH4+-N 5 b 0.2055 0.1068 0.1598 0.1131 0.1945 0.1296\n\na 0.0009 0.0591 0.0005 0.0181 -0.0013 0.0371\n\nr 0.07 0.98 0.04 0.78 0.15 0.97\n\nse 0.1028 0.1041 0.0974 0.1226 0.0709 0.0848\n\n10 b 0.1279 0.1035 0.1754 0.132 0.2045 0.1577\n\na 0.0262 0.0591 -0.0023 0.0106 -0.0018 0.0315\n\nr 0.82 0.93 0.26 0.58 0.17 0.85\n\nse 0.1559 0.2038 0.0711 0.127 0.0856 0.1647\n\n20 b 0.2325 0.0906 0.27 0.0474 0.1455 0.0528\n\na -0.005 0.0885 -0.0078 0.0301 -0.0008 0.0588\n\nr 0.42 0.94 0.53 0.96 0.14 0.91\n\nse 0.0914 0.2829 0.1045 0.0702 0.0477 0.2196\n\n30 b 0.2737 0.0153 0.1948 -0.02 0.1319 0.054\n\na -0.0052 0.1024 -0.0037 0.062 -0.0004 0.0647\n\nr 0.36 0.94 0.38 0.96 0.06 0.94\n\nse 0.1126 0.3051 0.0762 0.1557 0.0557 0.1915\n\n\\*r: correlation coefficient, \\*\\*se: standard error",
+    "blockRange": [
+      650,
+      682
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0150",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "다) 조건별 용출속도"
+    ],
+    "text": "**표 4. 실험조건별 선형회귀분석 결과: 1차 용출 실험(계속)**\n\n| 항목 | 수온 | 상수 | L1 |  | L2 |  | L3 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 항목 | 수온 | 상수 | Oxic | Anoxic | Oxic | Anoxic | Oxic | Anoxic |",
+    "blockRange": [
+      683,
+      683
+    ],
+    "page": 84,
+    "table": {
+      "rows": 2,
+      "cols": 9
+    }
+  },
+  {
+    "id": "c0151",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "다) 조건별 용출속도"
+    ],
+    "text": "Dissolved T-P 5 b 0.0117 0.0154 0.0236 0.0286 0.0131 0.0219\n\na -0.00003 0.0018 -0.0002 -0.0008 0.0001 0.0004\n\nr 0.08 0.68 0.48 0.67 0.19 0.40\n\nse 0.0033 0.017 0.0035 0.0073 0.0063 0.0077\n\n10 b -0.0199 0.0039 0.0158 0.026 0.0302 0.025\n\na 0.005 0.0022 -0.00005 -0.0007 -0.0009 -0.0005\n\nr 0.75 0.86 0.06 0.48 0.81 0.69\n\nse 0.0376 0.011 0.008 0.0101 0.0055 0.0044\n\n20 b 0.0081 -0.1249 0.0143 -0.0262 0.0297 -0.1255\n\na 0.0005 0.0419 -0.0003 0.0083 -0.0006 0.0386\n\nr 0.91 0.99 0.37 0.86 0.77 0.94\n\nse 0.0021 0.0609 0.0058 0.0414 0.0044 0.1176\n\n30 b 0.0045 0.0256 0.0085 -0.0967 0.0082 0.0516\n\na 0.0022 0.0329 0.001 0.0406 0.0018 0.0344\n\nr 1.00 0.89 0.63 0.99 0.93 0.90\n\nse 0.0008 0.1435 0.0108 0.0444 0.0061 0.1378\n\nPO43--P 5 b 0.003 0.0053 0.0104 0.0084 0.0031 0.0108\n\na 0.00001 0.0008 -0.0005 -0.0004 -0.00003 -0.0004\n\nr 0.00 0.68 0.90 0.89 0.10 0.77\n\nse 0.0022 0.0077 0.002 0.0017 0.0025 0.0025\n\n10 b 0.002 -0.0022 0.0016 0.0031 0.0073 0.0099\n\na 0.00004 0.0011 0.00004 0.00006 -0.0003 -0.0005\n\nr 0.19 0.78 0.19 0.53 0.66 0.80\n\nse 0.0019 0.0074 0.0016 0.0009 0.0031 0.0029\n\n20 b 0.0014 -0.0987 0.0017 -0.0272 0.013 -0.0716\n\na 0.00004 0.0325 -6E-06 0.0058 -0.0006 0.0202\n\nr 0.26 0.99 0.03 0.85 0.82 0.97\n\nse 0.0012 0.0395 0.0015 0.0308 0.0035 0.0459\n\n30 b 0.0002 0.0005 0.0011 -0.0948 0.0023 0.0307\n\na 0.0008 0.029 0.0002 0.032 0.0003 0.0277\n\nr 0.61 0.98 0.97 0.99 0.43 0.92\n\nse 0.0086 0.0447 0.0005 0.042 0.0061 0.0989",
+    "blockRange": [
+      684,
+      715
+    ],
+    "page": 84
+  },
+  {
+    "id": "c0152",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "다) 조건별 용출속도"
+    ],
+    "text": "**표 5. 실험조건별 선형회귀분석 결과: 2차 용출 실험**\n\n| 항목 | 수온 | 상수 | L1 |  | L2 |  | L3 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 항목 | 수온 | 상수 | Oxic | Anoxic | Oxic | Anoxic | Oxic | Anoxic |",
+    "blockRange": [
+      716,
+      716
+    ],
+    "page": 85,
+    "table": {
+      "rows": 2,
+      "cols": 9
+    }
+  },
+  {
+    "id": "c0153",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "다) 조건별 용출속도"
+    ],
+    "text": "Dissolved T-N 5 b 0.6861 0.6646 0.6307 0.5898 0.667 0.6667\n\na 0.0381 0.0433 0.014 0.0361 0.036 0.017\n\nr 0.95 1.00 0.94 0.96 0.96 0.98\n\nse 0.1003 0.0319 0.0412 0.0941 0.0916 0.03\n\n10 b 0.7438 0.5803 0.6375 0.7567 0.7303 0.721\n\na 0.0213 0.0678 0.0136 0.0063 0.0044 0.0149\n\nr 0.61 0.97 0.99 0.82 0.96 0.99\n\nse 0.2325 0.1537 0.0163 0.0377 0.0107 0.0178\n\n20 b 0.6683 0.4521 0.5447 0.5835 0.5297 0.5251\n\na 0.0067 0.0885 0.0212 0.0081 0.0179 0.0312\n\nr 0.46 0.90 0.96 0.99 0.82 0.84\n\nse 0.1101 0.3576 0.0506 0.0071 0.1071 0.1688\n\n30 b 0.8724 0.4395 0.5464 0.5331 0.9851 0.7196\n\na 0.0053 0.1095 0.0107 0.0102 0.0105 0.0636\n\nr 0.86 0.98 1.00 0.97 0.72 0.98\n\nse 0.0269 0.2016 0.0065 0.0232 0.084 0.1166\n\nNH4+-N 5 b 0.1105 -0.0269 0.1098 0.0789 0.1217 0.0184\n\na 0.0073 0.0699 0.0039 0.001 0.0124 0.011\n\nr 0.85 0.99 0.78 0.18 0.90 0.97\n\nse 0.038 0.0669 0.0263 0.0462 0.0497 0.0215\n\n10 b 0.0219 -0.0287 0.0185 0.1195 0.0535 0.0596\n\na 0.0295 0.0805 0.0042 0.0056 -0.0006 0.0189\n\nr 0.99 0.97 0.77 0.91 0.14 0.99\n\nse 0.0384 0.1733 0.0295 0.0208 0.0338 0.0248\n\n20 b 0.1599 -0.2718 -0.0103 0.0314 -0.065 -0.1885\n\na -0.0093 0.1015 0.0156 -0.001 0.0286 0.0411\n\nr 0.93 0.90 0.57 0.64 0.68 0.78\n\nse 0.0304 0.4177 0.1913 0.0098 0.258 0.2789\n\n30 b 0.0642 -0.3869 0.045 0.1389 0.2263 -0.0081\n\na -0.0036 0.1533 -0.0015 -0.0069 -0.0023 0.076\n\nr 0.92 0.89 0.62 0.82 0.10 0.98\n\nse 0.0126 0.6665 0.0165 0.0402 0.1963 0.1381",
+    "blockRange": [
+      717,
+      748
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0154",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "다) 조건별 용출속도"
+    ],
+    "text": "**표 5. 실험조건별 선형회귀분석 결과: 2차 용출 실험(계속)**\n\n| 항목 | 수온 | 상수 | L1 |  | L2 |  | L3 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 항목 | 수온 | 상수 | Oxic | Anoxic | Oxic | Anoxic | Oxic | Anoxic |",
+    "blockRange": [
+      749,
+      749
+    ],
+    "page": 86,
+    "table": {
+      "rows": 2,
+      "cols": 9
+    }
+  },
+  {
+    "id": "c0155",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "다) 조건별 용출속도"
+    ],
+    "text": "Dissolved T-P 5 b 0.0087 0.0163 0.0094 0.0143 0.0095 0.0151\n\na 0.0004 0.000001 0.0003 0.0001 0.0003 0.0001\n\nr 0.97 0.01 0.86 0.83 0.87 0.64\n\nse 0.0008 0.0019 0.0017 0.0007 0.0015 0.0012\n\n10 b 0.0094 0.0155 0.011 0.0162 0.0144 0.014\n\na 0.0004 0.00006 0.0003 0.00006 0.00007 0.0002\n\nr 0.89 0.31 0.72 0.24 0.16 0.78\n\nse 0.0017 0.0016 0.0025 0.0022 0.0036 0.0012\n\n20 b 0.011 0.0203 0.009 0.0206 0.0146 0.0218\n\na 0.0004 -0.00005 0.0005 -0.00006 0.0002 -0.00007\n\nr 0.89 0.32 0.94 0.41 0.48 0.30\n\nse 0.0017 0.0012 0.0016 0.0012 0.0029 0.002\n\n30 b 0.0226 -0.0659 0.0245 0.0173 0.0192 -0.0322\n\na -0.00006 0.0187 -0.0001 0.0006 0.0003 0.0118\n\nr 0.19 0.92 0.34 0.97 0.64 0.91\n\nse 0.0027 0.0689 0.0031 0.0013 0.0026 0.0456\n\nPO43--P 5 b 0.0035 0.0035 0.0035 0.0034 0.0035 0.0025\n\na 0.0004 0.0004 0.0005 0.0005 0.0004 0.0006\n\nr 0.92 0.92 0.92 0.91 0.92 0.95\n\nse 0.0015 0.0015 0.0016 0.0018 0.0015 0.0015\n\n10 b 0.0032 0.0039 0.0032 0.0039 0.0032 0.0042\n\na 0.0005 0.0005 0.0005 0.0005 0.0005 0.0004\n\nr 0.92 0.87 0.92 0.87 0.92 0.87\n\nse 0.0017 0.0022 0.0017 0.0021 0.0017 0.002\n\n20 b 0.0032 0.0029 0.0032 0.0029 0.0029 0.0036\n\na 0.0005 0.0006 0.0005 0.0006 0.0006 0.0006\n\nr 0.92 0.91 0.92 0.92 0.92 0.95\n\nse 0.0017 0.0024 0.0019 0.0021 0.0021 0.0016\n\n30 b 0.0043 -0.0169 0.0066 0.0043 0.0043 -0.0208\n\na 0.0005 0.0048 0.00002 0.0005 0.0005 0.0057\n\nr 0.92 0.92 0.36 0.90 0.92 0.92\n\nse 0.0019 0.0174 0.0005 0.0021 0.0019 0.0206",
+    "blockRange": [
+      750,
+      781
+    ],
+    "page": 86
+  },
+  {
+    "id": "c0156",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "- 라) 영양염류 용출량 평가",
+    "blockRange": [
+      782,
+      782
+    ],
+    "page": 87
+  },
+  {
+    "id": "c0157",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "라) 영양염류 용출량 평가"
+    ],
+    "text": "용존 총질소 용출량은 L1지점에서 가장 많은 용출량을 보여주었으며, 호기상태의 경우 1차 용출 실험에서는 온도에 따라 용출량이 증가되어 13.37-48.49 mg/m2/d 범위의 용출량이 산출되었으나, 2차 실험의 경우 2.05-14.77 mg/m2/d의 범위로 용출량이 평가되었으나, 온도가 증가\n\n됨에 따라 용출량이 점진적으로 감소되었다. 혐기상태에서는 1차와 2차 용출 실험에서 온도가 높아짐에 따라 용출량이 증가되었으며, 각각 18.99-52.83, 16.78-42.44 mg/m2/d 범위의 용출량\n\n이 평가되었다. 암모니아성 질소의 경우에도 L1지점의 용출량이 가장 크게 평가되었으며, 호기조건의 경우, 수온이 20℃를 초과하는 경우 flux는 음(-)의 값을 나타내었다. 이는 질산화에 의한 영향으로 판단되며, 용출되는 암모니아성 질소보다 질산화되는 양이 더 많음을 알 수 있다. 1차 및 2차 용출실험에서 용출량은 각각 –2.02-10.15, -3.60-11.43 mg/m2/d 범위로 분석되었다. 충분한 산소가 공급되고, 상등액의 온도가 높게 유지됨에 따라 암모니아성 질소 용출량\n\n이 감소되는 것은 질산화 박테리아에 의한 영향으로 판단된다. 본 실험은 20시간의 반응을 평가하고 있으므로 일반적인 질산화 박테리아의 세대 시간(generation time)이 8-10시간 정도인\n\n점을 고려하면 미생물 작용에 의한 것이 주요한 원인으로 판단된다. 혐기조건에서는 전체적인 용출량이 호기조건보다 높게 나타났으며, 용출량 또한 온도가 높아짐에 따라 높게 나타났다. 1차 및 2차 실험의 용출량은 22.91-39.69, 27.09-59.42 mg/m2/d의 범위로 나타났다. L2와 L3지점에서도 상기된 바와 유사한 용존 총질소 및 암모니아성 질소 용출 경향을 보여주었으나 용출량은 상대적으로 적은 것으로 평가되었다.\n\n용존 총인과 인산염인의 경우에도 L1지점의 용출량이 타지점에 비하여 상대적으로 많았으며, 용존산소와 온도의 영향이 크게 작용되는 것으로 나타났다. 용존 총인의 경우 L1지점 시료에\n\n서 호기성일 때 1차 용출 실험에서 –0.01-1.94 mg/m2/d의 용출량을 보여주었으며, 2차 실험에서는 –0.02-0.16 mg/m2/d로 평가되었다. 인산염인의 경우에도 1차 용출 실험에서 0.00-0.31 mg/m2/d, 2차 실험에서는 0.16-0.19 mg/m2/d의 용출량을 나타내었다. 혐기조건에서는 용출량이 다소 상승되었으며, 1차 용출 실험의 경우 0.31-12.60 mg/m2/d, 2차 실험의 경우 0.16-1.86 mg/m2/d의 용출량을 보여주었다. 퇴적물 중 인은 유기물에 결합된 형태, 퇴적물 입자에 단순\n\n흡착된 형태, 철과 같은 금속이온과의 착화합물 형태, 또는 인회석 형태로 존재하는 것으로 알려져 있다. 상등수와 확산경계층의 산화-환원 환경은 퇴적물 내 인의 용출에 큰 영향을 미\n\n치며, 퇴적물의 생화학 및 지화학적 특성 또한 인의 용출에 큰 영향을 미칠 수 있다. 본 연구의 실험결과는 혐기조건에서 20℃ 이상일 때 명확한 용존 총인과 인산염인의 용출량이 크게\n\n증가되었다. 이는 상기 용존 총질소 및 암모니아성 질소 실험의 결과와 동일하게 미생물에 의한 영향이 크게 작용된 결과로 판단되며, 이 때 주요한 해리 종은 유기물과 결합한 형태의 인\n\n또는 금속 이온과 결합된 인의 용출이 가속된 결과로 판단된다. 아울러 L2와 L3지점 또한 동일한 경향이 나타났다.\n\n그림 42. 용존 총질소 용출량 분석결과: 좌) 1차 용출, 우) 2차 용출\n\n그림 43. 암모니아성 질소 용출량 분석결과: 좌) 1차 용출, 우) 2차 용출 그림 44. 용존 총인 용출량 분석결과: 좌) 1차 용출, 우) 2차 용출\n\n그림 45. 인산염인 용출량 분석결과: 좌) 1차 용출, 우) 2차 용출",
+    "blockRange": [
+      783,
+      796
+    ],
+    "page": 87
+  },
+  {
+    "id": "c0158",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "라) 영양염류 용출량 평가"
+    ],
+    "text": "**표 6. 영양염류별 용출량(mg/m2/d): 1차 용출 실험**\n\n| Nutrient | Site | Condition | Temperature (℃) |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Nutrient | Site | Condition | 5 | 10 | 20 | 30 |",
+    "blockRange": [
+      797,
+      797
+    ],
+    "page": 90,
+    "table": {
+      "rows": 2,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0159",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "라) 영양염류 용출량 평가"
+    ],
+    "text": "Dissolved T-N L1 Oxic 13.37 15.08 23.33 48.49\n\nAnoxic 21.28 18.99 40.97 52.83\n\nL2 Oxic 8.49 12.40 10.00 12.83\n\nAnoxic 5.62 7.02 13.80 30.19\n\nL3 Oxic 14.57 17.21 17.94 24.65\n\nAnoxic 16.47 11.94 33.06 39.07\n\nNH4+-N L1 Oxic 0.35 10.15 -1.94 -2.02\n\nAnoxic 22.91 22.91 34.30 39.69\n\nL2 Oxic 0.19 -0.89 -3.02 -1.43\n\nAnoxic 7.02 4.11 11.67 24.03\n\nL3 Oxic -0.50 -0.70 -0.31 -0.16\n\nAnoxic 14.38 12.21 22.79 25.08\n\nDissolved T-P L1 Oxic -0.01 1.94 0.19 0.85\n\nAnoxic 0.70 0.85 16.24 12.75\n\nL2 Oxic -0.08 -0.02 -0.12 0.39\n\nAnoxic -0.31 -0.27 3.22 15.74\n\nL3 Oxic 0.04 -0.35 -0.23 0.70\n\nAnoxic 0.16 -0.19 14.96 13.33\n\nPO43--P L1 Oxic 0.00 0.02 0.02 0.31\n\nAnoxic 0.31 0.43 12.60 11.24\n\nL2 Oxic -0.19 0.02 0.00 0.08\n\nAnoxic -0.16 0.02 2.25 12.40\n\nL3 Oxic -0.01 -0.12 -0.23 0.12\n\nAnoxic -0.16 -0.19 7.83 10.74",
+    "blockRange": [
+      798,
+      821
+    ],
+    "page": 90
+  },
+  {
+    "id": "c0160",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "라) 영양염류 용출량 평가"
+    ],
+    "text": "**표 7. 영양염류별 용출량(mg/m2/d): 2차 용출 실험**\n\n| Nutrient | Site | Condition | Temperature (℃) |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Nutrient | Site | Condition | 5 | 10 | 20 | 30 |",
+    "blockRange": [
+      822,
+      822
+    ],
+    "page": 91,
+    "table": {
+      "rows": 2,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0161",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "라) 영양염류 용출량 평가"
+    ],
+    "text": "Dissolved T-N L1 Oxic 14.77 8.26 2.60 2.05\n\nAnoxic 16.78 26.28 34.30 42.44\n\nL2 Oxic 5.43 5.27 8.22 4.15\n\nAnoxic 13.99 2.44 3.14 3.95\n\nL3 Oxic 13.95 1.71 6.94 4.07\n\nAnoxic 6.59 5.77 12.09 24.65\n\nNH4+-N L1 Oxic 2.83 11.43 -3.60 -1.40\n\nAnoxic 27.09 31.20 39.34 59.42\n\nL2 Oxic 1.51 1.63 6.05 -0.58\n\nAnoxic 0.39 2.17 -0.39 -2.67\n\nL3 Oxic 4.81 -0.23 11.08 -0.89\n\nAnoxic 4.26 7.33 15.93 29.46\n\nDissolved T-P L1 Oxic 0.16 0.16 0.16 -0.02\n\nAnoxic 0.00 0.02 -0.02 7.25\n\nL2 Oxic 0.12 0.12 0.19 -0.04\n\nAnoxic 0.04 0.02 -0.02 0.23\n\nL3 Oxic 0.12 0.03 0.08 0.12\n\nAnoxic 0.04 0.08 -0.03 4.57\n\nPO43--P L1 Oxic 0.16 0.19 0.19 0.19\n\nAnoxic 0.16 0.19 0.23 1.86\n\nL2 Oxic 0.19 0.19 0.19 0.01\n\nAnoxic 0.19 0.19 0.23 0.19\n\nL3 Oxic 0.16 0.19 0.23 0.19\n\nAnoxic 0.23 0.16 0.23 2.21",
+    "blockRange": [
+      823,
+      846
+    ],
+    "page": 91
+  },
+  {
+    "id": "c0162",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석"
+    ],
+    "text": "- 마) 용출특성 분석",
+    "blockRange": [
+      847,
+      847
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0163",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "마) 용출특성 분석"
+    ],
+    "text": "앞서 평가된 실험 조건별 영양염류 용출량의 특성을 분석한 결과 1차 용출 실험이 2차 실험\n\n보다 더 높은 용출량을 나타내었다. 특히 용존 총인과 인산염인의 경우 2차 용출 실험에서는\n\n용출량이 크게 감소되었다. 인산염인의 경우 용존된 알루미늄 및 철 이온 또는 금속 산화물과\n\n결합하여 용존된 농도가 감소될 수 있으므로, 퇴적물 채취시기에 따른 시료 내 알루미늄 및\n\n철 이온의 농도가 영향을 미칠 수 있다. 영양염류 종류별로는 용존 총질소와 암모니아성 질소\n\n의 용출량이 모든 경우에 가장 높게 나타났으며, 용존 총인과 인산염인의 순으로 용출량이 평가된다. 용존 총질소의 경우 호기상태에서 1차 용출 실험의 경우 평균 18.20 mg/m2/d, 2차 실험에서는 6.45 mg/m2/d이 평균적으로 용출되었으며, 혐기상태에서는 1차 24.27 mg/m2/d, 2차\n\n16.04 mg/m2/d의 평균 용출량을 보여주었다. 암모니아성 질소는 호기상태에서 1차 –0.02 mg/m2/d, 2차 2.72 mg/m2/d, 혐기상태에서는 1차 20.09 mg/m2/d, 2차 17.79 mg/m2/d의 평균 용\n\n출량을 나타내었다. 용존 총인의 경우에는 호기상태에서 1차 0.28 mg/m2/d, 2차 0.10 mg/m2/d\n\n의 평균 용출량이 산출되었으며, 혐기상태에서는 1차 6.43 mg/m2/d, 1.02 mg/m2/d의 평균 용\n\n출량을 나타내었다. 인산염인의 경우에는 호기상태에서 1차 0.00 mg/m2/d, 2차 0.18 mg/m2/d, 혐기상태에서 1차 4.78 mg/m2/d, 2차 0.51 mg/m2/d의 평균 용출량을 보여주었다.\n\n계산된 영양염류 평균 용출률 결과와 한국수자원공사(2014) 남강댐 상시만수위 기준 저수면\n\n적(28.1㎢)을 이용하여 퇴적물 영양염류 일일 부하량을 산정하였다. 용존 총질소의 경우 호기\n\n상태에서 346.3 kg/d, 혐기상태에서 566.4 kg/d, 암모니아성 질소의 경우 호기상태에서 37.9\n\nkg/d, 혐기상태에서 532.2 kg/d로 부하되었다. 용존 총의 경우 호기상태에서 5.3 kg/d, 혐기상\n\n태에서 104.7 kg/d이 부하되었고, 인산염인의 경우 호기상태에서 2.5 kg/d, 혐기상태에서\n\n74.3 kg/d로 부하되었다.\n\n지점별로는 L1지점의 용출량이 L2, L3지점에 비하여 높게 나타났으며, 분석된 영양염류 4종\n\n모두 동일한 경향을 보여주었다. 4종의 영양염류는 상등액 온도에 따라서도 유사한 용출특성\n\n을 보여주었다. 5-10℃의 조건에서는 유의미한 차이가 관찰되지 않으나, 20℃ 이상의 조건에\n\n서 평균 용출량이 점진적으로 증가되었다. 상기 세부 실험결과에서는 일부 사례에서 20℃ 조\n\n건에서 가장 높은 용출량을 보인 경우가 있었으나, 평균 용출량은 온도에 비례하는 용출특성\n\n을 보여주었다. 상등액의 온도가 높을수록 화학반응의 속도가 빨라지므로 물질확산속도에 영\n\n향을 미친다. 아울러 미생물 활성이 높아지므로 생화학적 반응이 활발해질 수 있다. 다만 상\n\n등액의 온도가 높아짐에 따라 용존산소외 기체성 물질의 용해도가 저하될 수 있는 점은 고려\n\n되어야 한다.\n\n한편 한국수자원공사(2019)에 따르면 퇴적물을 교란하지 않고 현장조건을 그대로 모사한 용\n\n출특성 분석결과 시료를 인큐베이션 하는 시간이 길어질수록 영양염 용출률의 뚜렷한 차이를 확인할 수 있었다. 인산염 인은 시간이 증가할수록 용출량이 증가하는 것으로 나타났고 특히 경호강 지점에서 2.73\\~6.38 μg/L로 가장 큰 폭으로 증가했다. 댐 앞, 덕천강, 경호강 지점에서 암모니아성 질소와 산화성 질소의 용출량은 역 상관관계를 가졌으며, 암모니아성 질소의 용출률이 가장 큰 경호강에서 산화성 질소의 농도가 가장 작음을 확인하였다. 이는 빈산소 조건(DO농도 약 2 mg/L 이하)과 유사한 경호강 지점에선 저질표면의 질화세균의 영향으로 저질 표면의 산화성 질소가 암모니아성 질소로 전환에 의한 것으로 판단되며, 지점별 퇴적물 영양염 용출률은 표 8과 같다.\n\n표 8. 지점별 퇴적물 영양염 용출률(한국수자원공사, 2019)\n\n분석항목 PO4-P NO2-N + NO3-N NH4-N\n\n조사지점 mg/m2/d\n\n경호강 0.034 -0.095 1.376\n\n덕천강 0.032 -0.020 0.802\n\n댐 체 0.022 -0.079 0.432\n\n본 조사에서 계산된 용출률은 앞서 제시한 한국수자원공사(2019)의 동일 지점 결과(혐기환\n\n경, 20℃ 이상 조건)와 비교 시 10배 이상 높게 나타났는데, 이는 실험조건에서 배양시간을 30일로 주어 과대평가 되는 것으로 판단된다. 다른 선행 연구에서도 현장 측정 용출률과 실험실 측정 용출률에서 유입과 유출이 반대로 나타나기도 하는 등 실험 설계나 조건부여에 따\n\n라 용출률의 편차가 크므로 세심한 주의가 필요하다.\n\n측정된 퇴적물 내 영양염류의 농도와 도출된 용출량 간의 상관관계를 분석한 결과 질소계 항목은 높은 상관성을 보이는 반면에 인 관련 항목은 상관성이 확인되지 않았다. 퇴적물 내\n\n총질소 농도와 용출된 용존 총질소 및 암모니아성 질소의 용출량 간에는 각각 R=0.897, 0.687으로 나타났다. 총질소 간에는 높은 상관성이 확인되었으며, 암모니아성 질소 또한 상대적으로 높은 상관관계가 확인되었다. 그러나 퇴적물 내 총인의 농도와 용출된 용존 총인 간에\n\n는 R=0.388의 낮은 상관관계를 보여주며, 퇴적물 내 인산염인 농도와 인산염인 용출량 간에는 R=0.015으로 나타나 농도간의 상관성이 나타나지 않는다. 퇴적물 내 농도와 용출량 간의 상관관계 분석결과에서, 용존 총질소의 용출량은 퇴적물 내 농도에 크게 영향을 받으며, 인산\n\n염인은 농도가 아닌 외부요인에 크게 영향을 받음을 알 수 있다. 즉 상관관계가 높을수록 용출량은 퇴적물 내 농도와 물리화학적 확산인자에 크게 영향을 받음을 알 수 있으며, 인산염인과 같이 낮은 상관관계를 가지는 경우는 1차적으로 인의 형태, 2차적 요인으로 미생물 작용\n\n이나 철과 같은 착화합물의 양에 영향을 크게 받는 것으로 판단된다.\n\n그림 46. 1차, 2차 용출실험의 항목별 용출 특성: 좌) 1차 용출, 우) 2차 용출\n\n그림 47. 지점별 용출 특성: 좌) 1차 용출, 우) 2차 용출\n\n그림 48. 용출 온도별 용출 특성: 좌) 1차 용출, 우) 2차 용출",
+    "blockRange": [
+      848,
+      891
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0164",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "마) 용출특성 분석"
+    ],
+    "text": "**표 9. 조건별 용출량 평가 (mg/m2/d)**\n\n| Experiment | Condition | Dissolved T-N |  | NH4+-N |  | Dissolved T-P |  | PO43--P |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Experiment | Condition | avr | se | avr | se | avr | se | avr | se |",
+    "blockRange": [
+      892,
+      892
+    ],
+    "page": 95,
+    "table": {
+      "rows": 2,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0165",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "마) 용출특성 분석"
+    ],
+    "text": "1st DO Oxic 18.20 10.23 -0.02 3.21 0.28 0.61 0.00 0.14\n\nAnoxic 24.27 14.23 20.09 10.17 6.43 7.02 4.78 5.38\n\nSite L1 29.29 14.66 15.79 15.48 4.19 6.04 3.11 5.10\n\nL2 12.54 7.20 5.21 8.48 2.32 5.19 1.80 4.08\n\nL3 21.86 8.99 9.10 10.26 3.55 6.14 2.25 4.13\n\nTemp 5 13.30 5.12 7.39 8.69 0.08 0.31 -0.03 0.17\n\n10 13.77 3.91 7.96 8.31 0.33 0.82 0.03 0.20\n\n20 23.18 10.83 10.58 13.98 5.71 7.10 3.74 4.85\n\n30 34.68 13.77 14.20 16.22 7.29 6.71 5.81 5.67\n\n2nd DO Oxic 6.45 4.10 2.72 4.60 0.10 0.07 0.18 0.05\n\nAnoxic 16.04 12.66 17.79 18.69 1.02 2.26 0.51 0.69\n\nSite L1 18.43 13.82 20.79 20.86 0.96 2.38 0.40 0.55\n\nL2 5.82 3.50 1.01 2.39 0.08 0.09 0.18 0.06\n\nL3 9.47 6.85 8.97 9.33 0.62 1.49 0.45 0.67\n\nTemp 5 11.92 4.30 6.81 9.19 0.08 0.05 0.18 0.03\n\n10 8.29 8.33 8.92 10.71 0.07 0.05 0.19 0.01\n\n20 11.21 10.81 11.40 14.11 0.06 0.09 0.22 0.02\n\n30 13.55 15.06 13.89 23.28 2.02 2.86 0.78 0.90",
+    "blockRange": [
+      893,
+      910
+    ],
+    "page": 95
+  },
+  {
+    "id": "c0166",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "마) 용출특성 분석"
+    ],
+    "text": "**표 10. 퇴적물 중 영양염류 농도와 용출량의 상관관계**\n\n|  | T-N<br>(mg/kg) | T-N<br>(mg/m2/d) | NH4+-N (mg/m2/d) | T-P<br>(mg/kg) | T-P<br>(mg/m2/d) | PO43--P (mg/kg) | PO43--P (mg/m2/d) |\n| --- | --- | --- | --- | --- | --- | --- | --- |",
+    "blockRange": [
+      911,
+      911
+    ],
+    "page": 95,
+    "table": {
+      "rows": 1,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0167",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 퇴적물 분석결과",
+      "2.2.4 퇴적물 용출 실험 결과분석",
+      "마) 용출특성 분석"
+    ],
+    "text": "T-N (mg/kg) 1\n\nT-N (mg/m2/d) 0.897 1\n\nNH4+-N (mg/m2/d) 0.550 0.687 1\n\nT-P (mg/kg) 0.218 0.300 0.131 1\n\nT-P (mg/m2/d) 0.825 0.874 0.289 0.388 1\n\nPO43--P (mg/kg) 0.473 0.233 0.541 0.047 0.077 1\n\nPO43--P (mg/m2/d) 0.780 0.820 0.197 0.505 0.985 0.015 1",
+    "blockRange": [
+      912,
+      918
+    ],
+    "page": 95
+  },
+  {
+    "id": "c0168",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제3장 결론",
+    "blockRange": [
+      919,
+      919
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0169",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 결론"
+    ],
+    "text": "### 3.1. 수질 분석 결과",
+    "blockRange": [
+      920,
+      920
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0170",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.1. 수질 분석 결과"
+    ],
+    "text": "- 1\\) 현장 수질시료 측정 결과\n\n- 표층, 심층 채취 시료 모두 각 지점 별 pH, DO는 유사한 값이 측정되었지만 EC는 1차 현장 수질시료의 값에 비해 2차 현장 수질시료의 값이 높게 측정되었다.\n\n- 2\\) 현장 수질시료 분석 결과\n\n- 표층 채취 시료의 N-계열 분석 결과 총 질소, 용존 총 질소, 질산정 질소의 농도가 모든 지점에서 1차 현장 수질시료의 값에 비해 2차 현장 수질시료의 값이 높게 분석되었다. 암모니아성 질소는 L3 지점을 제외한 L1, L2 지점에서 1차 현장 수질시료의 농도에 비해 대부분 낮은 농도가 관찰되었다.\n\n- 표층 채취 시료의 P-계열 분석 결과 총인, 용존 총인의 농도는 L2 지점을 제외한 L1, L2 지점에서 1차 현장 수질시료의 농도가 2차 현장 수질시료의 농도보다 높게 나타났다.\n\n- 심층 채취 시료의 N-계열 분석 결과 총 질소, 용존 총 질소, 암모니아성 질소, 질산성 질소의 농도는 총 질소 L2, 암모니아성 질소 L1 지점을 제외한 모든 지점에서 1차 현장 수질시료의 농도가 2차 현장 수질 시료의 농도보다 높게 나타났다.\n\n- 심층 채취 시료의 P-계열 분석 결과 총인, 용존 총인, 인삼염인의 농도는 L2 지점의 인산염인 농도를 제외한 모든 지점에서 1차 현장 수질시료의 농도가 2차 현장 수질 시료의 농도보다 높게 나타났다.",
+    "blockRange": [
+      921,
+      927
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0171",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 결론"
+    ],
+    "text": "### 3.2. 퇴적물 분석 결과",
+    "blockRange": [
+      928,
+      928
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0172",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2. 퇴적물 분석 결과"
+    ],
+    "text": "- 1\\) 퇴적물 일반항목\n\n- 1, 2차 퇴적물 분석결과 모든 지점의 완전연소가능량이 1차 퇴적물 분석결과에 비해 2차 퇴적물 분석결과에서 소폭 감소하였으며, L2, L3 지점의 함수율이 1차 퇴적물 분석결과에 비해 2차 퇴적물 분석결과에서 감소한 모습이 관찰되었다.\n\n- 총 질소는 1차 퇴적물 분석결과 농도값에 비해 2차 퇴적물 분석결과 모든 지점에서 소폭 감소하였으며, 총인과 수용성인은 L1, L2 지점에서 소폭 감소하였으며 L3 지점의 농도가 2차 퇴적물 분석결과 증가했다.\n\n- 2\\) 퇴적물 용출 실험 측정 항목\n\n- pH는 모든 온도, 산소 조건에서 6- 10의 범위 내에서 유지 되었으며 EC는 20℃ 이상 조건에서 증가하는 경향이 나타났다. DO는 실험 초기 안정화기간 이후 큰 증감의 폭을 보이지 않았으며 각 조건을 유지하였다. 온도 또한 설정 온도에서 크게 벗어나지 않으며 설정한 온도를 유지하였다.\n\n- 3\\) 퇴적물 용출 실험 분석 항목\n\n- 1차 퇴적물 용출 실험은 호기조건 L3 지점의 경우를 제외하고, 호기, 혐기성 조건 모두 높은 온도일수록 용존 총질소가 용출되는 모습이 관찰되었지만, 2차 퇴적물 용출 실험에서는 호기조건의 반응조에서는 용존 총질소의 용출이 거의 나타나지 않았고 혐기성 조건에서만 온도 조건에 따른 농도의 차이를 보이며 용존 총질소의 용출이 관찰되었다.\n\n- 1차 퇴적물 용출 실험과 마찬가지로 2차 퇴적물 용출 실험 결과 5℃부터 30℃의 혐기성 조건에서 L1 지점의 암모니아성 질소의 용출 농도가 계속 증가하는 유사한 경향이 관찰되었다. 1차 퇴적물 용출 실험과 2차 퇴적물 용출 실험의 모든 온도조건에서 호기 조건의 반응조에서는 암모니아성 질소의 용출이 크게 관찰되지 않았다.\n\n- 1차 퇴적물 용출 실험은 실험 시작 5일차 20℃, 30℃조건에서 혐기성 조건의 용존 총인 용출이 관찰되었지만 2차 퇴적물 용출 실험 결과 30℃ 혐기성 조건 반응조에서만 1차 퇴적물 용출 실험 결과보다 낮은 농도의 용존 총인 용출이 나타났다. 1, 2차 퇴적물 용출 실험 모두 호기성 조건 반응조에서 용존 총인의 용출은 관찰하지 못했다.\n\n- 1차 퇴적물 용출 실험은 5℃부터 혐기성 조건의 인산염인 용출이 관찰되었지만 2차 퇴적물 용출 실험 결과 30℃ 혐기성 조건 반응조에서만 1차 퇴적물 용출 실험 결과보다 낮은 농도의 인산염인 용출이 나타났다.\n\n- 퇴적물 심도별 농도분석 결과, 총질소의 경우 표층에서의 용출이 주요하게 일어나는 것을 확인하였으나, 총인의 경우 심도에 따른 특성이 관찰되지 않았다.\n\n- 상등액의 알루미늄과 철은 퇴적물 용출실험에서 초기농도에 비해서 빠르게 감소되었다. 퇴적물 내의 인산염인과 결합 또는 상등액의 알칼리도로 인하여 침전되었을 것으로 판단된다. 일부 실험에서 망간과 아연의 농도가 지속적으로 증가되는 경우가 있었으나 이와 관련된 영향인자는 확인되지 않으며, 채취된 퇴적물의 특이성에 기인하는 것으로 판단된다.\n\n- 4\\) 퇴적물 용출 실험 결과 분석\n\n- 1, 2차 용출 실험에서 용존 총질소와 암모니아성 질소의 용출속도가 용존 총인 및 인산염 인과 비교하여 빠르게 관찰되었다. 지점별로는 L1지점의 용출속도가 상대적으로 높았다. 호기조건보다 혐기조건에서 용출속도가 크게 나타났으며, 온도가 높을수록 용출속도가 증가되었다.\n\n- 암모니아성 질소의 경우에 충분한 산소가 공급되고, 상등액의 온도가 높게 유지됨에 따라 암모니아성 질소 용출량이 감소되는 것은 질산화 박테리아에 의한 영향으로 판단된다. 본 실험은 20시간의 반응을 평가하고 있으므로 일반적인 질산화 박테리아의 세대 시간(generation time)이 8-10시간 정도인 점을 고려하면 미생물 작용에 의한 것이 주요한 원인으로 판단된다.\n\n- 혐기조건에서 20℃ 이상일 때 명확한 용존 총인과 인산염인의 용출량이 크게 증가되었다. 이는 상기 총질소 및 암모니아성 질소 실험의 결과와 동일하게 미생물에 의한 영향이 크게 작용된 결과로 판단되며, 이 때 주요한 해리 종은 유기물과 결합한 형태의 인 또는 금속 이온과 결합된 인의 용출이 가속된 결과로 판단된다. 아울러 L2와 L3지점 또한 동일한 경향이 나타났다.\n\n- 용존 총인과 인산염인의 경우 2차 용출 실험에서는 용출량이 크게 감소되었다. 인산염인의 경우 용존된 철 이온 또는 철 산화물과 결합하여 용존된 농도가 감소될 수 있으므로, 퇴적물 채취시기에 따른 시료 내 철 농도가 영향을 미칠 수 있다.\n\n- 지점별로는 L1지점의 용출량이 L2, L3지점에 비하여 높게 나타났으며, 분석된 영양염류 4종 모두 동일한 경향을 보여주었다. 4종의 영양염류는 상등액 온도에 따라서도 유사한 용출특성을 보여주었다. 5-10℃의 조건에서는 유의미한 차이가 관찰되지 않으나, 20℃ 이상의 조건에서 평균 용출량이 점진적으로 증가되었다.\n\n- 퇴적물 내 총질소 농도와 용출된 용존 총질소 및 암모니아성 질소의 용출량 간에는 각각 R=0.897, 0.687으로 나타났다. 총질소 간에는 높은 상관성이 확인되었으며, 암모니아성 질소 또한 상대적으로 높은 상관관계가 확인되었다. 그러나 퇴적물 내 총인의 농도와 용출된 용존 총인 간에는 R=0.388의 낮은 상관관계를 보여주며, 퇴적물 내 인산염인 농도와 인산염인 용출량 간에는 R=0.015으로 나타나 농도간의 상관성이 나타나지 않는다.\n\n- 퇴적물 내 농도와 용출량 간의 상관관계 분석결과에서, 용존 총질소의 용출량은 퇴적물 내 농도에 크게 영향을 받으며, 인산염인은 농도가 아닌 외부요인에 크게 영향을 받음을 알 수 있다. 즉 상관관계가 높을수록 용출량은 퇴적물 내 농도와 물리화학적 확산인자에 크게 영향을 받음을 알 수 있으며, 인산염인과 같이 낮은 상관관계를 가지는 경우는 1차적으로 인의 형태, 2차적 요인으로 미생물 작용이나 철과 같은 착화합물의 양에 영향을 크게 받는 것으로 판단된다.",
+    "blockRange": [
+      929,
+      948
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0173",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참고문헌",
+    "blockRange": [
+      949,
+      949
+    ],
+    "page": 99
+  },
+  {
+    "id": "c0174",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "1. Bostrom, B., Phosphorus elution from lake sediment. Arch. Hydrobiol. Beih. Ergebn. Limn., 1982. 18: p. 5-59.\n2. Jung, H.-Y. and K.-J. Cho, SOD and inorganic nutrient fluxes from sediment in the downstream of the Nagdong River. Korean Journal of Ecology and Environment, 2003. 36(3): p. 322-335.\n3. Joo, J.C., et al., Analysis of the benthic nutrient fluxes from sediments in agricultural reservoirs used as fishing spots. Journal of Korean Society of Environmental Engineers, 2017. 39(11): p. 613-625.\n4. Kim, T.H., et al., Physicochemical characteristics and nutrient elution from sediment in an urban stream. Ecology and Resilient Infrastructure, 2015. 2(2): p. 167-176.\n5. Oh, J.M. and Y. Cho, Effects of nutrients elution from sediments on water quality in a small-size reservoir. JOURNAL-KOREAN SOCIETY OF ENVIRONMENTAL ENGINEERS, 2007. 29(11): p. 1217.\n6. Cho, Y.-C. and S.-W. Chung, Sediment elution rate of nutrients from Namyang reservoir. Journal of Korean Society of Environmental Engineers, 2007. 29(12): p. 1345-1352.\n7. Kim, K.H., et al., A study on the measurement method for benthic nutrient flux in freshwater sediments. Journal of Korean Society of Environmental Engineers, 2017. 39(5): p. 288-302.\n8. Kim, D.-H., A study on the measurement of nutrients elution from Sedinnent. 한국환경과학회지, 2002. 11(12): p. 1333-1337.\n9. Kim, G., W. Jung, and J. Lee, Monitoring and analysis of nutrients in sediments in the Riverbed. Journal of Korean Society on Water Environment, 2006. 22(5): p. 838-845.\n10. Lee, K., et al., Characteristics of elution rate of nutrients from sediment in Lake Paldang and Lake Cheongpyeong. Journal of Korean Society on Water Environment, 2009. 25(5): p. 742-749.\n11. Ki, B.-M., et al., A study on the nutrient elution characteristics from sediments in the Asan reservoir. Journal of Korean Society of Environmental Engineers, 2010. 32(1): p. 1-8.\n12. Lee, Y.-S. and S.-H. Shin, Effective reservoir management methods using nutrients leaching characteristic analysis: case study of the Hongdong Reservoir. The Journal of Engineering Geology, 2013. 23(2): p. 95-104.\n13. 한국수자원공사(2014), 남강댐 퇴사쟝조사 측량용역.\n14. 한국수자원공사(2019), 취수원 퇴적물 용출 특성에 따른 수질 영향 파악 및 관리방안 연구.",
+    "blockRange": [
+      950,
+      963
+    ],
+    "page": 99
+  },
+  {
+    "id": "c0175",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 실용화추진계획서",
+    "blockRange": [
+      964,
+      964
+    ],
+    "page": 100
+  },
+  {
+    "id": "c0176",
+    "type": "table",
+    "breadcrumb": [
+      "실용화추진계획서"
+    ],
+    "text": "| 실용화<br>범주 | 4-3 상용화를 위한 Test-Bed 구축 건수 |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 연구수행 | 연구과제<br>제의부서 | 물환경처 |  |  | 연구과제<br>제의자(팀장급) |  |  |  | 이희숙 수석위원 |  |\n| 연구수행 | 연구과제명 | 시·공간적 변동성을 고려한 댐저수지 내부부하량 산정 방안 연구 |  |  |  |  |  |  |  |  |\n| 연구수행 | 연구과제<br>책임자 | 이승재 책임위원 |  |  | 연구과제 수행자<br>(참여연구원) |  |  |  | 이희숙, 박연정, 윤석제 |  |\n| 연구수행 | 연구기간 | 2023. 1. \\~ 2023. 12. |  |  |  |  |  |  |  |  |\n| 연구수행 | 예산현황 | 예산액: 80,000천원 |  |  |  |  |  |  |  |  |\n| 연구수행 | 연구성과물<br>(예정) | 내부부하 영향인자, 인자간 상관성, 내부부하량 산출 |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 제 목 | 내부부하를 고려한 댐저수지 수질 개선 대책 수립 |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 실용화<br>부서 및 담당자 | 부서명 | 금강유역관리처 |  |  |  | 담당자 |  | 환경4급 엄상붕 |  |\n| 실용화<br>추진계획 | 내 용 | - 목적 : 연구성과의 확대적용을 통한 효율적인 수질개선 대책 수립<br>- 적용대상 : 금강수계 용담댐<br>- 기대효과 : 내·외부오염부하를 고려한 합리적 저감 대책 수립 가능<br>- 계획 : 시범댐(남강)의 결과와 동일한 방식으로 다른 수계 댐 적용 |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 추진계획 | 실용화 기간 : ‘24년 이후 |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 추진계획 | 1/4분기 |  | 2/4분기 |  | 3/4분기 |  | 4/4분기 |  | 계 |\n| 실용화<br>추진계획 | 추진계획 | 20% |  | 30% |  | 30% |  | 20% |  | 총계100% |\n| 실용화<br>추진계획 | 실용화 소요예산 | 200,000 천원(수질개선대책수립 예산으로 사업화시 추가 예산 필요)<br>(예산배정 부서 : 물환경처) |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 실용화 부서<br>협의 결과 | 부서명 | 금강유역관리처 |  |  |  | 협의자 |  | 환경4급 엄상붕 |  |\n| 실용화<br>추진계획 | 실용화 부서<br>협의 결과 | 활용시기 | ‘24년이후 |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 실용화 부서<br>협의 결과 | 요청사항 | 내부부하 저감 방안 및 사례 제시 필요 |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 실용화 부서<br>협의 결과 | 적용계획 | ‘24년 연구성과 검토, ‘25년 수질개선대책 수립 |  |  |  |  |  |  |  |",
+    "blockRange": [
+      965,
+      965
+    ],
+    "page": 100,
+    "table": {
+      "rows": 18,
+      "cols": 11
+    }
+  }
+]

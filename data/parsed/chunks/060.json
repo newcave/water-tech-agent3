@@ -1,0 +1,1967 @@
+[
+  {
+    "id": "c0001",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "디\n\n지\n\n털\n\n트\n\n윈\n\n기\n\n반\n\n시\n\n각\n\n화\n\n기\n\n술\n\n개\n\n발\n\n을\n\n위\n\n한\n\nE\n\nD\n\nC\n\n스\n\n마\n\n트\n\n빌\n\n리\n\n지\n\n메\n\n타\n\n버\n\n스\n\n시\n\n범\n\n적\n\n용\n\n연\n\n구",
+    "blockRange": [
+      0,
+      35
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0002",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "|  | 디지털전환추진단 | <u>시범적용 연구</u><br>EDC SmartVilageMetaversepilotapplicationstudyfor basedsolutiondevelopment‧substantition, visualizationtechnologydevelopmentsuchasvirtualexperienc<br>2024.12 |\n| --- | --- | --- |\n|  | 2025-UE-RR-2-21 | <u>시범적용 연구</u><br>EDC SmartVilageMetaversepilotapplicationstudyfor basedsolutiondevelopment‧substantition, visualizationtechnologydevelopmentsuchasvirtualexperienc<br>2024.12 |\n|  | G230298 | <u>시범적용 연구</u><br>EDC SmartVilageMetaversepilotapplicationstudyfor basedsolutiondevelopment‧substantition, visualizationtechnologydevelopmentsuchasvirtualexperienc<br>2024.12 |\n|  | FinalReport<br><u>디지털 트윈 기반</u><br>시각화기술 개발을 위한<br>EDC스마트빌리지 메타버스<br>digitaltwin- | <u>시범적용 연구</u><br>EDC SmartVilageMetaversepilotapplicationstudyfor basedsolutiondevelopment‧substantition, visualizationtechnologydevelopmentsuchasvirtualexperienc<br>2024.12 |",
+    "blockRange": [
+      36,
+      36
+    ],
+    "page": 1,
+    "table": {
+      "rows": 5,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0003",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "e\n\n\n![image](image_001.png)\n\n\n![image](image_002.png)",
+    "blockRange": [
+      37,
+      39
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0004",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 디지털 트윈 기반 시각화기술 개발을 위한",
+    "blockRange": [
+      40,
+      40
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0005",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# EDC스마트빌리지 메타버스 시범적용 연구",
+    "blockRange": [
+      41,
+      41
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0006",
+    "type": "heading",
+    "breadcrumb": [
+      "EDC스마트빌리지 메타버스 시범적용 연구"
+    ],
+    "text": "### EDC SmartVilageMetaversepilotapplicationstudyfordigital twin-basedsolutiondevelopment‧substantition, visualizationtechnologydevelopmentsuchasvirtualexperience",
+    "blockRange": [
+      42,
+      42
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0007",
+    "type": "text",
+    "breadcrumb": [
+      "EDC스마트빌리지 메타버스 시범적용 연구",
+      "EDC SmartVilageMetaversepilotapplicationstudyfordigital twin-basedsolutiondevelopment‧substantition, visualizationtechnologydevelopmentsuchasvirtualexperience"
+    ],
+    "text": "202412",
+    "blockRange": [
+      43,
+      43
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0008",
+    "type": "table",
+    "breadcrumb": [
+      "EDC스마트빌리지 메타버스 시범적용 연구",
+      "EDC SmartVilageMetaversepilotapplicationstudyfordigital twin-basedsolutiondevelopment‧substantition, visualizationtechnologydevelopmentsuchasvirtualexperience"
+    ],
+    "text": "| 제 | 출 | 문 |\n| --- | --- | --- |\n| 사 장 | 귀하 이 보고서를 2024년도 디지털전환추진단에서 수행한 “디지털 트윈 기반 솔루션개발·실증·확산,가상체험 등 시각화기술 개발을 위한 EDC 스마트빌리지 메타버스 시범적용 연구”의 2차년도 연구보고서로 제출합니다. 2024.12.31 |  |\n| 연구책임자 :디지털전환추진단 | 기술 2급(을) | 김주호 |\n| 연구수행자 :디지털전환추진단 | 토 목 3급 디지털전환추진단 전 산 3급 강민석 디지털전환추진단 전 산 4급 윤선경 디지털전환추진단 전 통 3급 이창섭 디지털전환추진단 토 목 4급 장석민 | 이승희 |\n| 디지털전환추진단 | 책임위원 | 박진기 |\n| 친수사업처 |  | 전 통 4급 박충희 |",
+    "blockRange": [
+      44,
+      44
+    ],
+    "page": 3,
+    "table": {
+      "rows": 6,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0009",
+    "type": "text",
+    "breadcrumb": [
+      "EDC스마트빌리지 메타버스 시범적용 연구",
+      "EDC SmartVilageMetaversepilotapplicationstudyfordigital twin-basedsolutiondevelopment‧substantition, visualizationtechnologydevelopmentsuchasvirtualexperience"
+    ],
+    "text": "- i -",
+    "blockRange": [
+      45,
+      45
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0010",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구개발결과 활용보고서",
+    "blockRange": [
+      46,
+      46
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0011",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 1.<br>연구<br>총괄 | [간행물 관리번호:] [과제번호:]G230298 |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1.<br>연구<br>총괄 | (1)연구과제명 | 디지털 트윈 기반 솔루션개발·실증·확산,가상체험 등 시각화기술<br>개발을 위한 EDC 스마트빌리지 메타버스 시범적용 연구 |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 디지털전환추진단 | (3)연 구 책임자 | 성명 | 김주호 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 디지털전환추진단 | (3)연 구 책임자 | 소속 | 디지털전환추진단 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 디지털전환추진단 | (3)연 구 책임자 | 전화번호 | 042-629-3801 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 디지털전환추진단 | (3)연 구 책임자 |  | E-mail swalow@kwater.or.k |\n| 1.<br>연구<br>총괄 | (4)연구기간 | 2023.01.\\~2024.12.<br>(총 24개월) | (5)총연구개발비<br>(천원) | 총액 | 191,204천원 |\n| 1.<br>연구<br>총괄 | (6)협동기관 | - | (5)총연구개발비<br>(천원) | 정부 | - |\n| 1.<br>연구<br>총괄 | (7)참여기업 | - | (5)총연구개발비<br>(천원) | 기업 | - |\n| 1.<br>연구<br>총괄 | (8)기술분야 | 디지털 | (9)참여 연구원 | 7명 / 2년 |  |\n| 1.<br>연구<br>총괄 | (10)연구개발목표 | 플랫폼을 통해 제품·서비스의 수요발굴-구상·모의-실증-거래<br>全주기형 리빙랩의 실현기반 마련<br>(내·외부)을 실제와 같은 가상공간으로 구현<br>·시각화 기능 구현·탑재<br>多자가 같은 공간을 공유·체험함으로써 새로운 서비스 및 수요발굴<br>·테스트 등 개방·소통형 플랫폼 기반 구성<br>(현실)와 연계,실시간 데이터 등을 가상공간에 동기화함으로써<br>·소통·회의 등<br>,현장 내에서 지하매설물 현황(운영상황실 등)내 팝업 그래픽<br>,전체적인 도시 운영·관리 현황을 한눈에 파악하고,데이터·솔루션 |  |  |  |\n| 1.<br>연구<br>총괄 | 스마트빌리지 메타버스<br>실용화까지 스마트시티의 기술을 완성하는<br>ㅇ 스마트빌리지 全공간<br>ㅇ 스마트빌리지 실시간 데이터 연동 및 시각화<br>ㅇ 도시홍수 분석 등 가상화 기반의 솔루션 모의<br>ㅇ 메타버스 기반으로<br>개발 중인 서비스의 가상모의<br>ㅇ 스마트빌리지 내 테스트베드<br>가상+현실의 테스트베드 조성<br>ㅇ 가상현실(VR)을 활용한 가상공간 체험으로 현실감 재현 및 다자간 모임<br>커뮤니티 기반 마련<br>ㅇ 증강현실(AR)활용 현실세계와 데이터 시각화를 융합<br>시설운영정보 등을 표출<br>ㅇ 혼합현실(MR)을 활용 빌리지 전체 운영현황 등을 가상공간<br>(홀로그래픽)으로 재현<br>등을 시각화 표출하여 의사결정 지원 | 플랫폼을 통해 제품·서비스의 수요발굴-구상·모의-실증-거래<br>全주기형 리빙랩의 실현기반 마련<br>(내·외부)을 실제와 같은 가상공간으로 구현<br>·시각화 기능 구현·탑재<br>多자가 같은 공간을 공유·체험함으로써 새로운 서비스 및 수요발굴<br>·테스트 등 개방·소통형 플랫폼 기반 구성<br>(현실)와 연계,실시간 데이터 등을 가상공간에 동기화함으로써<br>·소통·회의 등<br>,현장 내에서 지하매설물 현황(운영상황실 등)내 팝업 그래픽<br>,전체적인 도시 운영·관리 현황을 한눈에 파악하고,데이터·솔루션 |  |  |  |\n| 1.<br>연구<br>총괄 | (11)주요연구내용 (2차년도) |  |  |  |  |\n| 1.<br>연구<br>총괄 | ㅇ 가상현실 기반 메타버스 시각화 및 운영 중인 혁신서비스 체험 컨텐츠 구현<br>-물환경,에너지,스마트홈 등 26종 혁신서비스 현황 메타버스 內 연계·시각화<br>-우리집 물사용량 예측,누수의심구간 분석·표출 등<br>ㅇ 증강현실 기반 현실개체 +데이터 시각화 구현<br>-현장 지하매설물 현황 시각화<br>-시설물 운영·관리현황(수량,수압 등)표출<br>ㅇ 혼합현실 기반 홀로그래픽 시각화<br>-도시 운영·관리 전체현황 표출<br>-세부 구간별 확대·축소,홍수 등 솔루션 시각화 컨텐츠 구현<br>ㅇ 솔루션 직접개발 및 탑재·시뮬레이션 등 지원 기능 구현<br>ㅇ 현실(시제품)테스트베드 운영시 데이터 모니터링·시각화 기능 제공<br>ㅇ 메타버스 기반 다수 사용자가 가상공간에서 제품·서비스를 테스트·피드백 하는 기능 제공 |  |  |  |  |",
+    "blockRange": [
+      47,
+      47
+    ],
+    "page": 4,
+    "table": {
+      "rows": 14,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0012",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "r\n\n·\n\n,\n\n,\n\n,\n\n- ii -",
+    "blockRange": [
+      48,
+      53
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0013",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- ii -"
+    ],
+    "text": "| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (12)연구결과의 활용 |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 기술실용화<br>교육 및 |  |  |  |  |  |  | 정책활용 | 설계기준,<br>시방서, 기타<br>지침에 활용 |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 실용화<br>완료 | 실용화 실용화<br>추진중 보류(중단) |  |  | 선행 지도<br>연구 |  |  | 정책활용 | 설계기준,<br>시방서, 기타<br>지침에 활용 |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 |  | ◯ |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (13)주요 연구성과 및 기술 개발단계 |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | ∘기술명 :스마트빌리지 물특화 융합형<br>메타버스<br>-가상공간에서 제품 등을 구상·모의하 ∘기술의 완성도<br>고 현실에서 시제품 실증테스트 까지 기초,탐색연구단계 ( ),응용연구단계 ( ),<br>연계가능한 多자간 소통·체험형 DT 개발연구단계 (○)<br>기반 메타버스 플랫폼 구축 기업화 준비단계 ( ),상품화 완료단계 ( )<br>∘기술특성 : ∘기술 수명주기<br>-스마트빌리지 디지털 트윈 3D공간 구현 기술개념 정립기 ( ),기술 실험기 ( )<br>-실시간 데이터 연동 및 시각화 기술적용 시작기 ( ),기술적용 성장기 ( )<br>-가상화 기반의 솔루션 모의·시각화 기능 기술적용 성숙기 (○),기술적용 쇠퇴기 ( )<br>-가상공간 기반의 다자간 모임·소통·<br>회의 등 커뮤니티 기능 |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | (14)현장적용실적 |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | 물량<br>① 공사명 공사기간 (총물량) |  |  |  |  |  |  | 발주기관 시공기관 |  |  | R&D<br>참여자 역활 |\n| 3.<br>경제적<br>효과 | 공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | 가.현장명 |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | 구분 |  |  | 기 존<br>(A) | 개 선<br>(B) |  | 단위효과<br>(C=A-B) |  | 현장<br>총물량<br>(D) | 향상도 | 적용현장<br>총효과<br>(C×D) |\n| 3.<br>경제적<br>효과 | 공사비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ② 유지관리비<br>(백만원/㎡)1)<br>공사 |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | 현장별 기타비용절감<br>적용효과 (백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | 사고율<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | 고 용<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | 공 기<br>(일/UC) |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | 내구성<br>(年) |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      54,
+      54
+    ],
+    "page": 5,
+    "table": {
+      "rows": 20,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0014",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- iii -",
+    "blockRange": [
+      55,
+      55
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0015",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iii -"
+    ],
+    "text": "| 4.<br>기술적<br>효과 | (15)기술개발목표 달성도 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 4.<br>기술적<br>효과 | 구분 | 지표명<br>(단위) | 개발전<br>국내수준 |  | 당개발사업<br>최종목표치 |  | 개발결과<br>실제달성치 |  |  | 현재국내<br>기술수준 |  | 세계 최고<br>기술수준 |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (16)산업재산권 (발명특허‧실용신안‧의장‧s/w ) |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 | 출원 및<br>등록자 | 출원 |  |  |  |  | 등록 |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 | 출원 및<br>등록자 | 출원일 |  | 출원번호 |  |  | 등록일 등록번호 |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (17)건설신기술 지정 |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 출원일 |  |  |  |  |  | 고시일보호기간 |  |  |  | 지정번호 |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (18)기타 등록 및 지정현황(상품,서비스 등록,KT 마크 등) |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 출원일 |  |  |  |  |  |  |  | 고시일보호기간 |  | 기 타 |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (19)국내외 전문학술지 게재 |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 구분 | 논문제목 |  |  |  | 학술지명 국명 |  |  |  |  | 통권,호 년,월 |  |\n| 5.<br>학술적<br>효과 | SCI(E)학술지 |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | SCI(E)학술지 |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (20)학술회의 발표 |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 논문제목 |  |  |  |  |  | 학술회의 명칭 |  |  | 국 명 |  | 연 도 ‧호 |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      56,
+      56
+    ],
+    "page": 6,
+    "table": {
+      "rows": 22,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0016",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- iv -",
+    "blockRange": [
+      57,
+      57
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0017",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iv -"
+    ],
+    "text": "| 6.<br>공공적<br>효과 | (21)법․제도 (설계기준,시방서,지침)등에 활용 |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 6.<br>공공적<br>효과 | 구분 | 명칭 및 조항1) | 시행일시 기존내용 |  |  | 신규내용 |  |\n| 6.<br>공공적<br>효과 | 법 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 규정/지침 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기준 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 시방서 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (22)정책수립에 활용 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 정책명 | 정책추진 실적 | 정책추진<br>일시 |  | 담당부처․팀 |  | 기대효과 |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (23)교육 및 지도에 활용 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 구분 | 교육명 | 교육내용 | 교육대상 | 교육시간 | 교육인원 | 교육회수 |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 현장기술지도 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (24)사회적 성과 |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |",
+    "blockRange": [
+      58,
+      58
+    ],
+    "page": 7,
+    "table": {
+      "rows": 18,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0018",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- v -",
+    "blockRange": [
+      59,
+      59
+    ],
+    "page": 7
+  },
+  {
+    "id": "c0019",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      60,
+      60
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0020",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 1.연구제목",
+    "blockRange": [
+      61,
+      61
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0021",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1.연구제목"
+    ],
+    "text": "디지털 트윈 기반 솔루션개발·실증·확산,가상체험 등 시각화기술 개발을 위한 EDC 스마트빌리지 메타버스 시범적용 연구",
+    "blockRange": [
+      62,
+      62
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0022",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 2.연구기간",
+    "blockRange": [
+      63,
+      63
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0023",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "2.연구기간"
+    ],
+    "text": "2023.1.1～ 2024.12.31",
+    "blockRange": [
+      64,
+      64
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0024",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 3.연구목적",
+    "blockRange": [
+      65,
+      65
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0025",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3.연구목적"
+    ],
+    "text": "부산 EDC 스마트빌리지는 41개의 혁신기술을 서비스·실증할 수 있는 공간으로, 스마트시티의 테스트베드로써 국내 유일의 선도적이며 가장 가치 있는 스마트시티 리빙랩으로 발돋움 중에 있다.\n\n스마트빌리지의 혁신서비스 실증 등을 지속적으로 확산·고도화하기 위해 가상공간에서 제품 등을 구상·시뮬레이션 해보고 이를 현실세계에서 시제품 실증테스트 등까지 연계 가능한 ‘스마트시티 특화’디지털 트윈의 필요성이 대두되었으며,\n\n이에 따라 솔루션 생태계를 조성할 수 있는 多자간 소통·체험형 디지털 트윈인 ‘스마트빌리지 메타버스’를 개발하였다.",
+    "blockRange": [
+      66,
+      68
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0026",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4.연구내용",
+    "blockRange": [
+      69,
+      69
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0027",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4.연구내용"
+    ],
+    "text": "본 연구는 총 2차년도 연구로써 1차년도에 구축된 메타버스 공간을 기반으로 혁신 서비스 데이터 연계·시각화와 물특화 솔루션 개발·탑재로,가상+현실 T/B 제공을 기반으로 민간의 기술을 융합한 선도적인 솔루션을 직접 만드는 등 민관 협력 솔루션 개발‧확산 생태계 기반을 마련하였다.당해년도(2차년도)의 세부 연구개발 내용은 다음과 같다.\n\n가.가상현실 기반 메타버스 시각화 및 운영 중인 혁신서비스 체험 컨텐츠 구현 -스마트쓰레기통,우리집 에너지사용량 운영현황 표출 및 통계분석·예측\n\n나.증강현실 기반 현실개체 + 데이터 시각화 구현(AR·VR)\n\n-현장 지하매설물,시설물 운영·관리현황 표출(수량,수압 등 데이터 연계·시각화)\n\n- vi -",
+    "blockRange": [
+      70,
+      74
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0028",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4.연구내용",
+      "- vi -"
+    ],
+    "text": "다.혼합현실 기반 홀로그래픽 시각화 구현\n\n-메타버스內 도시(스마트빌리지)운영·관리 종합 상황판 표출\n\n-도시침수 해석모델 구축·탑재를 통한 솔루션 구현 기반 마련\n\n라.스마트빌리지 內 혁신서비스 데이터 제공 및 가상+현실 테스트베드 제공 -솔루션 기획·개발·실증·상용화 全주기 지원 프로세스 마련(wateRound연계 등)",
+    "blockRange": [
+      75,
+      78
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0029",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 5.연구결과",
+    "blockRange": [
+      79,
+      79
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0030",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5.연구결과"
+    ],
+    "text": "가.스마트빌리지 가상공간(메타버스)구축 및 주요서비스 데이터 연결‧시각화\n\n부산 EDC 스마트빌리지를 전체공간을 대상으로 드론 측량(정사영상 및 PointCloud)을 기반으로 지형공간모델 구축과 빌리지의 다양한 오브젝트(건물 실내외,가로등,벤치,스마트폴 등)를 3D 모델링으로 구현하였다.\n\n아울러,주요 서비스(센서)로부터 나오는 실시간 데이터들을 가상공간에서 보고 체험할 수 있도록,외부 서비스용 데이터베이스(DB)를 구축하고 빌리지 내부망에 있던 데이터들을 연계하였으며,API를 구축하여 실시간으로 웹 및 타 서비스 등에 제공할 수 있는 데이터 서비스 체계를 구축하였으며,이를 기반으로 메타버스에서 데이터들을 시각화‧표출 하였다.\n\n또한,다중 사용자가 동시에 스마트빌리지 서비스를 직간접적으로 체험해보면서 다양한 아이디어가 도출,상호 공유‧소통할 수 있도록 메타버스 형태의 가상공간을 구축하고,아바타를 통해 상호 교류,함께 대화를 나누고 나눌 수 있는 공간을 마련하였다.\n\n나아가,가상공간의 확장성과 효율성,그리고 현실감을 높이기 위해 최초(1차년도)에 Unity엔진으로 구현된 가상공간을 Unreal에서 구동환경으로 이식하여 비교테스트 하였으며,최종적으로 접근성과 향후 호환성 등의 확보를 위하여 웹기반(WebGL)기반의 메타버스 공간으로 업그레이드 하였다.(2차년도)\n\n나.증강‧가상현실 기반 현실객체 및 데이터 시각화\n\n스마트빌리지 현실세계내 설치되어 있는 NFC 태그를 활용하여 모바일 디바이스 (핸드폰‧태블릿 등)을 통해 실제 땅아래 위치에 있는 상수관로 등을 현실에 투영하여 가상의 3D모델링 객체로 시각화하고 관종,좌표등 기본정보들을 표출 할 수 있도록\n\nAugmented Reality",
+    "blockRange": [
+      80,
+      87
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0031",
+    "type": "table",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5.연구결과"
+    ],
+    "text": "| 증강현실 | VirtualReality | 을 구현하였다. |\n| --- | --- | --- |\n| 가상현실 |  | 을 통해서는 스마트빌리지 혁신서비스 6가지 카테고리인 물·환경, 스마트에너지,스마트 교통,스마트 주민안전,생활·헬스,스마트홈에 대한 종합상황판을 |\n|  | 몰입감 있게 파악할 수 있도록 하였다. | 가상세계 내 팝업그래픽(홀로그래픽)형태로 구현하여 빌리지 전체의 운영상황 등을 |",
+    "blockRange": [
+      88,
+      88
+    ],
+    "page": 9,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0032",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5.연구결과"
+    ],
+    "text": "- vii -",
+    "blockRange": [
+      89,
+      89
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0033",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5.연구결과",
+      "- vii -"
+    ],
+    "text": "다.메타버스 내 물특화 솔루션(도시침수‧물공급)구현 및 시범 탑재‧운영 극한홍수에 따른 스마트빌리지의 도시침수를 예측하고 사전 대응체계 등의 기반을 마련하기\n\n위하여 강우‧유출모델(Storm WaterManagementModel)과 유체흐름 모델(ComputationalFluidDynamics)의\n\n시뮬레이션 결과값을 융합하여 강우에 따른 도시침수를 분석‧예측하였다.\n\n또한,기존의 SWMM+CFD 융합 결과의 다양한 시나리오별 결과값을 학습한 물리정보 신경망 데이터모델(Physics-Informed NeuralNetwork)을 구축함으로써, 실제 메타버스內 탑재하여 준실시간의 도시홍수 분석을 위한 컴퓨팅 성능과 효율을 확보하였으며,서버 내 탑재 및 메타버스 시각화 연계로 상시운영 가능한 형태로 구현하였다.\n\n스마트빌리지에 물을 공급하는 분산형정수장 또한 수리해석 모델 마련 및 water-NET (관망해석)에 탑재 후,API의 형태로 관망해석 결과값을 수신받아 메타버스에서 관망 수압‧유량을 확인할 수 있도록 구현하였으며,스마트미터 수요예측모델(CNN-GRU 기반 물 사용량 예측,K-water상하수도 연구소 개발Pilot모델)또한 연계·탑재하여,수요 패턴에 따른 향후 일주일,또는 일개월의 예정 사용량 등을 분석하여 사용자(입주민)에게 도움이 되는 정보를 제공해 줄 수 있는 기능을 구현함과 동시에,향후 수요예측 기반의 안정적 정수장-관망 운영관리를 할 수 있는 기반을 시범적으로 구현하였다.\n\n라.메타버스 기반 솔루션 기획-개발 가능한 가상+현실 T/B조성 및 시범운영 솔루션 개발에 필요한 메타버스(가상)및 실측 데이터(현실)등을 제공하여,실제 도시침수 및 물공급 관리 등의 솔루션을 민관협력으로 직접개발‧테스트 해 봄으로써 스마트시티 분야 ‘테스트베드’로써의 첫 시범프로젝트를 완성하였다.\n\n또한,솔루션 개발을 위한 GIS,정사영상,객체모델,다양한 센서데이터의 API제공 등 데이터 제공 체계를 마련하여,다른 기업‧기관에도 손쉽게 데이터를 공유할 수 있고 쉽게 솔루션을 개발 할 수 있는 기반체계를 마련하였다.\n\n다양한 센서데이터 들과 연계한 도시침수에 대한 예측결과 값의 검증을 위해서 메타버스 내 API를 기반으로 예측-결과 간의 데이터를 비교·분석하여 실증할 수 있는 물리적 기반을 마련하였으며,실제 도시침수 검증을 위해 빌리지 주요지점에 환경 데이터 센서 약 10개소 추가 설치(예정)등 필요시 다양한 센서데이터들을 임시 또는 영구형으로 현실세계에 설치,메타버스 가상공간에서 쉽게 연계할 수 있도록 하여 테스트 베드로의 역할을 강화하여 솔루션 개발‧확산 생태계 조성을 위한 기반체계를 마련하였다.",
+    "blockRange": [
+      90,
+      97
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0034",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5.연구결과"
+    ],
+    "text": "- viii -",
+    "blockRange": [
+      98,
+      98
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0035",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# SU M M A R Y",
+    "blockRange": [
+      99,
+      99
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0036",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y"
+    ],
+    "text": "1.ResearchTitle\n\nA Study on the Pilot Application of EDC Smart Vilage Metaverse for Developing,Demonstrating,and Disseminating DigitalTwin-Based Solutions, VirtualExperiences,and VisualizationTechnologies.\n\n2.ResearchPeriod\n\n2023.1.1～ 2024.12.31\n\n3.ObjectiveofResearch\n\nThe Busan EDC Smart Vilage is a unique space for testing and demonstrating 41 innovative technologies,serving as Korea’s leading and mostvaluablesmartcity livinglab.Tocontinuouslyexpand and advancethe demonstrationofinnovativeservicesintheSmartVilage,aspecialized digital twin for smart cities was deemed essential to enable virtual product conceptualization,simulation,and real-world prototypetesting.\n\nTo addressthisneed,a multi-stakeholder,interactive digitaltwin ecosystem caled the\"SmartVilageMetaverse\"hasbeendeveloped.\n\n4.ContentsofResearch\n\nThis research consists ofa two-year study.In the firstyear,a metaverse space was constructed to link and visualize innovative service data and develop water-focused solutions.Based on the provision ofa virtual+ real testbed, a foundation was established for a public-private partnership ecosystem thatintegratesprivate sectortechnologiesto develop and deploy innovative solutions.The detailed research and developmenttasks for the currentyear(second year)areasfollows: Thecontentsofresearchanddevelopment(year2)areasfolows:\n\na. Implementation of Virtual Reality-Based Metaverse Visualization and InnovativeServiceExperienceContent\\*\\*\n\n- Visualization and statistical analysis/prediction of operational data for serviceslikesmarttrashbinsand homeenergyusage.",
+    "blockRange": [
+      100,
+      110
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0037",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y",
+      "- Visualization and statistical analysis/prediction of operational data for serviceslikesmarttrashbinsand homeenergyusage."
+    ],
+    "text": "b.Implementation ofAugmented Reality (AR)for Real-World Objects and DataVisualization",
+    "blockRange": [
+      111,
+      111
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0038",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y"
+    ],
+    "text": "- ix -",
+    "blockRange": [
+      112,
+      112
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0039",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y",
+      "- ix -"
+    ],
+    "text": "-Display ofunderground utilities and facility operation/managementdata (e.g.,quantityand waterpressure)inAR and VR.\n\nc.Mixed Reality-Based HolographicVisualization\\*\\* -Comprehensivemanagementdashboardsforthemetaversecity(SmartVilage). -Developmentofurbanflood analysismodelsforsolutionimplementation.\n\nd.DataProvisionand Virtual+ RealTestbed forSmartVilage\\*\\*",
+    "blockRange": [
+      113,
+      115
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0040",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y"
+    ],
+    "text": "- Establishment of a ful-cycle solution development,demonstration,and commercializationsupportprocess(integrated withwateRound).",
+    "blockRange": [
+      116,
+      116
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0041",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y",
+      "- Establishment of a ful-cycle solution development,demonstration,and commercializationsupportprocess(integrated withwateRound)."
+    ],
+    "text": "5.ResearchOutcomes\n\na.ConstructionoftheSmartVilageMetaverseandIntegrationofMajorServiceData Usingdronesurveying(orthophotosand pointclouds),ageospatialmodelofthe Busan EDC SmartVilagewasdeveloped,with 3D modeling ofvariousobjects (e.g.,buildings,streetlights,benches,and smartpoles).\n\nIn addition,a data service system wasestablished to visualize and experience real-time data from major services (sensors) within the virtual space. This involved creating an externalservice-oriented database (DB),integrating data from thevilage'sinternalnetwork,and developingAPIstoenablereal-timedata provision to web platformsand otherservices.Theseeffortsalowed datato be visualized and displayed withinthemetaverse.\n\nMoreover,a metaverse-based virtual space was developed to alow multiple usersto directly and indirectly experienceSmartVillageservicessimultaneously. Thisfacilitated thegeneration,sharing,and communication ofvariousideas.The space also enabled users to interactand converse through avatars,fostering colaborationand engagement.\n\nTo enhance accessibility,expandability,and realism,the virtualspace initialy developed withUnitywasmigratedtoUnrealfortesting,ultimatelyupgraded to aWebGL-based metaversespaceforbettercompatibility.\n\nb.VisualizationofReal-WorldObjectsand DataUsingAR and VR\n\nAugmented Reality\n\nUsing NFC tags instaled in the Smart Vilage,AR\ttechnology",
+    "blockRange": [
+      117,
+      124
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0042",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y"
+    ],
+    "text": "- x -",
+    "blockRange": [
+      125,
+      125
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0043",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y",
+      "- x -"
+    ],
+    "text": "enabled visualization ofunderground waterpipelinesas3D modelson mobile devices, displaying basic information such as pipe type, coordinates, basic information,etc.\n\nVirtual Reality\n\nIn VR\t, six innovative service categories—water/environment, smart energy,smarttransportation,residentsafety,lifestyle/health,and smarthomes—were represented with holographicgraphicsto provide immersive insightsinto theSmartVilage'soperationalstatus.\n\nc. Implementation and Pilot Operation of Water-Focused Solutions (Urban Floodingand WaterSupply)intheMetaverse\n\nTo predicturban flooding in theSmartVilagecaused by extremerainfalland establishafoundationforproactiveresponsesystems,simulationresultsfrom the Storm WaterManagementModel(SWMM)and ComputationalFluid Dynamics (CFD)wereintegrated.Thisfusion enabled theanalysisand prediction ofurban floodingscenariosbasedonrainfalldata.\n\nAdditionaly,a Physics-Informed Neural Network (PINN) was developed by training iton various scenario-specific results derived from the SWMM+CFD integration.This model was deployed within the metaverse to enable near real-time urban flood analysis with enhanced computationalperformance and efficiency. By integrating this model with server operations and metaverse visualization,asystem wasimplemented forcontinuousand seamlessoperation. A distributed watertreatmentplantsupplying waterto the SmartVilage was equipped with a hydraulic analysis modeland integrated into the water-NET (network analysis) system. The analysis results were received via an API, alowing real-timemonitoring ofthelatestwaterpressureand flow ratesin the metaverse.Additionaly,a smartmeter demand forecasting model(based on CNN-GRU and developed asapilotbyK-water'sWaterand SewerageResearch Institute)wasincorporated.Thismodelanalyzesexpected usagepatternsforthe next week or month, providing useful information to users (residents). Simultaneously,itestablished afoundation forstableoperation and management of the treatment plant and water network based on demand forecasting, implemented asapilotsystem.",
+    "blockRange": [
+      126,
+      131
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y"
+    ],
+    "text": "- xi -",
+    "blockRange": [
+      132,
+      132
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0045",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y",
+      "- xi -"
+    ],
+    "text": "d.EstablishmentofVirtual+RealTestbedforSolutionDevelopmentandPilotOperation\n\nThe metaverse (virtual)and real-world data required forsolution development were provided, enabling the public-private collaboration for the direct development and testing of solutions for urban flooding and water supply\n\nmanagement.Thiseffortresulted in thecompletion ofthefirstpilotprojectasa\n\n\"testbed\"inthesmartcitysector.\n\nAdditionaly,a data-sharing framework was established,including GIS data, orthophotos,objectmodels,and APIsforvarioussensordata.Thisframework\n\nalows other companies and organizations to easily access and share data, facilitatingtheseamlessdevelopmentofsolutions.\n\nTo validate urban flooding predictions,a physicalverification framework was established bycomparingpredictionresultswithactualdatathroughAPIswithin\n\nthe metaverse. Approximately 10 environmental sensors are planned for installation atkey vilagelocationstoverify real-world flooding scenarios.These\n\nsensors,whethertemporaryorpermanent,willbeintegrated intothemetaverse's virtualspace,enhancing its role as a testbed.This initiative strengthens the\n\nfoundationforasolutiondevelopmentand disseminationecosystem.",
+    "blockRange": [
+      133,
+      142
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0046",
+    "type": "text",
+    "breadcrumb": [
+      "SU M M A R Y"
+    ],
+    "text": "- xii -",
+    "blockRange": [
+      143,
+      143
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0047",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# CONTENTS",
+    "blockRange": [
+      144,
+      144
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0048",
+    "type": "text",
+    "breadcrumb": [
+      "CONTENTS"
+    ],
+    "text": "Submission Document ··································································································· ⅰ Summary ··························································································································· vi Table of contents ··········································································································· xv List of tables ··················································································································· xvii List of Figures ················································································································ xviii\n\nChapter 1 : Introduction\t1\n\n1.1 Background and Objectives\t1 1.2 Scope and Content of the Study\t2\n\nChapter 2 : Domestic and International Technological Trends \t 4\n\n2.1 Global Smart City Technology Levels and Market Status\t4 2.2 Domestic Smart City Technology Levels and Market Status\t6\n\nChapter 3 : Spatial Information Modeling and Metaverse Implementation ··· 8\n\n3.1 Spatial Information Modeling\t8\n\n3.2 Interactive Metaverse Implementation\t10\n\nChapter 4 : Data Visualization and Solution Integration\t13\n\n4.1 Development of a \"Virtual T/B\" Environment Integrating Fusion Data and Solutions\t13 4.2 Establishing a Platform for Promoting and Expanding Smart City Technologies and Nurturing Digital Water Industries\t17\n\n- xiii -",
+    "blockRange": [
+      145,
+      155
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0049",
+    "type": "text",
+    "breadcrumb": [
+      "CONTENTS",
+      "- xiii -"
+    ],
+    "text": "Chapter 5 : Extended Reality Implementation\t18\n\n5.1 Implementation of Key Innovation Service Experience Content in the\n\nSmart Village\t18 5.2 Development, Integration, and Validation of Water-Specialized Solutions\n\nfor the Smart Village Metaverse\t20\n\n5.2.1 3D Model Development (Data Flooding Collection and Processing) \t 20\n\n5.2.2 Environmental Data Collection and Integration\t23 5.2.3 Modularization of the SWMM Algorithm\t26 5.2.4 Web-Based Metaverse Environment Setup\t31 5.2.5 Integration of Smart Meter Water Demand Prediction Program ··· 34 5.2.6 Integration and Visualization of Network Analysis and AI Incident\n\nDetection Monitoring System (waterNET)\t36 5.3 Establishment of a Virtual+Real Testbed Based on the Smart Village\n\nMetaverse\t37\n\nChapter 6 : Conclusion\t38\n\nReference\t40",
+    "blockRange": [
+      156,
+      165
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0050",
+    "type": "text",
+    "breadcrumb": [
+      "CONTENTS"
+    ],
+    "text": "- xiv -",
+    "blockRange": [
+      166,
+      166
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0051",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목\t차",
+    "blockRange": [
+      167,
+      167
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0052",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "제출문 ····························································································································· ⅰ 요약문 ····························································································································· vi\n\n목 차 ····························································································································· xv 표목차 ····························································································································· xvii 그림목차 ···························································································································· xviii\n\n제 1 장 서 론 \t 1\n\n1.1 연구 배경 및 목적 \t 1\n\n1.2 연구 내용 및 범위 \t 2\n\n제 2 장 국내‧외 기술동향 \t 4\n\n2.1 국외 스마트시티 기술 수준 및 시장현황 \t 4\n\n2.2 국내 스마트시티 기술 수준 및 시장현황 \t 6\n\n제 3 장 공간정보 모델링 및 메타버스 구현 \t 8\n\n3.1 공간정보 모델링 \t 8\n\n3.2 소통형 메타버스 구현 \t 10\n\n제 4 장 데이터 시각화 및 솔루션 연계 \t 13\n\n4.1 융복합 데이터·솔루션을 연계·제공하는 ‘가상T/B’ 개발환경 조성 \t 13\n\n4.2 스마트시티 기술 홍보·확산 및 디지털물산업 발굴·육성의장 마련 \t 17\n\n- xv -",
+    "blockRange": [
+      168,
+      182
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0053",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차",
+      "- xv -"
+    ],
+    "text": "제 5 장 확장현실 구현 \t 18\n\n5.1 스마트빌리지 주요 혁신서비스 체험 컨텐츠 구현 \t 18\n\n5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련 \t 20\n\n5.2.1 3D 모델 구축(데이터도시침수 수집·처리)\t20 5.2.2 환경 데이터 수집·연동 \t 23\n\n5.2.3 SWMM 알고리즘 모듈화 \t 26\n\n5.2.4 웹기반 메타버스 환경구축 \t 31\n\n5.2.5 스마트미터 물 수요예측 프로그램 탑재 \t 34\n\n5.2.6 관망해석 및 AI 사고감지 모니터링 체계(waterNET) 연계·시각화 ·· 36 5.3 스마트빌리지 메타버스 기반 가상+현실 테스트베드 조성 \t 37\n\n제 6 장 결 론 \t 38\n\n참고문헌 \t 40",
+    "blockRange": [
+      183,
+      192
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0054",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "- xvi -",
+    "blockRange": [
+      193,
+      193
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0055",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표\t목\t차",
+    "blockRange": [
+      194,
+      194
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0056",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차"
+    ],
+    "text": "[표 1.1] 부산 EDC 10대 혁신서비스 정의 \t 1\n\n[표 1.2] 연차별 연구개발 내용 및 범위 \t 2\n\n[표 5.1] Open Innovation 제도 개요 \t 37\n\n- xvii -",
+    "blockRange": [
+      195,
+      198
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0057",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그\t림\t목\t차",
+    "blockRange": [
+      199,
+      199
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0058",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "[그림 2.1] 글로벌 스마트시티 시장 규모 및 전망 \t 4\n\n[그림 2.2] 글로벌 스마트시티 시장의 용도별 시장 규모 \t 4\n\n[그림 2.3] 덴마크 코펜하겐 스트리트랩 및 DOLL\t5 [그림 2.4] 국내스마트시티 시장현황 \t 6\n\n[그림 2.5] 스마트도시 종합계획 \t 6\n\n[그림 3.1] 스마트빌리지 계획도 \t 8\n\n[그림 3.2] 스마트빌리지 3D 모델링 구축성과 \t 9\n\n[그림 3.3] 노말맵핑 기술적용 예시 \t 10\n\n[그림 3.4] 멀티디바이스 다중환경 사용자 동시접속을 위한 아케텍쳐 \t 11\n\n[그림 3.5] 크로스플랫폼 메타버스 구축성과 \t 12\n\n[그림 4.1] 스마트빌리지 혁신서비스 데이터 수집·적재 DB\t 13\n\n[그림 4.2] 스마트빌리지 혁신서비스 데이터 수집·적재·연계 API구동화면 \t 13\n\n[그림 4.3] 스마트빌리지 혁신서비스 데이터 수집·적재·연계 성과 \t 14\n\n[그림 4.4] 스마트빌리지 혁신서비스 데이터 제공 체계 및 앱서비스 구축성과 \t 15\n\n[그림 4.5] 스마트빌리지 간접체험 컨텐츠 구축성과 \t 17\n\n[그림 5.1] 스마트빌리지 혁신기술 현황 \t 18\n\n[그림 5.2] 스마트빌리지 주요 혁신서비스 체험컨텐츠 구축현황 \t 19\n\n[그림 5.3] 스마트빌리지 도시침수 솔루션 구축 프로세스 \t 20\n\n[그림 5.4] Visual-SLAM 기술 프로세스 및 적용예시 \t 21\n\n[그림 5.5] 물특화 솔루션을 위한 3D 모델링 구축성과 \t 22\n\n[그림 5.6] 도시침수 시뮬레이션 구역설정 프로세스 \t 23\n\n[그림 5.7] 도시 설계 데이터 입력인자 \t 23\n\n[그림 5.8] 도시 설계 데이터 입력 결과 및 최종 배수시설 설정 결과 \t 24\n\n[그림 5.9] SWMM 강우패턴 입력 프로세스 \t 24\n\n[그림 5.10] 부산 EDC 강수 및 유역데이터 입력 결과 \t 24\n\n[그림 5.11] 실시간 강우데이터,스마트빌리지 내·외부 수문정보 데이터 수집결과 ··· 25 [그림 5.12] SWMM 데이터 입력인자 총괄 프로세스 \t 26\n\n- xviii -",
+    "blockRange": [
+      200,
+      225
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0059",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xviii -"
+    ],
+    "text": "[그림 5.13] PINN 모델 학습 개요 \t 27\n\n[그림 5.14] PINN 모델 학습 손실함수 예시 \t 27\n\n[그림 5.15] SWMM 알고리즘 모듈화를 위한 PINN 모델 학습개요 \t 28\n\n[그림 5.16] SWMM 알고리즘 모듈화를 위한 PINN 모델 학습 프로세스 \t 28\n\n[그림 5.17] SWMM 알고리즘 결과값 및 도시침수 예측모델 프로세스 \t 29\n\n[그림 5.18] PINN 모델 기반 SWMM 모듈화·시각화 프로세스 및 시각화 결과 \t 30\n\n[그림 5.19] 시스템 개발을 위한 모듈 구조 설계 프로세스 \t 31\n\n[그림 5.20] 침수예측 시뮬레이션 시각화 과정 및 결과 \t 33\n\n[그림 5.21] 물 사용량 수요예측 프로그램 구동 프로세스 \t 34\n\n[그림 5.22] 물 사용량 수요예측 절차별 사진대지 \t 35\n\n[그림 5.23] 관망해석 및 AI사고감지 모니터링 체계(waterNET)연계·시각화 구축성과 \t 36",
+    "blockRange": [
+      226,
+      236
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0060",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xix -",
+    "blockRange": [
+      237,
+      237
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0061",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제1장서",
+    "blockRange": [
+      238,
+      238
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0062",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 론",
+    "blockRange": [
+      239,
+      239
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0063",
+    "type": "heading",
+    "breadcrumb": [
+      "론"
+    ],
+    "text": "## 1.1 연구 배경 및 목적",
+    "blockRange": [
+      240,
+      240
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0064",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적"
+    ],
+    "text": "부산 EDC 스마트빌리지는 41개의 혁신기술을 서비스·실증할 수 있는 공간으로, 스마트시티의 테스트베드로써 국내 유일의 선도적이며 가장 가치있는 스마트시티 리빙랩으로 발돋움 중에 있으며, 부산 EDC에서 정의하는 10대 혁신서비스는 [표 1.1]과 같다.",
+    "blockRange": [
+      241,
+      241
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0065",
+    "type": "table",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적"
+    ],
+    "text": "**[표 1.1] 부산 EDC 10대 혁신서비스 정의**\n\n| 4대 분야 | 지향점 | 특화과제 | 기본과제 |\n| --- | --- | --- | --- |\n| 개인 | 자유롭고 창의적인<br>스마트 시민 | ① 로봇 활용 생활혁신 | ⑥ 스마트 교육&리빙 |\n| 사회 | 산업도시를 넘어선<br>상식적 혁신사회 | ② LWP 융합사회 | ⑦ 스마트 헬스케어 |\n| 공공 | 선제적으로 작동하는<br>지능형 공공서비스 | ③ 도시행정,<br>도시관리 지능화 | ⑧ 스마트 교통<br>⑨ 스마트 안전 |\n| 도시 | 지속성장을 보장하는<br>천년도시 | ④ 스마트워터<br>⑤ 제로에너지 도시 | ⑩ 스마트 공원 |",
+    "blockRange": [
+      242,
+      242
+    ],
+    "page": 22,
+    "table": {
+      "rows": 5,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0066",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적"
+    ],
+    "text": "로봇을 활용한 사회적 약자 생활권 보장 /로봇이 만드는 新 라이프 스타일 /\n\n- ① 로봇활용생활혁신",
+    "blockRange": [
+      243,
+      244
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0067",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적",
+      "① 로봇활용생활혁신"
+    ],
+    "text": "로봇 및 활용서비스 개발과 활용 촉진 등\n\nLWP인프라 구축 /급변하는 스마트 시대 근무 환경에 맞는 새로운 경제활동 모델 제시 /",
+    "blockRange": [
+      245,
+      246
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0068",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적"
+    ],
+    "text": "- ② LWP 융합사회",
+    "blockRange": [
+      247,
+      247
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0069",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적",
+      "② LWP 융합사회"
+    ],
+    "text": "생활속학습 /즐거운 도시 등",
+    "blockRange": [
+      248,
+      248
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0070",
+    "type": "table",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적",
+      "② LWP 융합사회"
+    ],
+    "text": "| ③ 도시행정, | 도시관리 지능화 체인을 활용한 자치도시 등 | 증강행정 등 스마트시티 지능형 도시행정 /로봇을 활용한 도시 관리 /블록 |\n| --- | --- | --- |\n| ④ 스마트워터 |  | 강우 예측 및 도시 물재해 대응 시스템 /저영향개발(LID)/도심 하천 수질 개선 / 스마트 정수장 /SWM(SmartWaterManagement)/물 재이용 시스템 구축 등 물의 온도차를 활용한 도시 냉 난방 공급 /신재생에너지 자립도시 조성 / ⑤ 제로에너지 도시 제로에너지 시범주택단지 조성 /도시통합 에너지운영 등 스마트 교육 /365일 스마트 쇼핑&컬쳐 /스마트 홈(SmartHome)/AR 기술 |\n| ⑥ 스마트 교육&리빙 |  |  |",
+    "blockRange": [
+      249,
+      249
+    ],
+    "page": 22,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0071",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적",
+      "② LWP 융합사회"
+    ],
+    "text": "기반의 CityApp등\n\n개인 맞춤형 스마트 헬스케어 플랫폼 구축 /스마트 헬스케어 클러스터 /",
+    "blockRange": [
+      250,
+      251
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0072",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적"
+    ],
+    "text": "- ⑦ 스마트 헬스케어",
+    "blockRange": [
+      252,
+      252
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0073",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적",
+      "⑦ 스마트 헬스케어"
+    ],
+    "text": "미래형 의료시스템 실증 도입 등",
+    "blockRange": [
+      253,
+      253
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0074",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적"
+    ],
+    "text": "- ⑧ 스마트 교통 스마트 도로 /스마트 모빌리티 /스마트 주차장 /라스트마일 서비스 등",
+    "blockRange": [
+      254,
+      254
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0075",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적",
+      "⑧ 스마트 교통 스마트 도로 /스마트 모빌리티 /스마트 주차장 /라스트마일 서비스 등"
+    ],
+    "text": "사건 사고 발생 시 비상 대응 최적화 시스템 /빌딩 내 스마트 대피 에이전트 도입 /",
+    "blockRange": [
+      255,
+      255
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0076",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적"
+    ],
+    "text": "- ⑨ 스마트 안전",
+    "blockRange": [
+      256,
+      256
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0077",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적",
+      "⑨ 스마트 안전"
+    ],
+    "text": "지능형 도시 모니터링 체계 구축 /스마트 도시 안전관리 등",
+    "blockRange": [
+      257,
+      257
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0078",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적"
+    ],
+    "text": "- ⑩ 스마트 공원 부산 에코델타시티 전체 도시공원 /부산 에코델타 스마트시티 도시공원 등",
+    "blockRange": [
+      258,
+      258
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0079",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.1 연구 배경 및 목적",
+      "⑩ 스마트 공원 부산 에코델타시티 전체 도시공원 /부산 에코델타 스마트시티 도시공원 등"
+    ],
+    "text": "스마트빌리지의 혁신서비스 실증 등을 지속 확산·고도화하기 위해 가상공간에서 제품 등을 구상·시뮬레이션 해보고, 이를 현실세계에서 시제품 실증테스트 등이 가능한 多자간 소통이 가능한 디지털 트윈 메타버스 플랫폼의 구축 필요한 상황이다.",
+    "blockRange": [
+      259,
+      259
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0080",
+    "type": "heading",
+    "breadcrumb": [
+      "론"
+    ],
+    "text": "## 1.2 연구 내용 및 범위",
+    "blockRange": [
+      260,
+      260
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0081",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.2 연구 내용 및 범위"
+    ],
+    "text": "본 연구는 총 2차년도 연구로서 당해년도 연구에서는 혁신서비스 데이터 시각화 및 솔루션이 연계된 메타버스에 다양한 스마트빌리지 혁신서비스 체험 컨텐츠를 구현하고 가상현실 공간뿐만 아니라 증강현실, 혼합현실에서도 혁신서비스 데이터 연계·시각화를 구현하였다. 이러한 메타버스 공간에서 솔루션 직접개발, 탑재·시뮬레이션 등 지원기능을 구현하여 가상+현실 테스트베드 연동 및 개발서비스를 구현하였다. 전체 연구기간에 대한 연도별 연구목표와 세부내용은 다음 [표 1.2]과 같다.",
+    "blockRange": [
+      261,
+      261
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0082",
+    "type": "table",
+    "breadcrumb": [
+      "론",
+      "1.2 연구 내용 및 범위"
+    ],
+    "text": "**[표 1.2] 연차별 연구개발 내용 및 범위**\n\n| 구분 | 연구개발 목표 | 연구개발 내용 | 연구개발 범위 |\n| --- | --- | --- | --- |\n| 1차년도<br>(2023) | ㅇ 공간정보 모델링<br>및 메타버스 구현<br>ㅇ 데이터 시각화 및<br>솔루션 연계 | ㅇ 공간정보 모델링<br>- 스마트빌리지 내·외부 全공간모델링(LOD4수준)및 고해상 텍스쳐<br>처리로 실사화<br>ㅇ 메타버스 구현<br>-가상자아(아바타)생성 및 이동,<br>기본동작 및 1·3차원 시야 등 구현<br>-다자간 동시접속,소통·공유 기능 및<br>객체 이동·변경(가구재배치,리모델링 등)등 기본 컨텐츠 구현<br>ㅇ 스마트빌리지 운영·관리 데이터<br>시각화 표출,통계·분석기능 구현<br>ㅇ 가상화 기반 솔루션 실행·시각화 기능<br>구현(wateRound솔루션 연계)<br>ㅇ 혁신서비스 시범적용·도입 관련<br>솔루션 탑재,데이터 시각화 등<br>지원 인터페이스 구축 | ㅇ공간정보 모델링<br>및 메타버스 구현<br>ㅇ데이터 연계 및 시각화 |\n| 2차년도<br>(2024) | ㅇ 확장현실 구현 | ㅇ 가상현실 기반 메타버스 시각화 및<br>운영중인혁신서비스체험컨텐츠구현<br>-스마트쓰레기통 운영현황 및 작동시뮬레이션 등<br>-우리집 에너지사용량 예측,누수의심구간 분석·표출 등<br>ㅇ 증강현실 기반 현실객체 +데이터<br>시각화 구현<br>-현장 지하매설물 현황 시각화<br>-시설물 운영·관리현황,사용매뉴얼 등<br>융합 표출<br>ㅇ 혼합현실 기반 홀로그래픽 시각화<br>-도시 운영·관리 전체현황 표출<br>-세부 구간별 확대·축소,홍수 등<br>솔루션 시각화 컨텐츠 구현 | ㅇ확장현실(VR,AR,MR<br>시각화 구현 |",
+    "blockRange": [
+      262,
+      262
+    ],
+    "page": 23,
+    "table": {
+      "rows": 3,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0083",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.2 연구 내용 및 범위"
+    ],
+    "text": ")",
+    "blockRange": [
+      263,
+      263
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0084",
+    "type": "table",
+    "breadcrumb": [
+      "론",
+      "1.2 연구 내용 및 범위"
+    ],
+    "text": "| 구분 | 연구개발 목표 | 연구개발 내용 | 연구개발 범위 |\n| --- | --- | --- | --- |\n| 2차년도<br>(2024) | ㅇ 가상+현실 테스트베드<br>연동및개발서비스구현 | ㅇ 솔루션직접개발및탑재·시뮬레이션 등<br>지원 기능 구현(wateRound연계)<br>ㅇ 현실(시제품)테스트베드 운영시 데이터<br>모니터링·시각화기능제공<br>ㅇ 메타버스 기반 다수 사용자가 가상공간에서 제품·서비스를 테스트·피드백 하는 기능 제공 | ㅇ확장현실(VR,AR,MR<br>시각화 구현<br>ㅇ데이터연계·솔루션개발 등 개발지원 기능<br>구축 |",
+    "blockRange": [
+      264,
+      264
+    ],
+    "page": 24,
+    "table": {
+      "rows": 2,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0085",
+    "type": "text",
+    "breadcrumb": [
+      "론",
+      "1.2 연구 내용 및 범위"
+    ],
+    "text": ")",
+    "blockRange": [
+      265,
+      265
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0086",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제2장 국내‧외 기술동향",
+    "blockRange": [
+      266,
+      266
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0087",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내‧외 기술동향"
+    ],
+    "text": "## 2.1 국외 스마트시티 기술 수준 및 시장현황",
+    "blockRange": [
+      267,
+      267
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0088",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내‧외 기술동향",
+      "2.1 국외 스마트시티 기술 수준 및 시장현황"
+    ],
+    "text": "전 세계 스마트시티 시장은 2019년 1조 1,846억 8,000만 달러에서 연평균 성장률 22.76%로 증가하여 2024년에는 3조 3,028억 2,000만 달러에 이를 것으로 전망된다.\n\n[그림 2.1]글로벌 스마트시티 시장 규모 및 전망\n\n(출처: TechNavio, Global Smart City Market, MarketsandMarkets, Smart Cities Market)\n\n전 세계 스마트시티 시장은 용도에 따라 스마트 거버넌스 및 교육, 스마트에너지, 스마트 헬스케어, 스마트 보안, 기타로 분류되며, 기타는 2019년을 기준으로 31.01%의 점유율을 차지하였으며, 그 뒤를 스마트 거버넌스 및 교육이 25.53%, 스마트 에너지가 15.38%, 스마트 헬스케어 14.19%, 스마트 보안이 13.89%로 뒤따르고 있다.\n\n[그림 2.2]글로벌 스마트시티 시장의 용도별 시장 규모\n\n(출처:TechNavio,GlobalSmartCityMarket)\n\n\n![image](image_003.png)\n\n\n![image](image_004.png)\n\n덴마크 코펜하겐의 경우 스트리트랩과 DOLL 등 스마트시티 리빙랩을 운영하면서 혁신기술들을 실증, 솔루션 등을 개발·고도화하여 스마트시티를 지속적으로 발전 중이다. 스트리트랩은 코펜하겐시 당국이 추구하는 코펜하겐 솔루션랩 중 하나로 도시를 이용해서 코펜하겐 및 덴마크 전체에 도움이 될 솔루션을 개발, 테스트 및 시연하는 실험실이라고 할 수 있다. 거리곳곳에 쓰레기통 운영정보, 주차공간 정보, 대기환경 정보, 차량·인구유동 정보 등의 데이터를 수집할 수 있는 IoT센서를 설치하여 데이터를 수집하고 거기서 얻은 아이디어로 쓰레기 수거방식 최적화, 빈 주차공간 정보, 대기오염 완화, 차량·인구유동 기반 최적 도로 건설 등과 같은 다양한 솔루션을 개발하였다.\n\n덴마크 실외조명 연구소 DOLL은 허스테드 산업공원단지에 위치한 유럽 최대의 조명 실증단지이자 스마트시티 솔루션을 위한 테스트 공간이다. 유럽 최대 조명 실증단지로 솔루션을 위한 가상랩-품질랩-리빙랩 3가지의 T/B 제공한다. 가상랩에서 가상 3D 형태로 조명 솔루션 개발과 시제품 실증 및 검증을 하고 품질랩에서는 DTU에서 운영하며 광원, 조명기, 램프 및 조명 구성요소를 테스트하고 특성을 분석한다.\n\n마지막으로 리빙랩에서는 실증단지의 실외조명을 직접 체험할 수 있다. 이러한 리빙랩의 의의는 특정 지역을 조명을 위한 실증단지로 구축하여 기술개발에서 실증·제품구매·표준화까지를 연계하는 통합플랫폼을 구축하였으며, 개발·실증에서 제품구매 및 표준화까지 기업에게 통합적인 지원체계를 제공하였다.",
+    "blockRange": [
+      268,
+      278
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0089",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내‧외 기술동향",
+      "2.1 국외 스마트시티 기술 수준 및 시장현황"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 코펜하겐 스트리트랩 | 코펜하겐 스트리트랩 가로등 IoT설치 |\n|  |  |\n| DOLL실증 플랫폼 및 참여기관 | DOLL품질랩(上)및 가상랩(下) |\n\n**[그림 2.3]덴마크 코펜하겐 스트리트랩 및 DOLL**",
+    "blockRange": [
+      279,
+      279
+    ],
+    "page": 26,
+    "table": {
+      "rows": 5,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0090",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내‧외 기술동향",
+      "2.1 국외 스마트시티 기술 수준 및 시장현황"
+    ],
+    "text": "![image](image_005.png)\n\n\n![image](image_006.png)\n\n\n![image](image_007.png)\n\n\n![image](image_008.png)\n\n\n![image](image_009.png)",
+    "blockRange": [
+      280,
+      284
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0091",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내‧외 기술동향"
+    ],
+    "text": "## 2.2 국내 스마트시티 기술 수준 및 시장현황",
+    "blockRange": [
+      285,
+      285
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0092",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내‧외 기술동향",
+      "2.2 국내 스마트시티 기술 수준 및 시장현황"
+    ],
+    "text": "한국과학기술정보연구원(KISTI)의 자료에 따르면 국내 스마트시티 시장규모는 2021년 약 151조원으로 2017년 대비 약 2배 성장할 것으로 전망하고 있으며 국가시범 스마트시티 조성사업은 2018년부터 실증도시 2곳을 선정 및 추진하고, 스마트시티와 관련된 연구개발은 2018년부터 2022년까지 총 1,159억원이 투입될 예정이다.\n\n[그림 2.4]국내스마트시티 시장현황\n\n(출처: KISTI Market Report(2016), 스마트시티(Smart City) :글로벌 선도기술을 ndl한 기술개발과 정책지원 시급(재인용) 출처: 스마트시티 산업 활성화 및 해외진출을 위한 인력양성(국토교통부, 2018))\n\n국내 스마트시티 정부지원 사업을 추진하는 지자체는 67여 곳이며, ‘14년에는 10개, ’18년에는 34개, ‘19년에는 78개로 전담 조직을 확보하는 지자체도 빠르게 증가는하는 추세이다.\n\n[그림 2.5]스마트도시 종합계획\n\n(출처: 제 3차 스마트도시 종합계획)\n\n\n![image](image_010.png)\n\n\n![image](image_011.png)\n\n또한, 국가 시범도시로 세종 5-1 생활권과 부산 에코델타시티에서 4차 산업혁명 신기술 테스트베드 역할을 수행하고 있으며, 5년간 총 100곳 이상의 지자체를 대상으로 테마형 특화단지 (‘18\\~), 챌린지(’19\\~) 등 기존도시의 스마트화 사업을 추진하고 있다.\n\n부산EDC 스마트빌리지 또한 국가시범도시에 포함되며, 41개의 혁신서비스 도입 등 스마트시티 기술의 리빙랩형 실증단지로써 스마트시티 기술의 시범적용·검증·실용화까지 가능한 특화단지로써 자리매김 중이며, 혁신서비스 또한 지속적으로 확대·도입되고 있는 추세이다.\n\n국내 관련 유사한 연구과제로는 정보통신기획평가원에서 ‘디지털트윈 기반 스마트시티랩 실증단지를 조성’이라는 연구명으로 스마트시티 확산을 위해 4차 산업혁명 혁신기술을 실제 도시와 유사한 조건에서 테스트할 수 있는 신기술 테스트베드 기능과 기술시험 인증, 기술 개발 지원, 실증 등의 디지털트윈 기반의 스마트시티랩 조성 및 운영, 디지털 트윈 테스트베드 구축, 디지털 트윈 기반 비즈니스 응용 R&D 및 실증이라는 내용을 개발하고자 한다. 이러한 기능을 가진 ‘스마트시티랩’ 조성을 통해 스마트시티 산업 활성화와 시장창출 확대 등 연구개발성과의 활용이 예상된다.",
+    "blockRange": [
+      286,
+      296
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0093",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제3장",
+    "blockRange": [
+      297,
+      297
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0094",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 공간정보 모델링 및 메타버스 구현",
+    "blockRange": [
+      298,
+      298
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0095",
+    "type": "heading",
+    "breadcrumb": [
+      "공간정보 모델링 및 메타버스 구현"
+    ],
+    "text": "## 3.1공간정보 모델링",
+    "blockRange": [
+      299,
+      299
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0096",
+    "type": "text",
+    "breadcrumb": [
+      "공간정보 모델링 및 메타버스 구현",
+      "3.1공간정보 모델링"
+    ],
+    "text": "1차년도 연구에서는 스마트빌리지 메타버스 구현 및 데이터·솔루션 탑재·연계를 목표로 연구개발을 진행하였다. 다자간 데이터 솔루션 공유·활용이 가능한 ‘크로스플랫폼 메타버스’를 구현하기 위해서 실증공간(생활주거단지)인 스마트빌리지 내·외부와 똑같은 공간정보를 3D 모델로 구축하는 작업을 수행하였다.\n\n[그림 3.1]스마트빌리지 계획도\n\n스마트빌리지 외부공간뿐만 아니라 스마트빌리지 내부공간 구현을 위해 2층형 7개, 3층형 7개 타입별 1세대씩에 대하여 실내공간 및 가구와 같은 실내 오브젝트를 LOD4 이상인 고해상 모델링·텍스쳐로 실사화하여 타 모델과 연계할 수 있는 Asset을 구축하였다.\n\n스마트빌리지 전경 3D모델\n\n스마트 플랫폼,커뮤니티 센터 3D 모델\n\n\n![image](image_012.png)\n\n\n![image](image_013.png)\n\n\n![image](image_014.png)\n\n2층형 19세대 건물 3D 모델 외부\n\n3층형 37세대 건물 3D 모델 외부\n\n2층형 19세대 건물 3D 모델 내부\n\n3층형 37세대 건물 3D 모델 내부\n\n2층형 19세대 건물 3D 모델 내부\n\n3층형 37세대 건물 3D 모델 내부\n\n스마트빌리지 시설물 오브젝트 3D 모델\n\n[그림 3.2]스마트빌리지 3D 모델링 구축성과\n\n\n![image](image_015.png)\n\n\n![image](image_016.png)\n\n\n![image](image_017.png)\n\n\n![image](image_018.png)\n\n\n![image](image_019.png)\n\n\n![image](image_020.png)\n\n\n![image](image_021.png)\n\n\n![image](image_022.png)\n\n\n![image](image_023.png)\n\n\n![image](image_024.png)\n\n\n![image](image_025.png)\n\n\n![image](image_026.png)\n\n\n![image](image_027.png)\n\n\n![image](image_028.png)\n\n\n![image](image_029.png)\n\n\n![image](image_030.png)\n\n\n![image](image_031.png)\n\n\n![image](image_032.png)\n\n\n![image](image_033.png)\n\n\n![image](image_034.png)\n\n\n![image](image_035.png)\n\n\n![image](image_036.png)\n\n\n![image](image_037.png)\n\n\n![image](image_038.png)\n\n\n![image](image_039.png)\n\n\n![image](image_040.png)\n\n\n![image](image_041.png)\n\n\n![image](image_042.png)\n\n\n![image](image_043.png)\n\n\n![image](image_044.png)\n\n이러한 고해상의 모델들은 많은 개수의 폴리곤과 meterial으로 이루어져 있다. 많은 개수로 이루어져 있는 고해상 3D모델을 렌더링하기 위해서는 고사양의 그래픽과 메모리가 필요하기에 효율적이지 못하다.\n\n이를 해결하기 위해 광원효과를 활용하여 적은 폴리곤 수로 고품질 렌더링 효과를 낼 수 있는 노말맵핑 기술이 접목하고 호환성이 높은 Unity엔진을 활용하였다. 이를 통해 최적화된 고품질 렌더링 성능을 확보하고 핸드폰, VR기기 등 PC보다 성능이 낮은 다중 디바이스에서도 활용이 가능하게 되었다.\n\n[그림 3.3]노말맵핑 기술적용 예시",
+    "blockRange": [
+      300,
+      348
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0097",
+    "type": "heading",
+    "breadcrumb": [
+      "공간정보 모델링 및 메타버스 구현"
+    ],
+    "text": "## 3.2소통형 메타버스 구현",
+    "blockRange": [
+      349,
+      349
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0098",
+    "type": "text",
+    "breadcrumb": [
+      "공간정보 모델링 및 메타버스 구현",
+      "3.2소통형 메타버스 구현"
+    ],
+    "text": "다자간 소통·공유·체험이 가능한 크로스 메타버스 플랫폼을 구현하기 위해 3D 공간모델에 아바타 생성, 이동, 기본동작, 채팅·공유 기능 등 UI/UX가 구현된 개인화 아바타 제공기능을 구현하였다. 그리고 멀티디바이스(데스크탑, 노트북, HMC 등) 다중환경의 사용자가 동시 접속이 가능한 아키텍쳐를 설계·구축하여 메타버스에 구현되는 다양한 데이터·솔루션을 다양한 사용자들이 동일 공간에서 체험하고 공유·소통이 가능하다.\n\n기능구조를 단순화하고 서비스 조작방식을 쉽게 설계하여 모든 디바이스에서 사용자가 사용하기 쉽고 간편한 조작이 가능한 사용자 친화적 UX를 구축하였다. 사용자 간 소통을 위해 Spring-websocket, SokeJS, HTTP 기술을 활용하여 채팅기능을 구현하고 이모지, 단축어 기능, 비속어 및 금지단어 필터 기능을 추가하여 사용자 간 건전한 소통을 할 수 있는 환경을 구성하였다.\n\n\n![image](image_045.png)\n\n[그림 3.4]멀티디바이스 다중환경 사용자 동시접속을 위한 아케텍쳐\n\n이러한 연구개발을 통하여 3D 가상공간인 스마트빌리지 메타버스 내에서 다자간접속, 소통·공유를 통해 스마트빌리지 혁신서비스 데이터 및 솔루션을 가상모의하고 체험하여 다양한 의견을 공유·활용할 수 있는 ‘크로스플랫폼 메타버스’ 공간을 구축하였다.\n\n계정관리 – 로그인\n\n아바타(케릭터)생성\n\n메타버스 기본 접속 화면\t메타버스 전체맵 빠른이동 기능\n\n스마트빌리지 전경 3D모델\n\n스마트 플랫폼,커뮤니티 센터 3D 모델\n\n\n![image](image_046.png)\n\n\n![image](image_047.png)\n\n\n![image](image_048.png)\n\n\n![image](image_049.png)\n\n\n![image](image_050.png)\n\n\n![image](image_051.png)\n\n\n![image](image_052.png)\n\n스마트빌리지 건물 벽지 편집모드\t스마트빌리지 건물 벽지 편집 공유모드\n\n공유 수락 기능\n\nVR – 로그인\n\nVR – 아바타 생성\n\nVR -접속화면\n\nPC,VR 다중접속\n\n[그림 3.5]크로스플랫폼 메타버스 구축성과\n\n\n![image](image_053.png)\n\n\n![image](image_054.png)\n\n\n![image](image_055.png)\n\n\n![image](image_056.png)\n\n\n![image](image_057.png)\n\n\n![image](image_058.png)\n\n\n![image](image_059.png)\n\n\n![image](image_060.png)\n\n\n![image](image_061.png)",
+    "blockRange": [
+      350,
+      382
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0099",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제4장",
+    "blockRange": [
+      383,
+      383
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0100",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 데이터 시각화 및 솔루션 연계",
+    "blockRange": [
+      384,
+      384
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0101",
+    "type": "heading",
+    "breadcrumb": [
+      "데이터 시각화 및 솔루션 연계"
+    ],
+    "text": "## 4.1융복합 데이터·솔루션을 연계·제공하는 ‘가상T/B’개발환경 조성",
+    "blockRange": [
+      385,
+      385
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0102",
+    "type": "text",
+    "breadcrumb": [
+      "데이터 시각화 및 솔루션 연계",
+      "4.1융복합 데이터·솔루션을 연계·제공하는 ‘가상T/B’개발환경 조성"
+    ],
+    "text": "스마트빌리지에서 운영·관리중인 38종의 혁신기술 실시간 데이터 434개 데이터에 대하여 메타버스 공간 內 시각화 표출 및 통계·분석기능 구현을 위해서 혁신서비스 全 IoT 데이터 수집을 위한 DB 설계·구축 및 내외부 데이터 연계 API 개발을 통해 데이터 시각화 표출을 위한 데이터 연계기능과 데이터 제공체계 기반을 마련하였다. 공공데이터 표준, 스마트시티 조성에 관한 법률 등을 적용하여 표준화된 PostgreSQL 기반의 DB를 설계하여 IoT 데이터의 실시간 수집·적재할 수 있는 저장공간을 구성하였으며,\n\n[그림 4.1]스마트빌리지 혁신서비스 데이터 수집·적재 DB\n\n38종의 혁신기술 실시간 DB 수집·적재를 위한 내부 데이터 연계 API와 메타버스 공간 내 데이터 시각화 표출 및 데이터 제공을 위한 Jason형식의 외부 데이터 연계 API를 Java와 Python을 통해 구축하였다.\n\n[그림 4.2]스마트빌리지 혁신서비스 데이터 수집·적재·연계 API구동화면\n\n\n![image](image_062.png)\n\n\n![image](image_063.png)\n\n스마트빌리지 혁신기술 데이터 수집·적재·연계 파이프라인은 아래 그림과 같다. 직접 개발한 내부 데이터 연계 API를 통해 기존에 구성된 혁신서비스 IoT 플랫폼에 데이터를 조회·호출하여 신규 설계·구축한 DB에 데이터를 적재·수집하고 postgreDB 쿼리 기능을 활용하여 데이터 통계·분석·시각화를 위한 데이터 전처리하고 해당 데이터를 외부 데이터 연계 API를 활용하여 필요데이터를 제공해주거나 시각화를 위한 데이터 정보를 전달해줄 수 있다. 최종적으로 전처리된 데이터를 연계하여 메타버스 공간 內에 시각화 표출할 수 있게 된다.\n\n스마트빌리지 혁신서비스 데이터 수집·적재·연계 파이프라인\n\n스마트빌리지 혁신서비스 운영관리 데이터 시각화 표출\n\n[그림 4.3]스마트빌리지 혁신서비스 데이터 수집·적재·연계 성과\n\n\n![image](image_064.png)\n\n\n![image](image_065.png)\n\n\n![image](image_066.png)\n\n\n![image](image_067.png)\n\n\n![image](image_068.png)\n\n스마트빌리지 가상+현실 T/B 운영 시, 물기업·연구기관 등에게 데이터를 제공하기 위한 기본 행정절차·체계를 수립하여 수요자들에게 원하는 맞춤형 데이터를 제공하는 제도적 기반을 마련하였다. 미세먼지·온습도 등 공공데이터는 공공데이터 제공 포털에 등록하여 공공데이터를 개방하고 있으며, 스마트빌리지 입주민 대상으로 입주민 생활에 필요한 물·에너지 사용량, 환경정보 등 혁신기술 데이터 연계를 통한 앱서비스를 게시하여 맞춤형 데이터를 제공하고 있다.\n\n스마트빌리지 혁신서비스 데이터 제공 체계",
+    "blockRange": [
+      386,
+      402
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0103",
+    "type": "table",
+    "breadcrumb": [
+      "데이터 시각화 및 솔루션 연계",
+      "4.1융복합 데이터·솔루션을 연계·제공하는 ‘가상T/B’개발환경 조성"
+    ],
+    "text": "| 앱서비스 초기화면 | 앱서비스 로그인 화면(동호수별) |\n| --- | --- |\n| 물·에너지 사용량 조회 화면 | 대기·환경정보 조회 화면 |\n| 입출차 정보 조회 화면 | 공지사항 확인 화면 |\n\n**[그림 4.4]스마트빌리지 혁신서비스 데이터 제공 체계 및 앱서비스 구축성과**",
+    "blockRange": [
+      403,
+      403
+    ],
+    "page": 36,
+    "table": {
+      "rows": 3,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0104",
+    "type": "text",
+    "breadcrumb": [
+      "데이터 시각화 및 솔루션 연계",
+      "4.1융복합 데이터·솔루션을 연계·제공하는 ‘가상T/B’개발환경 조성"
+    ],
+    "text": "![image](image_069.png)\n\n\n![image](image_070.png)\n\n\n![image](image_071.png)\n\n\n![image](image_072.png)\n\n\n![image](image_073.png)\n\n\n![image](image_074.png)\n\n\n![image](image_075.png)\n\n3절에서 소개한 가상공간 메타버스와 4.1절에서 소개한 데이터 제공체계(DB 구축·설계, 데이터 내외부 연계 API, 제공 프로세스)를 통해 기업, 연구기관 등이 개발 중인 시범솔루션을 메타버스 內 탑재·구동할 수 있는 환경을 제공하고,\n\n솔루션에 필요한 맞춤형 데이터 연계를 위한 API 연계방법, 활용 가이드 제공 및 맞춤형 데이터 요청기능을 구현하여 솔루션 구동·테스트에 필요한 데이터 제공 환경을 구축하였다. 해당 환경에서 개발중인 신규솔루션에 대한 결과값을 메타버스 내에 연계·시각화하여 가상모의하고 다자간 활용·소통·공유를 통해 비교·검증할 수 있는 체계를 마련하였다.\n\n또한, 수돗물수요예측, 지하매설물AR, 도시침수와 같은 K-water 자체솔루션을 탑재하여 실시간 예측결과를 사용자가 조회·확인이 가능할 수 있도록 메타버스 내에 연계·시각화하였으며, 솔루션 예측-실제 결과값 간의 비교·검증과 사용자 체험·활용에 따른 피드백을 받을 수 있는 다자간 공동활용 및 피드백·개선 등 지속가능한 생태계를 조성하였다.",
+    "blockRange": [
+      404,
+      413
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0105",
+    "type": "heading",
+    "breadcrumb": [
+      "데이터 시각화 및 솔루션 연계"
+    ],
+    "text": "## 4.2 스마트시티 기술 홍보·확산 및 디지털물산업 발굴·육성의장 마련",
+    "blockRange": [
+      414,
+      414
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0106",
+    "type": "text",
+    "breadcrumb": [
+      "데이터 시각화 및 솔루션 연계",
+      "4.2 스마트시티 기술 홍보·확산 및 디지털물산업 발굴·육성의장 마련"
+    ],
+    "text": "금번 연구에서 개발한 스마트빌리지 운영·관리 데이터 연계·시각화 및 다자간 소통이 가능한 크로스 메타버스 플랫폼을 통해 스마트빌리지 내방객들을 대상으로 빌리지 전체 실시간 종합데이터를 보면서 운영현황과 서비스 제공 등 다양한 혁신서비스에 대하여 쉽게 설명할 수 있는 VR 간접체헙 ‘가상 Tour’ 프로그램을 구축하였다.\n\n스마트빌리지 내 스마트시티 대표서비스를 대상으로 가상체험 및 증강현실 프로그램을 구축하였다. 가상체험 컨텐츠는 스마트쓰레기통, 가구재배치 등이 있으며 증강현실 컨텐츠로는 지하매설물 운영현황 조회, 수돗물 수질 AR 등이 있다.\n\n스마트 워터케어 체험 컨텐츠\n\n스마트빌리지 물공급 관리현황 체험 컨텐츠 스마트빌리지 물재해 관리현황 체험 컨텐츠\n\n[그림 4.5]스마트빌리지 간접체험 컨텐츠 구축성과\n\n\n![image](image_076.png)\n\n\n![image](image_077.png)\n\n\n![image](image_078.png)\n\n\n![image](image_079.png)",
+    "blockRange": [
+      415,
+      423
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0107",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제5장",
+    "blockRange": [
+      424,
+      424
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0108",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 확장현실 구현",
+    "blockRange": [
+      425,
+      425
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0109",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현"
+    ],
+    "text": "## 5.1 스마트빌리지 주요 혁신서비스 체험 컨텐츠 구현",
+    "blockRange": [
+      426,
+      426
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0110",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.1 스마트빌리지 주요 혁신서비스 체험 컨텐츠 구현"
+    ],
+    "text": "주방, 화장실 등 용도별 물 사용량, 스마트정수장, 전기, 수열·지열에너지, 스마트홈 IoT, 환경정보 등 41종의 스마트빌리지 혁신서비스 데이터를 수집, 스마트한 서비스를 주민들에게 제공하고 있다.\n\n[그림 5.1]스마트빌리지 혁신기술 현황\n\n41종의 스마트빌리지 혁신서비스 중 물환경, 에너지, 스마트홈 등 38종에 대한 약 434개 데이터 항목에 대한 실시간 데이터와 스마트빌리지 전반에 대한 운영현황 파악을 위한 종합상황판을 내외부 데이터 연계 API를 활용하여 메타버스 가상공간 내 시각화하여 간접체헙 및 공유할 수 있는 컨텐츠를 구현하였다.\n\n더불어 NFC 태그를 활용하여 현실에 위치한 지하매설물을 모바일 디바이스 등을 통해 지하매설물 객체(3D 모델링)를 현실세계(스마트빌리지)에 투영하고 기존정보(관종, 관경, 좌표 등), 운영정보(수압·유량) 등 데이터를 연계·시각화하여 증강현실 컨텐츠를 구현하였다.\n\n\n![image](image_080.png)\n\n스마트 워터케어 체험 컨텐츠\n\n스마트빌리지 물공급 관리현황 체험 컨텐츠 스마트빌리지 물재해 관리현황 체험 컨텐츠\n\n스마트빌리지 운영관리 종합상황판 체험 컨텐츠\n\n지하매설물 조회 AR – NFC 태그 인식\n\n지하매설물 조회 AR – 객체 투영\t지하매설물 조회 AR – 시설정보 조회\n\n[그림 5.2]스마트빌리지 주요 혁신서비스 체험컨텐츠 구축현황\n\n\n![image](image_081.png)\n\n\n![image](image_082.png)\n\n\n![image](image_083.png)\n\n\n![image](image_084.png)\n\n\n![image](image_085.png)\n\n\n![image](image_086.png)\n\n\n![image](image_087.png)\n\n\n![image](image_088.png)\n\n\n![image](image_089.png)\n\n\n![image](image_090.png)",
+    "blockRange": [
+      427,
+      447
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0111",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현"
+    ],
+    "text": "## 5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+    "blockRange": [
+      448,
+      448
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0112",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련"
+    ],
+    "text": "현재 K-water는 댐‧보 운영(유역물관리)으로 하천범람(외수침수) 중심 침수해석에는 뛰어난 기술을 보유하고 있으나, 도시 내부의 침수‧월류 등(내수침수)까지 연계한 정밀한 해석에는 현재 어려움이 있다. 다양한 혁신기술 데이터·솔루션 실증공간인 스마트빌리지를 대상으로 도시 내·외수 요인을 고려한 실시간 정밀 도시침수 모니터링·시뮬레이션인 물특화 솔루션을 시범구축하여 가상(메타버스)+현실(실증랩) T/B에서 실증기반을 마련하고자 한다.\n\n이뿐만 아니라 K-water 자체솔루션인 용수수요 예측, AI 관로사고 감지 솔루션도 탑재하여 실증기반을 마련하고자 한다. 구축하고자 하는 스마트빌리지 메타버스 물특화 솔루션(도시침수) 개발에 대한 전반적인 프로세스는 아래 그림과 같다.\n\n[그림 5.3]스마트빌리지 도시침수 솔루션 구축 프로세스",
+    "blockRange": [
+      449,
+      451
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0113",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련"
+    ],
+    "text": "### 5.2.1 3D 모델 구축(데이터도시침수 수집·처리)",
+    "blockRange": [
+      452,
+      452
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0114",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.1 3D 모델 구축(데이터도시침수 수집·처리)"
+    ],
+    "text": "기존에 구축하였던 Unity 기반의 스마트빌리지 3D 모델은 실시간 도시침수 시뮬레이션을 탑재·구동하기에는 고사양의 성능을 가진 PC가 필요할 뿐만 아니라 정밀 도시침수 분석에 영향을 주는 지형정보, 수리정보 등에 대한 사항이 고려되지 않은 채 구축되어있다. 보다 효율적이고 최적화된 시뮬레이션 구동을 위해 WebGL 기반의 메타버스 공간으로 리빌딩하였다.\n\n솔루션을 개발하기 위한 첫 번째 단계로 도시침수 분석모델을 구축하여야 한다. 분석모델 구축을 위해서 2D 위성사진, DSM(수치표면모델), DEM(수치표고), 토지피복도, 포인트클라우드, 수리정보(우수관거, 맨홀 등), 수문정보(인접하천) 등에 대한 다양한 도시침수에 영향을 주는 지형·공간·시설정보를 바탕으로 스마트빌리지 구역 일대를 3D 모델을 구축하였다.\n\n\n![image](image_091.png)\n\n3D 모델을 구축하기 위해 스마트빌리지 일대 도시 설계자료를 사용한 배수 및 물 순환 시스템을 파악하고 위성사진을 통해 인도, 도로, 거주지 등 지형의 정보를 구분하고 Rhino를 통해 거시적인 스마트빌리지 3D 모델을 생성한다. 이후 3D 포인트 클라우드로 3D 정보를 확인하고 위성사진 기반으로 건축물을 모델링하고 Visual-SLAM을 통해 부수적인 3D정보를 획득하여 건축물, 지역 및 지표면 정보 등을 보완하여 구체적인 모델을 구축하였다.\n\nVisual-SLAM 기술이란 비디오 및 이미지 데이터를 기반으로 카메라의 움직임과 환경의 3D 구조를 동시에 추정하는 기술로 AR/VR 디바이스가 주변 환경의 3D 지도를 생성하고 그 안에서 자신의 위치를 실시간으로 파학한다. 이 기술을 통해서 깊이와 포인트 클라우드를 획득하는 등 공간 스캐닝에도 사용되는 기술이다.\n\nRGB영상 또는 RGB-D, LiDAR 등 카메라 데이터를 입력 데이터로 사용하여 ORB, SIFT, SURF와 같은 알고리즘을 사용하여 영상 내의 키포인트를 추출하고 프레임 간의 매칭을 수행한다. 이후 키포인트 매칭을 바탕으로 카메라의 이동궤적을 추적하고 3D 공간 내에서 키포인트의 위치를 복원하여 환경지도를 생성하고 경로 추적 중 동일 한 위치를 인식하여 누적된 오차를 보정한다.\n\nVisual-SLAM 기술 프로세스\n\nVisual-SLAM 기술 적용\n\n[그림 5.4]Visual-SLAM 기술 프로세스 및 적용예시\n\n\n![image](image_092.png)\n\n\n![image](image_093.png)\n\n마지막으로 Blender 기능을 활용하여 3D 모델의 메시 단일화, 메터리얼 최소 사용, Vertex와 라인 최소 사용, 중복 및 인접 값 제거하여 Visual-SLAM을 통해 구체화된 3D모델의 폴리곤을 감소시키고 재질을 단순화하여 WebGL 기반 메타버스 3D 모델 렌더링을 최적화하였다.\n\nRhino3D 모델 구축 과정\n\nblender3D 모델 구축\n\n3D 모델 최적화 작업\n\n최적화된 3D 모델\n\n[그림 5.5]물특화 솔루션을 위한 3D 모델링 구축성과\n\n\n![image](image_094.png)\n\n\n![image](image_095.png)\n\n\n![image](image_096.png)\n\n\n![image](image_097.png)\n\n\n![image](image_098.png)",
+    "blockRange": [
+      453,
+      474
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0115",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련"
+    ],
+    "text": "### 5.2.2 환경 데이터 수집·연동",
+    "blockRange": [
+      475,
+      475
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0116",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.2 환경 데이터 수집·연동"
+    ],
+    "text": "5.2.1 3D 모델 구축에서 구축한 3D 모델은 속성정보가 없는 단순한 3D 모델로 정밀 도시침수를 구현하기 위해서는 다양한 환경데이터를 수집·연동해야 한다. DEM 등 다양한 지형정보 데이터 수신을 통해 각 시설의 경도, 위도, 고도, 지형경사 데이터를 활용하여 배수시설의 정확한 위치를 결정한다.\n\n[그림 5.6] 도시침수 시뮬레이션 구역설정 프로세스\n\n도시 설계 데이터 수신을 통해 파이프의 각도, 회전 횟수, 폭 등의 구조적 특성을 정의하고 물의 흐름 속도와 배출용량을 실시간으로 계산한다. 고도가 높은 지점의 경우 물의 유출이 용이한 반면, 낮은 지점은 침수될 확률이 높기에 유출경로를 신속하게 설정할 수 있다.\n\n고도와 경사도 분석결과와 배수시설 정보의 통합으로 도시 전체를 포괄하는 네트워크를 구성하여 물의 유동 경로를 효율적으로 관리하도록 지원하고 이를 통해 각 배수시설의 특성이 물의 흐름에 미치는 영향을 정밀히 분석하여 시뮬레이션의 정확도를 높였다.\n\n[그림 5.7]도시 설계 데이터 입력인자\n\n\n![image](image_099.png)\n\n\n![image](image_100.png)\n\n도시 설계 데이터 입력 결과\t최종 배수시설 설정 결과\n\n[그림 5.8]도시 설계 데이터 입력 결과 및 최종 배수시설 설정 결과\n\nSWMM 강우유출 해석을 위한 중요한 인자인 강우 패턴설정을 위해서는 강수데이터, 강수시간 입력을 통해 강우패턴을 설정하고 유역특성 분석을 통한 유속, 흐름을 계산하여 종합적인 패턴분석 결과값을 SWMM에 입력하여야 한다.\n\n[그림 5.9]SWMM 강우패턴 입력 프로세스\n\n강수 데이터 입력의 경우 Openweathermap에서 위도와 경도를 직접 지정하여 해당 장소의 날씨 예보 값을 API로 수신할 수 있게 된다. 해당 API를 활용하여 부산 EDC 스마트빌리지의 위·경도를 입력하여 데이터값을 수신받아 강수 데이터로 활용한다.\n\n[그림 5.10]부산 EDC 강수 및 유역데이터 입력 결과\n\n\n![image](image_101.png)\n\n\n![image](image_102.png)\n\n\n![image](image_103.png)\n\n\n![image](image_104.png)\n\n강우 시간, 강우 데이터 자료를 바탕으로 강우패턴을 설정해야한다. 강우패턴의 경우 몇시부터 강우량이 급격히 증가하는지, 어느 시간대에 강우량이 가장 많은지, 강우가 멈췄다가 다시 오는지, 누적강우량은 어떻게 되는지에 대한 종합적인 분석을 수행했다.\n\n또한, 집중강우량이 배수용량(맨홀, 우수관거가 수용가능한 한계)을 초과하는 경우 침수가 시작되기 때문에 다양한 정보들을 기반으로 배수 네트워크에서 어느 부분이 먼저 침수가 시작되고 어느 맨홀에 가장 부하가 많이 걸리고, 먼저 역류되는지에 대해 검토하였다.\n\n유역 특성의 경우에는 유역의 형태, 지형, 토양, 지질, 토지이용 등의 정보를 활용하여 수문학적 과정의 특징을 분석해야한다. 토양의 종류에 따른 침투율, 토지 이용 계획서를 통한 해당 토지의 변화를 분석하고 강우 데이터를 기반으로 침투 및 증발 손실을 계산하여 유입량을 산출하며 유입량에 유출계수, 시간 지연 등을 고려하여 유출량까지 최종적으로 산출한다.\n\n유역 특성을 고려한 유입·유출량 입력 인자\n\n[그림 5.11]실시간 강우데이터,스마트빌리지 내·외부 수문정보 데이터 수집결과\n\n\n![image](image_105.png)\n\n\n![image](image_106.png)",
+    "blockRange": [
+      476,
+      499
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0117",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련"
+    ],
+    "text": "### 5.2.3 SWMM 알고리즘 모듈화",
+    "blockRange": [
+      500,
+      500
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0118",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.3 SWMM 알고리즘 모듈화"
+    ],
+    "text": "5.2.1절에서 언급한 지형·공간·시설정보 데이터를 수신하여 고도, 경사도, 배수시설 등을 설정·분석하여 통합정보를 도출하고 해당 정보를 3D 모델링 유동관리 평가를 통해 스마트빌리지 시뮬레이션 구역을 설정하여 SWMM 자료에 입력한다.\n\n그리고 5.2.2절에서 언급한 강수 데이터, 시간 입력을 통한 강우 패턴을 설정하고 유역 특성(속도, 흐름)을 분석하여 시뮬레이션 구역에 대한 전반적인 SWMM 강우인자에 들어가는 패턴을 입력함에 따라 스마트빌리지 구역에 대한 SWMM 기반의 강우 유출 시뮬레이션 모델이 구현된다.\n\n[그림 5.12]SWMM 데이터 입력인자 총괄 프로세스\n\n하지만 실시간 정밀 도시침수 시뮬레이션을 구동하기에는 다양한 인자와 실시간 데이터 연계를 고려한 SWMM 해석시간, 메타버스 시각화에 따른 디바이스 성능이슈로 인해 많은 어려움이 발생한다. 이러한 문제를 해결하기 위해서 첫 번째로 PINN 모델 설계를 통한 경량화된 웹기반의 SWMM 알고리즘 모듈화 작업이 필요하다.\n\n여기서 PINN이란 물리정보 신경망(Physics Informed Neural Networks, PINN)으로 편미분방정식(Partial Differential Equation, PDE)와 같은 문제의 지배 방정식을 신경망의 일부분을 통해 인코딩하는 신경망이다.\n\nPINN은 딥러닝 기반의 기계학습을 활용한 PDE를 해결하는 최신의 해법으로 기계학습 기반 방법과 과학적 계산 사이의 격차를 메우는 방법이다. PINN 내의 신경망은 공간 및 시간 좌표를 입력으로 받아 PDE와 함께 학습하여 예측된 결과값을 출력하고 손실함수는 PDE와 경계/초기 조건을 강제하는 항을 포함하고 있다.\n\n\n![image](image_107.png)\n\n이러한 접근 방식은 메쉬 생성 없이 복잡한 기하학을 다룰 수 있으며, 필요에 따라 데이터를 기반으로 솔루션을 적응적으로 개선할 수 있으며 정확성과 효율성을 향상시켜 보다 신뢰할 수 있는 예측이 가능하다. 그러나 PINN을 훈련하는 데는 상당한 계산 자원이 필요하며, 네트워크의 아키텍쳐와 하이퍼파라미터에 민감할 수 있다.\n\n하지만 불완전한 모델과 데이터 상황에서도 PDE 해석이 가능하여 기존 수치해법으로풀 수 없는 문제도 해결이 가능하다. 그리고 소규모 데이터 체제에서도 강력한 일반화의 장점이 있어 물리정보 학습을 시행하거나 내장함으로써 딥러닝 모델은 적은 양의 데이터로 훈련할 수 있다.\n\n[그림 5.13]PINN 모델 학습 개요\n\n이러한 딥러닝은 고해상도 이미지 분류, 언어 모델링, 고차원 PDE와 같은 고차원 문제를 해결하는데 매우 적합하다. 또한, 다중 스케일 및 다중 물리학 시스템의 진화에 대한 신뢰성 높은 예측을 위한 불확실성을 정량화 가능하다는 장점이 있다.\n\n종합손실함수\tPDE 손실함수\t경계조건 손실함수\n\n[그림 5.14]PINN 모델 학습 손실함수 예시\n\n학습과정의 경우를 쉽게 설명하자면, PINN 모델에 입력 데이터를 입력하고 출력되는 결과와 기존에 사용하던 물리방정식을 통해 나오는 결과 값의 차이(손실함수를 통한 계산 값)만큼 PINN 모델의 가중치를 조절하며 점점 차이를 줄여나가며 인공지능 모델의 가중치를 점차 최적화하는 것이다.\n\n\n![image](image_108.png)\n\n\n![image](image_109.png)\n\n\n![image](image_110.png)\n\n\n![image](image_111.png)\n\n물리정보 인공 신경망(PINN) 기반 침수예측 모듈 개발을 위해 딥러닝 신경망 학습과정에 나비에-스토크스 방정식, 운동량 보존 법칙, 침투 방정식 등 유체 동역학의 물리법칙을 통합하여 실시간으로 유동패턴을 예측한다.\n\n이 과정에서 물리법칙과 수학적 방정식을 통해 물의 흐름을 계산하고 병렬 연산을 통해 데이터 처리 속도가 높아진다. 이러한 유체 동역학의 필수 방정식을 적용하여 적은 데이터와 병렬 연산만으로도 도시 내 유동 예측을 수행하며 도시 내 복잡한 유동을 효율적으로 계산할 수 있다.\n\n[그림 5.15]SWMM 알고리즘 모듈화를 위한 PINN 모델 학습개요\n\nPINN 모델 학습을 위한 물리정보를 구축하기 위해 3D Geometry 입구(Inlet) 유체가 도메인에 유입되는 경계, 속도와 압력 조건, 출구(Outlet) 유체가 도메인에서 유출되는 경계, 압력 조건, 벽면(Walls): 유체가 흐르는 도메인의 벽면, 속도 조건과 강우 및 유출과정이 기록된 시간 데이터, 특정위치 및 시간에서의 강우강도와 같은 경계조건 및 물리조건을 설정하였다. 이를통해 공간정보 및 물리조건에 대한 AI학습을 진행하였다.\n\n[그림 5.16]SWMM 알고리즘 모듈화를 위한 PINN 모델 학습 프로세스\n\nPINN 모델 기반의 SWMM 실시간 시뮬레이션 결과를 유동 필드 내에서 압력 분포에 대한 2차원으로 시각화하였으며 특정 시간대(t) 단면에서의 Y, Z 좌표평면에서 결과를 확인할 수 있으며 압력이 동일한 지점들을 연결하여 압력 분포의 세부적인 변화를 분석할 수 있다.\n\n\n![image](image_112.png)\n\n\n![image](image_113.png)\n\n또한, 유동 필드 내에서 속도 크기(스칼라 속도)에 대한 분포 결과를 확인 가능하며 PINN 모델 예측의 결과에 대한 속도 성분들을 이용하여 속도 크기를 계산하였다. 그리고 동일한 속도 크기 지점들을 연결하여 등속선을 통해 속도 분포의 변화를 계산하였고 유동의 속도 변화를 확인할 수 있다.\n\n[압력 분포 시각화 결과]\n\n[등압선 시각화 결과]\n\n[속도 크기 분포 시각화 결과]\n\n[등속선 시각화 결과]\n\nAI모델 기반 침수예측모델 프로세스\n\n[그림 5.17]SWMM 알고리즘 결과값 및 도시침수 예측모델 프로세스\n\n\n![image](image_114.png)\n\n\n![image](image_115.png)\n\n\n![image](image_116.png)\n\n\n![image](image_117.png)\n\n\n![image](image_118.png)\n\n앞서 설명한 내용과 같이 PINN 모델 기반의 SWMM 모듈화는 데이터 구성, 구성된 데이터 기반의 PINN 모델 학습과정을 통해 구축되어 진다. 이렇게 구축된 PINN 모델 기반의 침수예측·분석 시뮬레이션을 결과값을 WebGL 모듈을 통해 메타버스 내 시각화된다.\n\nPINN 모델 기반 SWMM 모듈화 및 시각화 프로세스\n\n도시 침수 시뮬레이션(SWMM 모듈화)결과값 시각화\n\n[그림 5.18]PINN 모델 기반 SWMM 모듈화·시각화 프로세스 및 시각화 결과\n\n\n![image](image_119.png)\n\n\n![image](image_120.png)",
+    "blockRange": [
+      501,
+      544
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0119",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련"
+    ],
+    "text": "### 5.2.4 웹기반 메타버스 환경구축",
+    "blockRange": [
+      545,
+      545
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0120",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.4 웹기반 메타버스 환경구축"
+    ],
+    "text": "[그림 5.19]시스템 개발을 위한 모듈 구조 설계 프로세스\n\n메타버스 환경은 플랫폼 서버를 중심으로 사용자(웹페이지 접속)와 관리자(서버) 인터페이스를 제공하며 데이터 처리 및 시각화를 통해 침수 예측 및 분석결과를 실시간으로 반영한다.\n\n사용자 측면에서는 클라이언트 브라우저를 통해 메타버스 공간에 접속하여 침수 현황 데이터를 시각적으로 확인하고, 특정 지역의 침수 상황을 제어할 수 있도록 설계하였으며 데이터는 DB 서버에 저장되며 침수 현황, 지역 설정 정보, 그리고 입력 데이터를 수집 및 연동을 통해 메타버스 환경에서 실시간 데이터 제공 및 제어 기능을 통해 시뮬레이션 및 분석이 원활히 이루어질 수 있도록 구현했다.\n\n플랫폼서버의 경우 시뮬레이션 모듈과 메타버스 모듈로 구성되어 코어역할을 담당한다. 시뮬레이션 모듈은 IoT 통신과 데이터 수집 기능을 통해 실시간 현장 데이터를 서버로 전송하고 데이터 처리가 완료되면 이를 기반으로 침수예측 결과를 도출한다.\n\n예를들어, 강우량 센서 및 수위데이터를 IoT 통신을 통해 수집하고 해당 데이터를 플랫폼 서버에서 처리한 뒤 메타버스 환경으로 동기화시켜 사용자는 실시간으로 침수 데이터를 확인하고 환경변화에 따른 예측결과를 시각적으로 확인할 수 있게 된다.\n\n메타버스 모듈이 기능을 수행하는데 많은 기술이 사용된다. 시뮬레이션 모듈에서 실시간으로 발생하는 데이터(침수예측 결과값)를 동기화하기 위해 WebSocket이나 API를 통해 클라이언트에게 전성되고 Three.Js에서 데이터를 실시간으로 렌더링 모델에 반영시킨다.\n\n\n![image](image_121.png)\n\n반영된 데이터들은 WebGL을 통해 고해상도 3D모델을 렌더링하고 PBR 기법으로 침수 시뮬레이션 결과값을 물리적으로 기반한 시각 효과가 적용된다. 또한, LOD와 텍스처 압축기법으로 메타버스 공간의 성능을 최적화하였으며 GPU 가속을 통해 웹 브라우저에서 대규모 데이터 처리가 가능하다.\n\n이러한 메타버스 모듈은 실시간 데이터 동기화 및 상태 관리 기능을 통해 사용자 경험을 강화하는데 목적이 있으며, 다수의 사용자가 메타버스 공간에서 협업할 수 있는 환경을 제공하고 데이터 동기화 모듈을 통해 실시간 침수예측 데이터를 메타버스 공간과 연동하여 특정 지역의 침수 위험도를 시각화하고 이를 메타버스 공간에 직관적으로 표현하게 된다.\n\n침수예측을 위한 시뮬레이션 데이터 수집\n\n시뮬레이션 데이터 기반 시각화 로직\n\n침수예측 환경값(시간 별 강우량)조절 및 침수예측 시각화\n\n\n![image](image_122.png)\n\n\n![image](image_123.png)\n\n\n![image](image_124.png)\n\n침수모의(시간대별 강우량 설정)\n\n모의결과(미니맵,침수지역(빨강))\n\n메타버스內 침수 시각화\n\n[그림 5.20]침수예측 시뮬레이션 시각화 과정 및 결과\n\n\n![image](image_125.png)\n\n\n![image](image_126.png)\n\n\n![image](image_127.png)",
+    "blockRange": [
+      546,
+      567
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0121",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련"
+    ],
+    "text": "### 5.2.5 스마트미터 물 수요예측 프로그램 탑재",
+    "blockRange": [
+      568,
+      568
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0122",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.5 스마트미터 물 수요예측 프로그램 탑재"
+    ],
+    "text": "해당 솔루션은 K-water 연구원에서 개발한 자체 솔루션으로 스마트빌리지 혁신서비스 중 하나인 스마트워터케어의 데이터를 활용하여 메타버스 내에 탑재하여 개별 수용가별 물 수요예측을 시각화한 연구이다. 개별 수용가 스마트워터미터 데이터를 이용하여 일일 물 수요량을 사전 예측하는 프로그램으로 향후 스마트정수장 등 상수도 시스템 최적 운영관리에 활용될 계획이다.\n\n해당 프로그램의 주요기능으로는 데이터 정제, 추가 학습데이터 생성, 학습모델 생성 시 학습변수 선택, 물 수요예측으로 이루어져 있다. 데이터 정제의 경우 신뢰성 있는 학습모델을 생성하기 위해 스마트미터 데이터의 오·결측을 판별하고 데이터에 대해 시간 데이터 결측률 기반의 일 데이터 보정을 수행한다.\n\n추가 학습데이터 생성은 기상청의 온도, 습도, 강우, 요일(평일, 휴일, 공휴일) 등 물 사용과 관련된 데이터를 생성하는 기능이다. 학습모델에 관련된 데이터 상관관계분석을 통한 필요데이터를 선별하는 학습변수 선택 기능과 CNN-GRU 알고리즘을 이용한 개별 수용가의 물 수요예측 기능을 가지고 있다.\n\n[그림 5.21]물 사용량 수요예측 프로그램 구동 프로세스\n\n\n![image](image_128.png)\n\n온도, 습도, 강우, 요일 등 물 수요예측에 관련된 추가 학습데이터를 생성하고 공공데이터, 스마트워터케어 데이터 API 연계를 통한 데이터를 수신하여 해당 데이터에 대한 데이터 검보정을 시행한다. 검보정을 시행함에 따라 수신데이터들의 음수데이터, 기준치 초과데이터 등을 제거하고 검보정된 데이터에 대하여 오결측 데이터 분석을 통해 최종적으로 데이터를 보정한다.\n\n이렇게 전처리된 데이터를 바탕으로 데이터 학습모델에 적용할수 있도록 상관관계분석을 통한 데이터 학습변수를 선별하여 시계열 데이터셋을 생성하고 해당 데이터셋을 CNN-GRU 학습모델 생성에 사용한다. 생성된 학습모델을 바탕으로 모델을 학습시켜 최종적으로 물 수요예측에 대한 결과값을 도출해낼 수 있다.",
+    "blockRange": [
+      569,
+      575
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0123",
+    "type": "table",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.5 스마트미터 물 수요예측 프로그램 탑재"
+    ],
+    "text": "| 데이터 수신 및 추가데이터 생성 | 데이터 검보정 |\n| --- | --- |\n| 오결측 데이터 분석 | 시계열 데이터셋 생성 |\n| 데이터 학습변수 선별 | CNN-GRU 학습모델 생성 |\n| 모델 학습 | 물 수요예측 결과값 도출 |\n\n**[그림 5.22]물 사용량 수요예측 절차별 사진대지**",
+    "blockRange": [
+      576,
+      576
+    ],
+    "page": 56,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0124",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.5 스마트미터 물 수요예측 프로그램 탑재"
+    ],
+    "text": "![image](image_129.png)\n\n\n![image](image_130.png)\n\n\n![image](image_131.png)\n\n\n![image](image_132.png)\n\n\n![image](image_133.png)\n\n\n![image](image_134.png)\n\n\n![image](image_135.png)\n\n\n![image](image_136.png)",
+    "blockRange": [
+      577,
+      584
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0125",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련"
+    ],
+    "text": "### 5.2.6 관망해석 및 AI 사고감지 모니터링 체계(waterNET) 연계·시각화",
+    "blockRange": [
+      585,
+      585
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0126",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.6 관망해석 및 AI 사고감지 모니터링 체계(waterNET) 연계·시각화"
+    ],
+    "text": "K-water에서 자체개발한 상수도관망 디지털 트윈인 waterNET은 상수도 시설, 시스템의 자산 및 운영상태의 가상·디지털 표현을 제공하는 와해성 기술로 실시간 검보정에 기반한 물리(온라인 관망해석) 및 데이터 모델 기반의 동적 시뮬레이션 모델이다.\n\nwaterNET을 통해 상수도 시스템 생애주기 전반에 활용되며, 시스템 전체에 대한 통찰력을 통한 최적 운영을 지원한다. 현재 waterNET의 주요 기술은 실시간 거동 분석 및 의사결정 지원(온라인 관망해석, 위기대응 지원)실시간 이상감지, 발생원인 분석 (누수, 관파손, 수질민원 등)이 있다.\n\nwaterNET의 주요 기술 중 하나인 온라인 관망해석은 EPANET 물리모델 기반의 관망해석 S/W이다. 스마트빌리지의 관망정보, 수용가 물사용량, 지형정보 등을 바탕으로 waterNET을 통해 관망해석모델을 구축하여 지점별, 관로별 수압, 유량에 대한 분석값을 API 연계를 통해 메타버스 內 시각화하였다.\n\nAI 사고감지 기술은 수압데이터를 바탕으로 딥러닝 기반의 압력예측 모델을 통해 정상운영 시 수리적 거동에 맞춰 학습된 각 지점별 압력예측과 예측오차의 모니터링을 통해 관 파손사고 발생을 감지하는 기술이다. 스마트빌리지 스마트워터케어에서 계측되는 수압데이터를 통해 지점별 압력예측 모행을 생성하여 AI 사고감지에 관한 데이터 값을 API 연계를 통해 메타버스 內 시각화 하였다.",
+    "blockRange": [
+      586,
+      589
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0127",
+    "type": "table",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.6 관망해석 및 AI 사고감지 모니터링 체계(waterNET) 연계·시각화"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 빌리지 관망해석모델(EPANET)구축 /water-NET탑재 | water-NET內 API서비스 등록‧활용( |\n|  |  |\n| 메타버스(Web)내 관망해석 결과(수압‧유량)시각화 | 메타버스(Web)내 AI사고감지 결과(이상유무)시각화 |",
+    "blockRange": [
+      590,
+      590
+    ],
+    "page": 57,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0128",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.2 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반 마련",
+      "5.2.6 관망해석 및 AI 사고감지 모니터링 체계(waterNET) 연계·시각화"
+    ],
+    "text": "호출결과)\n\n[그림 5.23]관망해석 및 AI사고감지 모니터링 체계(waterNET)연계·시각화 구축성과\n\n\n![image](image_137.png)\n\n\n![image](image_138.png)\n\n\n![image](image_139.png)\n\n\n![image](image_140.png)",
+    "blockRange": [
+      591,
+      596
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0129",
+    "type": "heading",
+    "breadcrumb": [
+      "확장현실 구현"
+    ],
+    "text": "## 5.3 스마트빌리지 메타버스 기반 가상+현실 테스트베드 조성",
+    "blockRange": [
+      597,
+      597
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0130",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.3 스마트빌리지 메타버스 기반 가상+현실 테스트베드 조성"
+    ],
+    "text": "다양한 데이터와 솔루션을 실증할 수 있는 스마트빌리지 리빙랩을 대상으로 다자간 소통의 가능한 3D 메타버스 공간을 구축하고, 스마트빌리지 內 다양한 혁신서비스 데이터, 공공데이터 API 연계·시각화 기능을 구현하였다.\n\n3D 메타버스 공간구축을 통해 신규 솔루션 개발업체는 메타버스 내에서 스마트빌리지 공간을 가상체험하고, 다양한 데이터·솔루션을 다중사용자가 체험해봄으로써 새로운 아이디어를 창출하고 피드백을 통해 완성도 있는 솔루션을 구축할 수 있다. 솔루션 개발을 위한 오픈 포맷 기반의 GIS 및 공간모델 데이터셋과 API 기반의 실시간 데이터 연계 체계 구축으로 스마트빌리지 혁신서비스 데이터, 공공데이터뿐만 아니라 신규 솔루션에서 발생하는 데이터도 제공받을 수 있다.\n\n외부 지원사업인 Open Innovation을 활용한 민간 전문업체 협력으로 가상+현실 테스트베드인 스마트빌리지 메타버스에 도시침수 솔루션 개발·탑재, 성능검증 등 협력·지원체계를 시범운영을 완료하였다. K-water의 물특화 전문지식과 API 기반의 데이터 제공, 다양한 공간정보 데이터셋 제공 및 실증공간 제공을 통해 민간기업의 신규 서비스·솔루션 개발·상용화 등의 지원체계를 마련하였다.\n\n[표 5.1] Open Innovation 제도 개요\n\nOpen Innovation 제도",
+    "blockRange": [
+      598,
+      602
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0131",
+    "type": "table",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.3 스마트빌리지 메타버스 기반 가상+현실 테스트베드 조성"
+    ],
+    "text": "| 제도개요 | (창업진흥원 민관협력 지원사업)<br>‧ 민·관 협력체계 강화와 역동적 디지털 물산업 생태계의 활성화를 위해 중소벤처기업부(창업진흥원) 「2024년 민관협력 오픈이노베이션 지원사업」을 실시<br>‧ (과제명) 데이터·솔루션 연계기반 정밀 도시침수 모니터링·시뮬레이션 시스템<br>‧ (협업기업) 주식회사 공간의파티(디지털트윈 및 데이터시각화 전문기업)<br>‧ (협업내용) 메타버스 3D 도시 기반 SWMM 시각화 작업<br>‧ (사업기간) ‘24.7월 \\~ 12월 / 금액 약 5천만원 내외(창업진흥원 지원) |\n| --- | --- |\n| 지원사업<br>(과제) | (창업진흥원 민관협력 지원사업)<br>‧ 민·관 협력체계 강화와 역동적 디지털 물산업 생태계의 활성화를 위해 중소벤처기업부(창업진흥원) 「2024년 민관협력 오픈이노베이션 지원사업」을 실시<br>‧ (과제명) 데이터·솔루션 연계기반 정밀 도시침수 모니터링·시뮬레이션 시스템<br>‧ (협업기업) 주식회사 공간의파티(디지털트윈 및 데이터시각화 전문기업)<br>‧ (협업내용) 메타버스 3D 도시 기반 SWMM 시각화 작업<br>‧ (사업기간) ‘24.7월 \\~ 12월 / 금액 약 5천만원 내외(창업진흥원 지원) |",
+    "blockRange": [
+      603,
+      603
+    ],
+    "page": 58,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0132",
+    "type": "text",
+    "breadcrumb": [
+      "확장현실 구현",
+      "5.3 스마트빌리지 메타버스 기반 가상+현실 테스트베드 조성"
+    ],
+    "text": "현재, 도시침수 솔루션 검증을 위해 물환경센서 10개소 추가설치를 계획 중이며(‘25), 필요 시 데이터 비교·검증을 위한 인프라를 제공할 예정이다. 개발 솔루션에 대한 실제결과 (도시침수 센서계측값 등)와의 비교·검증을 통한 솔루션 정확도 및 신뢰도 향상 등 활용 가능한 솔루션으로의 완성을 지원하고자 한다. 도시침수 및 물공급 관리 등 솔루션 개발에 필요한\n\n가상(메타버스) + 현실(빌리지) 공간 및 데이터(물‧환경‧에너지 등) 제공과 분석‧예측(솔루션) 및\n\n실제결과(센서) 등 검증 및 개선 등 피드백 체계뿐만 아니라 솔루션 정확도 향상과 솔루션 완성‧상용화를 위한 체계 마련으로 ‘테스트베드’로의 마중물로써 첫 시범프로젝트 완수하였다.",
+    "blockRange": [
+      604,
+      606
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0133",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제 6 장결\t론",
+    "blockRange": [
+      607,
+      607
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0134",
+    "type": "text",
+    "breadcrumb": [
+      "제 6 장결\t론"
+    ],
+    "text": "본 연구는 디지털 트윈 기반의 솔루션 개발·실증·확산, 가상체험 등 시각화 기술개발을 위한 부산 EDC 스마트빌리지 메타버스 시범적용 연구로 스마트빌리지 메타버스 플랫폼으로 제품·서비스에 대한 수요발굴-구상·모의-실증-거래·실영화까지 스마트시티 기술을 완성하는 ‘全주기형 리빙랩’의 실현기반을 마련하는 목표를 가지고 있다.\n\n이번 2차년도 연구에서는 1차년도에서 수행한 다자간 데이터·솔루션을 공유·활용이 가능한 ‘크로스플랫폼 메타버스’ 공간구축과 융복합 데이터·솔루션을 연계·제공하는 ‘가상T/B’ 개발환경 조성이라는 연구수행 내용을 바탕으로 스마트빌리지 주요 혁신서비스를 대상으로 가상공간 내에 데이터 연계·시각화를 구현하였으며 스마트빌리지 메타버스 물특화 솔루션 구축·탑재 및 실증기반을 마련하고 솔루션 기획부터 개발·완성까지 메타버스 기반 가상+현실 테스트베드를 조성하였다.\n\n1차년도에서 기존 설치형 소프트웨어(Unity)로 구현된 3D 메타버스 공간모델을 접근·호환성 향상을 위해 웹기반으로 전환하여 다양한 디바이스로 접근성을 향상시켰으며, 모델링 Tool을 활용한 메시병합, 폴리곤 저감, 텍스쳐 최적화 등을 통한 웹엔진(WebGL)에 맞는 모델 경량화·최적화 작업을 통해 성능을 확보하였다. 또한, 오픈소스 기반 다양한 데이터·솔루션을 적용·확장 가능체계 구현을 위해 표출(WEB/WAS)‧동작(JavaScript)‧분석(Jupyter)‧DB(Postgre) 등 소스가 공개된 범용‧호환 모듈 적용하였다.\n\n다양한 데이터·솔루션이 적용·확장이 가능한 최적화된 웹기반 메타버스에 물특화 솔루션인 정밀도시침수 솔루션과 물공급 관련 솔루션을 구축·탑재하였다. 도시침수 솔루션의 경우, 강우·유출(SWMM)과 물흐름(CFD) 해석모델을 융합·학습한 데이터모델을 구축하고 실시간 분석이 가능토록 구현하기 위해 무거운 물리모델을 데이터모델인 물리정보신경망으로 리빌딩하고 실시간 기상데이터 API를 연계하여 분석모델을 구축하였다.\n\n분석모델에 임의의 강우강도·지속시간 설정으로 다양한 기후상황에 따른 침수양상 결과를 예측할수 있으며 향후 비상대응 등에 활용이 가능하다. 이러한 도시침수 가상모의 결과값을 메타버스 공간 내에 3D 렌더링, 미니맵표출 등 동적 3D 모델 시각화를 통해 다자간 도시침수 간접체험 기능을 구현하였다.\n\n물공급 솔루션의 경우 수압·유량 분석을 통한 모니터링·운영관리 기능과 물사용량 수요예측 기능을 구현하였다.K-water 자체솔루션인 waterNET 기능을 활용하여 스마트빌리지 관망에 대한 해석모델을 구축·분석하고 메타버스 內 해석모델 결과 데이터를 연계·시각화하여 스마트빌리지 수압·유량 현황·분석자료와 AI관로사고 이상감지 현황을 표출하였다.\n\nK-water연구원에서 개발한 CNN-GRU 기반 물사용량 수요예측 학습모델에 스마트빌리지 스마트워터케어 물사용량 데이터를 학습시키고 스마트빌리지 가구별 물 사용량 수요예측량 데이터를 메타버스 內 연계·시각화하여 데이터를 표출하고 있다.\n\n외부 지원사업인 Open Innovation을 활용한 민간 전문업체 협력으로 정밀 도시침수 솔루션을 개발·탑재하고 성능검증을 함으로써 솔루션 개발에 필요한 가상+현실공간과 데이터 제공으로 민관협력 T/B로써 첫 시범프로젝트를 완수하였다. K-water는 물특화 전문지식과 다양한 공간정보, 3D 모델링 등이 관련된 데이터셋을 제공하고 스마트빌리지 혁신서비스 데이터, 공공데이터 및 신규솔루션 개발 데이터 제공체계를 구축하여 민간기업의 신규 서비스·솔루션 개발·상용화의 지원체계를 마련하였다.\n\n또한, 도시침수 솔루션 검증을 위한 물환경센서 추가설치를 계획중이며, 필요시 센서설치 및 데이터 비교·검증을 위한 인프라를 제공할 예정이다. 이러한 개발 솔루션에 대한 실제결과(센서계측 등)와의 비교·검증을 통한 솔루션 정확도 및 신뢰도 향상으로 활용가능한 솔루션으로의 완성을 최종지원하고 있다.",
+    "blockRange": [
+      608,
+      616
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0135",
+    "type": "table",
+    "breadcrumb": [
+      "제 6 장결\t론"
+    ],
+    "text": "| 참 | 여연구원현황 |  |\n| --- | --- | --- |\n| 연구원 | 참여내역 | 비 고 |\n| 김주호 | ◦연구업무총괄 (연구책임자)<br>◦참여분야 :메타버스 구축,확장현실<br>◦참여내역<br>-스마트빌리지 주요 혁신서비스 체험<br>컨텐츠 구현 | -'24.1∼ '24.12<br>-디지털전환추진단<br>-042-629-3801 |\n| 이승희 | ◦연구업무수행 (참여연구원)<br>◦참여분야 :메타버스 구축<br>◦참여내역<br>-데이터 시각화 및 솔루션 연계<br>-스마트빌리지 메타버스 물특화 솔루션<br>구축·탑재 및 실증기반 마련 | -'23.1∼ '24.12<br>-디지털전환추진단<br>-042-629-3808 |\n| 강민석 | ◦연구업무수행 (참여연구원)<br>◦참여분야 :메타버스 구축<br>◦참여내역<br>-공간정보 모델링 및 메타버스 구현<br>-스마트빌리지 주요 혁신서비스 체험<br>컨텐츠 구현 | -'23.1∼ '24.12<br>-디지털전환추진단<br>-042-629-3845 |\n| 윤선경 | ◦연구업무수행 (참여연구원)<br>◦참여분야 :메타버스 구축<br>◦참여내역<br>-공간정보 모델링 및 메타버스 구현<br>-스마트빌리지 메타버스 기반 가상+현실 테스트베드 조성 | -'23.1∼ '24.12<br>-디지털전환추진단<br>-042-629-3824 |\n| 이창섭 | ◦연구업무수행 (참여연구원)<br>◦참여분야 :데이터연계·확장현실<br>◦참여내역<br>-스마트빌리지 메타버스 물특화 솔루션<br>구축·탑재 및 실증기반 마련 | -'24.1∼ '24.12<br>-디지털전환추진단<br>-042-629-3806 |",
+    "blockRange": [
+      617,
+      617
+    ],
+    "page": 61,
+    "table": {
+      "rows": 7,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0136",
+    "type": "table",
+    "breadcrumb": [
+      "제 6 장결\t론"
+    ],
+    "text": "| 연구원 | 참여내역 | 비 고 |\n| --- | --- | --- |\n| 장석민 | ◦연구업무수행 (참여연구원)<br>◦참여분야 :데이터연계·확장현실<br>◦참여내역<br>-스마트시티 기술 홍보·확산 및 디지털<br>물산업 발굴·육성의장 마련<br>-스마트빌리지 메타버스 기반 가상+현실 테스트베드 조성 | -'23.1∼ '24.12<br>-디지털전환추진단<br>-042-629-3809 |\n| 박진기 | ◦연구업무수행 (참여연구원)<br>◦참여분야 :데이터연계·확장현실<br>◦참여내역<br>-융복합 데이터·솔루션을 연계·제공하는<br>‘가상T/B’ 개발환경 조성<br>-스마트빌리지 메타버스 기반 가상+현실 테스트베드 조성 | -'23.1∼ '24.12<br>-디지털전환추진단<br>-042-629-3807 |\n| 박충희 | ◦연구업무수행 (참여연구원)<br>◦참여분야 :데이터연계·확장현실<br>◦참여내역<br>-공간정보 모델링 및 메타버스 구현<br>-스마트빌리지 메타버스 물특화 솔루션<br>구축·탑재 및 실증기반 마련 | -'23.1∼ '24.12-친수사업처<br>-042-629-3347 |",
+    "blockRange": [
+      618,
+      618
+    ],
+    "page": 62,
+    "table": {
+      "rows": 4,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0137",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 서지자료",
+    "blockRange": [
+      619,
+      619
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0138",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "| (1) 기술분류<br>정보-공간정보기술- 달리 분류되지<br>않는 공간정보기술 | (2) 수행방법<br>자체 |  |  | (3) 제출일<br>2024.12.31 |\n| --- | --- | --- | --- | --- |\n| (4) 제목/부제<br>디지털 트윈 기반 솔루션개발·실증·확산, 가상체험 등<br>시각화기술 개발을 위한 EDC 스마트빌리지 메타버스<br>시범적용 연구 |  |  | (5) 연구기간<br>2023.01.01.\\~2024.12.31 |  |\n| (6) 연구수행부서<br>한국수자원공사, 디지털전환추진단 |  |  | (7) 연구수행자(소속)<br>김주호(디지털전환추진단) 외 6인 |  |\n| (8) 수행부서 주소<br>대전시 대덕구 신탄진로 200 |  |  | (9) 연구의뢰기관 |  |\n| (10) 초록 |  |  |  |  |\n| (11) 키워드<br>스마트시티, 스마트빌리지, 리빙랩, 디지털 트윈, 메타버스 |  |  |  |  |\n| (12) #태그 |  |  |  |  |\n| (13) 공개여부<br>예 |  | (14) 총면수<br>XXX |  |  |",
+    "blockRange": [
+      620,
+      620
+    ],
+    "page": 63,
+    "table": {
+      "rows": 8,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0139",
+    "type": "heading",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "### BIBLIOGRAPHIC DATA SHEET",
+    "blockRange": [
+      621,
+      621
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0140",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| (1) Classification of Technology Information-GeospatialTechnology-OtherGeospatialTechnologyNot ElsewhereClassified | (2) Research Method Self-Performed |  | (3) Submission Date |\n| --- | --- | --- | --- |\n| (4) Title/Subtitle (5) Research Period EDC SmartVilageMetaversepilotapplication 2023.01.01.\\~2024.12.31 studyfordigitaltwin-basedsolutiondevelopment‧ substantition,visualizationtechnologydevelopment suchasvirtualexperience |  |  |  |\n| (6) Performing Organization (7) Author(s) Digital Transformation Unit, K-water Junlae Roh including 6 researchers |  |  |  |\n| (8) Performing Organization Address (9) Sponsoring Agency 200 Sintanjin-Ro, Daedeok-Gu, Daejeon |  |  |  |\n| (10) Abstracts |  |  |  |\n| (11) Keyword SmartCity, SmartVillage, Living Lab, Digital Twin, Metaverse |  |  |  |\n| (12) # Tag |  |  |  |\n| (13) Security Yes |  | (14) No. of Pages XXX |  |",
+    "blockRange": [
+      622,
+      622
+    ],
+    "page": 64,
+    "table": {
+      "rows": 8,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0141",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "주의사항\n\n본 보고서의 저작권은 한국수자원공사에 있으므로, 본 자료의 내용을 허가없이 인용, 복사, 전재, 재배포를 할 경우 법적 제재를 받을 수 있습니다.\n\nCopyright ⓒ 2024\n\nby\n\nKorea Water Resources Corporation\n\n발행인 : K-water 사장 윤석대\n\n발행일 : 2024. 12.\n\n발행처 : 한국수자원공사 K-water연구원 대전광역시 유성구 유성대로 1689번길 125 Tel. (042) 870-7005\n\nK-water는 친환경 기업윤리 이념을 구현하기 위하여 2002. 3. 12 『환경경영』을 선포하고, 모든 보고서 발간에 『재생용지 및 무코팅 방식』을 사용하고 있습니다.",
+    "blockRange": [
+      623,
+      631
+    ],
+    "page": 65
+  }
+]

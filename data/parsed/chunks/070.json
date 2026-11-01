@@ -1,0 +1,5209 @@
+[
+  {
+    "id": "c0001",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# WR",
+    "blockRange": [
+      0,
+      0
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0002",
+    "type": "table",
+    "breadcrumb": [
+      "WR"
+    ],
+    "text": "관리번호\n2020-WR-RR-407-1826",
+    "blockRange": [
+      1,
+      1
+    ],
+    "page": 1,
+    "table": {
+      "rows": 2,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0003",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 미계측 하천 취수지점의 가뭄판단 및 예측을 위한 분석체계 구축",
+    "blockRange": [
+      2,
+      2
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0004",
+    "type": "heading",
+    "breadcrumb": [
+      "미계측 하천 취수지점의 가뭄판단 및 예측을 위한 분석체계 구축"
+    ],
+    "text": "## Establishment of Drought Monitoring and Prediction Framework for Ungauged Streamflow Intake Station",
+    "blockRange": [
+      3,
+      3
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0005",
+    "type": "text",
+    "breadcrumb": [
+      "미계측 하천 취수지점의 가뭄판단 및 예측을 위한 분석체계 구축",
+      "Establishment of Drought Monitoring and Prediction Framework for Ungauged Streamflow Intake Station"
+    ],
+    "text": "2020. 12",
+    "blockRange": [
+      4,
+      4
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0006",
+    "type": "text",
+    "breadcrumb": [
+      "미계측 하천 취수지점의 가뭄판단 및 예측을 위한 분석체계 구축",
+      "Establishment of Drought Monitoring and Prediction Framework for Ungauged Streamflow Intake Station",
+      "2020. 12"
+    ],
+    "text": "![image](image_001.png)",
+    "blockRange": [
+      5,
+      5
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0007",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제\t출\t문",
+    "blockRange": [
+      6,
+      6
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0008",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "사 장 귀하\n\n본 보고서를 “미계측 하천 취수지점의 가뭄판단 및 예측을 위한 분석체계 구축 용역 연구”의 최종성과물로 제출합니다.\n\n2020. 12\\.",
+    "blockRange": [
+      7,
+      9
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0009",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "2020. 12."
+    ],
+    "text": "연구책임자 : 중부대학교 책임 연구원 이주헌\n\n연구수행자 : 우한대학교 참여 연구원 김종석\n\n중부대학교 연구 보조원 박서연\n\n자문: 세종대학교 교수 권현한\n\n경상대학교 교수 이태삼\n\n㈜ 지오그린 사장 이명재",
+    "blockRange": [
+      10,
+      15
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0010",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "- i -",
+    "blockRange": [
+      16,
+      16
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0011",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      17,
+      17
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0012",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 1. 연구제목",
+    "blockRange": [
+      18,
+      18
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0013",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1. 연구제목"
+    ],
+    "text": "미계측 하천 취수지점의 가뭄판단 및 예측을 위한 분석체계 구축",
+    "blockRange": [
+      19,
+      19
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0014",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 2. 연구기간",
+    "blockRange": [
+      20,
+      20
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0015",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "2. 연구기간"
+    ],
+    "text": "2020. 6. 10 ∼ 2021. 1. 5",
+    "blockRange": [
+      21,
+      21
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0016",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 3. 연구목적",
+    "blockRange": [
+      22,
+      22
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0017",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3. 연구목적"
+    ],
+    "text": "미계측 지역 하천 취수 지점의 가뭄판단 및 예측을 위한 분석체계와 가뭄판단 및 예측기술 개발",
+    "blockRange": [
+      23,
+      23
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0018",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4. 연구내용",
+    "blockRange": [
+      24,
+      24
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0019",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "- 가. 현장 조사 및 대상 지점 선정\n\n- 복류수 취수 지점 중 현장 조사 및 대상 지점 선정\n\n- 관측 자료 (지하수위, 하천수위, 시설제원, 취수량, 집수정 수위 등) 수집\n\n- 나. 가뭄상황 판단 및 예측\n\n- 관측 자료 활용 복류수 취수 지점의 가뭄판단 방법론 제시\n\n- 계측 필요항목 선정 및 계측 자료 활용 가뭄판단 방법론 제시\n\n- 가뭄상황 예측에 활용 가능한 최적 분석모형 제시\n\n- 다. 계측기 설치 및 자료 수집\n\n- 계측 필요항목에 대한 계측방법 수립\n\n- 계측기 설치 및 자료 수집",
+    "blockRange": [
+      25,
+      34
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0020",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 5. 연구결과",
+    "blockRange": [
+      35,
+      35
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0021",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- 가. 현장 조사 및 대상 지점 선정\n\n- 지자체 취수시설 현황조사 및 관측자료 수집\n\n- 복류수 취수지점의 가뭄판단 및 예측을 위해서 인근에 활용 가능한 관측 자료가 있는 취수지점 65개소 검토 및 시범유역 선정을 위한 예비후보군 선정\n\n- ii -\n\n- 취수장 인근의 강우, 수위, 지하수위 관측 자료의 상관성 분석과 현장조사를 통하여 시범유역 선정\n\n- 나. 가뭄상황 판단 및 예측\n\n- 관측자료 활용 복류수 취수 지점의 가뭄판단 방법론 제시\n\n- 가뭄상황 판단 및 예측을 위하여 하천-지하수위 융합형 가뭄지수 개발방법 제시\n\n- 계측 필요항목 선정 및 활용방안\n\n- 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론 제시\n\n- 지하수위 자료를 HMM 기법을 적용하여 7가지 범주로 분리하고 과거가뭄사상에 대해 검증분석\n\n- 하천-지하수위 융합형 수문학적 가뭄지수 개발방법을 제안하고 LSTM 및 EMD-LSTM을 활용하여 가뭄지수 기반 가뭄 예측 모형을 제시\n\n- 시범유역에 대한 기구축된 자료를 가지고 가뭄조건에 따른 하천수위 및 지하수위 관계 분석\n\n- 다. 계측기 설치 및 자료 수집\n\n- 계측 필요항목에 대한 계측방법 수립\n\n- 시범유역에 대한 관측정 설치 및 자료 수집\n\n- 관측정 설치 중 파악한 지하 지층현황을 바탕으로 조사지역에 대한 지층단면 검토\n\n- 관측정 3개소(복류수, 지하수, 하천수위 관측정)를 대상으로 지점측량 수행\n\n- 관측정 설치이후 관측된 자료를 바탕으로 복류수, 하천수위, 지하수위 분석 및 흐름방향 및 수위특성 분석",
+    "blockRange": [
+      36,
+      54
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0022",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과",
+      "- 관측정 설치이후 관측된 자료를 바탕으로 복류수, 하천수위, 지하수위 분석 및 흐름방향 및 수위특성 분석"
+    ],
+    "text": "본 과업은 미계측 하천 취수지점의 가뭄 판단 및 예측을 위한 분석체계를 구축함으로써 가뭄으로 인한 피해를 사전에 예방하고, 가뭄 발생시 즉각적인 대응을 통해 피해를 최소화하는 방안을 수립하고자 수행되었다. 성공적인 과업 수행을 위해 하천을 취수원으로 하는 미계측 유역을 선정하였으며, 기초자료 조사 및 분석을 통해 최종 시범지역을 선정하였다. 또한, 가뭄상황 판단 및 예측을 위한 다양한 방법론을 제시하였다. 향후 연구로서 시범대상유역에서의 복류수, 지하수위, 하천수위 자료를 바탕으로 현재 가뭄판단 및 예측을 위해 제시된 모델의 적용 가능성 검토가 요구되며, 이를 현업에 활용할 수 있도록 연계방안을 찾는 과정이 필요하다.",
+    "blockRange": [
+      55,
+      55
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0023",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- iii -",
+    "blockRange": [
+      56,
+      56
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0024",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# S U M M A R Y",
+    "blockRange": [
+      57,
+      57
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0025",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "1. Project Title/Subtitle",
+    "blockRange": [
+      58,
+      58
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0026",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1. Project Title/Subtitle"
+    ],
+    "text": "Establishment of Drought Monitoring and Prediction Framework for Ungauged Streamflow Intake Station",
+    "blockRange": [
+      59,
+      59
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0027",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "2. Research Period",
+    "blockRange": [
+      60,
+      60
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0028",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "2. Research Period"
+    ],
+    "text": "2020. 6. 10 ∼ 2021. 1. 5",
+    "blockRange": [
+      61,
+      61
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0029",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "3. Objective of Research",
+    "blockRange": [
+      62,
+      62
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0030",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "3. Objective of Research"
+    ],
+    "text": "This research aims to develop drought monitoring and prediction technology for ungauged river intake stations.",
+    "blockRange": [
+      63,
+      63
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0031",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "4. Content, Scope, and Method of Research\n\n(1) Field survey and selection of Experimental stations\n\n- On-site investigation and selection of target stations among the river-bed water intake points\n\n- Collecting observation data (groundwater level, river stage, facility specifications, water intake, collector well water level, etc.)\n\n(2) Monitoring and prediction of hydrological drought condition\n\n- Suggestion of methodologies for determining drought at river-bed water intake point using observation data\n\n- Selection of items required for measurement and suggestion of drought determination methodology using measurement data\n\n(3) Measuring instrument installation and data collection\n\n- Suggest an optimal analysis model that can be used to predict drought conditions\n\n- Installing instruments and collecting data\n\n- Establish measurement methods for items that need to be measured\n\n- Install monitoring gauges and collect data\n\n- iv -\n\n5. Research Result\n\n(1) Field survey and selection of experimental stations\n\n- Investigate the status of local government’s water intake facilities and collect observation data\n\n- Selection of preliminary candidates for pilot stations and the review of 65 points with observation data available nearby for drought determination and prediction\n\n- Selecting a test-bed through field survey and correlation analysis of data on rainfall, river stage, and groundwater near the intake station\n\n(2) Monitoring and prediction of drought condition\n\n- Suggestion of methodologies for determining drought at river-bed water intake point using observations\n\n- Method development for combining of river-ground water level to determine and predict drought conditions\n\n- Selection and utilization of items required for measurement\n\n- Investigate previous research and analysis methodologies on the behavior characteristics of groundwater and river-underground flow.\n\n- Using HMM techniques, separate the groundwater level data into seven categories and verify the past drought events\n\n- Method development of hydrological drought index for combining river-underground water level and propose drought prediction models based on drought index using LSTM and EMD-LSTM models\n\n- Analysis of the relationship between river stage and groundwater level according to drought conditions with observation data at the test-bed station\n\n(3) Measuring instrument installation and data collection\n\n- Establish measurement methods for observing items that need to be measured\n\n- Install the observation wells and collect data at the test-bed station\n\n- Review of the stratified sections of the survey areas based on the underground stratum conditions identified during the installation of the observation wells\n\n- Site measurements are carried out on three observation wells\n\n- Analysis of river-bed water, river water stage, groundwater level, and flow direction and water level characteristics based on data observed after installation of observation wells at the test-bed\n\n- v -\n\n6. Conclusion",
+    "blockRange": [
+      64,
+      97
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0032",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "6. Conclusion"
+    ],
+    "text": "This project was carried out to establish an assessment system for determining and predicting drought at the ungauged River Intake station to prevent damage caused by drought in advance and to minimize data through immediate response to drought occurrence. To successfully carry out the task, the ungauged station was selected for the collection of water from rivers, and the test-bed was finally selected through the filed survey and available data analysis. In addition, various methodologies for determining and predicting drought conditions are presented. Future research requires a review of the model's applicability for drought determination and prediction based on river-bed water, groundwater, and river water stages in the test-bed. Furthermore, it is necessary to find a link to use them for fieldwork.",
+    "blockRange": [
+      98,
+      98
+    ],
+    "page": 7
+  },
+  {
+    "id": "c0033",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- vi -",
+    "blockRange": [
+      99,
+      99
+    ],
+    "page": 7
+  },
+  {
+    "id": "c0034",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목\t차",
+    "blockRange": [
+      100,
+      100
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0035",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "제 출 문 ···················································································································· ⅰ 요 약 문 ···················································································································· ⅱ 목 차 ···················································································································· ⅶ 표 목 차 ···················································································································· ⅸ 그림목차 ···················································································································· ⅹ\n\n제 1 장 서 론 \t 3\n\n1.1. 과업 배경 및 목적 \t 3\n\n1.2. 과업의 범위 및 내용 \t 3\n\n제 2 장 현장조사 및 대상 지점 선정 \t 7\n\n2.1. 복류수 취수 지점 예비후보군 선정 \t 7\n\n2.1.1. 지자체 취수시설 현황 \t 7\n\n2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정 \t 8\n\n2.2. 관측자료 수집 및 분석을 위한 활용자료 \t 10\n\n2.2.1. 관측자료 수집 \t 10\n\n2.2.2. 분석을 위한 활용 자료 \t 12\n\n2.3. 계측기 설치를 위한 시범대상 취수장 선정 \t 16\n\n2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정 \t 16\n\n2.3.2. 현장조사를 통한 시범대상 취수장 선정 \t 26\n\n2.3.3. 최종 시범지역 선정 \t 31\n\n제 3 장 시범대상 취수장 계측기 설치 및 자료 수집 \t 35\n\n3.1. 계측 필요항목에 대한 계측방법 수립 \t 35\n\n3.1.1. 측량방법 \t 35\n\n3.1.2. 측량결과 및 현장사진 \t 35\n\n3.1.3. 자동수위관측 방법 \t 37\n\n3.2. 시범대상 취수장 계측기 설치 및 자료 수집 \t 38\n\n3.2.1. 시범대상 취수장 계측기 설치 \t 38\n\n3.2.2. 자동수위관측 결과 \t 45\n\n- vii -",
+    "blockRange": [
+      101,
+      124
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0036",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차",
+      "- vii -"
+    ],
+    "text": "제 4 장 가뭄상황 판단 및 예측 \t 53\n\n4.1. 시범대상 취수장의 하천수위-지하수위 분석 \t 53\n\n4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론 \t 58\n\n4.2.1. 계측 필요 항목 선정 및 활용방안 \t 58\n\n4.2.2. 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론 \t 59\n\n4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론 \t 63\n\n4.3.1. 지하수를 활용한 가뭄평가방법 \t 64\n\n4.3.2. 지하수 관측자료를 활용한 가뭄 분석 결과 \t 81\n\n4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시 \t 89\n\n4.4.1. 가뭄예측 모형 \t 89\n\n4.4.2. 하천-지하수위를 활용한 수문학적 가뭄 예측 모형 방법 제시 \t 92\n\n4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시 \t 102\n\n제 5 장 결론 및 향후 연구 \t 113\n\n참고문헌 \t 119",
+    "blockRange": [
+      125,
+      138
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0037",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "- viii -",
+    "blockRange": [
+      139,
+      139
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0038",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표\t목\t차",
+    "blockRange": [
+      140,
+      140
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0039",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차"
+    ],
+    "text": "[표 2.1] 수원종류별 시·도별 하천수 취수시설 현황 \t 7\n\n[표 2.2] 수원종류별, 시·도별 하천수 취수시설 현황 및 조사 대상취수장 목록 \t 8\n\n[표 2.3] 시범유역의 가뭄분석 및 수문-기상자료 활용을 위한 수문관측소 위치 \t 12\n\n[표 2.4] 지역별로 구분된 기상청 강우관측지점 \t 15\n\n[표 2.5] 계측기 설치지점 판단을 위한 기준 \t 16\n\n[표 2.6] 현장에서의 계측기 설치를 위한 시범유역 선정 기준 \t 16\n\n[표 2.7] 유천취수장 가뭄 상관성 분석 결과(2015.09.10.\\~2019.12.31) \t 17\n\n[표 2.8] 송탄취수장 가뭄 상관성 분석 결과(2015.05.08.\\~2019.12.31) \t 18\n\n[표 2.9] 청산취수장 가뭄 상관성 분석 결과(2016.01.02.\\~2019.12.31.) \t 19\n\n[표 2.10] 영월취수장 가뭄 상관성 분석 결과 (2009.01.01.\\~2019.12.31.) \t 20\n\n[표 2.11] 영동취수장의 가뭄 상관성 분석 결과 (2004.11.26.\\~2019.12.31.) \t 21\n\n[표 2.12] 중명취수장/포항제2취수장 가뭄 상관성 분석 결과 (2002.09.01.\\~2019.12.31.) \t 22\n\n[표 2.13] 하동취수장 가뭄 상관성 분석 결과 (2009.01.01.\\~2019.12.31.) \t 23\n\n[표 2.14] 고령취수장(지방) 가뭄 상관성 분석 결과 (2009.01.01.\\~2019.12.31.) \t 24\n\n[표 2.15] 덕송취수장 가뭄 상관성 분석 결과 (2010.06.18.\\~2019.12.31.) \t 25\n\n[표 2.16] 청산취수장 관측지점 \t 31\n\n[표 3.1] 관측정 측량 결과 \t 35\n\n[표 3.2] 지하수위 및 수온 자동관측장비의 특징 \t 37\n\n[표 3.3] 관측정 설치 정보 \t 40\n\n[표 4.1] 청산취수장의 인자별 가뭄 상관성 분석 결과(2016.01.02.\\~2019.12.31.) \t 57\n\n[표 4.2] 계측 장비 \t 58\n\n[표 4.3] Markov Chain 전이확률 행렬 \t 66\n\n[표 4.4] 은닉상태의 천이확률(transition probability) \t 84\n\n- ix -",
+    "blockRange": [
+      141,
+      164
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0040",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그\t림\t목\t차",
+    "blockRange": [
+      165,
+      165
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0041",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "[그림 2.1] 시범유역 예비후보군으로 선정된 취수장 및 상하류 수위 및 지하수 관측소 위치 ··· 9 [그림 2.2] 국가수자원관리종합정보시스템(WAMIS) \t 10\n\n[그림 2.3] 국가 지하수관측망(412개 관측소) \t 11\n\n[그림 2.4] 다수의 관측지점 자료를 제외시킨 관측자료 예시 \t 13\n\n[그림 2.5] 국가 지하수관측망(412개 관측소)(Red), 2000년 이후 관측자료(Green), 본과업 분석 대상 관측자료(Blue) \t 14\n\n[그림 2.6] 국가 지하수관측망 자료 중 본 분석에 선택된 관측소 시계열 \t 14\n\n[그림 2.7] 유천취수장 인근 관측소 및 SPI기반의 가뭄 정보 \t 17\n\n[그림 2.8] 송탄취수장 인근 관측소 및 SPI기반의 가뭄 정보 \t 18\n\n[그림 2.9] 청산취수장 인근 관측소 및 SPI기반의 가뭄 정보 \t 19\n\n[그림 2.10] 영월취수장 인근 관측소 및 SPI기반의 가뭄 정보 \t 20\n\n[그림 2.11] 영동취수장 인근 관측소 및 SPI기반의 가뭄 정보 \t 21\n\n[그림 2.12] 중명취수장/포항제2취수장 취수장 인근 관측소 및 SPI기반의 가뭄 정보 \t 22\n\n[그림 2.13] 하동취수장 인근 관측소 및 SPI기반의 가뭄 정보 \t 23\n\n[그림 2.14] 고령취수장(지방) 인근 관측소 및 SPI기반의 가뭄 정보 \t 24\n\n[그림 2.15] 덕송취수장 인근 관측소 및 SPI기반의 가뭄 정보 \t 25\n\n[그림 2.16] 청산취수장(보청천) 현황 \t 26\n\n[그림 2.17] 청산취수장(보청천) 취수보 상하류 전경 \t 27\n\n[그림 2.18] 청산취수장의 계측기 설치를 위한 후보 1지점 \t 28\n\n[그림 2.19] 청산취수장의 계측기 설치를 위한 후보 2지점 \t 28\n\n[그림 2.20] 청산취수장의 계측기 설치를 위한 후보 3지점 \t 29\n\n[그림 2.21] 영동취수장(금강) 현황 \t 29\n\n[그림 2.22] 영동취수장 현장답사 사진 \t 30\n\n[그림 2.23] 청산취수장 관측정 설치지점(지적도) \t 31\n\n[그림 3.1] 측량개념도 및 측량장비사진 \t 35\n\n[그림 3.2] 측량 현황 \t 36\n\n[그림 3.3] 자동관측장비 및 수동수위 측정기 \t 37\n\n[그림 3.4] 관측정 설치 순서도 \t 39\n\n[그림 3.5] 관측정별 설치 현황 \t 40\n\n[그림 3.6] 복류수관측정 설치 현황 \t 42\n\n[그림 3.7] 지하수관측정 설치 현황 \t 43\n\n[그림 3.8] 하천수위 관측정 설치 현황 \t 43\n\n- x -",
+    "blockRange": [
+      166,
+      196
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0042",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- x -"
+    ],
+    "text": "[그림 3.9] 장기수위관측장비 설치(조거설정사진) \t 44\n\n[그림 3.10] 조사지역 지층현황 \t 45\n\n[그림 3.11] 수위관측결과(복류수) \t 45\n\n[그림 3.12] 수위관측결과(지하수) \t 46\n\n[그림 3.13] 수위관측결과(하천수) \t 46\n\n[그림 3.14] 수위관측결과(전체) \t 47\n\n[그림 3.15] 수온관측결과(복류수) \t 48\n\n[그림 3.16] 수온관측결과(지하수) \t 48\n\n[그림 3.17] 수온관측결과(하천수) \t 49\n\n[그림 3.18] 수온관측결과(전체) \t 49\n\n[그림 4.1] 가뭄지수(SPI)에 의한 가뭄상황 분석 (영동취수장) \t 54\n\n[그림 4.2] 2014년\\~2015년 가뭄지수와 지하수위-하천수위간의 상관성 분석결과(영동취수장) · 54 [그림 4.3] 2014년\\~2015년 하천수위-지하수위 상관성 분석결과 (영동취수장) \t 54\n\n[그림 4.4] 전기간 가뭄조건에 따른 하천-지하수위 분석 (2004-2019) (영동취수장) \t 55\n\n[그림 4.5] 가뭄지수(SPI)에 의한 가뭄상황 분석 (청산취수장) \t 56\n\n[그림 4.6] 전기간 가뭄조건에 따른 하천-지하수위 상관성 분석 (청산취수장) \t 57\n\n[그림 4.7] 이득하천(A)과 손실하천(B)의 개념도 \t 59\n\n[그림 4.8] 지형에 따른 지표수-지하수 혼합대 \t 59\n\n[그림 4.9] 마르코프 연쇄 과정에서 전이확률의 계산 \t 66\n\n[그림 4.10] HMM의 출력 구조 \t 69\n\n[그림 4.11] 전향 알고리즘의 과정 \t 71\n\n[그림 4.12] 후향 알고리즘의 과정 \t 72\n\n[그림 4.13] viterbi 알고리즘의 진행과정 \t 74\n\n[그림 4.14] viterbi 알고리즘의 역추적 단계(Path backtracking) \t 75\n\n[그림 4.15] EM 알고리즘의 기본 개념 \t 77\n\n[그림 4.16] 지하수 수위 자료 공간상관성 분석결과 \t 82\n\n[그림 4.17] 30개 관측소에 적용한 Viterbi 알고리즘을 통한 은닉상태 Sequence(일단위) \t 83\n\n[그림 4.18] 각 은닉상태의 발생빈도 및 지하수위 Anomaly(일단위) \t 83\n\n[그림 4.19] 30개 관측소에 적용한 Viterbi 알고리즘을 통한 은닉상태 Sequence(월단위) \t 84\n\n[그림 4.20] 각 은닉상태의 발생빈도 및 지하수위 Anomaly(월단위) \t 84\n\n[그림 4.21] 각 천이확률의 DAG 그래프 \t 85\n\n[그림 4.22] 월강수량 자료를 활용한 SPI 가뭄지수 산정결과 \t 86\n\n[그림 4.23] 지하수위를 이용한 가뭄단계 및 강수량을 이용한 SPI-6 가뭄지수 비교 \t 87\n\n[그림 4.24] 각 가뭄상태별 발생확률 도시 \t 87\n\n[그림 4.25] 지하수위와 지체시간별 상관관계 분석 \t 88",
+    "blockRange": [
+      197,
+      230
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0043",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xi -",
+    "blockRange": [
+      231,
+      231
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xi -"
+    ],
+    "text": "[그림 4.26] Architecture of a Deep Belief Network with two RBMs \t 89\n\n[그림 4.27] Layered architecture of the proposed model \t 91\n\n[그림 4.28] Flowchart of the model \t 92\n\n[그림 4.29] AI 모형의 구조 (Neural Network, Recurrent Neural Network, 및 Long\n\nShort-term Memory) \t 94\n\n[그림 4.30] Stacked LSTM (출처: https://content.iospress.com/articles/\n\njournal-of-intelligent-and-fuzzy-systems/ifs169836) \t 95\n\n[그림 4.31] 고령지점의 지하수위 시계열(상) 및 내재모드함수(Intrinsic Mode Fucntions, IMFs) ··· 96 [그림 4.32] 고령지점의 지하수위 일자료에 대한 내재모드함수(IMF)의 유의성 검증 \t 97\n\n[그림 4.33] 고령지점의 지하수위 일자료의 시계열 및 선택된 내재모드함수(IMF)의 합(상), 선택된 IMF의 합과 나머지 IMF합(Residual)과의 Scatterplot (하-좌측), 그리고 Residual의 1차 자기상관관계 Scatterplot(하-우측) \t 98\n\n[그림 4.34] 입력자료개수 및 hidden node개수에 따른 1-stack 및 2-stack LSTM의 평균제곱근 오차(RMSE) 결과 \t 99\n\n[그림 4.35] LSTM 및 EMD-LSTM의 결과 비교 \t 100\n\n[그림 4.36] Test기간 관측자료와 예측자료 시계열 비교 \t 101\n\n[그림 4.37] 고령지점 수위자료의 미래예측 예시 \t 102\n\n[그림 4.38] 청산취수장 지점의 지하수위 시계열(상) 및 내재모드함수 \t 103\n\n[그림 4.39] 청산취수장 지점의 지하수위 일자료에 대한 IMFs의 유의성 검증 \t 103\n\n[그림 4.40] 청산취수장 지점의 지하수위 일자료의 시계열 및 선택된 내재모드함수(IMF)의 합\n\n(상), Residual(중), Standard deviation (하) \t 104\n\n[그림 4.41] 입력자료개수 및 hidden node개수에 따른 1-stack 및 2-stack LSTM의 평균제곱근 오차(RMSE) 결과 (청산취수장 자료) \t 105\n\n[그림 4.42] Test기간 관측자료와 예측자료 시계열 비교 (청산취수장) \t 106\n\n[그림 4.43] 청산취수장 지점의 SPI30일 시계열(상) 및 내재모드함수 \t 107\n\n[그림 4.44] 청산취수장 지점의 SPI180일 시계열(상) 및 내재모드함수 \t 107\n\n[그림 4.45] 청산취수장 지점의 SPI30일 시계열 및 선택된 내재모드함수(IMF)의 합(상),\n\nResidual(중), Standard deviation (하) \t 108\n\n[그림 4.46] 청산취수장 지점의 SPI180일 시계열 및 선택된 내재모드함수(IMF)의 합(상),\n\nResidual(중), Standard deviation (하) \t 108\n\n[그림 4.47] Performance measurement \t 109\n\n[그림 4.48] 관측자료와 예측자료 시계열 비교 \t 110\n\n[그림 5.1] 향후 미계측 하천 취수지점의 가뭄판단 방법 \t 117",
+    "blockRange": [
+      232,
+      259
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0045",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xii -",
+    "blockRange": [
+      260,
+      260
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0046",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xii -"
+    ],
+    "text": "제1장 서론\n\n1.1 과업의 배경 및 목적\n\n1.2 과업의 범위 및 내용\n\n제1장 서 론",
+    "blockRange": [
+      261,
+      264
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0047",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제1장서론",
+    "blockRange": [
+      265,
+      265
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0048",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론"
+    ],
+    "text": "## 1.1. 과업 배경 및 목적",
+    "blockRange": [
+      266,
+      266
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0049",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.1. 과업 배경 및 목적"
+    ],
+    "text": "가뭄은 관측 및 정의하기가 어려우며 가뭄 피해 또한 정량적으로 추정할 수 없는 복잡한 자연현상이다. 우리나라는 2012년부터 2019년까지 끊임없이 발생한 가뭄으로 커다란 피해가 발생하였다. 국가가뭄정보포털에 따르면 가뭄에 의한 지방상수도 제한급수 피해 인구는 2012년 508명, 2015년은 생활용수 급수조정(충남 7개 시군 20% 감량)이 들어갔으며, 2016년은 35개 시군에서 11,123명, 2017년은 51개 시군에서 26,853명, 2018년은 22개 시군에서 111,473명, 2019년은 15개 시군에서 9,789명으로 매년 증가하는 추세이다.\n\n하지만 하천을 수원으로 하는 지방상수도의 경우에는 하천 유량을 감시할 수 있는 관측시설이 없기 때문에 가뭄 발생시 하천 유량이 감소함에 따라 취수량 조절 등의 사전 대응이 곤란한 실정이다. 따라서 수원의 정보를 기반으로 한 가뭄상황 판단 및 예․경보 체계에 부합하기 위해서는 하천수, 지하수 정보를 기반으로 한 미급수지역의 체감 가뭄상황을 가뭄 판단에 반영할 필요가 있다.",
+    "blockRange": [
+      267,
+      268
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0050",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론"
+    ],
+    "text": "## 1.2. 과업의 범위 및 내용",
+    "blockRange": [
+      269,
+      269
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0051",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2. 과업의 범위 및 내용"
+    ],
+    "text": "본 과업은 현장 조사 및 대상지점 선정, 가뭄상황 판단 및 예측, 계측기 설치 및 자료 수집과 같이 총 3가지 주요 범위로 나누어져 있으며, 과업의 세부내용은 다음과 같다.\n\n□ 현장 조사 및 대상 지점 선정\n\n◦ 복류수 취수 지점 중 현장 조사 및 대상 지점 선정\n\n◦ 관측 자료(지하수위, 하천수위, 시설제원, 취수량, 집수정 수위 등) 수집\n\n□ 가뭄상황 판단 및 예측\n\n◦ 관측 자료 활용 복류수 취수 지점의 가뭄판단 방법론 제시\n\n◦ 계측 필요항목 선정 및 계측 자료 활용 가뭄판단 방법론 제시\n\n◦ 가뭄상황 예측에 활용 가능한 최적 분석모형 제시\n\n□ 계측기 설치 및 자료 수집\n\n◦ 계측 필요항목에 대한 계측방법 수립\n\n◦ 계측기 설치 및 자료 수집",
+    "blockRange": [
+      270,
+      280
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0052",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2. 과업의 범위 및 내용",
+      "◦ 계측기 설치 및 자료 수집"
+    ],
+    "text": "![image](image_002.png)\n\n제2장 현장 조사 및 대상 지점 선정\n\n2.1 복류수 취수 지점 예비후보군 선정\n\n2.2 관측자료 수집 및 분석을 위한 활용자료\n\n2.3 계측기 설치를 위한 시범대상 취수장 선정",
+    "blockRange": [
+      281,
+      285
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0053",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제2장 현장조사 및 대상 지점 선정",
+    "blockRange": [
+      286,
+      286
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0054",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정"
+    ],
+    "text": "## 2.1. 복류수 취수 지점 예비후보군 선정",
+    "blockRange": [
+      287,
+      287
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0055",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정"
+    ],
+    "text": "### 2.1.1. 지자체 취수시설 현황",
+    "blockRange": [
+      288,
+      288
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0056",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.1. 지자체 취수시설 현황"
+    ],
+    "text": "미계측 유역의 가뭄 판단을 위한 현장 조사 및 대상 지점 선정을 위해 하천을 수원으로 사용 중인 복류수 취수 지점을 살펴본 결과, 복류수 취수는 109개소, 집수매거는 107개, 얕은우물은 2개 취수시설을 활용하고 있으며, 대부분 강원도(61개소) 및 경상북도(59개소)에 위치하고 있다([표 2.1]).\n\n(단위 : 취수시설 개수)",
+    "blockRange": [
+      289,
+      290
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0057",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.1. 지자체 취수시설 현황"
+    ],
+    "text": "**[표 2.1] 수원종류별 시·도별 하천수 취수시설 현황**\n\n| 구 분 |  | 시·군<br>(수) | 취수장합 계 | 표류수 |  |  |  | 복류수 |  | 비고 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 구 분 |  | 시·군<br>(수) | 취수장합 계 | 취수보 | 취수관거 | 취수탑 | 기타<br>(취수문 등) | 집수매거 | 얕은우물 | 비고 |\n|  | 지자체 | 76 | 182 | 26 | 21 | 9 | 5 | 107 | 2 |  |\n|  | 지자체 |  | 100% | 14.3% | 11.5% | 4.9% | 2.7% | 58.8% | 1.1% |  |\n|  | 서울특별시 | - | - | - | - | - | - | - | - |  |\n|  | 부산광역시 | 1 | 1 | - | - | 1 | - | - | - |  |\n|  | 대구광역시 | - | - | - | - | - | - | - | - |  |\n|  | 인천광역시 | - | - | - | - | - | - | - | - |  |\n|  | 광주광역시 | - | - | - | - | - | - | - | - |  |\n|  | 대전광역시 | - | - | - | - | - | - | - | - |  |\n|  | 울산광역시 | - | - | - | - | - | - | - | - |  |\n|  | 세종특별자치시 | - | - | - | - | - | - | - | - |  |\n|  | 경기도 | 7 | 12 | - | 1 | 2 | - | 6 | 2 |  |\n|  | 강원도 | 17 | 61 | 3 | 11 | 1 | 1 | 42 | - |  |\n|  | 충청북도 | 6 | 9 | 1 | - | 2 | - | 5 | - |  |\n|  | 충청남도 | 4 | 6 | 4 | - | - | - | 1 | - |  |\n|  | 전라북도 | 7 | 14 | 8 | - | - | - | 4 | - |  |\n|  | 전라남도 | 5 | 6 | 1 | 2 | 1 | - | 2 | - |  |\n|  | 경상북도 | 20 | 59 | 6 | 7 | - | 2 | 40 | - |  |\n|  | 경상남도 | 9 | 14 | 3 | - | 2 | 2 | 7 | - |  |\n|  | 제주도 | - | - | - | - | - | - | - | - |  |",
+    "blockRange": [
+      291,
+      291
+    ],
+    "page": 21,
+    "table": {
+      "rows": 21,
+      "cols": 11
+    }
+  },
+  {
+    "id": "c0058",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정"
+    ],
+    "text": "### 2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정",
+    "blockRange": [
+      292,
+      292
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0059",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정"
+    ],
+    "text": "복류수 취수지점의 가뭄판단 및 예측을 위해서는 취수지점의 수위(유량) 정보가 필요하다. 하지만, 복류수 취수지점 인근에 활용 가능한 수위관측 자료가 있는 취수지점은 65개소에 불과하며, 복류수 취수시설의 경우에도 하천수위 변화에 따른 취수영 향이 적어서 직접적인 가뭄상황 판단이 어렵기 때문에 인근에 위치하는 하천수위, 지하수위 등 다양한 정보를 수집할 수 있는 취수장 선정이 필요하다.\n\n복류수 취수지점의 대상 지점 선정을 위해 “지자체 취수시설(하천수) 조사계획(안)”의 시범 조사 대상지역을 포함하여 21개소의 취수장을 선정하였다([표 2.2]).",
+    "blockRange": [
+      293,
+      294
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0060",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정"
+    ],
+    "text": "**[표 2.2] 수원종류별, 시·도별 하천수 취수시설 현황 및 조사 대상취수장 목록**\n\n| 시군 | 취수장명 | 하천명 | 취수<br>형태 | 시설용량<br>(m3/일) | '18취수량<br>(m3/일) | 인근<br>수위국명 | 하천수<br>사용허가 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 가평군 | 설악취수장 | 미원천 | 얕은우물 | 2,000 | 1,500 | 가평군<br>(청평댐) | - |\n| 가평군 | 현리취수장 | 조종천 | 얕은우물 | 10,000 | 5,196 | - | - |\n| 안성시 | 대덕취수장 | 한천 | - | 20,000 | 5,269 | - | - |\n| 양평군 | 양동취수장 | 계정천 | 집수매거 | 1,000 | 610 | - | - |\n| 양평군 | 양평통합(취) | 흑천 | 집수매거 | 26,000 | 22,685 | 양평군<br>(흑천교) | - |\n| 연천군 | 연천통합(취) | 임진강 | 취수탑 | 116,000 | 109,225 | 군남홍수조절지 | 한강305-1호 |\n| 연천군 | 백학취수장 | 사미천 | 집수매거 | 4,000 | 145 | 사미천 | 한강212-3호 |\n| 파주시 | 금파취수장 | 임진강 | 취수관거 | 100,800 | 72,263 | - | 한강066-2호 |\n| 평택시 | 송탄취수장 | 진위천 | 집수매거 | 15,000 | 10,486 | 진위천 | 한강259-1호 |\n| 평택시 | 유천취수장 | 안성천 | 집수매거 | 15,000 | 9,780 | 양령 | 한강136-2호 |\n| 포천시 | 관인취수장 | 한탄강 | 취수탑 | 1,900 | 2,045 | 관인 | - |\n| 포천시 | 이동취수장 | 영평천 | 집수매거 | 1,700 | 1,293 | - | - |\n| 옥천군 | 청산취수장 | 보청천 | 집수매거 | 1,000 | 602 | - | - |\n| 영월군 | 영월취수장 | 복류수 | 집수매거 | 13,500 | 12,430 | - | - |\n| 영동군 | 영동취수장 | 금강 | 집수매거 | 13,500 | 12,481 | - |  |\n| 포항시 | 중명취수장 | 형산강 | 집수매거 | 14,000 | 33,933 | - |  |\n| 포항시 | 제2취수장 | 형산강 | 집수매거 | 69,000 | 45,080 | - |  |\n| 하동군 | 하동취수장 | 섬진강 | 집수매거 | 5,000 | 4,491 | - | - |\n| 고령군 | 고령취수장<br>(지방) | 회천 | 집수매거 | 9,000 | 8,632 | - | - |\n| 정선군 | 덕송취수장 | 조양강 | 집수매거 | 5,200 | 4,078 | - | - |\n| 인제군 | 서화취수장 | 인북천 | 집수매거 | 4,400 | 4,288 | - | - |",
+    "blockRange": [
+      295,
+      295
+    ],
+    "page": 22,
+    "table": {
+      "rows": 22,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0061",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정"
+    ],
+    "text": "선정된 21개소의 취수장 중 취수장의 취수형태가 없는 대덕취수장과 얕은우물 형태인 설악취수장과 현리취수장, 취수관거 형태인 금파취수장, 취수탑 형태인 연천통합취수장, 관인취수장을 제외하였으며, 취수형태 외에도 취수장 인근에 수위관측소 및 지하수위관측소가 없는 취수장 또한 최종 선정과정에서 배제하였다.\n\n위와 같은 이유로 시범유역에서 제외되어 최종적으로 예비후보군으로 선정된 곳은 청산, 영월, 영동, 중명, 하동, 고령, 덕송 등 7개소로 축소되었다([그림 2.1]).",
+    "blockRange": [
+      296,
+      297
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0062",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정"
+    ],
+    "text": "| (a) 청산취수장 | (b) 영월취수장 |\n| --- | --- |\n| (c) 영동취수장 | (d) 중명취수장, 제2취수장 |\n| (e) 하동취수장 | (f) 고령취수장(지방) |",
+    "blockRange": [
+      298,
+      298
+    ],
+    "page": 23,
+    "table": {
+      "rows": 3,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0063",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정"
+    ],
+    "text": "![image](image_003.png)\n\n\n![image](image_004.png)\n\n\n![image](image_005.png)\n\n\n![image](image_006.png)\n\n\n![image](image_007.png)\n\n\n![image](image_008.png)",
+    "blockRange": [
+      299,
+      304
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0064",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정"
+    ],
+    "text": "(g) 덕송취수장",
+    "blockRange": [
+      305,
+      305
+    ],
+    "page": 24,
+    "table": {
+      "rows": 1,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0065",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.1. 복류수 취수 지점 예비후보군 선정",
+      "2.1.2. 시범대상 취수장 선정을 위한 예비후보군 선정"
+    ],
+    "text": "[그림 2.1] 시범유역 예비후보군으로 선정된 취수장 및 상하류 수위 및 지하수\n\n관측소 위치",
+    "blockRange": [
+      306,
+      307
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0066",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정"
+    ],
+    "text": "## 2.2. 관측자료 수집 및 분석을 위한 활용자료",
+    "blockRange": [
+      308,
+      308
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0067",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료"
+    ],
+    "text": "### 2.2.1. 관측자료 수집",
+    "blockRange": [
+      309,
+      309
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0068",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.1. 관측자료 수집"
+    ],
+    "text": "- 가. 하천수위 관측자료",
+    "blockRange": [
+      310,
+      310
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0069",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.1. 관측자료 수집",
+      "가. 하천수위 관측자료"
+    ],
+    "text": "국가수자원관리종합정보시스템(WAMIS)은 물관련 정보를 대국민 서비스하기 위해 구축 운영되고 있는 인터넷 기반의 포털시스템으로 수자원정보를 다양하게 제공하고 있다. 2.1절에서 선정된 취수장 인근 하천의 상·하류에 위치하는 수위 관측자료를 국가수자원관리종합정보시스템을 통해 수집하였다.\n\n[그림 2.2] 국가수자원관리종합정보시스템(WAMIS)\n\n\n![image](image_009.png)\n\n\n![image](image_010.png)",
+    "blockRange": [
+      311,
+      314
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0070",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.1. 관측자료 수집"
+    ],
+    "text": "- 나. 지하수위 관측자료",
+    "blockRange": [
+      315,
+      315
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0071",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.1. 관측자료 수집",
+      "나. 지하수위 관측자료"
+    ],
+    "text": "국가지하수관측망은 지하수 수위 및 수질 변동을 지속적으로 감시·관측하기 위해 환경부에서 설치한 지하수 관측시설로, 장기간의 관측기간과 품질관리를 통한 신뢰성이 확보되고, 실시간 자료 확보가 가능한 지하수위 관측 자료는 국가 지하수관측망 자료가 유일하다. [그림 2.3]은 국가지하수정보센터에서 관리하는 국가 지하수관측망을 나타낸다. 물리적으로 지하수위는 강수나 유출에 비해 수문학적 특성상 변동성이 크지 않는 변량으로서 통계적으로 보면 수문학적 지속성이 매우 큰 수문시계열 중에 하나이다. 즉, 강우에서부터 침투 등을 거쳐 지하수위를 형성하기 까지 시간적인 지체가 발생하게 되며 이러한 특성은 공간적으로도 유사하게 나타난다 하겠다. 이러한 점에서 지하수위 자료 구축 시 지하수위 관측 지점간의 상관성을 우선적으로 파악하는 과정도 필요할 것으로 판단된다.\n\n[그림 2.3] 국가 지하수관측망(412개 관측소)",
+    "blockRange": [
+      316,
+      317
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0072",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.1. 관측자료 수집"
+    ],
+    "text": "- 다. 강수량 관측자료",
+    "blockRange": [
+      318,
+      318
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0073",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.1. 관측자료 수집",
+      "다. 강수량 관측자료"
+    ],
+    "text": "취수장이 위치하고 있는 지역의 기상학적 가뭄을 분석하기 위해서는 강수량 자료가 필요하며, 강수량 자료 수집은 기상청 관할의 종관기상관측장비를 선정하였다.\n\n\n![image](image_011.png)\n\n강수량 관측소의 선택은 취수장에 근접한 관측소를 선택하여 취수장별로 1개의 강수관측소를 대응시켜 분석에 활용하였다.",
+    "blockRange": [
+      319,
+      321
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0074",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료"
+    ],
+    "text": "### 2.2.2. 분석을 위한 활용 자료",
+    "blockRange": [
+      322,
+      322
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0075",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.2. 분석을 위한 활용 자료"
+    ],
+    "text": "- 가. 취수장별 하천수위-지하수위간의 상관성 분석을 위한 활용 자료",
+    "blockRange": [
+      323,
+      323
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0076",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.2. 분석을 위한 활용 자료",
+      "가. 취수장별 하천수위-지하수위간의 상관성 분석을 위한 활용 자료"
+    ],
+    "text": "시범유역 선정 및 취수장의 과거 가뭄판단 및 분석을 위해 취수장 인근의 관측소를 활용하였으며, 취수장의 가뭄과 하천수위, 지하수위 간의 상관성 분석에 활용된 취수장별 하천수위, 지하수위, 강수량 관측소명은 다음과 같다.",
+    "blockRange": [
+      324,
+      324
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0077",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.2. 분석을 위한 활용 자료",
+      "가. 취수장별 하천수위-지하수위간의 상관성 분석을 위한 활용 자료"
+    ],
+    "text": "**[표 2.3] 시범유역의 가뭄분석 및 수문-기상자료 활용을 위한 수문관측소 위치**\n\n| 취수장명 | 하천수위관측소 | 지하수위관측소 | 강수관측소 | 기타 |\n| --- | --- | --- | --- | --- |\n| 유천취수장 | 천안시(안성천교) | - | 천안(232) |  |\n| 유천취수장 | 안성시(건천리) | - | 천안(232) |  |\n| 송탄취수장 | 평택시(진위1교) | - | 수원(119) |  |\n| 송탄취수장 | 이동 | - | 수원(119) |  |\n| 청산취수장 | 옥천군(대성1교) | 옥천청산<br>(암반/충적) | 보은(226) |  |\n| 청산취수장 | 옥천군(산계교) | 옥천청산<br>(암반/충적) | 보은(226) |  |\n| 영월취수장 | 영월군(영월대교) | 영월영월<br>(암반) | 제천(221) |  |\n| 영월취수장 | 영월군(삼옥교) | 영월영월<br>(암반) | 제천(221) |  |\n| 영동취수장 | 영동군(양강교) | 영동심천<br>(암반) | 금산(238) |  |\n| 영동취수장 | 영동군(호탄리) | 영동심천<br>(암반) | 금산(238) |  |\n| 중명취수장/포항제2취수장 | 경주시(국당리) | 포항연일<br>(암반/충적) | 포항(138) |  |\n| 중명취수장/포항제2취수장 | 포항시(형산교 | 포항연일<br>(암반/충적) | 포항(138) |  |\n| 하동취수장 | 고령군(회천교) | 고령고령<br>(암반/충적) | 여수(168) |  |\n| 하동취수장 | 고령군(사촌리) | 고령고령<br>(암반/충적) | 여수(168) |  |\n| 고령취수장(지방) | 정선군(애산교) | 정선정선<br>(암반/충적) | 합천(285) |  |\n| 고령취수장(지방) | 정선군(나전교) | 정선정선<br>(암반/충적) | 합천(285) |  |\n| 덕송취수장 | 인제군(반월천교) | 양구해안<br>(암반) | 제천(221) |  |",
+    "blockRange": [
+      325,
+      325
+    ],
+    "page": 26,
+    "table": {
+      "rows": 18,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0078",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.2. 분석을 위한 활용 자료"
+    ],
+    "text": "- 나. 지하수를 활용한 복류수 취수 지점의 가뭄판단 방법론 제시를 위한 활용 자료\n\n(1) 분석대상 자료 검토 및 전처리",
+    "blockRange": [
+      326,
+      327
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0079",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.2. 분석을 위한 활용 자료",
+      "(1) 분석대상 자료 검토 및 전처리"
+    ],
+    "text": "기본적으로 확률통계학적 분석에서는 장기간 관측 자료를 이용하는 것이 분석결과의 신뢰도를 높일 수 있다. 지하수 관측정의 경우 대수층 특성에 따라 충적대수층과 암반대수층에 설치된 충적관측정과 암반관측정으로 구분된다. 강수의 부족 및 증발 산량의 증가로 토양수분 및 하천유출량 등이 감소하는 가뭄의 진행과정과 지하수위를 연계하여 해석할 수 있다. 수리지질 특성을 고려해 보면 선행강수량, 토양수분의 상태 등 가뭄의 정도에 따른 지하수위 변화는 암반층보다 충적층에서 더 상관성이 높게 나타나는 것이 일반적이다. 따라서 관측자료 선택하기 앞서 암반관측정 자료는 분석에서 제외하였다. 관측지점 설치 시기에 따라 관측 기간이 다양하며 본 과업에서는 2000년 1월 1일부터 2017년 12월 31일까지 기간의 자료를 보유하고 있는 115개 관측소를 분석 대상으로 하였다.\n\n또한 분석의 신뢰성을 기하기 위해 분석대상 기간에 대한 결측치 및 기계 오작동으로 인한 계단형 변동유형과 계절성 주기성 등이 정상적으로 나타나지 않은 관측소([그림 2.4])는 관측 시계열 도시를 통해 제외하였으며, 최종적으로 30개 관측소를 선별하였다. [그림 2.5]에서는 국가 지하수관측망 총 422개 관측소, 이 중에서 2000년 이후 관측자료를 확보하고 있는 115개 관측소와 최종적으로 선택된 30개 관측소 자료의 공간적 범위를 나타내고 있다.\n\n[그림 2.4] 다수의 관측지점 자료를 제외시킨 관측자료 예시\n\n\n![image](image_012.png)\n\n\n![image](image_013.png)\n\n\n![image](image_014.png)\n\n\n![image](image_015.png)\n\n[그림 2.5] 국가 지하수관측망(412개 관측소)(Red), 2000년\n\n이후 관측자료(Green), 본과업 분석대상 관측자료(Blue)\n\n[그림 2.6] 국가 지하수관측망 자료 중 본 분석에 선택된 관측소 시계열\n\n\n![image](image_016.png)\n\n\n![image](image_017.png)",
+    "blockRange": [
+      328,
+      339
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0080",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.2. 분석을 위한 활용 자료"
+    ],
+    "text": "(2) 강수량 관측자료",
+    "blockRange": [
+      340,
+      340
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0081",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.2. 분석을 위한 활용 자료",
+      "(2) 강수량 관측자료"
+    ],
+    "text": "지하수 자료 활용한 가뭄단계 판단에 대한 평가를 위해 기상청 관할의 강수량자료를 비교 대상자료로 선택하였다. 앞 절에서 선별한 지하수 관측소는 강원도, 경기도, 경상북도, 대전광역시, 충청북도와 충청남도 지역에 위치하고 있다.\n\n따라서 강수량 관측소 선택은 각 지하수 관측소에 근접한 관측소를 선택하여 1:1로 대응시켜 분석에 활용하였다.",
+    "blockRange": [
+      341,
+      342
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0082",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.2. 관측자료 수집 및 분석을 위한 활용자료",
+      "2.2.2. 분석을 위한 활용 자료",
+      "(2) 강수량 관측자료"
+    ],
+    "text": "**[표 2.4] 지역별로 구분된 기상청 강우관측지점**\n\n| No. | 지역 | 관측소명 | 관측소코드 | No. | 지역 | 관측소명 | 관측소코드 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 강원도 | 강릉 | 105 | 20 | 전라북도 | 고창 | 172 |\n| 2 | 강원도 | 대관령 | 100 | 21 | 전라북도 | 고창군 | 251 |\n| 3 | 강원도 | 동해 | 106 | 22 | 전라북도 | 순산 | 140 |\n| 4 | 강원도 | 북강릉 | 104 | 23 | 전라북도 | 남원 | 247 |\n| 5 | 강원도 | 속초 | 90 | 24 | 전라북도 | 부안 | 243 |\n| 6 | 강원도 | 영월 | 121 | 25 | 전라북도 | 순창군 | 254 |\n| 7 | 강원도 | 원주 | 114 | 26 | 전라북도 | 임실 | 244 |\n| 8 | 강원도 | 인제 | 211 | 27 | 전라북도 | 전주 | 146 |\n| 9 | 강원도 | 정선군 | 217 | 28 | 전라북도 | 정읍 | 245 |\n| 10 | 강원도 | 철원 | 95 | 29 | 충청남도 | 금산 | 238 |\n| 11 | 강원도 | 춘천 | 101 | 30 | 충청남도 | 보령 | 235 |\n| 12 | 강원도 | 태백 | 216 | 31 | 충청남도 | 부여 | 236 |\n| 13 | 강원도 | 홍천 | 212 | 32 | 충청남도 | 서산 | 129 |\n| 14 | 경기도 | 동두천 | 98 | 33 | 충청남도 | 천안 | 232 |\n| 15 | 경기도 | 수원 | 119 | 34 | 충청북도 | 보은 | 226 |\n| 16 | 경기도 | 양평 | 202 | 35 | 충청북도 | 제천 | 221 |\n| 17 | 경기도 | 이천 | 203 | 36 | 충청북도 | 청주 | 131 |\n| 18 | 경기도 | 파주 | 99 | 37 | 충청북도 | 추풍령 | 135 |\n| 19 | 대전광역시 | 대전 | 133 | 38 | 충청북도 | 충주 | 127 |",
+    "blockRange": [
+      343,
+      343
+    ],
+    "page": 29,
+    "table": {
+      "rows": 20,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0083",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정"
+    ],
+    "text": "## 2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+    "blockRange": [
+      344,
+      344
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0084",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정"
+    ],
+    "text": "복류수 취수 지점 시범대상 취수장을 선정하기 위해 두 개의 기준으로 분류하였다. 먼저, 현장조사에 앞서 계측기 설치지점 판단을 위해 [표 2.5]와 같이 기준을 설정하였으며, 이를 포함하여 현장에서의 선정 기준([표 2.6])도 병행하여 최종적으로 시범대상 지역을 선정하고자 하였다.\n\n[표 2.5] 계측기 설치지점 판단을 위한 기준\n\n1. 상류에 댐, 보, 저수지 등 연계 가능 수원이 존재하지 않는 지점이나 본류 수위 영향이 적은 지점\n\n2. 인근 지점에 수위 및 지하 수위 관측자료를 보유한 지점\n\n3. 가뭄 분석(가뭄판단기준 현행화)이 가능하고 관측자료 간의 상관성이 어느 정도 확보된 지점\n\n4. 가뭄 취약 지역 또는 과거 가뭄 발생으로 인한 취수제약 기록이 있는 지점\n\n5. 계측을 위한 센서 설치 등 현장의 제약이 없고 설치에 필요한 공간이 비교적 양호한 지점",
+    "blockRange": [
+      345,
+      351
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0085",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "5. 계측을 위한 센서 설치 등 현장의 제약이 없고 설치에 필요한 공간이 비교적 양호한 지점"
+    ],
+    "text": "복류수 하천 취수지점의 가뭄판단을 위해서는 연속적인 하천수위에 대한 관측자료가 필요하나 가뭄시 하천수위를 측정하지 못할 수 있으므로 하천수위와 복류수위를 같이 측정할 수 있으며, 주변 지하수위와의 비교를 위해 제외지의 둔치 등에 지하수위를 관측할 수 있는 지점을 선택하였다.\n\n[표 2.6] 현장에서의 계측기 설치를 위한 시범유역 선정 기준",
+    "blockRange": [
+      352,
+      353
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0086",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정"
+    ],
+    "text": "1. 취수지점과 인접하여 하천수-복류수-지하수의 수위 관측이 가능한 지점\n\n2. 복류수 취수지점과 수평적으로 연결된 충적층이 발달된 지점\n\n3. 사업기간 동안 지속적인 관측이 가능한 지점으로 공공부지를 우선적으로 선정\n\n※ 사유지의 경우 부지사용계획이 불확실하여 설치한 관측정을 조기에 원상복구해야 할 가능성이 있음\n\n4. 장비진입, 지하매설물 유무 등 관측정 설치가 가능한 지점",
+    "blockRange": [
+      354,
+      358
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0087",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정"
+    ],
+    "text": "### 2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+    "blockRange": [
+      359,
+      359
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0088",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "2.1.2절에서 선정된 7곳의 예비후보군 중에서 취수장 인근의 강우, 수위, 지하수위 관측자료 간의 상관성 분석 및 인근 관측소의 강우자료를 활용한 가뭄지수분석을 통해서 가뭄상황 판단의 가능성을 검토하였으며, 최종적으로 관측된 자료의 종류, 가용성, 가뭄지수와의 상관성 등을 고려하여 미계측 유역의 시범유역을 선정하였다.\n\n- 가. 유천취수장",
+    "blockRange": [
+      360,
+      361
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0089",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "가. 유천취수장"
+    ],
+    "text": "유천취수장의 수문자료와 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석한 결과 및 인근 관측소 정보는 아래 그림과 같다. 유천취수장의 경우 2014년부터 발생한 가뭄은 2015년까지 연속된 가뭄이 발생한 것으로 나타났다.",
+    "blockRange": [
+      362,
+      362
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0090",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "가. 유천취수장"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      363,
+      363
+    ],
+    "page": 31,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0091",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "가. 유천취수장"
+    ],
+    "text": "[그림 2.7] 유천취수장 인근 관측소 및 SPI기반의 가뭄 정보\n\n유천취수장의 2015.09.10.부터 2019.12.31까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 하천수위와 가뭄지수와의 상관성 분석결과는 지속시간이 짧을수록 상대적으로 상관성이 높게 나타났다.",
+    "blockRange": [
+      364,
+      365
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0092",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "가. 유천취수장"
+    ],
+    "text": "**[표 2.7] 유천취수장 가뭄 상관성 분석 결과(2015.09.10.\\~2019.12.31)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | - | - | - | 0.37 | 0.38 | 0.31 | 0.26 | 0.18 | 0.20 | 0.21 |\n| RWL2 | - | 1.00 | - | - | 0.26 | 0.30 | 0.33 | 0.34 | 0.31 | 0.23 | 0.24 |\n| GWLB | - | - | - | - | - | - | - | - | - | - | - |\n| GWLA | - | - | - | - | - | - | - | - | - | - | - |",
+    "blockRange": [
+      366,
+      366
+    ],
+    "page": 31,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0093",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "가. 유천취수장"
+    ],
+    "text": "그러나 수위자료가 음의 값을 가지고 있는 자료가 있어 수위자료에 대한 품질검토 필요(outlier제거)하며, 가뭄발생 기간 (SPI < -1.0이하)일 때, 수위-가뭄의 상관성은 더 낮게 나타났다.\n\n\n![image](image_018.png)\n\n\n![image](image_019.png)",
+    "blockRange": [
+      367,
+      369
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0094",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "- 나. 송탄취수장",
+    "blockRange": [
+      370,
+      370
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0095",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "나. 송탄취수장"
+    ],
+    "text": "송탄취수장의 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석한 결과 및 인근 관측소 정보는 아래 그림과 같다. 송탄취수장의 경우 2014년부터 발생한 가뭄은 2015년까지 연속된 극심한 가뭄이 발생한 것으로 나타났다.",
+    "blockRange": [
+      371,
+      371
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0096",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "나. 송탄취수장"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      372,
+      372
+    ],
+    "page": 32,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0097",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "나. 송탄취수장"
+    ],
+    "text": "[그림 2.8] 송탄취수장 인근 관측소 및 SPI기반의 가뭄 정보\n\n송탄취수장의 2015.05.08.부터 2019.12.31까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 하천수위와 가뭄지수와의 상관성은 뚜렷하게 나타나지 않았다([표 2.8]).",
+    "blockRange": [
+      373,
+      374
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0098",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "나. 송탄취수장"
+    ],
+    "text": "**[표 2.8] 송탄취수장 가뭄 상관성 분석 결과(2015.05.08.\\~2019.12.31)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | - | - | - | 0.19 | 0.16 | 0.11 | 0.11 | 0.16 | 0.22 | 0.17 |\n| RWL2 | - | 1.00 | - | - | 0.15 | 0.16 | 0.18 | 0.18 | 0.17 | 0.12 | 0.09 |\n| GWLB | - | - | - | - | - | - | - | - | - | - | - |\n| GWLA | - | - | - | - | - | - | - | - | - | - | - |",
+    "blockRange": [
+      375,
+      375
+    ],
+    "page": 32,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0099",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "나. 송탄취수장"
+    ],
+    "text": "![image](image_020.png)\n\n\n![image](image_021.png)",
+    "blockRange": [
+      376,
+      377
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0100",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "- 다. 청산취수장",
+    "blockRange": [
+      378,
+      378
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0101",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "다. 청산취수장"
+    ],
+    "text": "청산취수장의 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석한 결과 및 인근 관측소 정보는 아래 그림과 같다. 청산취수장의 경우 2014년부터 발생한 가뭄은 2017년까지 연속된 가뭄이 발생한 것으로 나타났다.",
+    "blockRange": [
+      379,
+      379
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0102",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "다. 청산취수장"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      380,
+      380
+    ],
+    "page": 33,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0103",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "다. 청산취수장"
+    ],
+    "text": "[그림 2.9] 청산취수장 인근 관측소 및 SPI기반의 가뭄 정보\n\n청산취수장의 2016.01.02.부터 2019.12.31까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 상·하류의 수위관측소의 경우 0.9 이상의 높은 상관성을 보이며, 지하수위(암반층)의 경우 0.6 이상의 상관성을 보인 반면에, 가뭄지수와의 상관성은 뚜렷하게 나타나지 않았다([표 2.9]).",
+    "blockRange": [
+      381,
+      382
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0104",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "다. 청산취수장"
+    ],
+    "text": "**[표 2.9] 청산취수장 가뭄 상관성 분석 결과(2016.01.02.\\~2019.12.31.)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | 0.92 | 0.62 | 0.35 | 0.31 | 0.09 | -0.10 | -0.26 | -0.32 | -0.25 | -0.35 |\n| RWL2 | 0.92 | 1.00 | 0.45 | 0.28 | 0.3 | 0.13 | -0.02 | -0.08 | -0.07 | -0.19 | -0.21 |\n| GWLB | 0.62 | 0.45 | 1.00 | 0.61 | 0.17 | -0.3 | -0.49 | -0.68 | -0.70 | -0.36 | -0.35 |\n| GWLA | 0.35 | 0.28 | 0.61 | 1.00 | -0.05 | -0.31 | -0.43 | -0.48 | -0.36 | -0.15 | -0.08 |",
+    "blockRange": [
+      383,
+      383
+    ],
+    "page": 33,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0105",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "다. 청산취수장"
+    ],
+    "text": "![image](image_022.png)\n\n\n![image](image_023.png)",
+    "blockRange": [
+      384,
+      385
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0106",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "- 라. 영월취수장",
+    "blockRange": [
+      386,
+      386
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0107",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "라. 영월취수장"
+    ],
+    "text": "영월취수장의 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석한 결과 및 인근 관측소 정보는 아래 그림과 같다. 영월취수장의 경우 2014년부터 발생한 가뭄은 2017년까지 연속된 가뭄이 발생한 것으로 나타났다([그림 2.10]).",
+    "blockRange": [
+      387,
+      387
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0108",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "라. 영월취수장"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      388,
+      388
+    ],
+    "page": 34,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0109",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "라. 영월취수장"
+    ],
+    "text": "[그림 2.10] 영월취수장 인근 관측소 및 SPI기반의 가뭄 정보\n\n영월취수장의 2009.01.01. 부터 2019.12.31.까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 상·하류의 수위관측소를 제외하고 가뭄과의 특이한 거동을 보이지는 않으나, 지하수(암반층)의 경우 지속시간이 길어질수록 상관성이 좋아지는 것으로 나타났다([표 2.10]).",
+    "blockRange": [
+      389,
+      390
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0110",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "라. 영월취수장"
+    ],
+    "text": "**[표 2.10] 영월취수장 가뭄 상관성 분석 결과 (2009.01.01.\\~2019.12.31.)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | 0.87 | 0.16 | - | 0.28 | 0.22 | 0.19 | 0.15 | 0.10 | 0.07 | 0.00 |\n| RWL2 | 0.87 | 1.00 | 0.23 | - | 0.33 | 0.28 | 0.23 | 0.21 | 0.22 | 0.21 | 0.18 |\n| GWLB | 0.16 | 0.23 | 1.00 | - | 0.23 | 0.28 | 0.30 | 0.33 | 0.35 | 0.44 | 0.42 |\n| GWLA | - | - | - | - | - | - | - | - | - | - | - |",
+    "blockRange": [
+      391,
+      391
+    ],
+    "page": 34,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0111",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "라. 영월취수장"
+    ],
+    "text": "![image](image_024.png)\n\n\n![image](image_025.png)",
+    "blockRange": [
+      392,
+      393
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0112",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "- 마. 영동취수장",
+    "blockRange": [
+      394,
+      394
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0113",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "마. 영동취수장"
+    ],
+    "text": "영동취수장의 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석하였으며, 영동취수장의 개략적인 정보는 아래 그림과 같다. 영동취수장의 경우 2008년부터 2013년 발생한 가뭄은 2018년까지 연속된 가뭄이 발생한 것으로 분석되었다([그림 2.11]).",
+    "blockRange": [
+      395,
+      395
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0114",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "마. 영동취수장"
+    ],
+    "text": "|  | Yeongdong (SPI_360D) Dec Nov Oct ays) Sep (d Aug ale July e-sc June tim May Apr Mar Feb Jan<br>2003 2005 2007 2009 2011 2013 2015 2017 2019 |\n| --- | --- |",
+    "blockRange": [
+      396,
+      396
+    ],
+    "page": 35,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0115",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "마. 영동취수장"
+    ],
+    "text": "[그림 2.11] 영동취수장 인근 관측소 및 SPI기반의 가뭄 정보\n\n영동취수장의 2004.11.26.부터 2019.12.31.까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 수위관측소, 지하수위관측소(GWLB) 및 지속기간에 따른 가뭄지수와의 별다른 상관성이 나타나지 않았다([표 2.11]).",
+    "blockRange": [
+      397,
+      398
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0116",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "마. 영동취수장"
+    ],
+    "text": "**[표 2.11] 영동취수장의 가뭄 상관성 분석 결과 (2004.11.26.\\~2019.12.31.)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | 0.31 | 0.2 | - | 0.10 | 0.07 | 0.08 | 0.10 | 0.14 | 0.16 | 0.19 |\n| RWL2 | 0.31 | 1.00 | 0.61 | - | 0.29 | 0.23 | 0.19 | 0.20 | 0.23 | 0.25 | 0.26 |\n| GWLB | 0.20 | 0.61 | 1.00 | - | 0.19 | 0.17 | 0.16 | 0.17 | 0.10 | 0.07 | 0.12 |\n| GWLA | - | - | - | - | - | - | - | - | - | - | - |",
+    "blockRange": [
+      399,
+      399
+    ],
+    "page": 35,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0117",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "마. 영동취수장"
+    ],
+    "text": "![image](image_026.png)",
+    "blockRange": [
+      400,
+      400
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0118",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "- 바. 중명취수장/포항제2취수장",
+    "blockRange": [
+      401,
+      401
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0119",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "바. 중명취수장/포항제2취수장"
+    ],
+    "text": "중명취수장/포항제2취수장의 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석하였으며, 중명취수장/포항제2취수장의 개략적인 정보는 아래 그림과 같다. 중명취수장/포항제2취수장의 경우 2008년부터 2011년, 20017년부터 발생한 가뭄은 2018년까지 연속된 가뭄이 발생한 것으로 분석되었다([그림 2.12]).",
+    "blockRange": [
+      402,
+      402
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0120",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "바. 중명취수장/포항제2취수장"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      403,
+      403
+    ],
+    "page": 36,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0121",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "바. 중명취수장/포항제2취수장"
+    ],
+    "text": "[그림 2.12] 중명취수장/포항제2취수장 취수장 인근 관측소 및 SPI기반의 가뭄\n\n정보\n\n중명취수장/포항제2취수장의 2002.09.01.부터 2019.12.31.까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 수위관측소, 지하수위관측소(GWLA, GWLB) 및 지속기간에 따른 가뭄지수와의 별다른 상관성이 나타나지 않았다.",
+    "blockRange": [
+      404,
+      406
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0122",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "바. 중명취수장/포항제2취수장"
+    ],
+    "text": "**[표 2.12] 중명취수장/포항제2취수장 가뭄 상관성 분석 결과 (2002.09.01.\\~2019.12.31.)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | 0.56 | 0.40 | 0.37 | 0.16 | 0.22 | 0.20 | 0.15 | 0.06 | 0.06 | 0.07 |\n| RWL2 | 0.56 | 1.00 | 0.33 | 0.29 | 0.05 | 0.09 | 0.11 | 0.07 | 0.00 | 0.02 | 0.01 |\n| GWLB | 0.40 | 0.33 | 1.00 | 0.91 | 0.09 | 0.11 | 0.12 | 0.11 | 0.11 | 0.17 | 0.20 |\n| GWLA | 0.37 | 0.29 | 0.91 | 1.00 | 0.06 | 0.07 | 0.09 | 0.08 | 0.11 | 0.17 | 0.21 |",
+    "blockRange": [
+      407,
+      407
+    ],
+    "page": 36,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0123",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "바. 중명취수장/포항제2취수장"
+    ],
+    "text": "![image](image_027.png)\n\n\n![image](image_028.png)",
+    "blockRange": [
+      408,
+      409
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0124",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "- 사. 하동취수장",
+    "blockRange": [
+      410,
+      410
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0125",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "사. 하동취수장"
+    ],
+    "text": "하동취수장의 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석하였으며, 하동취수장의 개략적인 정보는 아래와 같다. 하동취수장의 가뭄 분석 결과 2008년부터 2009년, 2014년, 20017년부터 발생한 가뭄은 2018년까지 연속된 가뭄이 발생한 것으로 분석되었다.",
+    "blockRange": [
+      411,
+      411
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0126",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "사. 하동취수장"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      412,
+      412
+    ],
+    "page": 37,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0127",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "사. 하동취수장"
+    ],
+    "text": "[그림 2.13] 하동취수장 인근 관측소 및 SPI기반의 가뭄 정보\n\n하동취수장의 2009.01.01.부터 2019.12.31.까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 상·하류의 수위관측소는 0.8 이상의 상관성을 보였으나, 지하수위(GWLB, GWLA)와 가뭄과의 유의미한 상관성이 나타나지 않는 것으로 분석되었다.",
+    "blockRange": [
+      413,
+      414
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0128",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "사. 하동취수장"
+    ],
+    "text": "**[표 2.13] 하동취수장 가뭄 상관성 분석 결과 (2009.01.01.\\~2019.12.31.)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | 0.83 | 0.06 | 0.08 | 0.29 | 0.24 | 0.20 | 0.19 | 0.22 | 0.20 | 0.17 |\n| RWL2 | 0.83 | 1.00 | 0.06 | 0.11 | 0.30 | 0.20 | 0.13 | 0.13 | 0.15 | 0.16 | 0.23 |\n| GWLB | 0.06 | 0.06 | 1.00 | 0.03 | 0.06 | 0.10 | 0.08 | 0.07 | 0.06 | 0.07 | 0.01 |\n| GWLA | 0.08 | 0.11 | 0.03 | 1.00 | 0.11 | 0.13 | 0.13 | 0.13 | 0.17 | 0.13 | 0.12 |",
+    "blockRange": [
+      415,
+      415
+    ],
+    "page": 37,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0129",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "사. 하동취수장"
+    ],
+    "text": "![image](image_029.png)\n\n\n![image](image_030.png)",
+    "blockRange": [
+      416,
+      417
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0130",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "- 아. 고령취수장(지방)",
+    "blockRange": [
+      418,
+      418
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0131",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "아. 고령취수장(지방)"
+    ],
+    "text": "고령취수장(지방)의 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석하였으며, 고령취수장(지방)의 개략적인 정보는 아래와 같다. 고령취수장(지방)의 가뭄 분석 결과 2008년부터 2009년, 20017년에 가뭄이 발생한 것으로 나타났다.",
+    "blockRange": [
+      419,
+      419
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0132",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "아. 고령취수장(지방)"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      420,
+      420
+    ],
+    "page": 38,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0133",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "아. 고령취수장(지방)"
+    ],
+    "text": "[그림 2.14] 고령취수장(지방) 인근 관측소 및 SPI기반의 가뭄 정보\n\n고령취수장(지방)의 2009.01.01.부터 2019.12.31.까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 수위관측소, 지하수위관측소(GWLB, GWLA) 및 지속기간에 따른 가뭄지수와의 별다른 상관성이 나타나지 않았다. 이는 취수장에서 복류수 취수를 위한 취수보가 설치되어 있으며, 취수지점 상류에 위치하는 상주보에서 일정량 이상의 유량을 방류하여 취수장 펌핑 시 하천수위의 영향이 없는 것으로 판단된다.",
+    "blockRange": [
+      421,
+      422
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0134",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "아. 고령취수장(지방)"
+    ],
+    "text": "**[표 2.14] 고령취수장(지방) 가뭄 상관성 분석 결과 (2009.01.01.\\~2019.12.31.)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | 0.36 | 0.30 | 0.27 | -0.17 | -0.23 | -0.24 | -0.21 | 0.05 | 0.14 | 0.14 |\n| RWL2 | 0.36 | 1.00 | 0.38 | 0.38 | -0.15 | -0.18 | -0.18 | -0.12 | 0.18 | 0.25 | 0.12 |\n| GWLB | 0.30 | 0.38 | 1.00 | 0.46 | -0.20 | -0.27 | -0.30 | -0.26 | 0.04 | 0.20 | 0.12 |\n| GWLA | 0.27 | 0.38 | 0.46 | 1.00 | -0.18 | -0.23 | -0.23 | -0.18 | 0.10 | 0.25 | 0.16 |",
+    "blockRange": [
+      423,
+      423
+    ],
+    "page": 38,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0135",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "아. 고령취수장(지방)"
+    ],
+    "text": "![image](image_031.png)\n\n\n![image](image_032.png)",
+    "blockRange": [
+      424,
+      425
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0136",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정"
+    ],
+    "text": "- 자. 덕송취수장",
+    "blockRange": [
+      426,
+      426
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0137",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "자. 덕송취수장"
+    ],
+    "text": "덕송취수장의 가뭄과의 상관성 분석을 위해 일 강수량 기반 SPI360을 산정하여 분석하였으며, 덕송취수장의 개략적인 정보는 아래와 같다. 덕송취수장의 가뭄기간 분석 결과 2008년부터 2009년, 20014년부터 발생한 가뭄은 2016년까지 지속되어 극심한 가뭄이 발생한 것으로 분석되었다.",
+    "blockRange": [
+      427,
+      427
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0138",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "자. 덕송취수장"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      428,
+      428
+    ],
+    "page": 39,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0139",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "자. 덕송취수장"
+    ],
+    "text": "[그림 2.15] 덕송취수장 인근 관측소 및 SPI기반의 가뭄 정보\n\n덕송취수장의 2010.06.18.부터 2019.12.31.까지 인근 수위관측소 수위(RWL1, RWL2) 및 가뭄지수와의 상관성 분석결과, 수위관측소, 지하수위관측소(GWLB, GWLA) 및 지속기간에 따른 가뭄지수와의 별다른 상관성이 나타나지 않았다.",
+    "blockRange": [
+      429,
+      430
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0140",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "자. 덕송취수장"
+    ],
+    "text": "**[표 2.15] 덕송취수장 가뭄 상관성 분석 결과 (2010.06.18.\\~2019.12.31.)**\n\n|  | RWL1 | RWL2 | GWLB | GWLA | SPI30 | SPI60 | SPI90 | SPI120 | SPI180 | SPI270 | SPI360 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| RWL1 | 1.00 | 0.32 | 0.13 | 0.16 | 0.03 | 0.10 | -0.19 | -0.26 | -0.33 | -0.43 | -0.39 |\n| RWL2 | 0.32 | 1.00 | 0.62 | 0.17 | 0.38 | 0.29 | 0.22 | 0.18 | 0.18 | 0.15 | 0.12 |\n| GWLB | 0.13 | 0.62 | 1.00 | 0.26 | 0.44 | 0.39 | 0.27 | 0.22 | 0.25 | 0.32 | 0.29 |\n| GWLA | 0.16 | 0.17 | 0.26 | 1.00 | 0.25 | 0.26 | 0.20 | 0.10 | 0.03 | 0.15 | 0.14 |",
+    "blockRange": [
+      431,
+      431
+    ],
+    "page": 39,
+    "table": {
+      "rows": 5,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0141",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.1. 관측자료 분석을 통한 미계측 유역의 시범유역 선정",
+      "자. 덕송취수장"
+    ],
+    "text": "![image](image_033.png)\n\n\n![image](image_034.png)",
+    "blockRange": [
+      432,
+      433
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0142",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정"
+    ],
+    "text": "### 2.3.2. 현장조사를 통한 시범대상 취수장 선정",
+    "blockRange": [
+      434,
+      434
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0143",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정"
+    ],
+    "text": "복류수 취수 지점의 계측기 설치를 위해 2.3.1절의 분석 결과를 바탕으로 청산취수장과 영동취수장의 현장답사를 실시하였다.\n\n가. 현장답사 결과\n\n- 현장답사일: 2020. 10. 22\n- 검토대상 지점: 청산취수장(충북 옥천군), 영동취수장(충북 영동군)\n\n(1) 청산취수장\n\n- 청산취수장 : 충북 옥천군 교평리 217(수원 : 보청천 하폭 약 200m)\n- 취수구 직하류 방향 보 설치(길이 약 250m)\n- 대상지역 현황",
+    "blockRange": [
+      435,
+      442
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0144",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정",
+      "- 대상지역 현황"
+    ],
+    "text": "청산취수장\n\n집수정\n\n밸브조\n\n취수펌프 설치 후보지1_지하수\n\n보\n\n설치 후보지1_복류수 설치 후보지2_지하수\n\n취수구\n\n설치 후보지2_복류수\n\n하천 흐름방향\n\n<보 상류>\n\n<보 하류>\n\n[그림 2.16] 청산취수장(보청천) 현황\n\n\n![image](image_035.png)\n\n\n![image](image_036.png)\n\n\n![image](image_037.png)\n\n\n![image](image_038.png)\n\n\n![image](image_039.png)\n\n\n![image](image_040.png)\n\n\n![image](image_041.png)\n\n\n![image](image_042.png)\n\n\n![image](image_043.png)\n\n\n![image](image_044.png)\n\n\n![image](image_045.png)\n\n\n![image](image_046.png)\n\n\n![image](image_047.png)\n\n\n![image](image_048.png)\n\n\n![image](image_049.png)\n\n\n![image](image_050.png)\n\n\n![image](image_051.png)\n\n\n![image](image_052.png)\n\n\n![image](image_053.png)\n\n\n![image](image_054.png)\n\n\n![image](image_055.png)\n\n\n![image](image_056.png)\n\n\n![image](image_057.png)\n\n\n![image](image_058.png)\n\n\n![image](image_059.png)\n\n\n![image](image_060.png)\n\n\n![image](image_061.png)\n\n\n![image](image_062.png)\n\n\n![image](image_063.png)\n\n\n![image](image_064.png)\n\n\n![image](image_065.png)\n\n\n![image](image_066.png)\n\n\n![image](image_067.png)\n\n\n![image](image_068.png)\n\n\n![image](image_069.png)\n\n\n![image](image_070.png)\n\n\n![image](image_071.png)\n\n\n![image](image_072.png)\n\n\n![image](image_073.png)\n\n\n![image](image_074.png)\n\n\n![image](image_075.png)\n\n\n![image](image_076.png)\n\n\n![image](image_077.png)\n\n\n![image](image_078.png)\n\n\n![image](image_079.png)\n\n\n![image](image_080.png)\n\n\n![image](image_081.png)\n\n\n![image](image_082.png)\n\n\n![image](image_083.png)\n\n\n![image](image_084.png)\n\n\n![image](image_085.png)\n\n\n![image](image_086.png)\n\n\n![image](image_087.png)\n\n\n![image](image_088.png)\n\n\n![image](image_089.png)\n\n\n![image](image_090.png)",
+    "blockRange": [
+      443,
+      510
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0145",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정"
+    ],
+    "text": "- 현장답사 사진",
+    "blockRange": [
+      511,
+      511
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0146",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정",
+      "- 현장답사 사진"
+    ],
+    "text": "|  |  |\n| --- | --- |\n|  |  |\n| 현장 시설물 확인 |  |\n|  |  |\n|  |  |\n|  |  |\n| 현장 전경(드론촬영 등) |  |",
+    "blockRange": [
+      512,
+      512
+    ],
+    "page": 41,
+    "table": {
+      "rows": 7,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0147",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정",
+      "- 현장답사 사진"
+    ],
+    "text": "[그림 2.17] 청산취수장(보청천) 취수보 상하류 전경 청산취수장 인근지역을 답사하여 계측기 설치를 위해 후보지역을 선정하였다. 청산취수장 보 상류 지역에 위치한 후보 1지점은 취수장과 취수구와 일직선상에 위치하고 있으며, 복류수 설치지점까지 도로가 설치되어 있으며, 도로를 따라 개울이 형성되어있다. 설치하고자하는 복류수 지점에 나무와 개울이 위치하고 있어 장비진입이 어려움이 있다.\n\n\n![image](image_091.png)\n\n\n![image](image_092.png)\n\n\n![image](image_093.png)\n\n\n![image](image_094.png)\n\n\n![image](image_095.png)\n\n\n![image](image_096.png)\n\n\n![image](image_097.png)\n\n\n![image](image_098.png)\n\n\n![image](image_099.png)\n\n\n![image](image_100.png)\n\n[그림 2.18] 청산취수장의 계측기 설치를 위한 후보 1지점\n\n후보 2지점은 후보 1지점에서 약 150m 이격되어 위치하고 있어, 복류수 지점까지 장비진입이 가능하며, 작업여건도 상대적으로 좋은 것으로 판단된다. 하지만, 제내지에 낮은 언덕이 존재하여 충적층 발달이 좋지 않을 것으로 예상되며, 복류수 관측정과 지하수 관측정과 고도차가 약 10m 차이를 보인다.\n\n[그림 2.19] 청산취수장의 계측기 설치를 위한 후보 2지점\n\n\n![image](image_101.png)\n\n\n![image](image_102.png)\n\n후보 3지점은 청산취수장 보 하류 지역에 위치하고 있으며, 상류에 비해 충적층 발달이 양호하며 장비 진입이 용이하다. 하지만, 현재 복류수 취수 암거 도면 미확인 상태로 매립심도 등이 불명하다는 단점이 있다.\n\n[그림 2.20] 청산취수장의 계측기 설치를 위한 후보 3지점",
+    "blockRange": [
+      513,
+      530
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0148",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정"
+    ],
+    "text": "(2) 영동취수장(금강)\n\n- 영동취수장 : 충북 영동군 심천면 금정리 204-3(수원 : 금강 하폭 약 300m)\n- 취수구 직하류 방향 보 설치(길이 약 120m)\n- 대상지역 현황",
+    "blockRange": [
+      531,
+      534
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0149",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정",
+      "- 대상지역 현황"
+    ],
+    "text": "영동 정수장 방향\n\n영동취수장\n\n보\n\n취수구\n\n하천 흐름방향\n\n[그림 2.21] 영동취수장(금강) 현황\n\n\n![image](image_103.png)\n\n\n![image](image_104.png)\n\n\n![image](image_105.png)\n\n\n![image](image_106.png)\n\n\n![image](image_107.png)\n\n\n![image](image_108.png)\n\n\n![image](image_109.png)\n\n\n![image](image_110.png)\n\n\n![image](image_111.png)\n\n\n![image](image_112.png)\n\n\n![image](image_113.png)\n\n\n![image](image_114.png)\n\n\n![image](image_115.png)\n\n\n![image](image_116.png)\n\n\n![image](image_117.png)\n\n\n![image](image_118.png)\n\n\n![image](image_119.png)\n\n\n![image](image_120.png)\n\n\n![image](image_121.png)\n\n\n![image](image_122.png)\n\n\n![image](image_123.png)\n\n\n![image](image_124.png)\n\n\n![image](image_125.png)",
+    "blockRange": [
+      535,
+      563
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0150",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정"
+    ],
+    "text": "- 현장답사 사진",
+    "blockRange": [
+      564,
+      564
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0151",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정",
+      "- 현장답사 사진"
+    ],
+    "text": "| 현장 시설물 확인 |  |  |\n| --- | --- | --- |\n| 현장 전경(드론촬영 등) |  |  |\n\n**[그림 2.22] 영동취수장 현장답사 사진**",
+    "blockRange": [
+      565,
+      565
+    ],
+    "page": 44,
+    "table": {
+      "rows": 6,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0152",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.2. 현장조사를 통한 시범대상 취수장 선정",
+      "- 현장답사 사진"
+    ],
+    "text": "영동취수장의 경우 취수장에서 정수장 방향으로 관측 시 임야와 도로가 위치하여 지하수 관측정 설치에 어려움이 있으며, 취수장 주변 하천변의 급경사로 인해 하천 내 장비 진입이 불가함에 따라 영동취수장은 시범유역에서 제외하였다.\n\n\n![image](image_126.png)\n\n\n![image](image_127.png)\n\n\n![image](image_128.png)\n\n\n![image](image_129.png)\n\n\n![image](image_130.png)\n\n\n![image](image_131.png)\n\n\n![image](image_132.png)\n\n\n![image](image_133.png)",
+    "blockRange": [
+      566,
+      574
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0153",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정"
+    ],
+    "text": "### 2.3.3. 최종 시범지역 선정",
+    "blockRange": [
+      575,
+      575
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0154",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.3. 최종 시범지역 선정"
+    ],
+    "text": "현장조사와 자료 분석을 통해 최종적으로 청산취수장이 계측기 설치를 위한 시범지역으로 선정되었다. 계측기 설치 위치는 보 하류지역의 교평리 산 39-1, 39-4 지역으로 선정하였으며, 선정된 이유는 다음과 같다.\n\n- 최초 설계도면이 없는 관계로 인하여 취수지점의 위치가 불분명하나 보 하류에 충적층이 발달되어 있어 충적층 발달심도에 맞춰 복류수 수위가 측정가능하고, 지하수위를 연계하여 관측 가능\n- 취수지점이 보 상류가 아니라 하류에 있기 때문에 취수량과 연관성이 높을 것으로 예상\n- 해당 부지는 국유지로 장기간 관리 가능\n- 하천수, 복류수, 지하수 관측정을 설치하기 위한 장비 접근 용이",
+    "blockRange": [
+      576,
+      580
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0155",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.3. 최종 시범지역 선정",
+      "- 하천수, 복류수, 지하수 관측정을 설치하기 위한 장비 접근 용이"
+    ],
+    "text": "**[표 2.16] 청산취수장 관측지점**\n\n| 관측지점 | 주소 | 지목 | 소유자 |\n| --- | --- | --- | --- |\n| 복류수 | 교평리 산 39-1 | 임야 | 국유지 |\n| 지하수 | 교평리 산 39-4 | 임야 | 국유지 |",
+    "blockRange": [
+      581,
+      581
+    ],
+    "page": 45,
+    "table": {
+      "rows": 3,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0156",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 현장조사 및 대상 지점 선정",
+      "2.3. 계측기 설치를 위한 시범대상 취수장 선정",
+      "2.3.3. 최종 시범지역 선정",
+      "- 하천수, 복류수, 지하수 관측정을 설치하기 위한 장비 접근 용이"
+    ],
+    "text": "[그림 2.23] 청산취수장 관측정 설치지점(지적도)\n\n\n![image](image_134.png)\n\n제3장 시범대상 취수장 계측기 설치 및 자료 수집\n\n3.1 계측 필요항목에 대한 계측방법 수립\n\n3.2 시범대상 취수장 계측기 설치 및 자료 수집",
+    "blockRange": [
+      582,
+      586
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0157",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+    "blockRange": [
+      587,
+      587
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0158",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집"
+    ],
+    "text": "## 3.1. 계측 필요항목에 대한 계측방법 수립",
+    "blockRange": [
+      588,
+      588
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0159",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립"
+    ],
+    "text": "### 3.1.1. 측량방법",
+    "blockRange": [
+      589,
+      589
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0160",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.1. 측량방법"
+    ],
+    "text": "지점측량은 관측정에 대한 위치 및 고도측량을 수행하여 지리적 위치 및 유지관리, 관측정 수위자료 보정 등 기초자료로 활용된다. 본 사업에서 사용된 측량장비인 실시간 이동측위(Real Time Kinematic, RTK)는 정밀한 위치정보를 가지고 있는 기준국의 반송파위성에 대한 보정치를 이용하여 이동국(Rover)에서 실시간으로 1 \\~ 2cm 정확도의 측위결과를 얻는 일련의 측량과정이다. 해당 측위방식은 광범위한 측량지점의 정밀 좌표를 신속하게 획득할 수 있기 때문에 그 활용범위가 넓다([그림 3.1]).",
+    "blockRange": [
+      590,
+      590
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0161",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.1. 측량방법"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 네트워크 RTK측량 개념도 | 네트워크 RTK측량장비(예시) |",
+    "blockRange": [
+      591,
+      591
+    ],
+    "page": 49,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0162",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.1. 측량방법"
+    ],
+    "text": "[그림 3.1] 측량개념도 및 측량장비사진",
+    "blockRange": [
+      592,
+      592
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0163",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립"
+    ],
+    "text": "### 3.1.2. 측량결과 및 현장사진",
+    "blockRange": [
+      593,
+      593
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0164",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진"
+    ],
+    "text": "- 가. 측량결과",
+    "blockRange": [
+      594,
+      594
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0165",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "가. 측량결과"
+    ],
+    "text": "지점측량은 2020.12.10에 설치한 복류수관측정, 지하수관측정, 하천수위관측정 3개소를 대상으로 측량을 수행하였으며, 측량결과를 [표 3.1]과 같이 정리하였다.",
+    "blockRange": [
+      595,
+      595
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0166",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "가. 측량결과"
+    ],
+    "text": "**[표 3.1] 관측정 측량 결과**\n\n| 지점명 | 측량성과표 |  |  |\n| --- | --- | --- | --- |\n| 지점명 | X | Y | EL |\n| 복류수관측정 | 271872.0078 | 416399.4273 | 107.388 |\n| 지하수관측정 | 271865.8631 | 416336.2198 | 106.221 |\n| 하천수위관측정 | 271867.2316 | 416332.3796 | 106.459 |",
+    "blockRange": [
+      596,
+      596
+    ],
+    "page": 49,
+    "table": {
+      "rows": 5,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0167",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "가. 측량결과"
+    ],
+    "text": "![image](image_135.png)\n\n\n![image](image_136.png)",
+    "blockRange": [
+      597,
+      598
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0168",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진"
+    ],
+    "text": "- 나. 현장사진",
+    "blockRange": [
+      599,
+      599
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0169",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "나. 현장사진"
+    ],
+    "text": "지점측량 3개소에 대한 현장사진은 [그림 3.2]와 같다.\n\n복류수 관측정",
+    "blockRange": [
+      600,
+      601
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0170",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "나. 현장사진"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 근경 | 원경 |",
+    "blockRange": [
+      602,
+      602
+    ],
+    "page": 50,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0171",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "나. 현장사진"
+    ],
+    "text": "지하수 관측정",
+    "blockRange": [
+      603,
+      603
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0172",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "나. 현장사진"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 근경 | 원경 |",
+    "blockRange": [
+      604,
+      604
+    ],
+    "page": 50,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0173",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "나. 현장사진"
+    ],
+    "text": "하천수위 관측정",
+    "blockRange": [
+      605,
+      605
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0174",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "나. 현장사진"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 근경 | 원경 |\n\n**[그림 3.2] 측량 현황**",
+    "blockRange": [
+      606,
+      606
+    ],
+    "page": 50,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0175",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.2. 측량결과 및 현장사진",
+      "나. 현장사진"
+    ],
+    "text": "![image](image_137.png)\n\n\n![image](image_138.png)\n\n\n![image](image_139.png)\n\n\n![image](image_140.png)\n\n\n![image](image_141.png)\n\n\n![image](image_142.png)",
+    "blockRange": [
+      607,
+      612
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0176",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립"
+    ],
+    "text": "### 3.1.3. 자동수위관측 방법",
+    "blockRange": [
+      613,
+      613
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0177",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.3. 자동수위관측 방법"
+    ],
+    "text": "조사지역에 설치된 관측정에 수압/온도 자동관측장비(Levlogger, Solinst)를 이용하여 수위 및 수온을 관측하였다. 측정데이터 개수는 40,000개까지 저장될 수 있으며, 리셋업 기능이 있어 사용 중간에 데이터를 컴퓨터에 전송하고 다시 데이터 로거를 초기화 시킬 수 있다. 또한 자동 측정시간 간격은 0.5초 \\~ 99시간 내에서 임의로 설정이 가능하다. 본 사업에서는 측정간격을 5분 간격으로 설정하여 수위 및 수온을 자동관측 하였으며, 관측기간 중 대기압 변화에 따른 기기 영향을 보정하기 위하여 5분 간격으로 대기압 자동관측장비로 대기압을 자동 관측하였다.\n\n자동관측장비는 와이어를 이용해 수중에 잠기도록 설치하였으며, 설치시 계측기의 위치가 이격되지 않도록 와이어를 관측정 상부캡에 고정시켰다. 데이터 수집전 관측정의 수위를 수동수위 측정기를 이용하여 측정하였으며, 자동수위관측정에 보정자료로 활용하였다.",
+    "blockRange": [
+      614,
+      615
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0178",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.3. 자동수위관측 방법"
+    ],
+    "text": "**[표 3.2] 지하수위 및 수온 자동관측장비의 특징**\n\n| 구분 | 내용 |\n| --- | --- |\n| 측정항목 | 수위, 수온 |\n| 크기 | 직경 22mm, 길이 160mm |\n| 자료저장 | 최소 4만개 이상 저장 |\n| 측정간격 | 0.5sec \\~ 99hour 설정가능 |",
+    "blockRange": [
+      616,
+      616
+    ],
+    "page": 51,
+    "table": {
+      "rows": 5,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0179",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.3. 자동수위관측 방법"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 자동관측장비 | 수동수위 측정기 |\n\n**[그림 3.3] 자동관측장비 및 수동수위 측정기**",
+    "blockRange": [
+      617,
+      617
+    ],
+    "page": 51,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0180",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.1. 계측 필요항목에 대한 계측방법 수립",
+      "3.1.3. 자동수위관측 방법"
+    ],
+    "text": "![image](image_143.png)\n\n\n![image](image_144.png)",
+    "blockRange": [
+      618,
+      619
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0181",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집"
+    ],
+    "text": "## 3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+    "blockRange": [
+      620,
+      620
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0182",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집"
+    ],
+    "text": "### 3.2.1. 시범대상 취수장 계측기 설치",
+    "blockRange": [
+      621,
+      621
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0183",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치"
+    ],
+    "text": "가. 관측정 설치\n\n(1) 관측정 설치방법",
+    "blockRange": [
+      622,
+      623
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0184",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(1) 관측정 설치방법"
+    ],
+    "text": "복류수관측정 및 지하수관측정은 타격식 착정장비(Air percussion)를 이용하여 굴착하였다. 굴착 중 복류수 유입구간을 확인하기 위해 지하 지층상태를 1 m 단위로 확인하였으며, 풍화암이 출현하는 구간을 확인 후 굴착을 종료하였다. 굴착 종료 후 하천수의 직접적인 유입을 차단하기 위해 외부 케이싱을 설치하였으며, 관측구간에는 유공관을 설치하고, 상부구간에는 무공관을 설치하였다. 유공관구관에는 규사 (필터팩), 무공관과 케이싱구간에는 하천수의 직접적인 유입을 차단하기 위해 차수재, 채움재 및 시멘트그라우팅를 설치하였다. 마지막으로 지하수 관측정 내 이물질 유입 및 파손을 방지하게 위해 상부보고공을 설치한 후 완료하였다.",
+    "blockRange": [
+      624,
+      624
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0185",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(1) 관측정 설치방법"
+    ],
+    "text": "| >100mm |  | ≥50mm |  |\n| --- | --- | --- | --- |\n| 목표심도까지 충적층 굴착 | 외부케이싱 설치 | 유공관 및 무공관<br>설치 바닥 차수재 설치 | 필터팩 구간을 설치<br>및 외부케이싱 부분 인발 |\n|  |  |  |  |\n| 차수재(벤토나이트)<br>설치 | 채움재 및<br>차수재 설치 | 시멘트그라우팅 설치 |  |\n\n**[그림 3.4] 관측정 설치 순서도**",
+    "blockRange": [
+      625,
+      625
+    ],
+    "page": 53,
+    "table": {
+      "rows": 4,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0186",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(1) 관측정 설치방법"
+    ],
+    "text": "![image](image_145.png)\n\n\n![image](image_146.png)\n\n\n![image](image_147.png)\n\n\n![image](image_148.png)\n\n\n![image](image_149.png)\n\n\n![image](image_150.png)\n\n\n![image](image_151.png)",
+    "blockRange": [
+      626,
+      632
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0187",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치"
+    ],
+    "text": "(2) 관측정 설치 결과",
+    "blockRange": [
+      633,
+      633
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0188",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "복류수관측정 및 지하수관측정의 설치정보 및 결과를 [표 3.3]과 [그림 3.5]와 같다. [표 3.3] 관측정 설치 정보",
+    "blockRange": [
+      634,
+      634
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0189",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "| 구분 | 복류수관측정 | 지하수관측정 |\n| --- | --- | --- |\n| 굴착지름(mm) | 150 |  |\n| 외부케이싱내경(mm) | 100 |  |\n| 관정내경(mm) | 50 |  |\n| 굴착깊이(m) | 6 | 7 |\n| 무공관길이(m) | 3 | 4 |\n| 유공관길이(m) | 3 | 3 |\n| 채움재 | 규사 |  |\n| 차수재 | 벤토나이트 |  |\n| 유공관 슬롯크기(mm) | 0.3 |  |\n| 그라우팅 | 시멘트 |  |\n| 그라우팅 두께(m) | 0.5 | 0.5 |",
+    "blockRange": [
+      635,
+      635
+    ],
+    "page": 54,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0190",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 복류수관측정 | 지하수관측정 |\n\n**[그림 3.5] 관측정별 설치 현황**",
+    "blockRange": [
+      636,
+      636
+    ],
+    "page": 54,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0191",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "![image](image_152.png)\n\n\n![image](image_153.png)\n\n복류수관측정과 지하수관측정은 모래구간 하부의 자갈 구간에 유공관을 설치를 목표로 굴착하였으며, 굴착 결과, 복류수관측정은 6 m, 지하수관측정은 7 m 굴착하였다. 관측정은 150 mm로 굴착하였으며, 외부 케이싱은 내경 100 mm로 설치하였으며, 내부케이싱은 50 mm로 설치하였다.\n\n유공관은 지하 지층상태를 확인한 후, 복류수관측정은 하부 3 \\~ 6 m 구간, 지하수관측정은 하부 4 \\~ 7 m 구간에 설치하였다. 외부케이싱과 내부케이싱의 빈 공간은 단단하고 오염되지 않은 채움재(규사)와 차수재(벤토나이트)로 충진하였으며, 유공관 상부는 벤토나이트와 시멘트 그라우팅을 이용하여 지표로부터의 오염물질이 유입되지 않도록 차수하였다.\n\n또한, 관측정설치 지역은 사람의 접근성이 제한된 지역이지만, 관측장비 유실 또는 분실을 방지하기 위하여 상부보호공에 시건장치를 설치하였다. 그리고 설치 지역이 하천 인근으로 여름철에 개발된 관정의 확인이 어려울 수 있다. 따라서 멀리서도 확인이 가능하도록 관정의 상부 보호시설은 지상형으로 설치한 후 밝은 노란색으로 도색하여 현장 조사자에 의해 쉽게 확인이 가능하도록 하였다.\n\n추가적으로, 하천의 장기적인 수위변화를 관측하기 위해 하천 내에 하천수위관측정을 설치하였다.",
+    "blockRange": [
+      637,
+      642
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0192",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "|  |  |  |\n| --- | --- | --- |\n| (a) 설치지점 전경 | (b) 관측정 굴착 | (c) 케이싱 설치 |\n|  |  |  |\n| (d) 외부자재(100mm) 설치 | (e) 내부자재(50mm) 설치 | (f) 규사 채움 |\n|  |  |  |\n| (g) 차수재 채움 | (h) 그라우팅 | (i) 설치 완료 |",
+    "blockRange": [
+      643,
+      643
+    ],
+    "page": 56,
+    "table": {
+      "rows": 6,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0193",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "[그림 3.6] 복류수관측정 설치 현황\n\n\n![image](image_154.png)\n\n\n![image](image_155.png)\n\n\n![image](image_156.png)\n\n\n![image](image_157.png)\n\n\n![image](image_158.png)\n\n\n![image](image_159.png)\n\n\n![image](image_160.png)\n\n\n![image](image_161.png)\n\n\n![image](image_162.png)",
+    "blockRange": [
+      644,
+      653
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0194",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "|  |  |  |\n| --- | --- | --- |\n| (a) 설치지점 전경 | (b) 관측정 굴착 | (c) 케이싱 설치 |\n|  |  |  |\n| (d) 외부자재(100mm) 설치 | (e) 내부자재(50mm) 설치 | (f) 규사 채움 |\n|  |  |  |\n| (g) 차수재 채움 | (h) 그라우팅 | (i) 설치 완료 |",
+    "blockRange": [
+      654,
+      654
+    ],
+    "page": 57,
+    "table": {
+      "rows": 6,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0195",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "[그림 3.7] 지하수관측정 설치 현황",
+    "blockRange": [
+      655,
+      655
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0196",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "|  |  |  |\n| --- | --- | --- |\n| (a) 지지대 설치(1) | (b) 지지대 설치(2) | (c) 설치 완료 |",
+    "blockRange": [
+      656,
+      656
+    ],
+    "page": 57,
+    "table": {
+      "rows": 2,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0197",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "[그림 3.8] 하천수위 관측정 설치 현황\n\n\n![image](image_163.png)\n\n\n![image](image_164.png)\n\n\n![image](image_165.png)\n\n\n![image](image_166.png)\n\n\n![image](image_167.png)\n\n\n![image](image_168.png)\n\n\n![image](image_169.png)\n\n\n![image](image_170.png)\n\n\n![image](image_171.png)\n\n\n![image](image_172.png)\n\n\n![image](image_173.png)\n\n\n![image](image_174.png)",
+    "blockRange": [
+      657,
+      669
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0198",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "|  |  |  |\n| --- | --- | --- |\n| (a) 지하수관측정 | (b) 복류수관측정 | (c) 하천수위관측정 |",
+    "blockRange": [
+      670,
+      670
+    ],
+    "page": 58,
+    "table": {
+      "rows": 2,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0199",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "(2) 관측정 설치 결과"
+    ],
+    "text": "[그림 3.9] 장기수위관측장비 설치(조거설정사진)",
+    "blockRange": [
+      671,
+      671
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0200",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치"
+    ],
+    "text": "나. 조사지역의 지층현황",
+    "blockRange": [
+      672,
+      672
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0201",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.1. 시범대상 취수장 계측기 설치",
+      "나. 조사지역의 지층현황"
+    ],
+    "text": "관측정 설치 중 파악한 지하 지층현황을 바탕으로 조사지역에 대한 지층단면을 검토하였다. 관측정 설치지점의 지층은 상부에서부터 모래층, 자갈모래층, 자갈, 실트섞인 모래층, 풍화암의 순으로 쌓여 있다. 복류수관측정의 층후는 모래층이 0 \\~ 1 m, 자갈모래층이 1 \\~ 4 m, 자갈, 실트섞인 모래층 4 \\~ 6 m, 풍화암은 6 m 이하 구간에서 나타났다. 지하수관측정의 층후는 모래층이 0 \\~ 3 m, 자갈모래층이 3 \\~ 5 m, 자갈, 실트섞인 모래층 5 \\~ 6 m, 풍화암은 6 m 이하 구간에서 나타났다. 하천과 인접한 복류수관측정은 자갈이 포함된 자갈모래층과 자갈, 실트섞인 모래층이 지하수 관측정에 비해 두껍게 나타났다. 지하수관측정은 모래층이 두껍게 나타났으며, 복류수 관측정에 비해 풍화암구간도 높게 나타났다.\n\n모래층의 높이는 하천과의 거리 등에 따라 복류수관측정과 지하수관측정이 상이하게 나타나지만, 자갈모래층은 해발고도 기준 약 104.3 m에서 두 관측정 모두 동일한 심도에서 확인되었다.\n\n관측정 설치 후 약 일주일이 지난 후 각 관측정에 대한 지하수위를 측정한 결과, 해발고도 기준 복류수관측정은 105.11 m, 지하수관측정은 105.08 m, 하천수위관측정은 105.11 m로 수위가 유사하게 나타났다.\n\n\n![image](image_175.png)\n\n\n![image](image_176.png)\n\n\n![image](image_177.png)\n\n[그림 3.10] 조사지역 지층현황",
+    "blockRange": [
+      673,
+      679
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0202",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집"
+    ],
+    "text": "### 3.2.2. 자동수위관측 결과",
+    "blockRange": [
+      680,
+      680
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0203",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과"
+    ],
+    "text": "가. 수위",
+    "blockRange": [
+      681,
+      681
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0204",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "신규 관측정설치 이후 2020년 12월 12일부터 2020년 12월 16일까지 5일간 관측한 결과를 각 지점별과 통합으로 구분하여 시계열 그래프로 도시하였으며, 강수량 데이터는 관측지점과 가장 인접하여 위치한 보은기상대의 자료를 활용하였다.\n\n복류수관측정의 경우 수위 변동폭은 0.05 m 이며(최고수위 105.12m, 최저수위 105.07m), 뚜렷한 수위변화는 없는 것으로 확인되었다([그림 3.11]).\n\n) 0.0\n\nm\n\n(m 4.0\t복류수 강수량\n\n량\n\n수 8.0\n\n강\n\n106.0\n\n105.6\n\n) 105.2\n\n,M\n\n.L\n\n(E\n\n위\n\n수 104.8\n\n104.4\n\n104.0",
+    "blockRange": [
+      682,
+      699
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0205",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "| 12/12/20 | 12/13/20 | 12/14/20 | 12/15/20 | 12/16/20 12/17/20 |\n| --- | --- | --- | --- | --- |\n| mm/dd/yy |  |  |  |  |\n|  |  |  | [그림 3.11] 수위관측결과(복류수) |  |",
+    "blockRange": [
+      700,
+      700
+    ],
+    "page": 59,
+    "table": {
+      "rows": 3,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0206",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "![image](image_178.png)\n\n지하수관측정의 경우 수위 변동폭은 0.17 m 이며(최고수위 105.08 m, 최저수위 104.91 m), 일정한 간격으로 수위상승 또는 하강하는 패턴을 보이고 있으며, 정확한 원인을 파악하기 위해서 지속적인 관측이 필요할 것으로 판단된다([그림 3.12]).\n\n) 0.0\n\nm\n\n(m 4.0\t지하수 강수량\n\n량\n\n수 8.0\n\n강\n\n106.0\n\n105.6\n\n) 105.2\n\n,M\n\n.L\n\n(E\n\n위\n\n수 104.8\n\n104.4\n\n104.0",
+    "blockRange": [
+      701,
+      718
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0207",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "| 12/12/20 | 12/13/20 | 12/14/20 | 12/15/20 | 12/16/20 12/17/20 |\n| --- | --- | --- | --- | --- |\n| mm/dd/yy |  |  |  |  |\n|  |  |  | [그림 3.12] 수위관측결과(지하수) 하천수위관측정의 경우 수위 변동폭은 0.26 m 이며(최고수위 105.32 m, 최저수위 |  |\n|  |  | 또한 뚜렷한 수위변화에 특징은 없는 것으로 확인되었다([그림 3.13]). | 105.06 m), 12월 12일 오후부터 하천수위가 소폭으로 하강한 이후 수위변화는 미미하다. |  |\n| ) 0.0 m |  |  |  |  |\n| m( 4.0 량 수 8.0 |  |  | 하천수 | 강수량 |",
+    "blockRange": [
+      719,
+      719
+    ],
+    "page": 60,
+    "table": {
+      "rows": 6,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0208",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "강\n\n106.0\n\n105.6\n\n) 105.2\n\n,M\n\n.L\n\n(E\n\n위\n\n수 104.8\n\n104.4\n\n104.0",
+    "blockRange": [
+      720,
+      730
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0209",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "| 12/12/20 | 12/13/20 | 12/14/20 | 12/15/20 | 12/16/20 12/17/20 |\n| --- | --- | --- | --- | --- |\n| mm/dd/yy |  |  |  |  |\n|  |  |  | [그림 3.13] 수위관측결과(하천수) 관측기간 동안 지하수위보다 복류수와 하천수위가 높게 관측되었으며, 그래프 상 |  |",
+    "blockRange": [
+      731,
+      731
+    ],
+    "page": 60,
+    "table": {
+      "rows": 3,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0210",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "흐름방향은 하천수위관측정에서 지하수관측정으로 흐르는 것으로 판단된다. 그러나지하수 흐름방향, 수위특성 등을 판단하기에는 관측기간이 짧아 지속적인 관측을 통해 수위평가를 하는 것이 바람직할 것으로 판단된다([그림 3.14]).\n\n) 0.0\n\nm\n\n(m 4.0\n\n량\n\n수 8.0\n\n강\n\n105.6\n\n복류수\n\n지하수\n\n하천수 강수량\n\n105.4\n\n) 105.2\n\nM\n\n.L,\n\n(E\n\n위\n\n수 105.0\n\n104.8\n\n104.6",
+    "blockRange": [
+      732,
+      751
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0211",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "| 12/12/20 | 12/13/20 | 12/14/20 | 12/15/20 | 12/16/20 | 12/17/20 |\n| --- | --- | --- | --- | --- | --- |\n| mm/dd/yy |  |  |  |  |  |\n|  |  |  | [그림 3.14] 수위관측결과(전체) |  |  |\n| 나. 수온 |  |  | 신규 관측정에서 자동수위 관측장비에서 획득한 수온자료를 이용하여 시계열 그래프로 도시하였으며, 강수량 데이터 및 관측기간은 수위결과와 동일하다. |  |  |\n|  |  | 는 것으로 관측되었다([그림 3.15]). | 복류수관측정의 경우 수온변화는 미미한 것으로 확인되었으며, 특징적인 변화는 없 |  |  |",
+    "blockRange": [
+      752,
+      752
+    ],
+    "page": 61,
+    "table": {
+      "rows": 5,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0212",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": ") 0.0\n\nm",
+    "blockRange": [
+      753,
+      754
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0213",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "|  |  | m( 4.0 량 수 8.0 강 16.0 |  | 복류수 강수량 |\n| --- | --- | --- | --- | --- |\n| 15.8 |  |  |  |  |\n|  |  | ) ℃( 15.6 온 |  |  |\n| 수 |  |  |  |  |\n| 15.4 |  |  |  |  |\n| 15.2 |  |  |  |  |\n| 12/12/20 | 12/13/20 | 12/14/20 12/15/20 | 12/16/20 | 12/17/20 |\n| mm/dd/yy |  |  |  |  |\n|  |  |  | [그림 3.15] 수온관측결과(복류수) |  |\n|  |  | 확인되었으며, 특징적인 변화는 없는 것으로 관측되었다([그림 3.16]). | 지하수관측정의 경우 수온변화는 복류수관측정과 동일하게 변화는 미미한 것으로 |  |",
+    "blockRange": [
+      755,
+      755
+    ],
+    "page": 62,
+    "table": {
+      "rows": 10,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0214",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": ") 0.0\n\nm\n\n(m 4.0\n\n량\n\n수 8.0\n\n강\n\n15.8\n\n지하수 강수량\n\n15.6\n\n15.4\n\n)\n\n(℃\n\n온\n\n수\n\n15.2\n\n15.0\n\n14.8",
+    "blockRange": [
+      756,
+      772
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0215",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "| 12/12/20 | 12/13/20 | 12/14/20 12/15/20 | 12/16/20 | 12/17/20 |\n| --- | --- | --- | --- | --- |\n| mm/dd/yy |  |  |  |  |\n|  |  |  | [그림 3.16] 수온관측결과(지하수) 지표수 관측정인 하천수위관측정의 경우 일부 기온변화에 따른 하천수온변화를 보였다. 12월16일에 경우 12월 15일보다 평균기온이 낮았으나 하천수온이 상승하였는데, |  |\n|  |  | 한 것으로 판단된다([그림 3.17]). | 이는 영하날씨로 인하여 지표수 표면이 얼어 보온 역할을 하여 하천내부온도가 상승 |  |\n|  |  |  | - 48 - |  |",
+    "blockRange": [
+      773,
+      773
+    ],
+    "page": 62,
+    "table": {
+      "rows": 5,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0216",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": ") 0.0\n\nm\n\n(m 4.0\n\n량\n\n수 8.0\n\n강\n\n6.4\n\n하천수 강수량\n\n5.6\n\n4.8\n\n)\n\n(℃\n\n온 4.0\n\n수\n\n3.2\n\n2.4\n\n1.6",
+    "blockRange": [
+      774,
+      790
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0217",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "| 12/12/20 | 12/13/20 |  | 12/14/20 12/15/20 mm/dd/yy | 12/16/20 | 12/17/20 |\n| --- | --- | --- | --- | --- | --- |\n|  |  | [그림 3.17] 수온관측결과(하천수) | 관측기간 동안 하천수온변화 따른 복류수, 지하수 수온변화는 없으며, 복류수 및 지하수관측정의 경우 기온변화에 따른 수온변화는 없는 것으로 확인되었다. 수위관측과 마찬 |  |  |\n|  |  | 속적인 관측 통해 특징을 파악할 필요가 있을 것을 판단된다([그림 3.18]). | 가지로 관측기간이 짧아 하천수-복류수 관계를 판단하기에는 어려움에 있으며, 앞으로 지 |  |  |",
+    "blockRange": [
+      791,
+      791
+    ],
+    "page": 63,
+    "table": {
+      "rows": 3,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0218",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": ") 0.0\n\nm\n\n(m 4.0\n\n량\n\n수 8.0\n\n강\n\n18.0\n\n복류수\n\n지하수\n\n하천수 강수량\n\n16.0\n\n14.0\n\n) 12.0\n\n(℃\n\n온\n\n수\n\n8.0\n\n4.0",
+    "blockRange": [
+      792,
+      809
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0219",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "| . | 12/12/20 | 12/13/20 | 12/14/20 | 12/15/20 12/16/20 | 12/17/20 |\n| --- | --- | --- | --- | --- | --- |\n| mm/dd/yy |  |  |  |  |  |\n|  |  |  | [그림 3.18] 수온관측결과(전체) |  |  |\n|  |  |  | - 49 - |  |  |",
+    "blockRange": [
+      810,
+      810
+    ],
+    "page": 63,
+    "table": {
+      "rows": 4,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0220",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2. 시범대상 취수장 계측기 설치 및 자료 수집",
+      "3.2.2. 자동수위관측 결과",
+      "가. 수위"
+    ],
+    "text": "제4장 가뭄상황 판단 및 예측\n\n4.1 시범대상 취수장의 하천수위-지하수위 분석\n\n4.2 계측 필요항목 선정 및 계측 자료를 활용한\n\n가뭄판단 방법론\n\n4.3 관측자료를 활용한 복류수 취수 지점의 가뭄판단\n\n방법론\n\n4.4 가뭄예측에 활용 가능한 최적 분석모형 제시",
+    "blockRange": [
+      811,
+      817
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0221",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제4장 가뭄상황 판단 및 예측",
+    "blockRange": [
+      818,
+      818
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0222",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## 4.1. 시범대상 취수장의 하천수위-지하수위 분석",
+    "blockRange": [
+      819,
+      819
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0223",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "본 과업에서는 시범대상 취수장의 가뭄조건에 따라 하천 수위 및 지하수위 관계를 분석하였으며, 가뭄상황을 일강수량 기반의 SPI30일부터 SPI180일까지를 적용하여 건조상태 (SPI < -1)와 습윤상태(SPI > 1)에 대한 지하수위 및 하천수위의 상관성을 분석하였다. 자료 분석은 영동취수장과 청산취수장을 대상으로 하였으며 주요한 분석 결과를 정리하면 아래와 같다.\n\n우선, 영동취수장을 대상으로 가뭄상황을 분석한 결과, 2014년과 2015년 가뭄이 심각하게 발생한 것으로 분석되었으며, SPI30일, SPI60일, SPI70일, SPI180일 분석결과는 [그림 4.1]과 같다. 2014년과 2015년 기간 동안 하천 및 지하수위와 가뭄지수와의 상관성 및 자료 전기간(2004년-2019년)에 대한 가뭄조건 (SPI < -1)에 따른 하천 수위 및 지하수위 관계를 재분석하였다. 가뭄지수와의 상관성 분석결과, 하천수위와 가뭄지수간의 상관성은 크지 않으나 단기가뭄 SPI 30D에서 가장 크고 지속시간이 길어질수록 상관성은 떨어지는 것으로 나타났다. 지하수위와 가뭄지수와 관계는 전체적으로 음의 상관성을 보이고, SPI 90D에서 -0.41로 가장 크게 나타났다.",
+    "blockRange": [
+      820,
+      821
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0224",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "|  | SPI30일 | SPI60일 |\n| --- | --- | --- |\n|  | SPI90일 | SPI180일 |",
+    "blockRange": [
+      822,
+      822
+    ],
+    "page": 68,
+    "table": {
+      "rows": 2,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0225",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "[그림 4.1] 가뭄지수(SPI)에 의한 가뭄상황 분석 (영동취수장)",
+    "blockRange": [
+      823,
+      823
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0226",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "|  | SPI 90D vs. GWLB |\n| --- | --- |",
+    "blockRange": [
+      824,
+      824
+    ],
+    "page": 68,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0227",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "[그림 4.2] 2014년\\~2015년 가뭄지수와 지하수위-하천수위간의 상관성 분석결과(영동취수장)",
+    "blockRange": [
+      825,
+      825
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0228",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "| RWL1 vs. RWL2 3.0 RWL1RWL2<br>2.5<br>2.0<br>(m)<br>vel rL 1.5 ate W<br>1.0<br>0.5<br>0.0<br>Jan1 Apr1 Jul1 Oct1 Jan1 Apr1 Jul1 Oct1 Time | RWL1 vs. GWLB RWL2 vs. GWLB |\n| --- | --- |",
+    "blockRange": [
+      826,
+      826
+    ],
+    "page": 68,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0229",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "[그림 4.3] 2014년\\~2015년 하천수위-지하수위 상관성 분석결과 (영동취수장)\n\n자료 전기간 (2004-2019)에 대해 가뭄조건(SPI30일 -1.0이하)에 따른 하천 및 지하수\n\n위 분석 결과, SPI 30D -1.0이하 일 때, 하천수위와 지하수위 (RWL1-GWLB)의 상관성은 0.15로 낮게 나타났다, 그러나 SPI 30D 1.0 이상 일 때, RWL1-GWLB 상관성은 0.61로 통계적으로 유의한 상관관계를 보이는 것으로 분석되었다. 이러한 관계는 RWL2-GWLB와의 분석에서 더 명확하게 나타났다 (SPI 30D –1.0 이하 0.02, SPI 30D 1.0 이상 0.82).\n\n\n![image](image_179.png)\n\n\n![image](image_180.png)\n\n\n![image](image_181.png)\n\n\n![image](image_182.png)\n\n\n![image](image_183.png)\n\n\n![image](image_184.png)\n\n\n![image](image_185.png)\n\n\n![image](image_186.png)\n\n\n![image](image_187.png)\n\n\n![image](image_188.png)",
+    "blockRange": [
+      827,
+      839
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0230",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "| RWL1 vs. GWLB | RWL2 vs. GWLB |\n| --- | --- |",
+    "blockRange": [
+      840,
+      840
+    ],
+    "page": 69,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0231",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "[그림 4.4] 전기간 가뭄조건에 따른 하천-지하수위 분석 (2004-2019) (영동취수장)\n\n다음으로 청산취수장을 대상으로 가뭄상황을 분석한 결과, 영동취수장과 마찬가지로 2014년과 2015년에서 가뭄이 심각하게 발생한 것으로 나타났다. 청산취수장의 2016.01.02.부터 2019.12.31까지 인근 수위관측소 및 가뭄지수와의 상관성 분석결과, 상·하류의 수위관측소의 경우 0.9 이상의 높은 상관성을 보이며, 지하수위(암반층)의 경우 0.6 이상의 상관성을 보였다.\n\n\n![image](image_189.png)\n\n\n![image](image_190.png)",
+    "blockRange": [
+      841,
+      844
+    ],
+    "page": 69
+  },
+  {
+    "id": "c0232",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "|  | SPI30일 | SPI60일 |\n| --- | --- | --- |\n|  | SPI90일 | SPI180일 |",
+    "blockRange": [
+      845,
+      845
+    ],
+    "page": 70,
+    "table": {
+      "rows": 2,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0233",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "[그림 4.5] 가뭄지수(SPI)에 의한 가뭄상황 분석 (청산취수장)\n\nSPI180일 기준으로 건조상태 (SPI < -1)와 습윤상태(SPI > 1)의 수문변화가 크고, 가뭄시 지하수위 및 하천수위 상관성이 커지는 양상을 나타났다. SPI180 < -1.0일 때, 하천수위(RWL1)과 암반층 지하수위 (GWLB)의 상관성은 0.57로 통계적으로 유의한 양의 상관성을 보이고, 하천수위(RWL1)와 SPI180와의 상관성에서도 0.43(하천수위(RWL2)와 SPI180 상관계수: 0.43)으로 비교적 높은 상관성을 보였다. 또한, SPI180와 지하수위(GWLB)와의 상관성에서도 0.63으로 높은 상관관계를 보였다. 그러나 SPI180 > 1.0일 때에는 SPI180와 지하수위(GWLB)와는 유의한 상관관계가 나타나지 않았다 (상관계수 –0.05). 아래 표는 가뭄시와 습윤시 청산취수장의 하천수위 및 지하수위의 상관성 분석결과를 나타내고 있다.\n\n\n![image](image_191.png)\n\n\n![image](image_192.png)\n\n\n![image](image_193.png)\n\n\n![image](image_194.png)\n\n\n![image](image_195.png)",
+    "blockRange": [
+      846,
+      852
+    ],
+    "page": 70
+  },
+  {
+    "id": "c0234",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "**[표 4.1] 청산취수장의 인자별 가뭄 상관성 분석 결과(2016.01.02.\\~2019.12.31.)**\n\n| 가뭄시(SPI180D < -1.0) |  |  |  |  |\n| --- | --- | --- | --- | --- |\n|  | RLW1 | RLW2 | GWLB | SPI180 |\n| RLW1 | 1.00 | 0.97 | 0.57 | 0.43 |\n| RLW2 | 0.97 | 1.00 | 0.58 | 0.43 |\n| GWLB | 0.57 | 0.58 | 1.00 | 0.63 |\n| SPI180 | 0.43 | 0.43 | 0.63 | 1.00 |\n| 습윤시(SPI180D > 1.0) |  |  |  |  |\n|  | RLW1 | RLW2 | GWLB | SPI180 |\n| RLW1 | 1.00 | 0.65 | 0.58 | 0.11 |\n| RLW2 | 0.65 | 1.00 | 0.57 | 0.18 |\n| GWLB | 0.58 | 0.57 | 1.00 | -0.05 |\n| SPI180 | 0.11 | 0.18 | -0.05 | 1.00 |",
+    "blockRange": [
+      853,
+      853
+    ],
+    "page": 71,
+    "table": {
+      "rows": 12,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0235",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.1. 시범대상 취수장의 하천수위-지하수위 분석"
+    ],
+    "text": "[그림 4.6]은 SPI30일 적용하여 가뭄 조건에 따른 하천 수위 및 지하수위 분석결과를 도시하고 있다. SPI30D < -1 적용시, 대성1교(RWL1, 2019년부터 측정) 하천의 저수위 (lower quartile) 발생이 전체 자료기간에 비해서 1.97배 증가하는 것으로 나타났으며, 건조상태와 습윤상태의 저수위변화는 3.25배 차이 나는 것으로 분석되었다. 산계교(RWL2,2006년부터 측정)의 하천수위는 건조상태와 습윤상태의 저수위변화가 1.80배이상 발생하고, 전체 자료에 비해서는 12.5%증가하는 것으로 나타났다. 그러나 충적층 및 암반층의 지하수의 변화는 크게 나타나지 않았다. 따라서 단기 가뭄의 상태변화에 대해서 하천수위는 민감하게 반응하나 지하수위의 변화는 크지 않는 것으로 분석되었다.\n\n[그림 4.6] 전기간 가뭄조건에 따른 하천-지하수위 상관성 분석 (청산취수장)\n\n\n![image](image_196.png)",
+    "blockRange": [
+      854,
+      856
+    ],
+    "page": 71
+  },
+  {
+    "id": "c0236",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## 4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+    "blockRange": [
+      857,
+      857
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0237",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론"
+    ],
+    "text": "### 4.2.1. 계측 필요 항목 선정 및 활용방안",
+    "blockRange": [
+      858,
+      858
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0238",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.1. 계측 필요 항목 선정 및 활용방안"
+    ],
+    "text": "복류수, 하천수위 및 지하수위를 측정할 수 있는 다양한 계측 장비가 있으며, 현장 여건에 따라 관측정 시공과 피조미터 방식으로 구분할 수 있다([표 4.2]). 지하수위 및 관측정의 경우 지반에 케이싱을 설치하여 지하수위 혹은 지표수를 측정하는 방식, 피에조미터의 경우 별도의 착공 없이 별도의 장비를 활용하여 간단하게 설치 가능하며 지하수위 및 하천수위 관측이 가능하나 심도의 제약이 있다.",
+    "blockRange": [
+      859,
+      859
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0239",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.1. 계측 필요 항목 선정 및 활용방안"
+    ],
+    "text": "**[표 4.2] 계측 장비**\n\n<!-- <table id=\"t57\" /> -->\n| 측정장비 | 측정방식 |  |\n| --- | --- | --- |\n| 지하수위<br>자동측정기 | • 지하수위 자동측정 및 로깅<br>- 압력차를 기록하는 방<br>- 관정/피조미터의,내경에 맞는 센서 선택해야 함<br>- 대기압 보정을 위한 별도 대기압측정 센서 필요<br>(site 당1개)<br>- PC, RTU 등 유무선 송신 가능(센서 인발 없이<br>자료확인 가능) |  |\n| 관측정 | - 관측하려는 심도에 유공관을 설치하고 심부에<br>모래, 자갈 등 여재를 채우는 방식<br>- 관측심도 이외에 지하수/지표수가 유입되지 않도록<br>그라우팅<br>- 상부시설 보호를 위한 외부케이싱을 제거하지<br>않고 설치 | <!-- <table parent_id=\"t57\" child_id=\"t58\" /> --> |\n| Drive-Point Piezometer | - 별도의 착공없이 직접 설치 가능<br>- 비용이 저렴하고 빠르게 설치할 수 있으나 설치<br>심도에 제약<br>- 지하매질에 따라 설치가 불가능 |  |\n\n<!-- <table id=\"t58\" parent_id=\"t57\" /> -->\n| 천부 관측정 심부 관측정 |\n| --- |",
+    "blockRange": [
+      860,
+      860
+    ],
+    "page": 72,
+    "table": {
+      "rows": 4,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0240",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.1. 계측 필요 항목 선정 및 활용방안"
+    ],
+    "text": "계측을 통해 연속적인 시계열 자료를 획득할 수 있으며, 가뭄시 관측이 불가능한 하천수위 달리 복류수, 지하수위를 관측함으로써 연속적인 자료 획득을 통한 분석이 가능하다. 또한, 취수량, 기상자료 등과 복류수, 지하수위를 분석하여 가뭄 예측 등에 활용한다.\n\n가뭄시 주변 지하수위 보다 하천수위(복류수위)가 낮을 경우 이득하천이며, 주변 지하수위가 더 낮은 경우는 손실하천으로 분류할 수 있으며, 하천수 고갈 시 주변 지역의 지하수 이용 형태 등을 분석하여 취수에 직접적인 영향을 주는 행위를 제한할 수 있는 근거자료 마련할 수 있다.\n\n\n![image](image_197.png)\n\n\n![image](image_198.png)\n\n\n![image](image_199.png)\n\n[그림 4.7] 이득하천(A)과 손실하천(B)의 개념도",
+    "blockRange": [
+      861,
+      866
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0241",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론"
+    ],
+    "text": "### 4.2.2. 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론",
+    "blockRange": [
+      867,
+      867
+    ],
+    "page": 73
+  },
+  {
+    "id": "c0242",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.2. 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론"
+    ],
+    "text": "지속가능한 개발이라는 개념은 국내 수자원과 물환경 정책의 패러다임을 크게 변화시켰으며, 수자원 측면에서 지표수-지하수 연계 해석에 대한 분야, 하천 생태학적 지속가능성을 위해 지표수-지하수 혼합대에 대한 연구와 사업들이 전개되어왔다.\n\n[그림 4.8] 지형에 따른 지표수-지하수 혼합대\n\n\n![image](image_200.png)\n\n수자원 측면에서 국내에서도 강우유출모형과 지하수유동모형(MODFLOW 등) 연계에 대한 연구 등이 있었으며, 하천변 지하수위를 이용한 가뭄 예측 적용성 등에 대한 연구가 진행되어 왔다.\n\n많은 시도와 연구에도 불구하고 지표수와 지하수 각각을 개별적으로 관측한 자료는 많으나(국가하천측정망, 국가지하수관측망 등), 지표수와 지하수를 연계하여 관측하는 경우는 특정한 사업을 위한 일시적인 관측 외에 장기적으로 관측한 자료가 드물다. 최근 4대강 보 건설로 인한 하천수 수위 상승으로 보 주변 지하수의 수질변화가 예상되어 지하수 흐름 특성 변화가 예상되는 지점에 수질측정망을 설치하여 하천-지하수 상호작용을 모니터링 하고 있으나 우리나라 전체 수계에 비하면 보 주변에 한정되어 있어, 가뭄이 나타나기 쉬운 지류나 소하천 등의 해석에는 사용하기 어려움에 있다. 특히 미계측 하천 지역이나 가뭄이 상습적으로 나타나고 있는 계측 하천 지역의 경우 전통적인 물수지 분석을 위한 기저유출 분석을 위해 필요한 연속적인 수문자료가 부족한 실정이다.\n\n본 과업을 통해 얻어지는 연속적인 복류수위, 지하수위 자료는 기저유출을 분석할 수 있는 직접적인 자료로 활용될 수 있으며, 특히 복류수 취수량, 기상 수문자료, 인근 지역 지하수 사용현황 등의 자료를 활용하여 유역 내 물수지분석, 가뭄예측 등을 정교하게 할 수 있는 기초자료를 얻을 수 있을 것이라 판단된다.\n\n다만, 이러한 관측자료는 단기간 보다는 장기간 누적된 자료가 더 유용하며, 공간적으로도 많은 지점에서 측정될 때 다양한 해석과 활용이 가능할 것이기 때문에 지속적인 관측지점 확대를 통한 장기관측이 필요하며, 기존에 수행해왔던 지표수-지하 수연계모델에 대한 검증, 개선 등에도 본 관측자료가 활용될 수 있다.\n\n가뭄의 정도를 정량화하기 위하여 다양한 가뭄지수가 개발되어 있는데, 일반적으로 사용하고 있는 PDSI(Palmer Drought Severity Index), SWSI(Surface Water Supply Index), SPI(Standard Precipitiation Index)등이 있는데, 이중 SPI는 가뭄이 강수량의 감소에서 시작한다는 점에서 착안하여 강수량이 부족하면 용수공급원인 지하수량, 적설량, 저수지저류량, 토양함유 수분, 하천유출량 등에 영향을 각기 다르게 영향을 준다는 가정에서 개발된 것으로 지하수위의 변동형태에 따른 상관도를 통하여 가뭄예측에 사용한 사례가 있다.\n\n복류수/지하수위의 강수에 따른 변동 형태, 복류수/지하수와의 상호 관련성 및 취수량과의 관계 등을 주변 지역 용수 형태와 연계하여 분석한다면 강수량이 줄어드는 시점부터 가뭄이 발생할 수 있는지 예측할 수 있고 이를 지수화하여 취수관리 및 주변 지역 지하수 이용 관리 등이 가능할 수 있을 것으로 판단된다.\n\n기상학적 가뭄지수인 표준강수지수(Standardized Precipitation Index, SPI)와 수문학적 가뭄상태를 나타내는 저수지의 상태를 융합한 복합 표준 저수지 및 강수지수(Compound Standardized Storage and Precipitation Index, CSSPI)가 개발되었다(고 다상 등(2020)).\n\n복합 표준 저수지 및 강수 지수(CSSPI)에서는 강우 발생에 의한 기상·기후학적 가뭄의 범위이지만, 관개저수지의 용수공급에 대한 안정성을 평가하기 위하여 저수지의 저류량에 의한 수문학적 가뭄을 접목시켜 확률통계적 해석을 통하여 개발된 지수로 CSSPI는 식 4.1과 같다.\n\n$CSSPI=\\frac{aP_{resv}+bP_{pre}}{\\sqrt{a^{2}+b^{2}}}$ 식 4.1\n\n- 여기서, $a,b$는 저수율 및 강수량의 가중치이고, $P_{resv},P_{pre}$ 는 저수율 및 강수량의 표준정규분포 값이다.",
+    "blockRange": [
+      868,
+      880
+    ],
+    "page": 73
+  },
+  {
+    "id": "c0243",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.2. 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론",
+      "- 여기서, $a,b$는 저수율 및 강수량의 가중치이고, $P_{resv},P_{pre}$ 는 저수율 및 강수량의 표준정규분포 값이다."
+    ],
+    "text": "하천수위 및 지하수위를 지수형태로 변환하고 이를 식 4.1과 같은 형태로 통합한다면 하천-지하수위 융합형 수문학적 가뭄지수의 개발이 가능할 것으로 판단되며, 그 절차는 아래와 같다.",
+    "blockRange": [
+      881,
+      881
+    ],
+    "page": 75
+  },
+  {
+    "id": "c0244",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.2. 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론"
+    ],
+    "text": "- ① Location Selection: 분석 대상 유역 및 자료 하천수위 및 지하수위 선정. 이때 하천수위 및 지하수위가 서로 연관되게 자료를 설정해야할 것으로 판단된다.\n- ② Data Collection: 대상 하천수위 및 지하수위 자료 수집. 하천수위 및 지하수위의 자료의 경우 자료의 검증 및 미관측자료가 다수 발생하므로 이를 먼저 처리해야할 필요가 있을 것으로 판단된다.\n- ③ Standardization: 하천수위 및 지하수위 자료의 표준정규분포화. 하천수위 및 지하 수위에 최적화된 분포형을 선택하고 이를 바탕으로 표준정규분포화 하도록 한다.\n- ④ Weight Estimation: 하천수위 및 지하수위의 가중치 산정. 하천수위 및 지하수위를 하나의 지수로 통합하기 위해서는 이를 결합할 수 있는 가중치의 산정이 필요하다.",
+    "blockRange": [
+      882,
+      885
+    ],
+    "page": 75
+  },
+  {
+    "id": "c0245",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.2. 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론",
+      "④ Weight Estimation: 하천수위 및 지하수위의 가중치 산정. 하천수위 및 지하수위를 하나의 지수로 통합하기 위해서는 이를 결합할 수 있는 가중치의 산정이 필요하다."
+    ],
+    "text": "이를 위해 각 지수의 중요성 및 상관성을 통하여 가중치를 산정할 수 있다.",
+    "blockRange": [
+      886,
+      886
+    ],
+    "page": 76
+  },
+  {
+    "id": "c0246",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.2. 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론"
+    ],
+    "text": "- ⑤ Index Estimation: 두 개의 지수를 통합한 CSSPI 등의 지수 산정. 가중치를 바탕으로 두 개의 지수를 통합한 하나의 지수를 산정할 수 있다.",
+    "blockRange": [
+      887,
+      887
+    ],
+    "page": 76
+  },
+  {
+    "id": "c0247",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.2. 계측 필요항목 선정 및 계측 자료를 활용한 가뭄판단 방법론",
+      "4.2.2. 지하수 및 복류수 거동특성에 관한 선행연구 및 분석방법론",
+      "⑤ Index Estimation: 두 개의 지수를 통합한 CSSPI 등의 지수 산정. 가중치를 바탕으로 두 개의 지수를 통합한 하나의 지수를 산정할 수 있다."
+    ],
+    "text": "이러한 지수들을 활용하여 현재 상태의 가뭄 판단 뿐만 아니라, 미래 가뭄예측을 나타내는 지수로서 활용가능성도 있으며, 미래의 가뭄예측을 나타내는 지수로 사용하기 위해서는 하천수위 및 지하수위 각각에 대해서 미래를 전망하고 이를 통합하여 미래가뭄지수를 제시할 수 있을 것으로 판단된다.",
+    "blockRange": [
+      888,
+      888
+    ],
+    "page": 76
+  },
+  {
+    "id": "c0248",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## 4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+    "blockRange": [
+      889,
+      889
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0249",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론"
+    ],
+    "text": "지하수와 지표수 상호간의 관계를 연계 해석하기 위해 다양한 연구들이 이루어져 왔다(Kim et al., 2006; Chung et al., 2011; Jeon and Kim, 2011). Kim and Lee(2012)는 가뭄 시 지표수는 고갈되어 더 이상의 유량 측정이 어려우나 지하수위는 지속적인 하강 특성을 보이고 측정 가능하기 때문에 가뭄의 특성을 보다 잘 반영해주는 인자가 될 수 있음을 언급한 바 있다. 전체 미급수시설(마을상수도, 소규모급수시\n\n설) 1만 6천여 개 중 약 85%에 해당하는 1만3천여 개의 시설이 지하수를 수원으로 하고 있다. 따라서 수원의 정보를 기반으로 한 생․공용수 가뭄상황 판단 및 예․경보 체계에 부합하기 위해서는 지하수 정보를 기반으로한 미급수지역의 체감 가뭄상황을 가뭄 판단에 반영할 필요가 있다.\n\n본 과업에서는 지하수위를 이용한 가뭄지수를 개발하는데 목적이 있다. 지하수위를 이용하여 SPI와 동일한 방법으로 정규화를 통해 지하수위를 통한 가뭄지수를 구성할 수 있다. 그러나 기존 SPI에서 나타나는 여러 가지 문제점을 동일하게 내포하고 있다. 즉, 기존 표준화를 통한 표준지하수지수는 다음과 같은 문제점이 있다.\n\n첫째, 표준지하수지수는 시간적인 연속성을 고려하는데 한계가 있다. 즉, 시간적인 종속성을 명확하게 고려하지 않기 때문에 지하수위가 가지는 Persistence를 고려하는 데 한계가 있을 수 있다.\n\n둘째, 표준지하수지수를 산정하는데 있어서 자료를 분위사상법(quantile mapping) 개념으로 투영하게 되는데 이런 경우 정규화를 과정을 통해 자료를 정규분포로 가정하게 된다. 이러한 경우 자료가 가지고 있는 분포특성을 효과적으로 고려하는데 한계가 있다.\n\n셋째, 기존 가뭄지수는 대부분 결정론적 가뭄지수의 형태로 제공된다. 앞서 언급한 바와 같이 가뭄은 특성상 가뭄의 시작과 끝을 명확하게 정의하기 어려우며 추계학적 특성을 가지고 있어 확률적인 관점에서 가뭄지수를 구축하고 평가하는 것이 필요할 것으로 판단된다.\n\n이러한 점에서 본 과업에서는 지하수의 공간적 동질성을 고려한 확률론적 가뭄지수를 제시하고자 한다. 이를 위하여 여러 지하수 관측지점의 상관성을 유지하면서 지하수위를 추계학적으로 모의하고 이를 가뭄지수로 연계할 수 있는 다변량 지하수위 모델링 기법을 개발하고자 한다.",
+    "blockRange": [
+      890,
+      896
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0250",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론"
+    ],
+    "text": "### 4.3.1. 지하수를 활용한 가뭄평가방법",
+    "blockRange": [
+      897,
+      897
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0251",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법"
+    ],
+    "text": "가. 은닉 마코프 체인 모델(Hidden Markov Chain Model, HMM)",
+    "blockRange": [
+      898,
+      898
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0252",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "가. 은닉 마코프 체인 모델(Hidden Markov Chain Model, HMM)"
+    ],
+    "text": "본 절에서는 기존의 Markov Chain Model과 Hidden Markov Chain Model(HMM) 기반의 시계열자료 모의기법을 간단히 설명하고 본 과업에서 개발하고자 하는 Gaussian Mixture Non-homogeneous Hidden Markov Chain Model(GM-NHMM)에 대하여 상세히 설명하고자 한다.\n\nHMM은 관찰 가능한 결과와 관찰이 불가능한 은닉상태(hidden state)로 이루어진 모델이다. 즉 관찰되지 않는 상태를 유추하기 위하여 실제적인 관측 자료의 변동적인 특징들을 추계학적으로 모델링 하는 기법으로서 관측되는 어떠한 현상들이 특정 상태에서 일정한 확률로 관측되고, 그러한 특정 상태들로 이루어진 유한한 집합 내에서 확률론적 과정의 상태 변화가 발생할 때, 이를 확률적으로 모델링하기 위한 방법론이다. 1906년 러시아의 수학자 안드레이 마르코프(Andrey Andreyevich Markov) 가 처음으로 마르코프 연쇄(Markov chain)를 발표한 뒤, 1950\\~60년대 전향-후향 알고리즘(forward-backward algorithm), 바움-웰치 알고리즘(Baum-Welch algorithm) 등이 개발되면서 HMM에 대한 연구가 활발해졌다. HMM이 가장 선구적으로 적용된 분야는 음성 및 언어인식분야이며 점차적으로 연구범위가 확대되어 생물학, 경제학 등으로 적용분야가 확장되었다. 수문기상분야에서는 1990년대에 최초로 HMM을 사용하여 미국 워싱턴 지역 강우지점의 강수발생을 모의하고자 하였으며, 이 후 다수의 연구에서 은닉지점의 비정상성(nonstationary) 변화와 은닉지점과 입력변수에 따라 매개변수가 변동하는 동역학적 HMM이 적용되어왔다. 국내에서는 Kwon et al.(2013a, 2013b)의 연구에서 HMM 기반의 일강우량 모의기법을 개발하여 서울지점과 한강유역을 대상으로 모형의 적합성을 평가한 바 있으며, Yoo et al.(2014)은 기존에 가뭄판단 및 가뭄단계 구분을 위해 주로 활용되었던 가뭄지수를 대체하기 위해 HMM을 적용하여 월강수량 자료에 내재되어 있는 특징을 나타내고 이를 이용해 우리나라의 기상학적 가뭄을 평가하였다.",
+    "blockRange": [
+      899,
+      900
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0253",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법"
+    ],
+    "text": "(1) 마코프 연쇄 모형",
+    "blockRange": [
+      901,
+      901
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0254",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "(1) 마코프 연쇄 모형"
+    ],
+    "text": "시변성(time-variation)을 갖고 있는 관측값들이 순차적으로 나열되는 형태의 자료를 시계열 자료라고 하며, 자료계열을 확장하거나 미래의 값을 예측하기 위해 자기 회귀모형(autoregressive model)과 같이 시계열 자료의 통계적 특성을 이용하여 추계학적 모형을 구축하는 기법들이 여러 연구에서 개발되어왔다. 시계열 자료의 상태 변화(전이)를 확률적으로 나타내는 것을 확률 과정(stochastic process)이라고 하며, 어떠한 확률 과정에서 과거와 미래의 정보가 현재의 시행에 대해 독립적일 때 Markov 특성을 갖는다고 한다. 본 절에서 설명하고자 하는 Markov Chain 모형은 이산적인 시간 흐름을 갖는 자료 즉, 시계열 자료에 대한 이산 확률 과정(discrete stochastic process)에서 상태 전이가 Markov 특성을 따르는 모형을 의미한다. 여기서 상태(state)는 주어진 조건의 변화에 따라 전이확률이 나타낼 수 있는 범주를 의미한다고 할 수 있으며, 연쇄과정이 어떤 상태에서 발생하고 어떤 상태로 변하는가에 따라 그 경로에 대한 발생확률 값이 변하게 된다.\n\nMarkov 연쇄 모형의 기본 개념은 짧은 과거에 대한 정보를 통해 미래 상태를 예측하는 것으로서, 다음과 같이 조건부확률(conditional probability)로 나타낼 수 있다.\n\n$p(S_{n+1}|S_{1},S_{2},\\cdots ,S_{n})$ 식 4.2\n\n여기서 $S_{n+1}$은 현재 바로 이후 미래의 상태를 나타내고 $S_{1},\\cdots ,S_{n}$은 현재부터 ($n$) 기간 동안의 상태를 나타내며, 미래의 상태는 과거의 상태와는 독립(independence)이고 단지 가장 근접한 $k$개의 이전 상태에 의해서만 영향을 받을 때, $k$차 Markov 연쇄(Markov Chain)라 한다. 2차 이상의 고차 Markov 연쇄 모형에서는 추정하는 매개변수가 많아지므로 주로 1차 Markov 연쇄 모형이 사용되며 이에 대한 조건부 확률은 다음과 같이 표현될 수 있다.\n\n$p(S_{n+1}|S_{n})$ 식 4.3\n\n일반적으로 1차 Markov 연쇄 모형을 설명하기 위해 날씨에 관한 예를 활용할 수 있으며, 일련의 시계열 자료에 대한 시간간격을 일단위로 고려하였을 때 실제 내일의 날씨는 오늘뿐만 아니라 이전에 발생한 수많은 사건의 영향을 받지만 1차 Markov 연쇄에서는 오직 오늘의 날씨에 의해서만 영향을 받는다고 가정하게 된다. 이 때문에 Markov 특성은 Markov 가정(Markov assumption)으로 표현되기도 한다.\n\n날씨에 대한 상태를 단지 맑음과 흐림 두 가지 상태로만 구분하여 고려하는 경우 상태변화의 과정을 [표 4.3]과 같이 나타낼 수 있다. 이에 대한 전이확률행렬 (transition probability matrix)은 식 4.4으로 표현될 수 있다.",
+    "blockRange": [
+      902,
+      908
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0255",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "(1) 마코프 연쇄 모형"
+    ],
+    "text": "**[표 4.3] Markov Chain 전이확률 행렬**\n\n| Tomorrow Today | 맑음 | 흐림 |\n| --- | --- | --- |\n| 맑음 | 1-a | a |\n| 흐림 | b | 1-b |",
+    "blockRange": [
+      909,
+      909
+    ],
+    "page": 80,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0256",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "(1) 마코프 연쇄 모형"
+    ],
+    "text": "$P=^{1-}_{b}^{a}$ $_{1-}^{a}_{b}$ 식 4.4\n\n여기서, $0\\le a\\le 1,0\\le b\\le 1$이며, 이에 대한 개념을 확장하여 날씨에 대해 N개의 상태를 고려할 때 [그림 4.9]와 같이 시간 $t$에서 상태 $i$가 발생할 확률 $P(q_{t}=i)$에 대한\n\n산정방법은식 식 4.5와 같이 나타낼 수 있다.\n\n[그림 4.9] 마르코프 연쇄 과정에서 전이확률의 계산\n\n$Q_{t}(i)=(q_{1},q_{2},\\cdots ,q_{t}=i)$ $P(Q_{t}(i))=\\pi _{q1k=2}P(q_{k}|q_{k-1})$$t$ $P(qt=i)=_{all}\\sum _{Qt(i)s}P(Qt(i))$ ′ 식 4.5\n\n여기서 $P(q_{t}=i)$는 결국 시간 $T=t$에서 상태 $i$인 모든 경로(path)의 확률을 전부 합한 값이라는 것을 알 수 있으며, 이는 확률의 기본적인 법칙 $P(AorB)=P(A)+P(B)$을 통해 설명될 수 있다. 식 4.5에서 계산과정에 걸리는 시간은 가정한 상태(state) 수 가 많아질수록, 상태 계열(sequence)이 길어질수록 많이 소요된다. 즉, 지수형태의 시간 복잡도(exponential time complexity)를 보이게 되는 것이다(Papadimitiou and Tsitsiklis, 1985). Papadimitiou and Tsitsiklis(1985)은 이러한 문제를 해결하기 위해 DP(dynamic programming)기법을 이용하였으며, DP기법은 초기상태에서 $i$상태로 전이되는 과정에서 이미 계산된 확률을 다른 경로에 대한 전이확률 계산 시 중복되는 경우 다시 계산하지 않고 그대로 이용하는 개념이다. 그리고 [그림 4.9]의 전이확률 계산과정에 이러한 개념을 도입한다면 식 4.6은 다음 식 4.7과 같이 바꿔 쓸 수 있다.\n\n$P(qt=i)=_{j}\\sum _{=1}P(qt-1=j,qt=i)$$N$ $=_{j}\\sum _{=1}P(qt-1=j)P(qt=i|qt-1=j)$$N$ $=_{j}\\sum _{=1}P(qt-1=j)\\cdot aji$$N$ 식 4.6\n\n여기서 $a_{ji}$는 상태 $j$에서 상태 $i$로의 전이확률을 의미하며, Markov 연쇄에서 사전 확률(prior probability)을 나타낸다. 이와 같은 계산과정을 거쳐 전이확률이 결정되면 Markov Chain의 초기 상태만을 통하여 시계열자료에 대한 모의가 가능해진다.\n\n본 과업에서 Markov Chain Model에 의한 지하수위 모의 시 지하수위의 초기상태에 대한 확률(initial probability)과 전이확률 행렬이 필요하다. 여기서 초기 확률은 무작위난수(random number)로부터 추출하고, 관측된 지하수위 자료로부터 추정된 매개변수를 이용해 지하수위가 모의될 수 있다.",
+    "blockRange": [
+      910,
+      918
+    ],
+    "page": 80
+  },
+  {
+    "id": "c0257",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법"
+    ],
+    "text": "(2) 은닉 마코프 모형",
+    "blockRange": [
+      919,
+      919
+    ],
+    "page": 81
+  },
+  {
+    "id": "c0258",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "(2) 은닉 마코프 모형"
+    ],
+    "text": "Markov 연쇄 모형(Markov chain Model)과 은닉 Markov 연쇄 모형의 차이점은 모형을 통해 도출해내고자 하는 상태열에 대한 관찰의 실제 가능여부이다. HMM은 자료에 대한 전이확률 뿐만 아니라 출력확률(output probability)을 동시에 고려할 수 있으므로 시계열 자료의 시간 의존성을 표현하는데 용이하며, 자료의 상태 구분을 통해 시계열 자료의 범주화 및 모델링이 동시에 가능한 방법이다. HMM에서는 앞서 설명하였던 Markov 연쇄 모형의 기본가정에 추가적으로 특정 상태에 대한 출력은 이전 상태에 대해 완전히 독립이라고 가정하는 조건부 독립가정(conditional independence assumptions)을 기본으로 하며, 은닉 상태(hidden state)로 존재하는 확률론적 과정에 대해 관측 가능한 기호로 도출하도록 또 다른 확률론적 과정을 통해 모형화(modeling)하는 이중의 확률론적 과정이라고 할 수 있다. 본 과업에서는 HMM을 통해 지하수위를 모의하고자 하였으며, 지하수위의 지속성이 크고, 강우 등 다른 인자와 높은 상관성을 갖고 있기 때문에 HMM을 통한 모의가 가능하다고 판단하였다. HMM은 2개의 스칼라양과 확률 매개변수로 구성되며 아래와 같이 나타낸다.",
+    "blockRange": [
+      920,
+      920
+    ],
+    "page": 81
+  },
+  {
+    "id": "c0259",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법"
+    ],
+    "text": "- ① $N$ : 상태의 수\n- ② $M$ : 상태에 대한 관측 기호의 수",
+    "blockRange": [
+      921,
+      922
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0260",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "② $M$ : 상태에 대한 관측 기호의 수"
+    ],
+    "text": "$V=\\{v1,v2,\\cdots ,vM\\}$",
+    "blockRange": [
+      923,
+      923
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0261",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법"
+    ],
+    "text": "- ③ $A$ : 전이 확률",
+    "blockRange": [
+      924,
+      924
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0262",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "③ $A$ : 전이 확률"
+    ],
+    "text": "$A=\\{a_{ij}\\},$ $1\\le i,j\\le N$",
+    "blockRange": [
+      925,
+      925
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0263",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법"
+    ],
+    "text": "- ④ $B$ : 출력 확률",
+    "blockRange": [
+      926,
+      926
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0264",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "④ $B$ : 출력 확률"
+    ],
+    "text": "$B=\\{bi(vk)\\},$ $1\\le i\\le N,1\\le j\\le M$",
+    "blockRange": [
+      927,
+      927
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0265",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법"
+    ],
+    "text": "- ⑤ $\\pi$ : 초기 확률",
+    "blockRange": [
+      928,
+      928
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0266",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.3. 관측자료를 활용한 복류수 취수 지점의 가뭄판단 방법론",
+      "4.3.1. 지하수를 활용한 가뭄평가방법",
+      "⑤ $\\pi$ : 초기 확률"
+    ],
+    "text": "$\\pi _{i}=P(q_{1}=S_{i}),$ $1\\le i\\le N$\n\n여기서 $N$과 $M$이 HMM을 구성하는 스칼라양이며, $N$은 모형이 출력열을 구분하기 위해 갖는 상태(범주)의 수를 나타내고 $M$은 상태에서 관측이 가능한 이산적인 기호의 수를 의미한다. 확률 매개변수는 $\\lambda =(A,B,\\pi )$와 같이 나타내며, 각각에 대해 설명하면 먼저 전이 확률 $a_{ij}$는 한 단계의 전이과정에서 상태가 $S_{i}$에서 $S_{j}$로 이동할 확률\n\n이고, 출력 확률 $b_{i}(v_{k})$ 는 상태 $S_{i}$에서 관측 기호 $v_{k}$가 출력될 확률을 나타낸다. 그리\n\n고 초기 확률 $\\pi _{i}$는 최초 시간에서의 상태가 $S_{i}$로 나타날 확률을 의미한다. HMM은\n\n특정 시간 $t$에서 오직 하나의 상태와 출력만을 가질 수 있으며, 본 과업에서는 특정 기간의 시간( $1,2,\\cdots ,t,\\cdots ,T$)과 $N$개의 상태에 대해 모형의 관찰열과 그에 대한 상태\n\n열을 각각 아래의 식 4.7, 식 4.8과 같이 표현한다.\n\n$O=\\{o1,o2,\\cdots ,ot,\\cdots ,oT-1,oT\\}$ 식 4.7\n\n$Q=\\{q_{1},q_{2},\\cdots ,q_{N}\\}$ 식 4.8\n\nHMM은 연속된 시계열 자료에서 순차적으로 전이과정을 거쳐 진행되며, 출력 구조는 아래의 [그림 4.10]과 같다.\n\n[그림 4.10] HMM의 출력 구조\n\n[그림 4.10]에서 $x_{t}$는 시간 t에서의 은닉 변수(hidden variable)로써, 앞서 언급하였",
+    "blockRange": [
+      929,
+      939
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0267",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## 듯이 조건부 확률 분포를 따르고 1차 Markov 연쇄의의 특성을 따르기 때문에 $x_{t}$의",
+    "blockRange": [
+      940,
+      940
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0268",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "듯이 조건부 확률 분포를 따르고 1차 Markov 연쇄의의 특성을 따르기 때문에 $x_{t}$의"
+    ],
+    "text": "조건부 오직 $x_{t-1}$에만 영향을 받는다. 은닉 변수 아래에 위치한 $y_{t}$는 $x_{t}$에 의해 특정\n\n된 상태로부터 결정되는 출력을 의미하는 변수이며, $y_{t}$ 또한 확률 분포에 의해 결정\n\n된다. 두 변수 $x_{t}$ 와 $y_{t}$는 그 자체가 특정 값을 갖는 것이 아니라, 상태와 출력을 나타\n\n내는 하나의 변수이다. 즉, 확률적으로 상태 집합 $S$와 출력 집합 $V$의 한 원소를 값으로 갖으며, 이때 각 시간대의 출력을 나타내는 $y_{t}$가 이어져 모형의 출력열을 나타\n\n내게 된다. 결국 HMM을 이용하여 특정 출력이 도출될 확률을 계산하거나, 특정 출력에 대한 최적의 상태 전이 과정을 유추하는 모형이라고 할 수 있으며, HMM의 동작을 위해서는 이러한 두 가지 과정을 어떻게 계산할 것인지에 대해 고려해야만 한다. 또한 HMM의 인자가 주어져있지 않을 때, 주어진 출력으로부터 인자를 결정해나 가는 학습 연산 과정 역시 HMM의 구현을 위해 고려해야 하는 문제이다. 이를 정리하면 아래와 같이 총 3가지 문제로 나눌 수 있다.\n\n- ① HMM의 인자 및 특정 출력이 주어졌을 때, 주어진 출력이 도출될 확률 계산\n- ② HMM의 인자 및 특정 출력이 주어졌을 때, 주어진 출력이 도출될 가능성이",
+    "blockRange": [
+      941,
+      947
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0269",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "듯이 조건부 확률 분포를 따르고 1차 Markov 연쇄의의 특성을 따르기 때문에 $x_{t}$의",
+      "② HMM의 인자 및 특정 출력이 주어졌을 때, 주어진 출력이 도출될 가능성이"
+    ],
+    "text": "가장 높은 상태 전이 과정 유추",
+    "blockRange": [
+      948,
+      948
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0270",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## ③ 특정 출력만 주어졌을 때, HMM의 인자를 학습",
+    "blockRange": [
+      949,
+      949
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0271",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "③ 특정 출력만 주어졌을 때, HMM의 인자를 학습"
+    ],
+    "text": "여기서, 첫 번째 문제는 동적계획법 기반의 전향-후향 알고리즘(forward-backward algorithm)을 이용하여 해결한다. 두 번째 문제 또한 Viterbi 알고리즘(viterbi Algorithm)이라는 동적계획법 기반의 알고리즘을 이용하여 해결할 수 있으며, 마지막으로 HMM의 인자를 학습시키는 문제는 Baum-Welch Algorithm이라는 기댓값 최적화 알고리즘(Expectation-Maximization algorithm) 기반의 방법을 이용한다. 세 가지 알고리즘에 대해서는 이어지는 (1)\\~(3)절에서 자세하게 설명하였으며, 본 과업에서는 여기서 제시한 방법들을 이용해 HMM을 구현하고 최종적으로 지하수위를 모의하였다.\n\n나. 모형의 확률 평가",
+    "blockRange": [
+      950,
+      951
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0272",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "③ 특정 출력만 주어졌을 때, HMM의 인자를 학습",
+      "나. 모형의 확률 평가"
+    ],
+    "text": "본 절에서는 앞서 언급했던 HMM을 실제로 적용하기 위해 해결해야하는 3가지 문제 중 모형의 확률 평가(probability evaluation) 문제를 해결하기 위한 전향-후향 알고리즘(forward-backward algorithm)에 대해 정리하였다.",
+    "blockRange": [
+      952,
+      952
+    ],
+    "page": 84
+  },
+  {
+    "id": "c0273",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## (1) 전향 알고리즘(forward algorithm)",
+    "blockRange": [
+      953,
+      953
+    ],
+    "page": 84
+  },
+  {
+    "id": "c0274",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "(1) 전향 알고리즘(forward algorithm)"
+    ],
+    "text": "전향 알고리즘은 HMM에서 모델 $\\lambda =(A,B,\\pi )$에 대하여 관측열 $O=\\{o_{1},o_{2},\\cdots ,o_{T}\\}$가 발생할 확률 $P=(O|\\lambda )$을 구하기 위해 이용되는 알고리즘이다. 관측열에 대하여 [그림 4.11]과 같이 $N$개의 상태에 대한 $T$ 길이의 상태열($Q=q_{1},q_{2},\\cdots ,q_{T}$ )이 있을 때, 이에\n\n대한 발생확률은 다음과 같이 나타낼 수 있다.\n\n$P(Q|\\lambda )=\\pi _{q1t=2}a_{qt-1,qt}=\\pi _{q1}\\cdot a_{q1,q2}\\cdot a_{q2,q3}\\cdots \\cdot a_{qT-1,qT}$$T$ 식 4.9\n\n그리고 이러한 상태열의 경로를 따라 관측열 $O$가 발생할 확률은 각 전이단계에 대한 출력확률의 곱으로 식 4.10과 같다.\n\n$P(O|Q,\\lambda )=_{t=1}(o_{t}|q_{t},\\lambda )=b_{q1}(o_{1})\\cdot b_{q2}(o_{2})\\cdot \\cdots \\cdot b_{qT}(o_{T})$$T$ 식 4.10\n\n이 때, 모델 $\\lambda =(A,B,\\pi )$에서 관측열 $O$와 특정 경로의 상태열 $Q$가 동시에 발생할 확률은 앞서 정의한 두 식의 곱으로 계산되며, 이는 Bayes 정리에 의해 아래의 식 4.11과 나타낼 수 있다. 또한 관측열의 발생확률은 결국 모든 경로의 상태열에 대한 확률의 합이므로 식 4.12와 같이 정의된다.\n\n$P(O|\\lambda )=P(O|Q,\\lambda )\\cdot P(Q|\\lambda )$ $=\\pi _{q1}\\cdot b_{q1}(o_{1})\\cdot a_{q1,q2}b_{q1}(o_{1})\\cdots a_{qT-1,qT}b_{qT-1}(o_{T})$ 식 4.11\n\n$P(O|\\lambda )=\\sum _{allQ}P(O,Q|\\lambda )$ 식 4.12\n\n식 4.12에 대한 계산 시 상태경로가 $N^{T}$ 개이고, 관측열이 $O(T)$이므로 이에 대한 복잡도는 $O(TN^{T})$의 형태로 앞서 4.3.1절 가에서 언급했던 바와 같이 지수형태의 시간 복잡도를 갖게 된다. 전향 알고리즘은 앞서 언급하였던 DP 기법을 기반으로 시간복잡도 문제에 대한 해법을 제공하며, 알고리즘의 과정은 아래의 [그림 4.11]과 같이 나타낼 수 있다.\n\n[그림 4.11] 전향 알고리즘의 과정\n\n전향 알고리즘의 적용을 위해 먼저 전향 변수(forward variable)를 설정해주어야 하며, 이는 [그림 4.11]의 $t-1$시간에 대한 각 상태에서 $t$시간의 $S_{j}$상태로 전이하는 경로에 나타낸 $\\alpha _{n,j}$를 의미한다. 전향 변수는 아래의 식 4.13과 같이 정의된다.\n\n$\\alpha _{t}(i)=P(P,q_{t}=S_{i}|\\lambda )=P(o_{1},o_{2},\\cdots ,o_{t},q_{t}=S_{i}|\\lambda )$ 식 4.13\n\n여기서, $\\alpha _{t}(i)$는 $t$시간에 대한 상태($q_{t}$)가 $S_{i}$일 때, 관측열( $o_{1},o_{2},\\cdots ,o_{t}$ )에 대한 관찰확\n\n률을 의미한다. 결국 전향 알고리즘에서는 $t-1$시간에서의 확률이 전향 변수에 저장되면서 $t-1$시간에서의 확률만 $t$시간에서의 확률을 구할 수 있게 되는 것이다. 이러한 경우 계산의 시간 복잡도는 $O(N^{2}T)$로 나타나며, 직접적인 계산을 하는 경우의 시간 복잡도 문제를 극복할 수 있게 된다.\n\n(2) 후향 알고리즘(backward algorithm)",
+    "blockRange": [
+      954,
+      968
+    ],
+    "page": 84
+  },
+  {
+    "id": "c0275",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "(1) 전향 알고리즘(forward algorithm)",
+      "(2) 후향 알고리즘(backward algorithm)"
+    ],
+    "text": "후향 알고리즘의 진행은 전향 알고리즘과 반대 방향으로 이루어지며, 그 과정은 아래의 그림과 같이 나타낼 수 있다.\n\n[그림 4.12] 후향 알고리즘의 과정\n\n후향 알고리즘에서도 전향 알고리즘과 마찬가지로 후향 변수(backward variable)를 설정하여 HMM의 확률 평가 문제에 대한 해결법을 제시한다. 후향 변수는 아래의 식 4.14와 같이 정의된다.\n\n$\\beta _{t}(i)=P(o_{t+1},o_{t+2},\\cdots ,o_{T}|q_{t}=S_{i},\\lambda )$ 식 4.14\n\n이 때, 후향 변수 $\\beta _{t}(i)$는 $t$시간에 대한 상태( $q_{t}$ )가 $S_{i}$일 때, 관측열( $o_{t+1},o_{t+2},\\cdots ,o_{T}$ )\n\n에 대한 관찰확률을 의미하며 전향 변수에서 고려하는 관측열의 시간적 방향만 달라 졌음을 확인할 수 있다. 후향 알고리즘은 후향 변수 $\\beta$에 시간 $t=T$부터 $t=1$까지의 확률을 저장하며 역순으로 진행된다. 전향 알고리즘과는 다르게 후향 알고리즘은 초기상태에 도달하기 전까지 중간에 저장된 확률벡터를 알 수 없다는 단점이 있다. 따라서 전향-후향 알고리즘을 함께 이용하여 HMM의 확률 평가 문제를 해결한다.",
+    "blockRange": [
+      969,
+      974
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0276",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "(1) 전향 알고리즘(forward algorithm)"
+    ],
+    "text": "- 다. 최적 상태열 결정",
+    "blockRange": [
+      975,
+      975
+    ],
+    "page": 86
+  },
+  {
+    "id": "c0277",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "(1) 전향 알고리즘(forward algorithm)",
+      "다. 최적 상태열 결정"
+    ],
+    "text": "HMM에서 모델 $\\lambda =(A,B,\\pi )$에 대하여 관측열 $O=\\{o_{1},o_{2},\\cdots ,o_{T}\\}$이 있을 때, $N$개의\n\n상태를 고려한다면 이 관측열에 대한 상태열의 경로는 $N^{T}$ 개가 존재한다. 이 때 관측열을 가장 잘 나타낼 수 있는 최적 상태열(optimal state sequence)을 $Q=\\{q_{1},q_{2},\\cdots ,q_{T}\\}$라고 한다면, 가장 정확한 $Q$를 결정하는 것이 모형을 통한 모의의 정확성을 높이는 방법이다. 일반적으로 HMM에서는 최적 상태열 결정을 위해 Viterbi 알고리즘(viterbi algorithm)을 이용하며, 본 절에서는 Viterbi 알고리즘에 대해 상세히 설명한다.",
+    "blockRange": [
+      976,
+      977
+    ],
+    "page": 86
+  },
+  {
+    "id": "c0278",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## (1) Viterbi 알고리즘(viterbi algorithm)",
+    "blockRange": [
+      978,
+      978
+    ],
+    "page": 87
+  },
+  {
+    "id": "c0279",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "(1) Viterbi 알고리즘(viterbi algorithm)"
+    ],
+    "text": "최적 상태열을 결정하기 위해서는 결국 $P(O,Q|\\lambda )$의 값이 최대가 되는 $Q$를 찾아야 한다. 이것을 식으로 나타내면 아래의 식 4.15와 나타낼 수 있으며, 여기서 $argmax_{Q}$\n\n는 $P(O,Q|\\lambda )$의 확률이 최대가 되는 $Q$를 찾는다는 의미이다.\n\n$argmax_{Q}P(O,Q|\\lambda )=argmax_{Q}P(O|Q,\\lambda )P(Q|\\lambda )$ 식 4.15\n\n이것을 두 가지 방법으로 나누어 생각해볼 수 있으며, 첫 번째 방법은 각 시간 ($t=1,2,\\cdots ,T$)에서 개별적으로 가장 확률이 높은 경로를 결정해서 이어가는 방법이다. 즉, 처음 상태에서 다음 시간대에 대한 전이확률이 가장 높게 나타나는 단 하나의 상태를 결정하고 또 다시 이 상태에서 전이확률이 가장 높게 나타나는 하나의 상태를 결정하는 방식으로 최적 상태열을 결정하는 것이다. 이 경우 각 시간대의 최적 상태는 바로 이전 시간대와 이후 시간대에 대해서만 고려하게 된다. 이것을 전향-후향 변수로 정의할 때, 식 4.16과 같이 앞서 정의했던 전향 변수 $\\alpha _{t}(i)$와 후향 변수 $\\beta _{t}(i)$의 곱으로 나타낼 수 있다.\n\n$\\gamma _{t}(i)=P(q_{t}=S_{i}|O,\\lambda )=\\frac{P(O,q_{t}=S_{i}|\\lambda )}{P(O|\\lambda )}=\\frac{P(O,q_{t}=S_{i}|\\lambda )}{\\sum _{i}^{N}_{=1}P(O,qt=Si|\\lambda )}$ $=\\frac{P(O,q_{t}=S_{i}|\\lambda )}{_{i}\\sum _{=}^{N}_{1}P(O,qt=Si|\\lambda )}=\\frac{\\alpha _{t}(i)\\beta _{t}(i)}{\\sum _{i=}^{N}_{1}\\alpha t(i)\\beta t(i)}$ 식 4.16\n\n여기서 각 시간대의 최적 상태는 전향-후향 변수 $\\gamma _{t}(i)$가 최대로 나타나는 상태를 의미하며, 이러한 경우 다른 경로에 대한 고려가 전혀 없기 때문에 각 전이단계의 출력확률에 대한 곱으로 구해지는 최적 상태열의 확률은 최대의 값을 갖는다고 할 수 없게 된다. 그리고 이러한 문제를 해결하기 위해 적용될 수 있는 방법이 Vitebi 알고리즘(viterbi algorithm)이다. Viterbi 알고리즘에서는 전향-후향 변수 대신 다음과 같은 변수를 정의한다.\n\n$max$ $\\delta _{t}(i)=_{q1,q2,\\cdots ,qt}P[q_{1},q_{2},\\cdots ,q_{t}=S_{i},o_{1},o_{2},\\cdots ,o_{t}|\\lambda ]$ 식 4.17\n\n변수 $\\delta _{t}(i)$는 t개의 관측열과 상태 $S_{i}$로 끝나는 경로들에 대해서 최대의 확률을 가지는 경로의 확률 값을 나타내며, 이에 대해 점화식 표현으로 $\\delta _{t+1}(i)$에 대해 나타내면 다음과 같다.\n\n$max$ $\\delta _{t+1}(j)=$ $_{i}[\\delta t(i)aij]bj(ot+1)$ 식 4.18\n\n위 식을 이용하여 $t$시간에 대한 최적 경로 확률뿐만 아니라 $t+1$시간에 대해서도 최대 확률을 갖는 상태를 찾을 수 있다. 여기서 $\\delta _{t}(i)$에 대한 상태의 배열을 저장하는\n\n변수 $\\psi _{t}(i)$를 추가적으로 고려하면, 최적 상태열을 결정하는 Viterbi 알고리즘을 정의할 수 있다. 이와 같이 Viterbi 알고리즘에서는 최적 상태열 결정을 위한 지역적 탐색(local search)이 아닌 전역적 탐색(global search)이 가능해지므로 각 시간대에서 최적 상태를 찾아 배열하는 방법이 갖는 문제점을 해결할 수 있게 된다(Esposito and Radicioni, 2009).\n\n[그림 4.13] viterbi 알고리즘의 진행과정\n\nViterbi 알고리즘이 $t$시간의 최적 상태에서 $t+1$시간의 상태에 대해 최대의 확률을 갖는 경로를 찾아내는 과정은 [그림 4.13]과 같이 나타낼 수 있으며, 역추적 단계에 대해 도식화하면 아래의 [그림 4.14]와 같다.\n\n[그림 4.14] viterbi 알고리즘의 역추적 단계(Path backtracking)\n\n- 라. 매개변수 추정",
+    "blockRange": [
+      979,
+      993
+    ],
+    "page": 87
+  },
+  {
+    "id": "c0280",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "(1) Viterbi 알고리즘(viterbi algorithm)",
+      "라. 매개변수 추정"
+    ],
+    "text": "HMM의 매개변수를 추정하는 방법 중 가장 널리 쓰이고 있는 Expectation-Maximization(EM) 알고리즘은 어떤 정보가 은닉되어 있는 경우 가장 적합한 모형을 추정하기 위한 반복 알고리즘이다. 본 과업에서는 EM 알고리즘 중 하나인 Baum-Welch 알고리즘이 사용되었으며, 본 절에서는 이에 대해 설명하고자 한다.",
+    "blockRange": [
+      994,
+      994
+    ],
+    "page": 89
+  },
+  {
+    "id": "c0281",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## (1) Expectation-Maximization(EM) 알고리즘",
+    "blockRange": [
+      995,
+      995
+    ],
+    "page": 89
+  },
+  {
+    "id": "c0282",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "(1) Expectation-Maximization(EM) 알고리즘"
+    ],
+    "text": "EM알고리즘은 최대 우도 추정(Maximum Likelihood Estimate, MLE) 또는 최대 사후 확률(Maximum A Posteriori, MAP)을 기반으로 학습모형(learning model)의 매개변수 추정에 이용되는 방법이다. 즉, 불완전한 입력정보를 통하여 완전한 해를 구하는 목적으로 개발된 모형의 매개변수 추정을 위한 알고리즘으로서 모형을 기반으로 관측자료에 가장 알맞은 매개변수를 찾을 때까지 반복적으로 계산한다는 간단한 개념을 갖고 있지만, 매우 효율적으로 문제를 해결할 수 있기 때문에 HMM이나 Bayesian Network와 같은 확률적인 모델을 기반으로 음성인식 및 패턴인식 분야에 활용되고 있다(Matsuama, 2011). 다만 반복적인 과정에 앞서 초기 값(initial guess)을 결정할 때, 그에 대한 민감도가 매우 크게 나타나기 때문에 다수의 매개변수 추정을 통해 해의 수렴(convergence)을 검토하는 과정이 반드시 요구된다.\n\n예를 들어, 매개변수에 대한 초기 값이 난수 발생 혹은 다른 방법으로 결정하였을 때 매개변수를 $\\theta _{0}$라고 한다면 관측데이터 $X$가 $\\theta _{0}$를 매개변수로 갖는 모형으로부터\n\n출력될 확률은 조건부확률 $P(X|\\theta _{o})$로 계산된다. 이를 위해 최우도법(maximum likelihood))을 적용하여 $P(X|\\theta _{o})$의 우도함수가 최대가 되는 매개변수를 선정한다. 최\n\n우도법은 추출된 표본자료가 나올 수 있는 확률이 최대가 되도록 매개변수를 추정하는 방법으로 발생 결합확률 또는 확률분포의 매개변수에 대한 함수로 정의되며, 매개변수의 적합성에 대한 비교를 용이하게 하기 위해 쓰일 수 있다. 그리고 우도함수중에서도 대수 우도함수(log-likelihood function)가 계산의 편리성으로 인해 가장 많이 사용한다. 적용하면, 식 4.19와 같이 나타낼 수 있다.\n\n$L(\\theta _{0})=lnP(X|\\theta _{0})$ 식 4.19\n\n이 때, 초기 매개변수 $\\theta _{0}$는 알고리즘 내에서 수정되는 과정을 거쳐 $\\theta _{1},\\theta _{2},\\cdots \\theta _{n-1},\\theta _{n}$과 같이 변화되며, EM 알고리즘의 궁극적인 목표는 식 4.19에서 $L$이\n\n최대가 되는 $\\theta$를 찾아내는 것이다(S.Borman, 2009). EM 알고리즘의 반복과정(iterative procedure)에서 매개변수 $\\theta _{n}$을 갖는 모형이 현재까지 가장 큰 $L$ 값을 나타낸 모형이라고 한다면, 다음 식 4.20과 같은 조건이 만족되었을 때 반복과정을 정지하게 된다. 우도의 차이에 대해 동일하게 생각하는 경우, 식 4.21에서 $L(\\theta _{n+1})-L(\\theta _{n})$\n\n의 값이 음(-)의 값을 가질 때 알고리즘이 종료된다.\n\n$\\theta _{n}>\\theta _{n+1}$ 식 4.20\n\n$L(\\theta _{n+1})-L(\\theta _{n})=lnP(X|\\theta _{n+1})-lnP(X|\\theta _{n})$ 식 4.21\n\n본 과업에서는 은닉 변수(hidden variable)에 대한 고려가 필요하며, 관측데이터 $X$가 $\\theta$를 매개변수로 갖는 모형으로부터 출력될 확률 $P(X|\\theta )$에 은닉 변수 $z$에 대해 정리하면 다음과 같이 나타낼 수 있다.\n\n$P(X|\\theta )=\\sum _{z}P(X|z,\\theta )P(z|\\theta )$ 식 4.22\n\n그리고 이를 이용하여 식 4.22는 아래와 같이 바꿔 쓸 수 있다.\n\n$L(\\theta n+1)-L(\\theta n)=ln(\\sum _{z}P(X|z,\\theta n+1)P(z|\\theta n+1))-lnP(X|\\theta n)$ 식 4.23\n\n알고리즘의 실제적인 구동 과정에 대해 설명하기 위해서 EM 알고리즘을 E과정(E-step)과 M과정(M-step)의 두 과정으로 구분할 수 있으며, 이는 아래의 [그림 4.15]와 같이 표현할 수 있다.\n\n[그림 4.15] EM 알고리즘의 기본 개념\n\n식 4.22의 $P(X|z,\\theta )$에서 $z$는 은닉 변수 즉, 모르는 값이기 때문에 최적의 매개변수 값을 선정하기 위해서는 우선적으로 기대(expectation)하는 과정이 반드시 필요하며, 이러한 과정을 E과정이라고 한다. E과정에서 은닉 변수에 대한 추정치를 설정하기 위해 Maximum Entropy Model 등 여러 모형에 이용되는 방법을 사용할 수 있으며, 이 방법을 간단히 설명하면 은닉 변수에 대한 값을 이미 알고 있는 변수들의 평균값으로 설정하는 것이다. 이렇게 $z$에 대한 추정치가 정해지면 $lnP(X|z,\\theta )$에 대한 계산이 가능해지며, 여기서 우도를 최대화(maximization)하는 것이 M과정이다. 이때 최대 우도를 찾아낼 수 있기 위해서는 반드시 은닉 변수의 추정치에 대한 변화가 있어야 하기 때문에 앞서 설명하였던 알고리즘의 종료 조건을 만족할 때까지 E과정과 M과정을 번갈아 반복하게 된다.",
+    "blockRange": [
+      996,
+      1012
+    ],
+    "page": 89
+  },
+  {
+    "id": "c0283",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## (2) Baum-Welch 재추정 알고리즘",
+    "blockRange": [
+      1013,
+      1013
+    ],
+    "page": 91
+  },
+  {
+    "id": "c0284",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "(2) Baum-Welch 재추정 알고리즘"
+    ],
+    "text": "HMM의 매개변수 $\\lambda =(A,B,\\pi )$에서 $A$는 상태전이확률을 나타내고 $B$는 생성확률, $\\pi$ 는 초기확률을 나타내며, 일반적으로 HMM의 매개변수 추정을 위해 EM 알고리즘의 하나인 Baum-Welch 알고리즘을 이용한다. Baum-Welch 알고리즘은 매개변수 집합의 초기 값 $\\lambda _{0}$을 이용하여 매개변수 추정을 시작하며, 대수우도함수를 갱신하면서 반복적인 과정을 통해 매개변수를 재추정하게 된다. 결국 이 과정은 관측자료를 통해 모형을 학습시키는 과정이며, 이때 학습데이터의 길이에 따라 모형이 과적합 되는 문제가 발생할 수 있다. 이에 따라 본 과업에서는 교차 검증(cross validation)을 통해 모형의 과적합 문제를 예방하였다.\n\n특정시간, 특정상태에 대한 확률을 앞서 전향-후향 알고리즘을 통해 나타내면, 아래의 식 4.24와 같이 상태 $q_{t}$에서 끝나는 관측열 $O_{1}=(o_{1},o_{2},\\cdots ,o_{t})$에 대한 확률(전향 확\n\n률)과 상태 $S_{i}$에서 시작하는 관측열 $O_{2}=(o_{t+1},o_{t+2},\\cdots ,o_{T})$에 대한 확률(후향 확률)의\n\n곱으로 표현할 수 있다.\n\n$P(q_{t}=S_{i}|O)=\\frac{\\alpha _{t}(i)\\beta _{t}(i)}{P(O|\\lambda )}$ 식 4.24\n\n위 식에서 분모를 계산하는 방법은 최종 시간($T$)에서 모든 상태에 대한 전향 확률을 합하는 방법과 최초 시간($0$)에서 모든 상태에 대한 후향 확률을 합하여 구하는 방법 그리고 특정 시간( $t$)에서 모든 상태에 대한 전향 확률과 후향 확률의 곱을 합하여 구하는 방법이 있다. 이 중에서 전향 확률을 이용하는 방법으로 식 4.24를 다시 쓰면 다음과 같이 나타낼 수 있다.\n\n$_{\\gamma t}(_{i})=_{P}(_{qt}=_{Si}|_{O})=\\frac{\\alpha _{t}(i)\\beta _{t}(i)}{\\sum i\\alpha T(i)}$ 식 4.25\n\n앞서 설명했던 알고리즘들과 마찬가지로 Baum-Welch 알고리즘에서도 식 4.26과 같이 새로운 변수를 정의하며, 여기서 변수 $\\xi _{t}(i,j)$는 관측열에 대한 상태가 $t$시간에서는 상태 $S_{i}$이고 $t+1$시간에서는 상태 $S_{j}$일 확률을 의미한다. 그리고 이 변수를 조건부\n\n확률 정의에서 전향 변수와 후향 변수에 대해 다시 쓰면 식 4.27과 같다.\n\n$\\xi _{t}(i,j)=P(q_{t}=S_{i},q_{t+1}=S_{j}|O,\\lambda )=\\frac{P(q_{t}=S_{i},q_{t+1}=S_{j},O|\\lambda )}{P(O|\\lambda )}$ 식 4.26\n\n$_{\\xi t}(_{i},_{j})=\\frac{\\alpha _{t}(i)a_{ij}b_{j}(o_{t+1})\\beta _{t+1}(j)}{\\sum _{i}^{N}_{=1j}\\sum _{=}^{N}_{1}\\alpha t(i)aijbj(ot+1)\\beta t+1(j)}$ 식 4.27\n\n또한 모형에서 $t$시간의 상태가 $S_{i}$에 있을 확률 즉, Viterbi 알고리즘에서 정의한 변\n\n수 $\\gamma _{t}(i)$를 Baum-Welch 알고리즘의 변수 $\\xi _{t}(i,j)$에 대해 다시 정리하면 다음과 같다.\n\n$\\gamma t(i)=\\sum _{j=1}\\xi t(i,j)$$N$ 식 4.28\n\n$T-1$\n\n이때 위의 식 4.27을\t로 나타내면 이것은 관측열 $O$에 대해 상태 $S_{i}$에서 상\n\n$_{t}\\sum _{=1}\\xi t(i,j)$\n\n태 $S_{j}$으로 전이한 횟수의 기댓값을 의미한다. 그리고 식 4.28도 동일하게 $T-1$$_{t}\\sum _{=1}\\gamma t(i)$로 나타내면 이는 상태 $S_{i}$에서 시작하는 전이에 대한 기댓값을 의미하게 된다. 그리고 이렇게 정의한 변수들로 모형의 매개변수를 정의하면 다음과 같다.\n\n$\\pi _{i}=\\gamma _{1}(i)$ 식 4.29\n\n$T-1$ $a_{ij}=\\frac{_{t}\\sum _{=1}\\xi t(i,j)}{^{T}_{t}\\sum _{=1}^{1}\\gamma t(i)}_{-}$ 식 4.30\n\n$T$ $_{bj}(_{k})=\\frac{_{t=1}\\sum _{,ot=vk}\\gamma t(i)}{_{t}\\sum _{=}^{T}_{1}\\gamma t(i)}$ 식 4.31\n\n여기서, 식 4.29는 시간 $t=1$에서 상태 $S_{i}$에 있을 확률을 의미하며, 식 4.30의 경우\n\n분모는 $S_{i}$에서의 전이에 대한 기댓값을 나타내고 분자는 상태 $S_{i}$에서 상태 $S_{j}$로 전이\n\n하는 수에 대한 기댓값을 의미한다. 그리고 식 4.31에서 분모는 상태 $S_{j}$에 대한 기댓",
+    "blockRange": [
+      1014,
+      1037
+    ],
+    "page": 91
+  },
+  {
+    "id": "c0285",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## 값을 의미하고 분자는 관측 기호 $v_{k}$가 상태 $S_{j}$에서 나타나는 횟수에 대한 기댓값이",
+    "blockRange": [
+      1038,
+      1038
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0286",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "값을 의미하고 분자는 관측 기호 $v_{k}$가 상태 $S_{j}$에서 나타나는 횟수에 대한 기댓값이"
+    ],
+    "text": "다. 이와 같이 정의된 변수들과 재추정 규칙을 이용하여 Baum-Welch 알고리즘은 아래에 나타낸 단계로 진행된다.\n\n- ① 1 단계: 초기화 단계",
+    "blockRange": [
+      1039,
+      1040
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0287",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "값을 의미하고 분자는 관측 기호 $v_{k}$가 상태 $S_{j}$에서 나타나는 횟수에 대한 기댓값이",
+      "① 1 단계: 초기화 단계"
+    ],
+    "text": "$\\lambda =(A,B,\\pi )$",
+    "blockRange": [
+      1041,
+      1041
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0288",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "값을 의미하고 분자는 관측 기호 $v_{k}$가 상태 $S_{j}$에서 나타나는 횟수에 대한 기댓값이"
+    ],
+    "text": "- ② 2 단계: $\\lambda =\\lambda$′가 될 때까지 반복(EM과정)",
+    "blockRange": [
+      1042,
+      1042
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0289",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "값을 의미하고 분자는 관측 기호 $v_{k}$가 상태 $S_{j}$에서 나타나는 횟수에 대한 기댓값이",
+      "② 2 단계: $\\lambda =\\lambda$′가 될 때까지 반복(EM과정)"
+    ],
+    "text": "$\\lambda =(A,B,\\pi )=(a_{ij},b_{j}(k),\\pi )$′ ′ ′ ′",
+    "blockRange": [
+      1043,
+      1043
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0290",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "값을 의미하고 분자는 관측 기호 $v_{k}$가 상태 $S_{j}$에서 나타나는 횟수에 대한 기댓값이"
+    ],
+    "text": "- ③ 3 단계: 종료단계",
+    "blockRange": [
+      1044,
+      1044
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0291",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## $lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA",
+    "blockRange": [
+      1045,
+      1045
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0292",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA"
+    ],
+    "text": "마. GM-NHMM",
+    "blockRange": [
+      1046,
+      1046
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0293",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA",
+      "마. GM-NHMM"
+    ],
+    "text": "HMM에서 은닉 상태는 자료의 구분을 위한 일종의 범주라고 할 수 있다. 예를 들어, 1번 은닉상태는 1번 범주에 해당하는 자료로 분류될 수 있으며, 이때 HMM은 시간의 변화에 따라 상태 구분에 대한 변화가 없고 상태전이과정에서 외부요인에 대한 고려를 하지 않는다. 즉, HMM은 시간에 따라 매개변수의 변화가 없는 정상성(stationary) 또는 동질성(homogeneous)을 기본으로 진행되는 모형이다. 따라서 HMM의 경우 상태 전이확률은 각 전이단계에서 동일한 값을 갖게 되며, 이는 정상성 HMM에 내재된 문제점 중의 하나로서 월자료를 고려하였을 때 각 월별로 지하수위의 상태를 결정하는 전이확률이 동일하게 됨으로써 우리나라와 같이 계절적 기상 변동성이 큰 지역에 대해 적용할 때 이러한 변동성이 전이확률에 효과적으로 반영될 수 없다. 또한 본 과업에서 이용된 지하수위는 강우-유출 및 침투현상과 증발산현상의 직접적인 영향을 받으므로 강우량, 기온, 일조량, 습도 등 수문기상인자의 상태에 의존된다고 할 수 있으나, 이에 대한 고려 역시 배제될 수밖에 없다. 실제로 수문기상인자에 대한 상태는 시간의 변화에 따라 달라지며, 이러한 경우 비동질성(Non-homogeneous) HMM(NHMM) 모형을 사용하여 외부요인에 대한 의존관계와 시간에 따른 변화양상을 동적으로 고려할 수 있다.\n\n본 과업에서 NHMM 모형을 구축하는데 있어서 전제는 지하수위가 강수량, 기온과 같이 외부변량에 대한 의존성을 갖고 있다는 것이며, 출력 변수의 확률 분포가 관측된 입력 변수에 의존하도록 허용함으로써 정의 될 수 있다(Hughes and Guttorp, 1994; Hughes et al., 1999). 이때 NHMM은 지하수위 자료에 대해 상태(state)를 기준으로 범주화하게 되며, 각 범주간의 전이확률 및 출력확률밀도함수(emission probability density function)에 대해 추정하는 과정을 거친다. 여기서 출력확률밀도함수는 혼합분포(mixture)의 형태를 가지며, 은닉상태 수에 따라 Gaussian 혼합분포가 적용되었다. 이를 통하여 시계열을 보다 효과적으로 모의할 수 있으며, 이는 특히 수문기상인자에 대한 시계열의 비선형성 및 변동성이 큰 우리나라의 강수시계열 등에 대한 적용 시 유리하다(Kwon et al., 2013).\n\n여기서 외부변량은 NHMM의 전이확률을 결정하기 위한 예측인자(predictor)로 사용됨으로써 각 시간 단위별로 전이확률이 다르게 계산된다. 이에 따라 실제 지하수위와 가장 유사한 전이확률을 시간별로 계산하여 모의를 수행하므로 관측자료와 모의결과가 기존의 정상성 HMM보다 더욱 현실성 있게 모의된다고 할 수 있다. 결국 시간의 변화에 대한 고려로 인해 NHMM에서는 앞서 설명하였던 HMM의 세 가지 문제에 대한 해결을 위해 사용되는 학습자료가 시간의 변화에 따라 개선되므로 상태 전이확률과 최적 상태열 그리고 매개변수가 시간에 따라 변동하는 모형으로 확장될 수 있는 것이다.\n\n이러한 내용을 수식으로 나타내기 위해 D차원의 외부변량, 즉 예측인자 시계열 $X_{1:T}=(X_{1},\\cdots ,X_{T})$가 있다고 가정한다. 예측인자에 대한 존재는 은닉상태 $S_{t}$ 에 대한 확률이 입력계열 $X_{t}$에 의존하는 형태로 HMM의 정상성 가정을 완화시킬 수 있으며, 이때 예측인자 $X_{1:T}$에 대한 상태 $S_{1:T}$의 출력열 $R_{1:T}$의 확률은 아래의 식 4.32와 같이 나타낼 수 있다.\n\n$_{P(R1:T,S1:T|X1:T)=}^{}_{P(S1|X1)t=2P(St|St-1,Xt)}^{}_{}^{}_{t=}^{T}_{1P(Rt|St)}^{}_{}$$$ $T$ 식 4.32\n\n그리고 모형의 매개변수가 $\\theta$일 때 대수우도함수를 적용하여 아래의 식 4.33과 같이 나타낼 수 있으며, 여기서 최대우도를 갖는 매개변수를 찾기 위해 앞서 설명하였던 Baum-Welch 재추정 알고리즘을 이용하였다.\n\n$L(\\theta )=lnP(R_{1:T}|X_{1:T},\\theta )$ $=\\sum ln_{S1:T}\\sum _{[1,\\cdots ,K]T}^{}_{}P(S1|X1)_{t=2}P(St|St-1,Xt)^{}_{}^{}_{t=}^{T}_{1}P(Rt|St)^{}_{}$$T$ ∈ 식 4.33",
+    "blockRange": [
+      1047,
+      1053
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0294",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA"
+    ],
+    "text": "### 4.3.2. 지하수 관측자료를 활용한 가뭄 분석 결과",
+    "blockRange": [
+      1054,
+      1054
+    ],
+    "page": 95
+  },
+  {
+    "id": "c0295",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA",
+      "4.3.2. 지하수 관측자료를 활용한 가뭄 분석 결과"
+    ],
+    "text": "- 가. State 분석 및 지하수위를 이용한 가뭄지수 개발",
+    "blockRange": [
+      1055,
+      1055
+    ],
+    "page": 95
+  },
+  {
+    "id": "c0296",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA",
+      "4.3.2. 지하수 관측자료를 활용한 가뭄 분석 결과",
+      "가. State 분석 및 지하수위를 이용한 가뭄지수 개발"
+    ],
+    "text": "본 과업에서는 다수의 지하수 수위 관측소 자료를 활용한 다변량 HMM 기법 적용에 앞서 서로 다른 지하수위 30개 지점의 상관성을 판단하였다. 다지점 분석을 위해서는 기본적으로 지점자료간의 상관성이 확보되어야 한다. 이를 통해 시공간적인 분석이 가능하다. 즉, 개별지점의 가뭄평가를 수행함과 동시에 유역단위에서 지하수위 기준의 가뭄지수를 구축하기 위해서는 다변량 분석이 요구된다. 수문빈도해석에서 이루어지는 지점빈도해석과 지역빈도해석 개념과 유사한 차이점을 가지고 분석이 이루어진다 하겠다.\n\n지하수위는 수문학적 지속성이 매우 큰 시계열로서 강우시계열에서 나타나는 변동성에 비해서는 수문학적으로 누적된 과정으로서 지점간의 변동성도 크지 않을 것으로 예상된다. 또한 공간적으로도 연속성이 큰 특성을 가지는 시계열로서 공간적인 상관성도 크게 나타날 것으로 판단된다. [그림 4.16]에서 보듯이 상관성 측면에서 공간적으로 Clustering 되는 것을 확인할 수 있으며, 다지점 분석 측면에서 당위성이 있는 것으로 판단된다.\n\n[그림 4.16] 지하수 수위 자료 공간상관성 분석결과\n\nHMM 모델링은 30개 지하수위 지점 일자료를 비교사학습(unsupervised learning)과정을 통해 분류가 가능하다. 즉, 30개 지하수위 지점 자료를 대상으로 1-7번 상태로 확률적 범주화 가능하다. 여기서 나타낸 1번부터 7번까지 범주는 30개 지하수위 지점을 포괄하는 특성이라 할 수 있다. 1번은 평균보다 가장 큰 음의 Anomaly를 나타내는 범주로서 가장 가뭄이 심한상태로 고려될 수 있다. 반대로 7번 범주는 가장 큰 양의 Anomaly를 나타내는 범주로서 충분한 강우로 인해 유역 대부분에서 지하수위가 평균보다 높은 상태로 판단할 수 있다. [그림 4.17]에서 나타낸 것과 같이 가뭄이 매우 심했던 2014-2016년의 경우 대부분 1번 상태가 장기간 지속되고 있는 것을 확인할 수 있으며 가뭄의 상태가 회복되지 못하고 2017년까지 이어지고 있는 것을 확인할 수 있다. 총 분석기간 동안 범주별로 지하수위 Anomaly를 추출하여 평균해 보면 [그림 4.18]과 같이 나타낼 수 있다. 즉, 상태-1의 Anomaly는 강한 음의 수위를 나타내고 있으며 반대로 상태-7의 경우 강한 양의 수위를 나타내고 있는 특징을 확인할 수 있다. 여기서 나타낸 지하수위 Anomaly는 전체적으로 수위 변동폭은 작아 보이지만 전기간 동안 일별/범주별로 평균한 지하수위로서 지하수위의 상태분리 측면에서는 매우 명확한 값으로 판단할 수 있다.\n\n[그림 4.17] 30개 관측소에 적용한 Viterbi 알고리즘을 통한 은닉상태 Sequence(일단위)\n\n25 20) (% cy en 15 qu re F 10 te Sta 5 0 1 2 3 4 5 6 7 State 0.3 ) 0.2 L(m GW 0.1 of it ic 0 ef D ge -0.1 ra ve A -0.2 -0.3 1 2 3 4 5 6 7 State\n\n[그림 4.18] 각 은닉상태의 발생빈도 및 지하수위 Anomaly(일단위)\n\n같은 기간의 월단위 지하수위에 적용한 결과를 [그림 4.19], [그림 4.20]에 나타냈다. 여기서도 앞서 결과와 동일하게 가뭄이 심했던 2014년과 2015년도에는 1번 범주로 나타났으며, 이 상황이 2017년까지 회복되지 못하고 이어진 것을 확인 할 수 있다.\n\n[그림 4.19] 30개 관측소에 적용한 Viterbi 알고리즘을 통한 은닉상태 Sequence(월단위)\n\n30 25) (% 20 cy en qu 15 re F te 10 ta S 5 0 1 2 3 4 5 6 7 State 0.2 L W 0.1 fG to ci 0 fi De -0.1 ge ra -0.2 ve A -0.3 -0.4 1 2 3 4 5 6 7 State\n\n[그림 4.20] 각 은닉상태의 발생빈도 및 지하수위 Anomaly(월단위)\n\n이러한 확률적인 거동을 천이확률(transition probability)로 나타낼 수 있으며 [표 4.4]와 같다.",
+    "blockRange": [
+      1056,
+      1067
+    ],
+    "page": 95
+  },
+  {
+    "id": "c0297",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA",
+      "4.3.2. 지하수 관측자료를 활용한 가뭄 분석 결과",
+      "가. State 분석 및 지하수위를 이용한 가뭄지수 개발"
+    ],
+    "text": "**[표 4.4] 은닉상태의 천이확률(transition probability)**\n\n|  | STATE-1 | STATE-2 | STATE-3 | STATE-4 | STATE-5 | STATE-6 | STATE-7 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| STATE-1 | 0.97 | 0.01 | 0.00 | 0.01 | 0.00 | 0.01 | 0.00 |\n| STATE-2 | 0.02 | 0.94 | 0.01 | 0.00 | 0.01 | 0.02 | 0.00 |\n| STATE-3 | 0.00 | 0.01 | 0.97 | 0.00 | 0.00 | 0.01 | 0.00 |\n| STATE-4 | 0.01 | 0.00 | 0.00 | 0.94 | 0.00 | 0.03 | 0.01 |\n| STATE-5 | 0.00 | 0.02 | 0.00 | 0.00 | 0.96 | 0.01 | 0.01 |\n| STATE-6 | 0.02 | 0.01 | 0.01 | 0.11 | 0.01 | 0.81 | 0.03 |\n| STATE-7 | 0.00 | 0.00 | 0.01 | 0.00 | 0.00 | 0.02 | 0.97 |",
+    "blockRange": [
+      1068,
+      1068
+    ],
+    "page": 98,
+    "table": {
+      "rows": 8,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0298",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA",
+      "4.3.2. 지하수 관측자료를 활용한 가뭄 분석 결과",
+      "가. State 분석 및 지하수위를 이용한 가뭄지수 개발"
+    ],
+    "text": "천이확률을 이용하여 가뭄의 확률거동을 설명하면 다음과 같다. 즉, 대부분의 경우의 원래 상태를 유지하려는 특징이 매우 크며 0.9이상으로 추정되었다. 다른 상태로 천이하는 확률은 2-11%로 분석되었다. 심한 가뭄상태를 나타내는 1번 상태가 한 번 나타나면 1번 상태를 유지하려는 확률은 0.97이다. 이를 천이확률의 거동을 DAG 형태로 나타내면 다음과 같다. 현재 모형은 계절구분 없이 전체 기간을 대상으로 분석을 수행하였다. 분석 시 자료를 Anomaly 형태로 만들어 진행하였음에도 불구하고 계절별로 값의 절대값의 차이가 전체 모형결과에 미치는 영향이 크게 나타나는 것으로 판단된다. 향후 연구로서 계절별로 구분하여 모형을 구축하고 앞서 진행된 분석과정이 추가적으로 진행될 필요가 있을 것으로 판단된다.\n\n[그림 4.21] 각 천이확률의 DAG 그래프\n\n마지막으로 강수량 기반의 기상학적 가뭄지수인 SPI와 본 과업에서 제안한 지하수 기반의 가뭄지수와 비교하여 그림으로 나타내었다. SPI는 1, 3, 6개월에 해당하는 누적강수량을 활용하여 산정하였으며 지하수 특성 상 시간지체가 일부 있으나, SPI를 통해 고려되는 가뭄상태와 유사하게 나타나고 있다. 일부 기간에서는 SPI와 상당히 다른 상태로 평가가 되고 있으며, 이는 기상학적 가뭄과 수문학적 가뭄간의 차이점으로 대별되는 특성으로 판단되며, 정확한 전이단계 평가 등은 향후 연구에서 진행하고자 한다.\n\nSPI-1\n\n3\n\nex Ind 2 on ti cipita 1 re 0 P ed iz -1 rd da an -2 St\n\n-3\n\n2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017\n\nSPI-3\n\n3\n\nex Ind 2 tion cipita 1 re 0 P ed iz -1 rd da tan -2 S\n\n-3\n\n2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017\n\nSPI-6\n\n3\n\nex Ind 2 tion ita 1 ip rec 0 P ed iz -1 rd da tan -2 S\n\n-3\n\n2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017\n\n[그림 4.22] 월강수량 자료를 활용한 SPI 가뭄지수 산정결과\n\n[그림 4.23] 지하수위를 이용한 가뭄단계 및 강수량을 이용한 SPI-6 가뭄지수 비교\n\n[그림 4.24] 각 가뭄상태별 발생확률 도시",
+    "blockRange": [
+      1069,
+      1089
+    ],
+    "page": 98
+  },
+  {
+    "id": "c0299",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA",
+      "4.3.2. 지하수 관측자료를 활용한 가뭄 분석 결과"
+    ],
+    "text": "- 나. 예측인자 검토",
+    "blockRange": [
+      1090,
+      1090
+    ],
+    "page": 101
+  },
+  {
+    "id": "c0300",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "$lnP(O|\\lambda )-lnP(O|\\lambda )<$′\tDELTA",
+      "4.3.2. 지하수 관측자료를 활용한 가뭄 분석 결과",
+      "나. 예측인자 검토"
+    ],
+    "text": "본 과업에서 제시한 모형을 기준으로 예측모형으로 확장하기 위해서 강수량과 지하수위의 상관성을 우선적으로 평가하였다. 30개 지하수위 지점 모두에 대해서 지체시간 0-3개월까지 바꿔가면서 지하수위와 강수량의 상관성을 검토하여 아래 그림에 나타내었다. 지체시간 1개월까지 강우와 지하수위와 상관성이 0.5이상 유지되는 것을 확인할 수 있으며, 지하수위 자체의 자기상관성을 포함한 모형을 고려한 경우 예측 모형으로서 구성이 가능할 것으로 판단된다. 특정지점의 경우 2개월 이상의 지체시간에서도 상관성이 유지되는 것을 확인할 수 있으며 평균적으로 0.5이상의 상관성을 확보가 가능할 것으로 판단된다. 요약하면, 강우량과 지하수위의 자기상관성을 고려한 예측모형을 구축하는 경우 2개월 선행기간을 가지고 0.5 이상의 예측성이 확보가 가능할 것으로 판단된다.\n\n[그림 4.25] 지하수위와 지체시간별 상관관계 분석\n\n[그림 4.25]는 30개 강수지점의 시공간적 상관성을 나타낸 그림으로서 모든 지점에서 0.7이상의 상관성이 있는 것으로 평가되었다.",
+    "blockRange": [
+      1091,
+      1093
+    ],
+    "page": 101
+  },
+  {
+    "id": "c0301",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측"
+    ],
+    "text": "## 4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+    "blockRange": [
+      1094,
+      1094
+    ],
+    "page": 103
+  },
+  {
+    "id": "c0302",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시"
+    ],
+    "text": "### 4.4.1. 가뭄예측 모형",
+    "blockRange": [
+      1095,
+      1095
+    ],
+    "page": 103
+  },
+  {
+    "id": "c0303",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.1. 가뭄예측 모형"
+    ],
+    "text": "Agana 와 Homaifar (2017)은 Deep Belief Network (DBN) with two Restricted Boltzman Machines (RBM)을 이용하여 Standardized Streamflow Index (SSI) 통한 장기간 가뭄을 예측하는 모형을 개발하였다([그림 4.26]). 이를 Upper Colorado River 유역에 위치한 Gunnison River에 대해서 적용하였다. 이는 결과를 통해 DBN모형이 가장 좋은 성능을 보여주었다. Roy 등(2017)은 DBN을 가뭄과 비가뭄 이미지들을 분류하는데 사용하였으며, k-nearest neighbor과 random forest learning 모형들과 비교하여 딥러닝 모형의 우수성을 보여주었다. Isikdogan 등(2017)은 convolutional neural network (CNN)을 이용하여 Landsat이미지에서 수체를 분리해 내는데 사용하였다. 이러한 분리는 향후 가뭄분석을 하는데 용이하게 이용될수 있을 것으로 판단된다.\n\n[그림 4.26] Architecture of a Deep Belief Network with two RBMs\n\nShen등(2019)은 딥러닝기술인 Deep Forward Neural Network (DFNN)를 이용하여 고수준의 중요변수들을 추출하는데 사용하였으며, 이를 인공위성 입력자료인 Moderate Resolution Imaging Spectroradiometer (MODIS)와 Tropical Rainfall Measuring Mission (TRMM)에 적용하였다. Poornima 와 Pushpalatha (2019)은 LSTM모형을 SPI와 Standardized Precipitation Evapotranspiration Index (SPEI)의 다양한 시간대에 대해서 예측을 하는데 사용하였다 이를 기존 시계열 모형인 ARIMA 모형과 비교하여 그 우수성을 확인하였다.\n\nZhu등(2020)은 조건확률 모델을 이용한 보강된 LSTM을 이용하여 가뭄을 확률적으로 예측하는 모형을 제시하였다. 이를 삼협댐 상부의 가뭄을 예측하는데 적용하였다. 결과를 통해, 제시된 보강된 LSTM모형은 안정적인 가뭄지수의 예측을 가능하게 하며 불확실성에 대한 정보도 함께 제공하여 준다는 사실을 밝혔다. Kaur와 Sood (2020)은 가뭄의 모니터링, 평가, 예측을 위해 Internet of Things (IoT), Fog Computing, 그리고 Cloud Computing를 아우르는 형태를 제시하였다([그림 4.27]). 목표지역의 사물인터넷 센서를 통해 다양한 요소의 가뭄정보를 수집하고 Principal Component Analysis를 바탕으로 정보를 집약한후 DNN을 통하여 가뭄의 심각도를 평가하도록 하였으며 가뭄의 척도가 효과적으로 제시된다는 것을 보여주었다.\n\n[그림 4.27] Layered architecture of the proposed model\n\nDikshit등(2021)은 stacked LSTM을 사용하여 SPEI를 예측하는데 사용하였다([그림 4.28]). Climate Research Unit (CRU)자료를 보간하여 1에서 12개월의 가뭄을 예측하는데 사용하였으며 그 적용성을 입증하였다.\n\n[그림 4.28] Flowchart of the model",
+    "blockRange": [
+      1096,
+      1102
+    ],
+    "page": 103
+  },
+  {
+    "id": "c0304",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시"
+    ],
+    "text": "### 4.4.2. 하천-지하수위를 활용한 수문학적 가뭄 예측 모형 방법 제시",
+    "blockRange": [
+      1103,
+      1103
+    ],
+    "page": 106
+  },
+  {
+    "id": "c0305",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.2. 하천-지하수위를 활용한 수문학적 가뭄 예측 모형 방법 제시"
+    ],
+    "text": "자기상관성이 높은 지하수위의 예측을 통해서 하천수위와 적정하게 조합할 경우 가뭄을 표현하고 예측하는데 사용할 수 있다. 따라서 본 장에서는 지하수위의 예측하는 모형에 대해 논하고자 한다.\n\n다양한 자기상관성을 이용한 예측모형 중에는 Autoregressive Moving Average(ARMA)등의 전통적인 시계열모형이 존재한다(Brockwell et al. 2003). 최근에는 AI기반 딥러닝 모델을 통하여 예측능력을 극대화된 모형들이 다양하게 개발되어왔다. 그 중의 가장 중요한 모형중 하나는 Long Short-term Memory (LSTM)모형이다. LSTM은 Hochreiter and Schmidhuber (1997)에 의해서 개발된 이후 그 성능을 인정받아 다양한 분야에서 널리 사용되어 지고 있다. 특히 수자원 및 환경, 기상등에 다양한 분야에서 예측모형으로 사용되고 있다(Tran et al., 2019; Lee et al., 2020).\n\n이와 더불어 주기성이 있는 수위자료의 경우 주기성을 적절히 분리해내어 예측에 사용된다면 장기예측이나 전망에 유용하게 사용이 가능할 것으로 판단된다. 주기성을 분리해내기 위해서는 Frequency Filterling기법이 사용되며, 다양한 연구들이 이뤄 지고 있다. 최근에는 Wavelet(Foufoula-Georgiou and Kumar, 1994)이나 Empirical Mode Decomposition (EMD; Huang et al., 2003; Lee and Ouarda, 2010; Lee et al., 2013; Lee and Ouarda, 2019)등의 기법들이 각광받고 있다. 특히 EMD의 경우 직관적인 형태의 모형으로 관측 시계열 자료의 장기 변동성이나 주기성들을 추출해내는 데 탁월한 성능을 보인다고 알려져 있다.\n\n따라서 본 장에서는 LSTM 및 EMD의 기초 부분에 대하여 설명하고 이를 고령지점의 지하수자료에 적용하여 향후 수위자료를 바탕으로한 가뭄예측에 대한 가능성에 대해 살펴보고자 한다.\n\n- 가. Long Short-term Memory (LSTM)",
+    "blockRange": [
+      1104,
+      1108
+    ],
+    "page": 106
+  },
+  {
+    "id": "c0306",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.2. 하천-지하수위를 활용한 수문학적 가뭄 예측 모형 방법 제시",
+      "가. Long Short-term Memory (LSTM)"
+    ],
+    "text": "LSTM의 경우 [그림 4.29]에서 보는 바와 같이 기본 신경망을 바탕으로 회귀신경망(Recurrent Neural Network)의 모형이 가지고 있는 에러의 전파가 회귀 시간이 증가함에 따라 급격하게 감소하는 Vanishing gradient 문제를 해결하기 위해 Cell state을 추가하여 이를 해결하는 LSTM 모형을 Hochreiter and Schmidhuber (1997)가 개발하였다. 이러한 Cell state는 다음과 같은 식으로 표현되어진다.\n\n$c_{t}=f_{t}∗c_{t-1}+i_{t}∗c_{t}$′ 식 4.34\n\n여기서 ft 및 it는 상실게이트 및 입력게이트를 의미하고 다음과 같이 표현된다.\n\n$f_{t}=\\sigma (W_{fx}x_{t}+W_{fh}h_{t-1}+b_{f})$ 식 4.35\n\n$i_{t}=\\sigma (W_{ix}x_{t}+W_{ih}h_{t-1}+b_{i})$ 식 4.36\n\nσ는 sigmoid 함수를 의미한다. 또한, c’t 는 Cell state의 후보군으로서 아래와 같은 식으로 표현된다.\n\n$c_{t}=tanh(W_{cx}x_{t}+W_{ch}h_{t-1}+b_{c})$′ ′ ′ ′ 식 4.37\n\n이를 통해서 출력을 담당하게 되는 hidden state의 값이 아래와 같이 계산된다.\n\n$h_{t}=o_{t}∗tanh(c_{t})$ 식 4.38\n\n여기서, ot는 은닉게이트를 나타내며 다음과 같이 표현될 수 있다.\n\n$o_{t}=\\sigma (W_{ox}x_{t}+W_{oh}h_{t-1}+b_{o})$ 식 4.39\n\n[그림 4.29] AI 모형의 구조 (Neural Network, Recurrent Neural Network, 및 Long\n\nShort-term Memory)\n\nLSTM의 구조는 3개의 게이트인 상실, 입력, 출력 게이트는 0에서 1사이의 값으로서 Cell state에서 과거 정보를 얼마나 다음 단계로 전파할지를 계산할 때 상실게이트와 입력게이트를 이용하여 과거의 Cell state 정보와 현재 새로 추가된 Cell state의 후보군에 각각 상실게이트 및 입력게이트를 조합하여 전달하게 되고 이를 출력게이트를 사용하여 hidden state인 ht에 전달하게 된다.\n\n여기서 Cell state 구조안에 있는 덧셈식(‘+’)은 일반적인 인공신경망 모델에서 곱셈을 통해 이루어지는 에러전달과정에서 단계가 진행됨에 따라 급격히 줄어드는 에러전달의 힘을 줄어들지 않고 지속적으로 유지하는 역할을 해주게된다. 이로 인해, 기존 모델인 Recurrent Neural Network (RNN)이 가지고 있는 Vanishing gradient를 줄이는 역할을 하여 장기간의 예측이 가능하도록 설계되어져 있다. 최근에는 [그림 4.30]에서 보는바와 같이 LSTM을 여러층으로 쌓아 보다 장기간의 예측을 가능하게 하는 Stacked LSTM이 개발되어졌 사용되고 있다(Lee, 2020).\n\n이러한 LSTM의 특성을 이용하여 지하수위가 가지고 있는 장기변동성의 특징을 예측하는 것이 가능할 것으로 판단된다.\n\n[그림 4.30] Stacked LSTM\n\n(출처:\n\nhttps://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169836)",
+    "blockRange": [
+      1109,
+      1127
+    ],
+    "page": 107
+  },
+  {
+    "id": "c0307",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.2. 하천-지하수위를 활용한 수문학적 가뭄 예측 모형 방법 제시"
+    ],
+    "text": "- 나. 경험모드 분해법 (EMD, Empirical Mode Decomposition)",
+    "blockRange": [
+      1128,
+      1128
+    ],
+    "page": 109
+  },
+  {
+    "id": "c0308",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.2. 하천-지하수위를 활용한 수문학적 가뭄 예측 모형 방법 제시",
+      "나. 경험모드 분해법 (EMD, Empirical Mode Decomposition)"
+    ],
+    "text": "경험모드 분해법은 앞서 설명한 바와 같이 시계열에 존재하는 진동특성을 추출하기위한 방법으로 개발되어 다양한 자료에 사용되어 지고 있다. Lee et al. (2020)은 경험모드분해법(EMD)을 바탕으로 기상환경 및 수문자료에 대해 진동특성의 추출 및 분석, 그리고 예측모형등을 개발하였다(Lee and Ouarda, 2010; Lee and Ouarda, 2012; Lee et al., 2013; Lee and Ouarda, 2019).\n\n경험적 분해모드는 하나의 시계열에 포함된 다양한 주기성들을 내재모드함수(IMF)로 분해한다. Wu and Huang(2005)은 이를 위해 각각의 요소가 가지고 있는 에너지를 이용해 IMF를 검증하는 기법을 제안하였다. [그림 4.31]에서 보는 바와 같이 고령지점의 지하수위자료는 11개의 IMF로 나누어져 주기성이 분해되었다. IMF의 숫자가 높을수록 그 주기가 길어지게 된다. 이러한 내재모드함수 중에서 실제로 어떤 요소들이 실제적인 주기성을 나타내는지 검증하여야 한다.\n\n[그림 4.31] 고령지점의 지하수위 시계열(상) 및 내재모드함수(Intrinsic Mode Fucntions,\n\nIMFs)\n\n[그림 4.32]에는 IMF들의 검증결과를 나타낸 것이다. 일반적으로 아래에 위치한 실선과 점선의 상부에 위치하게 되면 그 주기성이 유의하다고 판단할수 있다. 하지만, 제시된 방법 자체가 자료의 자기상관성을 고려하지 못하여 사용자의 판단도 고려되어야 하는 것으로 연구되어졌다(Lee and Ouarda, 2010; Lee and Ouarda, 2011). 따라서, 본 자료의 경우 주기성이 낮다고 보는 C1에서 C5까지의 IMF를 제외한 C6에서 C11의 IMF들을 실제적인 주기성이 있다고 판단하는 것이 적절할 것으로 보인다.\n\n[그림 4.32] 고령지점의 지하수위 일자료에 대한 내재모드함수(IMF)의 유의성 검증\n\n이렇게 나누어진 IMF들을 분리하여 적정한 강도를 가지는 요소들만을 합하면 주기성이 존재하는 부드러운 시계열곡선과 나머지 Residual형태로 나타내어 질수 있다. [그림 4.33]의 상부에는 고령지점의 지하수위 자료와 선택된 IMF들의 합인 주기성이 존재하는 부드러운 시계열 곡선 자료가 나타나 있다. 이 선택된 IMF합자료는 고령지점의 지하수위 자료가 가지는 중장기 주기성을 잘 표현해 주고 있음을 알 수 있다. 나머지 IMF합(called, Residual)과의 상관성은 거의 존재하지 않는 것으로 보인다([그림 4.33], 하-좌측). 하지만, Residual자료의 1차 자기상관성은 무시 할수 없을 정도의 상관성이 가지고 있음이 보여진다([그림 4.33], 하-우측). 따라서 Residual의 경우 자기상관성을 가지는 모형을 가지고 모델링할 필요가 있다.\n\n[그림 4.33] 고령지점의 지하수위 일자료의 시계열 및 선택된 내재모드함수(IMF)의 합(상),\n\n선택된 IMF의 합과 나머지 IMF합(Residual)과의 Scatterplot (하-좌측),\n\n그리고 Residual의 1차 자기상관관계 Scatterplot(하-우측)\n\n이렇게 분해된 자료에 대해 중장기주기성이 보여지는 자료를 바탕으로 LSTM의 모형을 통해 예측을 실행할 수 있으며 이를 EMD-LSTM기법이라고 표현할 수 있다.",
+    "blockRange": [
+      1129,
+      1139
+    ],
+    "page": 109
+  },
+  {
+    "id": "c0309",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.2. 하천-지하수위를 활용한 수문학적 가뭄 예측 모형 방법 제시"
+    ],
+    "text": "- 다. 지하수위 및 하천수위 예측 모형개발",
+    "blockRange": [
+      1140,
+      1140
+    ],
+    "page": 112
+  },
+  {
+    "id": "c0310",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.2. 하천-지하수위를 활용한 수문학적 가뭄 예측 모형 방법 제시",
+      "다. 지하수위 및 하천수위 예측 모형개발"
+    ],
+    "text": "본 절에서는 지하수위 자료에 대해 LSTM모형을 적용하였다. 이와 더불어 EMD기법을 바탕으로 한 중장기주기성을 가진 자료를 분해하여 분해된 주요IMF를 합한 요소에 LSTM을 적용한 EMD-LSTM기법을 가지고 그 중장기 예측력에 대해서 확인하였다.\n\n먼저 LSTM모형을 적용하기 위해서는 그 구조를 결정해야 하는데 이를 위해 자료를 K개로 나누어 나눈 자료를 각각 Training 및 Validataion형태로 구분하여 오차를 최소화 시키는 구조를 찾는 K-fold Cross-Validation(KfCV) 기법을 이용하여 LSTM의 구조를 확인하였다.\n\n[그림 4.34]에는 다양한 LSTM구조를 바탕으로 KfCV를 이용하여 제곱근오차 (Root Mean Square Error, RMSE)를 구한 결과를 보여주고 있다. 은닉층의 개수를 변화시켜가며, 그리고 입력자료의 개수를 증가(즉, 입력일자 증가)시켜 가면서 RMSE를 구하였고, 이 중에서 최소의 RMSE를 나타내는 구조를 선택하도록 하였다. 또한, Stacked LSTM을 적용하여 1-stack 및 2-stack에 대한 구조도 동시에 검토하였다. 중장기의 예측력을 확인하기 위해 3달의 예측값까지 확인하여 총 90일까지 자료를 예측하도록 하였다.\n\n[그림 4.34] 입력자료개수 및 hidden node개수에 따른 1-stack 및 2-stack LSTM의\n\n평균제곱근오차(RMSE) 결과\n\n결과 분석을 통해, 2-stack 모형이 1-stack 모형보다 적정한 것으로 나타났고, 입력자료의 경우 6개의 경우가 가장 적당한 것으로 판단되며, 은닉노드의 개수는 2개가 적정한 것으로 판단되었다. 이 구조를 이용하여 LSTM모형을 구성하였으며, EMD-LSTM모형에도 적용하였다. EMD-LSTM에도 이러한 분석을 실시하였고 그 결과 비슷한 양상을 나타내어 구조적 특성 때문에 결과가 달라지지 않게 하기 위해 LSTM모형 및 EMD-LSTM모형 모두에 같은 구조를 적용하였다.\n\n두 개의 모형을 비교 분석한 결과 [그림 4.35]에서 보는 바와 같이 LSTM모형보다 EMD-LSTM모형이 보다 좋은 결과를 나타내는 것으로 판단된다. 이는 EMD-LSTM이 중장기 변동성을 잘 추출하여 LSTM이 이를 잘 예측하여 주기 때문인것으로 확인된다.\n\n[그림 4.35] LSTM 및 EMD-LSTM의 결과 비교\n\n[그림 4.36]에서는 Training기간을 3000일로 두고 나머지 1000여일에 대한 예측을 실시하여 결과를 보여주고 있다. 결과에서 보는 바와 같이 LSTM의 경우 장기변동성에 초점을 맞추기 보다는 짧은 시간타임의 상황에 맞추어져 있는 것으로 보이며 EMD-LSTM은 그 보다는 중장기 변동성에 초점을 맞추어 예측이 이루어지는 것으로 판단된다. 또한, 짧은 시간에 대한 예측일수록 값에 대해서 적정하게 예측하고 있고 시간이 증가할수록 평균값과 비슷한 값으로 예측이 이루어지고 있는 상황이 확인된다.\n\n[그림 4.36] Test기간 관측자료와 예측자료 시계열 비교\n\n이를 바탕으로 3달기간에 대한 미래를 예측한 결과가 [그림 4.37]에 나타나 있다. [그림 4.37]에서 앞으로의 지하수위가 증가할 것으로 예측되며, LSTM의 경우 직선형태의 증가를 예측하는 반면에 EMD-LSTM의 경우 2차함수 형태의 증가를 나타내는 것으로 확인된다.\n\n[그림 4.37] 고령지점 수위자료의 미래예측 예시",
+    "blockRange": [
+      1141,
+      1152
+    ],
+    "page": 112
+  },
+  {
+    "id": "c0311",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시"
+    ],
+    "text": "### 4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시",
+    "blockRange": [
+      1153,
+      1153
+    ],
+    "page": 116
+  },
+  {
+    "id": "c0312",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시"
+    ],
+    "text": "본 절에서는 시범대상지역인 청산취수장을 대상으로 2017년부터 2019년까지의 지하수위와 일단위 기반의 SPI가뭄지수에 대해 EMD와 LSTM모형을 적용한 결과를 제시하고자 한다.\n\n- 가. 지하수위 예측 모형개발",
+    "blockRange": [
+      1154,
+      1155
+    ],
+    "page": 116
+  },
+  {
+    "id": "c0313",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시",
+      "가. 지하수위 예측 모형개발"
+    ],
+    "text": "[그림 4.38]은 경험적 분해모드를 통하여 다양한 주기성을 갖는 내재모드함수로 분해한 결과를 보여주고 있으며, 청산취수장 지점의 지하수위자료는 9개의 내재모드함수 (IMFs)로 나누어져 주기성이 분해되었다. [그림 4.39]는 9개의 내재모드함수(IMFs)에 대한 유의성 검증결과를 나타내고 있다. [그림 4.40]에서 보는 바와 같이, 선택된 유의미한 IMF요소들의 합자료는 청산취수장 지점의 지하수위 자료가 가지는 중장기 주기성을 잘 표현해 주는 것으로 나타났다.\n\n[그림 4.38] 청산취수장 지점의 지하수위 시계열(상) 및 내재모드함수\n\n[그림 4.39] 청산취수장 지점의 지하수위 일자료에 대한 IMFs의 유의성 검증\n\n[그림 4.40] 청산취수장 지점의 지하수위 일자료의 시계열 및 선택된 내재모드함수(IMF)의\n\n합(상), Residual(중), Standard deviation (하)\n\n먼저 LSTM모형을 적용하기 위해서 K-fold Cross-Validation (KfCV) 기법을 적용하여 LSTM의 구조를 확인하였으며 분석결과는 [그림 4.41]과 같다. 은닉층의 개수를 변화시켜가며 입력자료의 개수를 증가시켜 최소의 RMSE를 나타내는 구조를 선택하도록 하였으며, Stacked LSTM을 적용하여 1-stack 및 2-stack에 대한 구조도 동시에 검토하였다. 중장기의 예측력을 확인하기 위해 2달의 예측값까지 확인하여 총 60일까지 자료를 예측하도록 하였다.\n\n[그림 4.41] 입력자료개수 및 hidden node개수에 따른 1-stack 및 2-stack LSTM의\n\n평균제곱근오차(RMSE) 결과 (청산취수장 자료)\n\n[그림 4.42]에서는 Training기간을 600일로 두고 나머지 300일에 대한 예측을 실시하였다. 짧은 시간타임에 대한 초기수위 예측은 LSTM에서 좋은 결과를 보였으나 예측기간이 길어질수록 과소추정되는 경향을 보였다. 피크수위에 대해서는 LSTM과 EMD-LSTM의 평균값과 비슷한 값으로 예측이 이루어지고 있는 상황이 확인되었으며, 예측기간이 길어질수록 EMD-LSTM는 다소 과소추정되는 경향이 나타났다. 청산취수장 인근의 지하수위 자료는 고령취수장의 자료에 비하여 짧은 관측자료를 보유하고 있어 LSTM와 EMD-LSTM분석결과의 뚜렷한 중장기 변동특성에 대한 예측이 이루어지지 않는 것으로 판단된다. 지하수위 관측자료의 추가에 따른 변화특성등에 대해서 추가적인 분석이 요구된다.\n\n[그림 4.42] Test기간 관측자료와 예측자료 시계열 비교 (청산취수장)",
+    "blockRange": [
+      1156,
+      1165
+    ],
+    "page": 116
+  },
+  {
+    "id": "c0314",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시"
+    ],
+    "text": "- 나. 가뭄지수 예측 모형개발",
+    "blockRange": [
+      1166,
+      1166
+    ],
+    "page": 120
+  },
+  {
+    "id": "c0315",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시",
+      "나. 가뭄지수 예측 모형개발"
+    ],
+    "text": "청산취수장을 대상으로 SPI30일과 SPI180일에 대해서 지하수위 분석과 마찬가지로 EMD와 LSTM모형을 적용하여 결과를 비교하였다. SPI30일과 SPI180일 자료는 10개의 내재모드함수 (IMFs)로 나누어져 주기성이 분해되었다([그림 4.43, 그림 4.44]).\n\n[그림 4.43] 청산취수장 지점의 SPI30일 시계열(상) 및 내재모드함수\n\n[그림 4.44] 청산취수장 지점의 SPI180일 시계열(상) 및 내재모드함수\n\n[그림 4.45] 청산취수장 지점의 SPI30일 시계열 및 선택된 내재모드함수(IMF)의 합(상),\n\nResidual(중), Standard deviation (하)\n\n[그림 4.46] 청산취수장 지점의 SPI180일 시계열 및 선택된 내재모드함수(IMF)의 합(상),\n\nResidual(중), Standard deviation (하)\n\n선택된 IMF를 합하면 [그림 4.45]와 [그림 4.46]과 같이 주기성이 존재하는 부드러운 시계열곡선과 나머지 Residual형태로 나타낼 수 있다. 그림에서 보는 바와 같이, SPI180일에 대한 선택된 IMF합자료는 SPI30일에 비해서 중장기 주기성을 잘 표현해 주는 것으로 나타났다. LSTM과 EMD-LSTM 모형을 비교한 결과 [그림 4.47]에서 보는 바와 같이, SPI30일에 대해서는 예측시간이 증가할수록 성능이 상대적으로 크게 저하되는 것으로 나타났으며, EMD-LSTM 적용결과가 예측기간 35일이전에서 상대적으로 좋은 결과를 보였으나 시간이 길이질수록 LSTM결과보다 예측성능이 떨어지는 것으로 나타났다. SPI180일을 적용한 결과에서는 EMD-LSTM 적용결과가 LSTM보다 상당히 우수한 것으로 분석되었다. 이러한 결과는 [그림 4.48]에서도 확인할 수 있으며, EMD 가 중장기 변동성을 잘 추출하여 LSTM가 이를 잘 예측하여 주기 때문인 것으로 분석된다.",
+    "blockRange": [
+      1167,
+      1174
+    ],
+    "page": 120
+  },
+  {
+    "id": "c0316",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시",
+      "나. 가뭄지수 예측 모형개발"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| SPI30D | SPI80D |",
+    "blockRange": [
+      1175,
+      1175
+    ],
+    "page": 123,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0317",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시",
+      "나. 가뭄지수 예측 모형개발"
+    ],
+    "text": "[그림 4.47] Performance measurement",
+    "blockRange": [
+      1176,
+      1176
+    ],
+    "page": 123
+  },
+  {
+    "id": "c0318",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시",
+      "나. 가뭄지수 예측 모형개발"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| SPI30D | SPI80D |",
+    "blockRange": [
+      1177,
+      1177
+    ],
+    "page": 124,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0319",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 가뭄상황 판단 및 예측",
+      "4.4. 가뭄예측에 활용 가능한 최적 분석모형 제시",
+      "4.4.3. 지하수위와 가뭄지수가 연계된 가뭄예측 모형 제시",
+      "나. 가뭄지수 예측 모형개발"
+    ],
+    "text": "[그림 4.48] 관측자료와 예측자료 시계열 비교\n\n제5장 결론 및 향후연구",
+    "blockRange": [
+      1178,
+      1179
+    ],
+    "page": 124
+  },
+  {
+    "id": "c0320",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제5장 결론 및 향후 연구",
+    "blockRange": [
+      1180,
+      1180
+    ],
+    "page": 127
+  },
+  {
+    "id": "c0321",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구"
+    ],
+    "text": "본 과업은 미계측 하천 취수지점의 가뭄 판단 및 예측을 위한 분석체계를 구축함으로써 가뭄으로 인한 피해를 사전에 예방하고, 가뭄 발생시 즉각적인 대응을 통해 피해를 최소화하는 방안을 수립하고자 수행되었다. 본 과업의 주요내용은 미계측 하천 취수지점에 대한 현장조사 및 계측기 설치를 위한 대상지점 선정, 미계측 지역의 가뭄상황 판단 및 예측, 계측기 설치 및 자료 수집으로 나누어져 있다. 먼저, 성공적인 과업 수행을 위해 하천을 취수원으로 하는 미계측 유역을 선정하였으며, 기초자료 조사 및 분석을 통해 최종 시범지역을 선정하였다. 또한, 가뭄상황 판단 및 예측을 위한 다양한 방법론을 제시하였다. 이상의 주요한 내용을 바탕으로 미계측 하천 취수지점의 가뭄 판단 및 예측을 위한 분석체계 구축 내용을 정리하면 아래와 같다.\n\n- 1\\) 미계측 하천 취수지점의 시범유역 선정을 위해 다음과 같은 사항이 우선 고려되",
+    "blockRange": [
+      1181,
+      1182
+    ],
+    "page": 127
+  },
+  {
+    "id": "c0322",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구",
+      "1) 미계측 하천 취수지점의 시범유역 선정을 위해 다음과 같은 사항이 우선 고려되"
+    ],
+    "text": "었다.",
+    "blockRange": [
+      1183,
+      1183
+    ],
+    "page": 127
+  },
+  {
+    "id": "c0323",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구"
+    ],
+    "text": "- 상류에 댐, 보, 저수지 등 연계 가능한 수원이 존재하지 않는 지점으로서 이들 시설물에 의한 본류 수위 영향이 적은 지점\n- 인근 지점에 하천수위 및 지하수위 등의 활용 가능한 관측자료를 보유한 지점\n- 가뭄 분석 (가뭄판단기준 현행화)이 가능하고 관측자료 간의 상관성이 어느 정도 확보된 지점\n- 가뭄 취약지역 또는 과거 가뭄 발생으로 인한 취수제약 기록이 있는 지점\n- 계측을 위한 센서 설치 등 현장 여건이 비교적 양호한 지점\n- 취수지점과 인접하여 하천수-복류수-지하수의 수위 관측이 가능한 지점\n- 복류수의 관측을 위하여 복류수 취수지점과 수평적으로 연결된 충적층이 발달된 지점\n- 사업기간 동안 지속적인 관측이 가능한 지점으로서 공공부지를 우선적으로 선정\n- 2\\) 복류수 취수지점의 가뭄판단 및 예측을 위해서는 인근에 활용 가능한 수위 관측 자료가 있는 취수지점 65개소가 검토되었으며, 1차적으로 지자체 취수시설 조사계획(안)을 포함하여 21개소의 취수장을 선정하였다. 취수형태가 없거나 얕은 우물형태, 취수탑 형태, 취수장 인근 수위 및 지하수관측소가 없는 취수장은 배제",
+    "blockRange": [
+      1184,
+      1192
+    ],
+    "page": 127
+  },
+  {
+    "id": "c0324",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구",
+      "2) 복류수 취수지점의 가뭄판단 및 예측을 위해서는 인근에 활용 가능한 수위 관측 자료가 있는 취수지점 65개소가 검토되었으며, 1차적으로 지자체 취수시설 조사계획(안)을 포함하여 21개소의 취수장을 선정하였다. 취수형태가 없거나 얕은 우물형태, 취수탑 형태, 취수장 인근 수위 및 지하수관측소가 없는 취수장은 배제"
+    ],
+    "text": "하여, 2차적으로 예비후보군 7곳을 대상으로 취수장 인근의 강우, 수위, 지하수\n\n위 관측자료의 상관성 분석을 통하여 미계측 유역의 시범유역을 선정하였다. 최\n\n종적으로 현장조사와 자료분석을 통해 청산취수장이 선정되었으며, 선정된 이유\n\n를 정리하면 다음과 같다.",
+    "blockRange": [
+      1193,
+      1196
+    ],
+    "page": 128
+  },
+  {
+    "id": "c0325",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구"
+    ],
+    "text": "- 취수지점의 위치가 불분명하지만, 보 하류에 충적층이 발달되어 있어 충적층 발달심도에 맞춰 복류수 수위가 측정가능하고, 지하수위를 연계하여 관측 가능\n- 관측정 실치를 위한 해당 부지는 국유지로 장기간 관리 가능\n- 하천수, 복류수, 지하수 관측정을 설치하기 위한 장비 접근이 용이\n- 3\\) 하천수위, 복류수위, 지하수위 관측을 위한 계측기를 시범대상유역에 설치하여 지속적인 관찰을 통해 미계측 유역에서도 가뭄 상태를 모니터링 할 수 있는 방안을 도출하고자 하였다. 관측정 설치 과정중 파악한 지하 지층현황을 바탕으로 조사지역에 대한 지층단명을 검토하였으며, 복류수관측정, 지하수 관측정, 하천수위관측정 3개소를 대상으로 지점측량을 수행하였다. 신규 관측정 설치 이후 2020년 12월 12일부터 수위, 지하수위, 하천수위를 10분 간격으로 관측하고 있으며 5일간 관측한 결과, 복류수, 하천수위 및 지하수 관측정 수위는 소폭 하강하였으나 수위변화는 미미한 것으로 확인되었다. 관측기간동안 지하수위보다 복류수의 수위와 하천수위가 높게 관측되었으며 흐름방향은 하천수위관측정에서 지하수관측정으로 흐르는 것으로 판단된다. 그러나 지하수 흐름방향 및 수위특성을 판단하기에는 관측기간이 짧아 지속적인 관측을 통해 수위변화를 평가를 해야 할 것으로 판단된다.\n- 4\\) 시범유역인 청산취수장 인근의 과거 관측된 기상 및 수문 자료를 활용하여 가뭄 조건에 따른 하천수위 및 지하수위 관계를 분석한 결과, SPI180일 기준으로 건조상태 (SPI < -1)와 습윤상태(SPI > 1)의 수문변화가 크고, 가뭄시 지하수위 및 하천수위 상관성이 커지는 양상을 나타났다. SPI180 < -1.0일 때, 하천수위(RWL1)과 암반층 지하수위 (GWLB)의 상관성은 0.57로 통계적으로 유의한 양의 상관성을 보이고, 하천수위(RWL1)와 SPI180와의 상관성에서도 0.43(하천수위(RWL2)와 SPI180 상관계수: 0.43)으로 비교적 높은 상관성을 보였다. 또한, SPI180와 지하수위(GWLB)와의 상관성에서도 0.63으로 높은 상관관계를 보였다. SPI30D < -1 적용시, 대성1교(RWL1,2019년부터 측정) 하천의 저수위 (lower quartile) 발생이 전체 자료기간에 비해서 1.97배 증가하는 것으로 나타났으며, 건조상태와 습윤상태의 저수위변화는 3.25배 차이 나는 것으로 분석되었다. 산계교(RWL2,2006년부터 측정)의 하천수위는 건조상태와 습윤상태의 저수위변화가 1.8배이상 발생하고, 전체 자료에 비해서는 12.5%증가하는 것으로 나타났다. 그러나 충적층 및 암반층의 지하수 변화는 크게 나타나지 않았다. 따라서 단기 가뭄의 상태변화에 대해서 하천수위는 민감하게 반응하나 지하수위의 변화는 크지 않는 것으로 분석되었다.",
+    "blockRange": [
+      1197,
+      1201
+    ],
+    "page": 128
+  },
+  {
+    "id": "c0326",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구",
+      "4) 시범유역인 청산취수장 인근의 과거 관측된 기상 및 수문 자료를 활용하여 가뭄 조건에 따른 하천수위 및 지하수위 관계를 분석한 결과, SPI180일 기준으로 건조상태 (SPI < -1)와 습윤상태(SPI > 1)의 수문변화가 크고, 가뭄시 지하수위 및 하천수위 상관성이 커지는 양상을 나타났다. SPI180 < -1.0일 때, 하천수위(RWL1)과 암반층 지하수위 (GWLB)의 상관성은 0.57로 통계적으로 유의한 양의 상관성을 보이고, 하천수위(RWL1)와 SPI180와의 상관성에서도 0.43(하천수위(RWL2)와 SPI180 상관계수: 0.43)으로 비교적 높은 상관성을 보였다. 또한, SPI180와 지하수위(GWLB)와의 상관성에서도 0.63으로 높은 상관관계를 보였다. SPI30D < -1 적용시, 대성1교(RWL1,2019년부터 측정) 하천의 저수위 (lower quartile) 발생이 전체 자료기간에 비해서 1.97배 증가하는 것으로 나타났으며, 건조상태와 습윤상태의 저수위변화는 3.25배 차이 나는 것으로 분석되었다. 산계교(RWL2,2006년부터 측정)의 하천수위는 건조상태와 습윤상태의 저수위변화가 1.8배이상 발생하고, 전체 자료에 비해서는 12.5%증가하는 것으로 나타났다. 그러나 충적층 및 암반층의 지하수 변화는 크게 나타나지 않았다. 따라서 단기 가뭄의 상태변화에 대해서 하천수위는 민감하게 반응하나 지하수위의 변화는 크지 않는 것으로 분석되었다."
+    ],
+    "text": "결론적으로 시범유역으로 결정된 청산취수장의 하천수위와 지하수위는 가뭄에 어느 정도 민감하게 반응하는 것으로 나타났으며 향후 시범유역 운영에 따른 가뭄감시 방안의 도출이 가능할 것으로 기대된다.",
+    "blockRange": [
+      1202,
+      1202
+    ],
+    "page": 129
+  },
+  {
+    "id": "c0327",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구"
+    ],
+    "text": "- 5\\) 가뭄상황 판단 및 예측을 위해 관측자료 기반 복류수 취수 지점의 가뭄판단 방법론을 제시하기 위해 Markov Chain Model과 Hidden Markov Chain Model(HMM) 기반의 시계열자료 모의기법 기반 Gaussian Mixture Non-homogeneous Hidden Markov Chain Model(GM-NHMM)을 제시하였다. 지하수위 정보를 토대로 가뭄 상황을 판단할 수 있는 기법을 제안하였으며, 관측기간 결측치와 이상치등을 고려하여 국가 지하수관측망 자료를 활용하였으며 일단위 또는 월단위에서 지하수위 자료를 HMM 기법에 적용하여 7가지 범주로 분류하였다. 본 과업에서 제안한 지하수 기반의 가뭄판단 방법은 가뭄의 시간적인 천이관계를 명확하게 고려하는 등 2014년과 2015년에 발생한 가뭄을 효과적으로 나타내는 것으로 분석되었다. 지하수위 자료 기반으로 산정한 가뭄지수는 수문학적 순환 관점에서 강우에 비해 변동성이 크지 않으며, 하천유량 및 토양함수와의 연계성을 확보한다는 측면에서 수문학적 가뭄지수로 활용이 가능할 것으로 분석되었다. 즉, 수문학적 또는 농업적 가뭄 관점에서 봤을 때 지하수위 자료 기반의 가뭄지수는 보다 더 현실적인 물수급 상황을 나타내는 것으로 판단되었다. 향후 지하수위를 이용한 가뭄상황 판단모형으로 확장이 가능할 것으로 판단된다. 또한 향후 연구로서 본 모형과 예측인자를 연계하여 추계학적 다지점 지하수위 예측모형을 개발하고 이를 현업에 활용할 수 있도록 연계방안을 찾는 과정이 필요할 것으로 판단된다.\n- 6\\) 본 과업에서는 하천-지하수위 융합형 수문학적 가뭄지수 개발방법을 제안하고 LSTM 및 EMD-LSTM을 활용하여 가뭄지수 기반 가뭄 예측 모형을 제시하였다. 지하수위에 대하여 LSTM 및 EMD-LSTM 모형을 적용한 결과, 두 모형 모두에서 양호하게 중장기 가뭄변화 전망이 가능한 것으로 나타났으며, 이중 EMD-LSTM 모형이 보다 정확한 중장기 예측성능을 보이는 것으로 분석되었다. 자기상관성이 높은 지하수위의 예측을 통해서 하천수위자료와 융합하여 지수형태로 개발되면 보다 정확한 수문학적 가뭄에 대한 분석 및 예측이 가능할 것으로 판단된다.",
+    "blockRange": [
+      1203,
+      1204
+    ],
+    "page": 129
+  },
+  {
+    "id": "c0328",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구",
+      "6) 본 과업에서는 하천-지하수위 융합형 수문학적 가뭄지수 개발방법을 제안하고 LSTM 및 EMD-LSTM을 활용하여 가뭄지수 기반 가뭄 예측 모형을 제시하였다. 지하수위에 대하여 LSTM 및 EMD-LSTM 모형을 적용한 결과, 두 모형 모두에서 양호하게 중장기 가뭄변화 전망이 가능한 것으로 나타났으며, 이중 EMD-LSTM 모형이 보다 정확한 중장기 예측성능을 보이는 것으로 분석되었다. 자기상관성이 높은 지하수위의 예측을 통해서 하천수위자료와 융합하여 지수형태로 개발되면 보다 정확한 수문학적 가뭄에 대한 분석 및 예측이 가능할 것으로 판단된다."
+    ],
+    "text": "금번 시범사업을 통하여 얻어지는 연속적인 복류수위, 지하수위 관측자료는 유역의 기저유출을 분석할 수 있는 직접적인 자료로 활용될 수 있으며, 특히 복류수 취수량, 기상 수문자료, 인근 지역 지하수 사용현황 등의 자료를 활용하여 유역 내 물수지분석, 가뭄예측 등을 정교하게 할 수 있는 기초자료를 얻을 수 있을 것이라 판단된다.\n\n향후 [그림 5.1]과 같이 미계측 취수지점의 인근 수위/지하수 관측소의 유무, 상류 수리시설(댐, 보 등) 유무 등 취수지점 인근의 현장 여건에 따라 분리된 가뭄판단 기준 및 예측 기술이 필요하다.\n\n미계측 취수지점의 가뭄판단을 위해서는 가장 우선적으로 인근에 활용가능한 하천수위/지하수위 관측자료 유무를 판단하고 두 번째로는 취수지점의 하천수위에 영향을 줄 수 있는 수리시설(댐)이 상류에 위치하는지 여부를 조사하여야 한다.\n\n취수지점 인근에 하천수위/지하수위 관측소가 있는 경우에는 기존 자료를 활용하여 가뭄판단을 할 수 있는 가뭄지수의 개발이 필요하며, 관측소가 없는 경우에는 본 연구를 통하여 정립되는 미계측 유역의 계측기 설치방안에 따라서 계측기를 설치하고 이를 통한 가뭄판단 방법을 제시해야 한다.\n\n상류에 수시시설이 있는 경우에는 상류 수리시설의 용수공급상황을 반영한 취수지점의 수문상황을 판단할 수 있는 기준이 마련되어야 하며, 상류에 수리시설이 없는 경우에는 취수지점에서의 하천수위, 복류수위, 지하수위 만을 고려한 가뭄판단이 이루어져야 한다.\n\n이상의 내용이 반영되어 미계측 하천 취수지점의 가뭄판단 방안이 개발되어야 하며 특히, 복류수에 의한 취수를 하는 지점에서는 복류수 취수 제한이 이루어지는 임계상황을 판단하여 수문학적 가뭄의 시작점으로 설정되어야 하며, 이를 위해서는 기준갈수량 등과 같은 빈도별 최대갈수량을 산정하여 가뭄판단 기준을 마련해야 한다. 가뭄을 판단하는 방법은 통계적모형과 물리적모형을 모두 고려할 수 있으며, 관측자료(지하수, 하천수 등)가 어느정도 구축되어 있는 경우에는 통계모형의 적용이 가능하지만 그렇지 못한 경우에는 물리적 모형의 적용을 고려해야 한다.\n\n가뭄전망의 경우에는 본 과업에서 제시하는 LSTM-EMD 모형을 적용하여 관측자료 기반의 중장기 전망모형의 개발이 시도될 필요가 있다고 판단된다.\n\n미계측 취수지점\n\n상류저수지 저류량 +\n\n취수지점 수문상황 반영\n\n인근 수위/지하수 상류 수리시설(댐)\n\n관측소 유무 유무 취수지점의 수문상황\n\n반영\n\n가뭄지수와의 신규 계측기 설치 검토\n\n상관성 분석 (복류수, 지하수, 하천수위)\n\n추가 계측기 설치 검토 ● 복류수 취수 제한 조건 분석\n\n(취수지점 부근 수위/복류수)",
+    "blockRange": [
+      1205,
+      1221
+    ],
+    "page": 130
+  },
+  {
+    "id": "c0329",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구"
+    ],
+    "text": "● 가뭄판단 기준 마련\n\n• 신규관측자료 검토 (기여/손실, 상관성 분석)\n\n• 기존관측자료의 활용여부 결정(지하수 등)\n\n• Quantitative vs Statistical Model\n\n● 가뭄전망 모델 구축\n\n• (SPI+수위+복류수위) + LSTM/EMD",
+    "blockRange": [
+      1222,
+      1227
+    ],
+    "page": 131
+  },
+  {
+    "id": "c0330",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 결론 및 향후 연구",
+      "• (SPI+수위+복류수위) + LSTM/EMD"
+    ],
+    "text": "[그림 5.1] 향후 미계측 하천 취수지점의 가뭄판단 방법\n\n참고문헌",
+    "blockRange": [
+      1228,
+      1229
+    ],
+    "page": 131
+  },
+  {
+    "id": "c0331",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참고문헌",
+    "blockRange": [
+      1230,
+      1230
+    ],
+    "page": 133
+  },
+  {
+    "id": "c0332",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "Agana, N.A., Homaifar, A. (2017). A deep learning based approach for long-term drought prediction, Conference Proceedings - IEEE SOUTHEASTCON. DOI:10.1109/SECON.2017.7925314\n\nBrockwell, P.J., Davis, R.A. (2003). Introduction to Time Series and Forecasting. Springer, Harrisonburg, VA, 456 pp.\n\nCharles, S. P., Bates, B. C., & Hughes, J. P. (1999\n\n). A spatiotemporal model for downscaling precipitation occurrence and amounts. Journal of Geophysical Research: Atmospheres, 104(D24), 31657-31669.\n\nChoi, H. M., Lee, J. Y., Ha, K. C., & Kim, G. P. (2011). The study on time series analysis of groundwater data and groundwater recharge in Jeju Island. The Journal of Engineering Geology, 21(4), 337-348.\n\nChung, I. M., Lee, J. W., & Kim, N. W. (2011). Estimating exploitable groundwater amount in Musimcheon watershed by using an integrated surface water-groundwater model. Economic and environmental geology, 44(5), 433-442.\n\nDikshit, A., Pradhan, B., Alamri, A.M. (2021). Long lead time drought forecasting using lagged climate variables and a stacked long short-term memory model. Science of the Total Environment, 755. DOI:10.1016/j.scitotenv.2020.142638\n\nFoufoula-Georgiou, E., Kumar, P. (Eds.). (1994). Wavelets in Geophysics. Wavelet analysis and its applications. Academic Press, San Diego, CA, 373 pp.\n\nHughes, J. P., & Guttorp, P. (1994). A class of stochastic models for relating synoptic atmospheric patterns to regional hydrologic phenomena. Water resources research, 30(5), 1535-1546.\n\nHuang, N.E., Wu, M.L., Qu, W.D., Long, S.R., Shen, S.S.P. (2003). Applications of Hilbert-Huang transform to non-stationary financial time series analysis. Applied Stochastic Models in Business and Industry, 19(3): 245-268. DOI:10.1002/asmb.501\n\nIsikdogan, F., Bovik, A.C., Passalacqua, P. (2017). Surface water mapping by deep learning. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 10(11): 4909-4918. DOI:10.1109/JSTARS.2017.2735443\n\nJeon, H. T., & Kim, G. B. (2011). Evaluation of interactions between surface water and groundwater based on temperature, flow properties, and geochemical data. The Journal of Engineering Geology, 21(1), 45-55.\n\nKaur, A., Sood, S.K. (2020). Deep learning based drought assessment and prediction framework. Ecological Informatics, 57. DOI:10.1016/j.ecoinf.2020.101067\n\nKim, G. B., & Lee, S. H. (2012). Applicability of logistic regression model of groundwater levels to drought forecast. Journal of the Geological Society of Korea, 48(3), 275-284.\n\nKim, G. B., Choi, D. H., & Jeong, J. H. (2010). Considerations on the specific yield estimation using the relationship between rainfall and groundwater level variations. The Journal of Engineering Geology, 20(1), 61-70.\n\nKim, N. W., Chung, I. M., & Won, Y. S. (2006). An Integrated Surface Water-Groundwater Modeling by Using Fully Combined SWAT MODFLOW Model. Journal of the Korean Society of Civil Engineers, 26(5B), 481-488.\n\nKwon, H. H., Kim, T. J., Hwang, S. H., & Kim, T. W. (2013). Development of daily rainfall simulation model based on homogeneous hidden markov chain. Journal of the Korean Society of Civil Engineers, 33(5), 1861-1870.\n\nKwon, H. H., Kim, T. J., Kim, O. K., & Lee, D. R. (2013). Development of multi-site daily rainfall simulation based on homogeneous hidden markov chain model coupled with chow-liu tree structures. Journal of Korea Water Resources Association, 46(10), 1029-1040.\n\nKwon, H. J., & Kim, S. J. (2007). Methodology of drought assessment using national groundwater monitoring network data. Journal of the Korean Society of Civil Engineers, 27(2B), 193-199.\n\nLee, T. (2020). EMD and LSTM Hybrid Deep Learning Model for Predicting Sunspot Number Time Series with a Cyclic Pattern. Solar Physics, 295(6). DOI:10.1007/s11207-020-01653-9\n\nLee, T., Ouarda, T.B.M.J., Kim, J. (2020). Deep Dependence in Hydrometeorological Variables. In Review.\n\nLee, T., Ouarda, T.B.M.J. (2019). Multivariate Nonstationary Oscillation Simulation of Climate Indices With Empirical Mode Decomposition. Water Resources Research, 55(6): 5033-5052. DOI:10.1029/2018WR023892\n\nLee, T., Ouarda, T.B.M.J., Li, J. (2013). An orchestrated climate song from the Pacific and Atlantic Oceans and its implication on climatological processes. International Journal of Climatology, 33(4): 1015-1020. DOI:10.1002/joc.3488\n\nLee, T., Ouarda, T.B.M.J. (2012). An EMD and PCA hybrid approach for separating noise from signal, and signal in climate change detection. International Journal of Climatology, 32(4): 624-634. DOI:10.1002/joc.2299\n\nLee, T., Ouarda, T.B.M.J. (2011). Prediction of climate nonstationary oscillation processes with empirical mode decomposition. Journal of Geophysical Research Atmospheres, 116(6). DOI:10.1029/2010JD015142\n\nLee, T., Ouarda, T.B.M.J. (2010). Long-term prediction of precipitation and hydrologic extremes with nonstationary oscillation processes. Journal of Geophysical Research Atmospheres, 115(13): D13107. DOI:10.1029/2009JD012801\n\nLee, J. H., Hamm, S. Y., Cheong, J. Y., Jeong, J. H., Kim, K. S., Kim, N. H., & Kim, G. B. (2010). Numerical simulation of the change in groundwater level due to construction of the Giheung tunnel. The Journal of Engineering Geology, 20(4), 449-459.\n\nMcKee, T.B., Doesken, N.J., Kleist, J. (1993). The relationship of drought frequency and duration to time scales. Eighth Conf. on Applied Climatology: 179-184.\n\n참고문헌\n\nPoornima, S., Pushpalatha, M. (2019). Drought prediction based on SPI and SPEI with varying timescales using LSTM recurrent neural network. Soft Computing, 23(18): 8399-8412. DOI:10.1007/s00500-019-04120-1\n\nPapadimitriou, C. H., & Tsitsiklis, J. N. (1985). The complexity of Markov decision processes.\n\nRoy, S.S., Kulshrestha, P., Samui, P. (2017). Classifying images of drought-affected area using deep belief network, kNN, and random forest learning techniques, Deep Learning Innovations and Their Convergence With Big Data, pp. 102-119. DOI:10.4018/978-1-5225-3015-2.ch006\n\nShen, R., Huang, A., Li, B., Guo, J. (2019). Construction of a drought monitoring model using deep learning based on multi-source remote sensing data. International Journal of Applied Earth Observation and Geoinformation, 79: 48-57. DOI:10.1016/j.jag.2019.03.006\n\nSalas, J.D., Delleur, J.W., Yevjevich, V., Lane, W.L. (1980). Applied Modeling of Hydrologic Time Series. Water Resources Publications, Littleton, Colorado, 484 pp.\n\nTran, T.T.K., Lee, T., Shin, J.-Y., Kim, J.-S., Kamruzzaman, M. (2019). Deep Learning-Based Maximum Temperature Forecasting Assisted with Meta-Learning for Hyperparameter Optimization. Atmosphere (Basel), 2020(11): 487. DOI:doi:10.3390/atmos11050487.\n\nYoo, J., Shin, J., Kim, D., & Kim, T. (2013). Drought risk analysis using stochastic rainfall generation model and copula functions. Journal of Korea water resources association, 46(4), 425-437.\n\nWu, Z.H., Huang, N.E. (2005). Statistical significance test of intrinsic mode functions. In: Huang, N.E., Shen, S.P. (Eds.), Hilbert-Huang Transform and Its Applications. World Scientific Publishing Company, Hackensack, NJ, pp. 125-148.\n\nWilhite, D. A., & Glantz, M. H. (1985). Understanding: the drought phenomenon: the role of definitions. Water international, 10(3), 111-120.\n\nZhu, S. et al. (2020). Internal and external coupling of Gaussian mixture model and deep recurrent network for probabilistic drought forecasting. International Journal of Environmental Science and Technology. DOI:10.1007/s13762-020-02862-2.",
+    "blockRange": [
+      1231,
+      1269
+    ],
+    "page": 133
+  },
+  {
+    "id": "c0333",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참여연구원현황",
+    "blockRange": [
+      1270,
+      1270
+    ],
+    "page": 137
+  },
+  {
+    "id": "c0334",
+    "type": "table",
+    "breadcrumb": [
+      "참여연구원현황"
+    ],
+    "text": "| 연구원 | 참여내역 | 비 고 |\n| --- | --- | --- |\n| 이주헌 | ◦연구업무총괄 (연구책임자)<br>◦참여분야<br>- 현장조사 및 대상 지점 선정<br>- 가뭄상황 판단 및 예측<br>- 계측기 설치 및 자료 수집 | 참여기간 : '20.6 ～ '21.1,<br>소속 : 중부대학교 |\n| 김종석 | ◦참여분야<br>- 현장조사 및 대상 지점 선정<br>- 가뭄상황 판단 및 예측<br>- 가뭄조건에 따른 하천수위 및 지하수위분석 | 참여기간 : '20.6 ～ '21.1,<br>소속 : 우한대학교 |\n| 박서연 | ◦참여분야<br>- 현장조사 및 대상 지점 선정<br>- 가뭄상황 판단 및 예측 | 참여기간 : '20.6 ～ '21.1,<br>소속 : 중부대학교 |",
+    "blockRange": [
+      1271,
+      1271
+    ],
+    "page": 137,
+    "table": {
+      "rows": 4,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0335",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 서지자료",
+    "blockRange": [
+      1272,
+      1272
+    ],
+    "page": 139
+  },
+  {
+    "id": "c0336",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "| (1) 출판물 고유번호<br>2020-WR-RR-407-1826 |  | (2) 사업분류<br>연구 |  | (3) 발행일<br>2020. 12 |  |\n| --- | --- | --- | --- | --- | --- |\n| (4) 제목/부제<br>미계측 하천 취수지점의 가뭄판단 및 예측을<br>위한 분석체계 구축 |  |  |  | (5) 연구기간<br>2020.06.10. \\~ 2021.01.05 |  |\n| (6) 연구수행기관<br>중부대학교 산학협력단 |  |  |  | (7) 연구 수행자(소속)<br>이주헌, 박서연 (중부대)<br>김종석 (우한대) |  |\n| (8) 수행기관 주소<br>경기도 고양시 덕양구 동헌로 305 |  |  |  | (9) 연구의뢰기관 및 주소 |  |\n| (10) 공동 수행기간 |  |  |  | (11) 계약 또는 인가번호 |  |\n| (12) 초록<br>기후변화 영향으로 인해 극한가뭄의 발생빈도가 증가함에 피해를 최소하기 위한 대응방안이 필요로 한다. 우리나라는 2012년부터 2019년까지 끊임없이 발생하는 가뭄으로 제한급수로 인한 피해는 매년 증가하고 있는 추세이다. 하천을 수원으로 하는 복류수 지점의<br>경우 하천 유량을 감시할 수 있는 시설이 부족하기 가뭄 발생시 하천 유량의 감소에 따른<br>취수량 부족 등 가뭄판단 및 예측을 위한 분석체계를 마련하고자 하였다.<br>본 과업은 미계측 하천 취수지점의 가뭄 판단 및 예측을 위한 분석체계를 구축함으로써<br>가뭄으로 인한 피해를 사전에 예방하고, 가뭄 발생시 즉각적인 대응을 통해 피해를 최소화하는 방안을 수립하고자 수행되었다. 성공적인 과업 수행을 위해 하천을 취수로하는 미계측 유역을 선정하였으며, 기초자료 조사 및 분석을 통해 최종 시범지역을 선정하였다.<br>또한, 가뭄상황 판단 및 예측을 위한 다양한 방법론을 제시하였다. 향후 연구로서 시범대상유역에서의 복류수, 지하수위, 하천수위 자료를 바탕으로 현재 가뭄판단 및 예측을 위해<br>제시된 모델의 적용 가능성 검토가 요구되며, 이를 현업에 활용할 수 있도록 연계방안을<br>찾는 과정이 필요하다. |  |  |  |  |  |\n| (13) 키-워드<br>미계측 유역, 복류수, 가뭄판단, 가뭄예측 |  |  |  |  |  |\n| (14) 사업고유번호 |  |  |  |  |  |\n| (15) 공개여부 | (16) 총면수 |  | (17) 발행부수 |  | (18) 가격 |",
+    "blockRange": [
+      1273,
+      1273
+    ],
+    "page": 139,
+    "table": {
+      "rows": 9,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0337",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "주의사항\n\n본 보고서의 저작권은 K-water에 있으므로, 본 자료의 내용을 허가 없이 인용, 복사, 전재, 재배포를 할 경우 법적 제재를 받을 수 있습니다.\n\nCopyright ⓒ 2020\n\nby\n\nK-water\n\n발행인 : K-water 사장 박재현\n\n발행일 : 2020. 12.\n\n발행처 : 한국수자원공사\n\n대전광역시 대덕구 신탄진로 200",
+    "blockRange": [
+      1274,
+      1282
+    ],
+    "page": 141
+  }
+]

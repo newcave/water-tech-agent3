@@ -1,0 +1,3089 @@
+[
+  {
+    "id": "c0001",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "<!-- <table id=\"t1\" /> -->\n| KOREA WATER RESOURCES CORPORATION | 수<br>상<br>태<br>양<br>광<br>연<br>간<br>발<br>전<br>량<br>영<br>향<br>인<br>자<br>연<br>구 | <!-- <table parent_id=\"t1\" child_id=\"t2\" /> --> Final Report<br>수상태양광 연간발전량<br>영향 인자 연구<br>Study on the Influential Factors of Floating PV Annual Generation<br>2019. 12. |\n| --- | --- | --- |\n\n<!-- <table id=\"t2\" parent_id=\"t1\" /> -->\n| K-water연구원 |\n| --- |\n| 2020-RE-RR-1-13 |\n| M180035 |",
+    "blockRange": [
+      0,
+      0
+    ],
+    "page": 1,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0002",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "![image](image_001.png)\n\n\n![image](image_002.png)",
+    "blockRange": [
+      1,
+      2
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0003",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 수상태양광 연간발전량 영향 인자 연구",
+    "blockRange": [
+      3,
+      3
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0004",
+    "type": "heading",
+    "breadcrumb": [
+      "수상태양광 연간발전량 영향 인자 연구"
+    ],
+    "text": "### Study on the Influential Factors of Floating PV Annual Generation",
+    "blockRange": [
+      4,
+      4
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0005",
+    "type": "text",
+    "breadcrumb": [
+      "수상태양광 연간발전량 영향 인자 연구",
+      "Study on the Influential Factors of Floating PV Annual Generation"
+    ],
+    "text": "2019. 12",
+    "blockRange": [
+      5,
+      5
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0006",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제\t출\t문",
+    "blockRange": [
+      6,
+      6
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0007",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "사 장 귀하\n\n이 보고서를 2018년도 K-water연구원 물인프라·에너지연구소에서 수행한 “수상태양광 연간발전량 영향 인자 연구”의 2차년도 연구보고서로 제출합니다.\n\n2019. 12\\. 31",
+    "blockRange": [
+      7,
+      9
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0008",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "2019. 12. 31"
+    ],
+    "text": "연구책임자 : 물인프라·에너지연구소 전기3급 권오극\n\n연구수행자 : 물인프라·에너지연구소 1 급 윤이중\n\n물인프라·에너지연구소 선임연구원 조현식\n\n물인프라·에너지연구소 전기4급 조연주\n\n겸직연구원 : 보령권지사 전기3급 표민태\n\n합천지사 전기3급 옥광석\n\n충주권지사 전기3급 이승용\n\n금·영·섬물관리처 전기3급 정한상\n\n위촉연구원 : 물인프라·에너지연구소 위촉연구직 권진성\n\n자문: 건국대학교 교 수 안형근",
+    "blockRange": [
+      10,
+      19
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0009",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구개발결과 활용보고서",
+    "blockRange": [
+      20,
+      20
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0010",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 1.<br>연구<br>총괄 |  | [간행물관리번호 : 2020-RE-RR-1-13] |  |  |  |  |  |  |  |  |  |  |  | [과제번호 : M180035] |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1.<br>연구<br>총괄 |  | (1)연구과제명 |  |  |  |  | 수상태양광 연간발전량 영향 인자 연구 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 |  | (2)수행부서 |  |  |  |  | 물인프라·에너지연구소 |  |  |  |  |  |  | (3)연구책임자 |  |  |  |  |  | 성명 |  |  |  | 권오극 |  |  |  |\n| 1.<br>연구<br>총괄 |  | (2)수행부서 |  |  |  |  | 물인프라·에너지연구소 |  |  |  |  |  |  | (3)연구책임자 |  |  |  |  |  | 소속 |  |  |  | 물인프라·에너지연구소 |  |  |  |\n| 1.<br>연구<br>총괄 |  | (2)수행부서 |  |  |  |  | 물인프라·에너지연구소 |  |  |  |  |  |  | (3)연구책임자 |  |  |  |  |  | 전화번호 |  |  |  | 042-870-7663 |  |  |  |\n| 1.<br>연구<br>총괄 |  | (2)수행부서 |  |  |  |  | 물인프라·에너지연구소 |  |  |  |  |  |  | (3)연구책임자 |  |  |  |  |  | E-mail |  |  |  | okkwon@kwater. or.kr |  |  |  |\n| 1.<br>연구<br>총괄 |  | (4)연구기간 |  |  |  |  | 2019. 1 . \\~ 2019.<br>12.<br>(총12개월) |  |  |  |  |  |  | (5)총연구개발비<br>(천원) |  |  |  |  |  | 총액 |  |  |  | 49,150천원 |  |  |  |\n| 1.<br>연구<br>총괄 |  | (4)연구기간 |  |  |  |  | 2019. 1 . \\~ 2019.<br>12.<br>(총12개월) |  |  |  |  |  |  | (5)총연구개발비<br>(천원) |  |  |  |  |  | 정부 |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 |  | (6)협동기관 |  |  |  |  |  |  |  |  |  |  |  | (5)총연구개발비<br>(천원) |  |  |  |  |  | 정부 |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 |  | (6)협동기관 |  |  |  |  |  |  |  |  |  |  |  | (5)총연구개발비<br>(천원) |  |  |  |  |  | 기업 |  |  |  | 49,150천원 |  |  |  |\n| 1.<br>연구<br>총괄 |  | (7)참여기업 |  |  |  |  |  |  |  |  |  |  |  | (5)총연구개발비<br>(천원) |  |  |  |  |  | 기업 |  |  |  | 49,150천원 |  |  |  |\n| 1.<br>연구<br>총괄 |  | (8)기술분야 |  |  |  |  | 신재생에너지 |  |  |  |  |  |  | (9)참여 연구원 |  |  |  |  |  | 9명/ 1년 |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 |  | (10)연구개발목표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 |  | ∘ 수상태양광 연간발전량 영향인자 재정립<br>∘ 육상대비 수상태양광 효율 검증 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 |  | (11)주요연구내용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 |  | ∘ 수상태양광 연간발전량 영향인자 재정립<br>- 기술수준을 반영한 수상태양광 연간발전량 영향인자 재정립 및 산정방안 제시<br>- 연간발전량 산정 방식(안) 제시<br>∘ 육상대비 수상태양광 효율 검증<br>- 실 운영중인 데이터 비교 분석으로 육상/수상 효과 분석 제시<br>- 대조군의 육상 및 수상 운영 데이터를 분석<br>∘ Lab Test를 통한 수상조건의 태양광 발전량 영향 분석<br>- 수온, 빛 반사, 산란 등 수상조건 환경인자의 발전량 영향 분석 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | (12) 연구결과의 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | 구분 | 기술실용화 |  |  |  |  |  |  |  |  |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  |  | 설계기준,<br>시방서,<br>지침에<br>활용 |  |  |  | 기타 |  |\n|  | 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | 구분 | 실용화<br>완료 |  | 실용화<br>추진중 |  |  | 실용화<br>보류<br>(중단) |  | 선행<br>연구 |  |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  |  | 설계기준,<br>시방서,<br>지침에<br>활용 |  |  |  | 기타 |  |\n|  | 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | 구분 |  |  | ○ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | (13) 주요 연구성과 및 기술 개발단계 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | ∘기술명:<br>∘기술특성 : |  |  |  |  |  |  |  |  |  | ∘기술의 완성도<br>기초, 탐색연구단계 ( ), 응용연구단계 ( ),<br>개발연구단계 ( )<br>기업화 준비단계 ( ), 상품화 완료단계 ( )<br>∘기술 수명주기<br>기술개념 정립기 ( ), 기술 실험기 ( )<br>기술적용 시작기 ( ), 기술적용 성장기 ( )<br>기술적용 성숙기 ( ), 기술적용 쇠퇴기 ( ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | (14) 현장적용실적 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ①<br>공사현장<br>정보 |  | 공사명 |  |  | 공사기간 |  |  |  |  | 물량<br>(총물량) |  |  |  | 발주기관 |  |  |  | 시공기관 |  |  |  | R&D<br>참여자 역할 |  |  |\n|  | 3.<br>경제적<br>효과 |  | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 가. 현장명 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 구분 |  |  |  |  | 기 존<br>(A) |  | 개 선<br>(B) |  |  |  | 단위효과<br>(C=A-B) |  |  | 현장<br>총물량<br>(D) |  |  |  | 향상도<br>$(A-BX100)$ $A$ |  |  |  | 적용현장<br>총효과<br>(C×D) |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 공사비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 유지관리비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 기타비용절감<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 사고율<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 고 용<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 공 기<br>(일/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  | 내구성<br>(年) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      21,
+      21
+    ],
+    "page": 4,
+    "table": {
+      "rows": 36,
+      "cols": 28
+    }
+  },
+  {
+    "id": "c0011",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 4.<br>기술적<br>효과 |  |  | (15) 기술개발목표 달성도 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 4.<br>기술적<br>효과 |  |  | 구분 | 지표명<br>(단위) |  | 개발전<br>국내수준 |  | 당개발사업<br>최종목표치 |  |  |  |  |  |  |  |  | 개발결과<br>실제달성치 |  |  |  |  |  | 현재국내<br>기술수준 |  |  |  |  |  |  | 세계 최고<br>기술수준 |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | (16) 산업재산권 (발명특허‧실용신안‧의장‧s/w ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | 구분 | 명칭 |  |  | 출원국 |  |  | 출원<br>및<br>등록자 |  |  | 출원 |  |  |  |  |  |  |  |  |  |  |  | 등록 |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | 구분 | 명칭 |  |  | 출원국 |  |  | 출원<br>및<br>등록자 |  |  | 출원일 |  |  |  |  |  | 출원번호 |  |  |  |  |  | 등록일 |  |  |  |  |  |  | 등록번호 |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | (17) 건설신기술 지정 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | 명 칭 |  |  |  |  |  |  |  |  | 출원일 |  |  |  | 고시일 |  |  |  |  | 보호기간 |  |  |  |  |  |  | 지정번호 |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | (18) 기타 등록 및 지정현황(상품, 서비스 등록, KT 마크 등) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  | 명 칭 |  |  |  |  |  |  |  |  | 출원일 |  |  |  | 고시일 |  |  |  |  | 보호기간 |  |  |  |  |  |  | 기 타 |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  | (19) 국내외 전문학술지 게재 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  | 구분 | 논문제목 |  |  |  |  |  |  |  |  |  | 학술지명 |  |  |  |  |  |  |  | 국명 |  |  |  |  |  | 통권, 호 |  |  |  |  |  | 년,월 |\n| 5.<br>학술적<br>효과 |  |  | SCI<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  | 일반<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  | (20) 학술회의 발표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  | 논문제목 |  |  |  |  |  |  |  |  |  | 학술회의 명칭 |  |  |  |  |  |  |  |  |  |  | 국 명 |  |  |  |  | 연도‧호 |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  | 발전운영 데이터 분석을 통한<br>육상대비 수상태양광 발전시스템의<br>발전효율계수 도출 |  |  |  |  |  |  |  |  |  | 대한전기학회논문지 |  |  |  |  |  |  |  |  |  |  | 한국 |  |  |  |  | 2019년 6호 |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  | 통계적 기법 적용을 통한 일사량<br>데이터 신뢰성 검증 |  |  |  |  |  |  |  |  |  | 한국태양에너지학회 |  |  |  |  |  |  |  |  |  |  | 한국 |  |  |  |  | 2019 |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  | 수면반사에 의한 수상태양광 발전효율<br>향상 검증 실험 |  |  |  |  |  |  |  |  |  | 대한전기학회 |  |  |  |  |  |  |  |  |  |  | 한국 |  |  |  |  | 2019 |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | (21) 법․제도 (설계기준, 시방서, 지침) 등에 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 구분 |  |  | 명칭 및 조항1) |  |  |  |  |  | 시행일시 |  |  |  |  |  |  | 기존내용 |  |  |  |  |  |  |  |  | 신규내용 |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 법 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 규정/지침 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 기준 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 시방서 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | (22) 정책수립에 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 정책명 |  |  | 정책추진 실적 |  |  |  |  |  | 정책추진 일시 |  |  |  |  |  |  |  | 담당부처․팀 |  |  |  |  |  |  |  |  |  |  |  | 기대효과 |  |  |  |\n|  | 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | (23) 교육 및 지도에 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 구분 |  |  | 교육명 |  |  |  | 교육내용 |  |  |  |  |  | 교육대상 |  |  |  |  | 교육시간 |  |  |  |  |  | 교육인원 |  |  |  |  |  |  | 교육회수 |  |\n|  | 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | 현장기술지도 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 | (24) 사회적 성과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n|  | 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      22,
+      22
+    ],
+    "page": 6,
+    "table": {
+      "rows": 42,
+      "cols": 35
+    }
+  },
+  {
+    "id": "c0012",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      23,
+      23
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0013",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 1. 연구제목",
+    "blockRange": [
+      24,
+      24
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0014",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1. 연구제목"
+    ],
+    "text": "수상태양광 연간발전량 영향 인자 연구(2차년도)",
+    "blockRange": [
+      25,
+      25
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0015",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 2. 연구기간",
+    "blockRange": [
+      26,
+      26
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0016",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "2. 연구기간"
+    ],
+    "text": "2019. 1. 1 ～ 2019. 12. 31",
+    "blockRange": [
+      27,
+      27
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0017",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 3. 연구목적",
+    "blockRange": [
+      28,
+      28
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0018",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3. 연구목적"
+    ],
+    "text": "정부의 국정과제 3020 신재생 확산정책에 따라 신재생에너지의 보급률 확산이 전망되는 가운 데 K-water의 중장기(’17\\~’26) 전략경영계획에서 육상태양광에 비해 산림과 농지 등의 자연환경을 파괴하지 않고 수상에 설치함으로써 국토의 효율적인 이용이 가득하다는 장점이 있는 수상태양광은 2026년까지 2,758MW 개발을 목표로 하고 있으며 합천, 보령 등 수상태양광 설치·운영에 따라 연간발전량 산정 정확도를 확보하여 향후 수상태양광 사업의 계획 수립 시 객관적인 연간발전량 영향인자 연구를 통한 연간발전량 산정으로 경제성 분석의 신뢰도를 제고하고자 한다.\n\n수상태양광 연간발전량은 B/C 분석의 가장 중요한 부분으로 이용률이 연간발전량 산정의 핵심계수이다. 이용률은 일사량 및 설계계수를 통해 산출되며 과거의 소규모 실증결과와 학술자료를 토대로 수상태양광 발전량 산정기준의 재정립이 필요하다. 수상태양광은 수면 위에 설치되어 잇어 육상태양광에 비하여 모듈온도가 낮아 일반적으로 효율이 높다고 알려져 있다. 현재는 수상의 발전환경이 수냉효과로 인해 발전량이 약 10%정도 증가된다고 하지만, 이런 효과가 육상과 비교하였을 때 계절별로 제한적인 기간 동안에만 일어날 것으로 예상된다.\n\n현재는 이용률을 계산하기 위해 일사량, 수상태양광의 효율, 경사면 일사량 및 종합설계계수를 이용하고 있으나, 종합설계계수는 2008년 에너지기술연구원의 자료를 사용하였기에 현재의 기술수준을 정확하게 반영하고 있지 않다고 판단할 수 있으며, 수상태양광의 효율의 경우 앞서 기술하였듯이 연간발전량이 10%정도 균일하게 증가한다고 판단할 수 없다. 2018년 합천지역의 약 5년간의 장기운영데이터분석을 통해 수상태양광은 육상태양광에 비해 약 5% 정도 효율이 높다는 점을 확인하였다.\n\n이와 같이 기존의 방법은 일사량 이외의 다양한 환경변수뿐만 아니라 시간의 경과에 따른 모듈효율의 저하, 인버터 등 장비의 효율변화 등 다양한 변수들을 고려하지 못한다. 따라서 이 요소들을 종합적으로 고려할 수 있도록 다중회귀분석방법을 이용하여 연간발전량을 예상하고자 하였다.",
+    "blockRange": [
+      29,
+      32
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0019",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4. 연구내용",
+    "blockRange": [
+      33,
+      33
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0020",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "- 가. 국내 기 운영중인 발전소의 데이터를 이용한 발전량 산정 방법 검증\n\n- 다양한 환경변수를 반영하는 모델 제시\n\n- 기상자료와 발전량과의 상관관계 분석을 통한 모델 정확성 검증\n\n- 나. 신규 사업검토 시 연간발전량 산정에 대한 정확성 검증\n\n- 다중회귀방법을 이용한 기준지역(충주, 인제, 합천) 외의 지역(보령)의 연간발전량 산정\n\n- 보령지역에 대한 기존의 연간발전량 산정방법과 다중회귀분석방법의 정확성 비교\n\n- 다. 육상 대비 수상태양광 효율검증\n\n- 육상태양광 대비 수상태양광 효율 비교 검증\n\n- 수상태양광이 설치된(합천, 보령) 인근의 육상태양광과 수상태양광의 효율 비교",
+    "blockRange": [
+      34,
+      42
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0021",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 5. 연구결과",
+    "blockRange": [
+      43,
+      43
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0022",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- 가. 현재까지 발표되고 연구된 국내·외의 이론을 조사·분석한 결과를 토대로 수상환경에 적합한 이론과 출력량을 예측하기 위하여 다양한 환경변수에 습도성분이 포함된 출력량 예측식을 바탕으로 합천, 충주 및 인제 등 데이터 취득이 장기간 가능한 지역을 선정하여 모델의 정확도와 출력량을 검증하였다.\n- 나. 다중회귀분석방법을 이용하여 발전량을 예상할 때는 독립변수를 임의로 지정이 가능하다. 일사량만이 독립변수라고 할 수 있는 기존 방법과의 비교를 위해 일사량만 사용한 식부터 일사량, 기온, 풍속, 습도 4가지의 환경변수를 사용한 식까지 나타내었다. 이 때 오차는 독립변수가 많아질수록 정확도가 높아지는 것을 확인할 수 있다. 이 방식은 데이터를 수집하고 전처리를 하는데 많은 시간이 걸린다는 단점이 있지만, 과거데이터가 많을수록 변화의 추이도 반영할 수 있으므로 기존 방식에 비해 보다 정확하게 발전량을 예상할 수 있다고 판단할 수 있다.\n- 다. 합천지역의 육상태양광과 수상태양광의 발전량을 분석하기 위해 기상청, KIER(한국에너지기술연구원), K-water에서 측정한 일사량 자료를 통계적 의미에서 유의하게 동일한지 분석 후 이용률, 성능계수, 100kW당 발전량을 비교하였다. 3가지 지표 모두 수상의 성능이 육상보다 5% 높은 것을 확인하였다.",
+    "blockRange": [
+      44,
+      46
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0023",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# S U M M A R Y",
+    "blockRange": [
+      47,
+      47
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0024",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "1. Project Title/Subtitle",
+    "blockRange": [
+      48,
+      48
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0025",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1. Project Title/Subtitle"
+    ],
+    "text": "Study on the Influential Factors of Floating PV Annual Generation",
+    "blockRange": [
+      49,
+      49
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0026",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "2. Research Period",
+    "blockRange": [
+      50,
+      50
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0027",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "2. Research Period"
+    ],
+    "text": "2019. 1.1 \\~ 2019. 12.31",
+    "blockRange": [
+      51,
+      51
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0028",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "3. Objective of Research",
+    "blockRange": [
+      52,
+      52
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0029",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "3. Objective of Research"
+    ],
+    "text": "In view of the proliferation of renewable energy sources in accordance with the government’s national task 3020 new and renewable energy policy, K-water's mid- to long-term strategic management plan aims to develop 2,758 MW - Floating PV by 2026. Floating PV has the advantage that it can utilize the land efficiently by installing it on surface of the water without destroying the natural environment such as forests and farmland compared with the land-based PV. Therefore, K-water installs and operates Floating PV in Hapcheon and Boryeong to secure the accuracy of annual power generation, and it is necessary to estimate the reliability of economic analysis by estimating annual power generation by studying objective annual power generation factor I want to improve.\n\nThe annual power generation is the most important part of the B/C analysis, and utilization factor is a key factor in estimating annual power generation. It is necessary to re",
+    "blockRange": [
+      53,
+      54
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0030",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- establish the calculation standard for Floating PV power generation based on past small -scale demonstration results and academic data through solar radiation and design coefficient. It is generally known that efficiency of Floating PV is higher than that of land-based PV because ambient temperature is lower than land because it is installed on water surface. Currently, the power generation environment of the water is about 10% increased due to the water cooling effect. However, this effect is expected to occur only during the limited season when compared with the land.",
+    "blockRange": [
+      55,
+      55
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0031",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "- establish the calculation standard for Floating PV power generation based on past small -scale demonstration results and academic data through solar radiation and design coefficient. It is generally known that efficiency of Floating PV is higher than that of land-based PV because ambient temperature is lower than land because it is installed on water surface. Currently, the power generation environment of the water is about 10% increased due to the water cooling effect. However, this effect is expected to occur only during the limited season when compared with the land."
+    ],
+    "text": "Currently, we use solar radiation, solar photovoltaic efficiency, slope solar irradiance, and total design factor to calculate the utilization rate, but we assume that the total design coefficient does not accurately reflect the current level of technology because we used the data from the Korea Institute of Energy Research in 2008. As can be seen from the above, the efficiency of the solar photovoltaic system can not be estimated to increase by 10% per year. Therefore, it is necessary to redefine the variables for calculating the utilization rate to reflect the latest technology level.\n\nExisting methods do not take into account various environmental variables other than solar radiation, as well as deterioration of the module efficiency over time, and various variables such as inverter efficiency change. Therefore, the annual power generation was estimated by using multiple regression analysis to comprehensively consider each factor.",
+    "blockRange": [
+      56,
+      57
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0032",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "4. Content, Scope and Method of Research\n\n(1) Verification of power generation calculation method using data of domestic power plants\n\n- Selection of important factors related to annual power generation.\n\n- Suggest a model that reflects various environmental variables\n\n- Model accuracy verification through correlation analysis of meteorological data and power generation\n\n(2) Verification of accuracy of annual power generation calculation when reviewing new business\n\n- Estimation of annual power generation outside the reference area (Chungju, Inje, Hapcheon) using the multiple regression method (Boryeong)\n\n- Comparing the Accuracy of the Annual Annual Generation Estimation Method and the Multiple Analysis Method for Boryeong Area\n\n(3) Efficiency comparative analysis between floating PV and land-based PV\n\n- Verification of efficiency of land-based and floating PV\n\n- Comparative analysis on efficiency of land-based PV and floating PV at Hecheon, Boryeong\n\n5. Research Result\n\n(1) Based on the results of research and analysis of domestic and international theories published and researched up to now, the theory and power generation suitable for the water environment are predicted. The accuracy and output of the model were verified by selecting regions where data can be acquired for a long time, such as Hapcheon, Chungju, and Inje, based on a prediction formula that included humidity components in various environmental variables.\n\n(2) When predicting the amount of generation using multiple regression analysis, independent variables can be specified. For comparison with the existing method, where only the solar radiation is an independent variable, this report described the method using only the solar radiation and the method using four environmental variables (insolation, temperature, wind speed, and humidity). The more independent variables, the higher the accuracy. This method has a disadvantage in that it takes a lot of time to collect and preprocess data, but the more data in the past can reflect the trend of change, it is possible to accurately predict the amount of generation compared to the existing method.\n\n(3) In order to analyze the power generation of land-based and Floating PV in Hapcheon, the solar radiation data measured by Meteorological Administration, KIER and K-water were statistically significantly compared with each other, and the utilization rate, performance coefficient and power generation per 100kW were compared. In all three indicators, all of them is confirmed to be 5% higher than that of the athletics.",
+    "blockRange": [
+      58,
+      72
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0033",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목\t차",
+    "blockRange": [
+      73,
+      73
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0034",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "제 출 문 ······························································································ ⅰ 요 약 문 ······························································································ ⅱ 목 차 ······························································································ ⅳ 표 목 차 ······························································································ ⅷ 그림목차 ······························································································ ⅹ\n\n제 1 장 서 론 \t 1\n\n1.1 연구의 목적 및 배경 \t 1\n\n1.2 연구내용 및 범위 \t 3\n\n1.2.1 최종목표 \t 3\n\n1.2.2 2차년도 연구내용 및 목표 \t 3\n\n제 2 장 연간발전량 영향인자 재정립 및 산정방법 \t 4\n\n2.1 K-water 연간발전량 산정 방법 \t 4\n\n2.2 국내외 연간발전량 산정 방법 \t 6\n\n2.2.1 수식을 이용한 연간발전량 산정 \t 6\n\n2.2.2 프로그램을 이용한 연간발전량 산정 \t 6\n\n2.2.3 다중회귀분석을 이용한 연간발전량 산정 \t 6\n\n2.3 다중회귀분석을 사용한 연간발전량 산정방법 \t 10\n\n2.3.1 분석프로그램 「R」 \t 10\n\n2.3.2 자료 분석 Tool 「R」설치 \t 12\n\n2.3.3 데이터 전처리 \t 14\n\n2.3.3.1 기상자료 수집 \t 14\n\n2.3.3.2 데이터 병합 \t 17\n\n2.3.3.3 다중회귀분석을 위한 데이터 세팅 \t 17\n\n2.3.4 다중회귀분석을 이용한 발전량 산정 \t 18\n\n2.3.4.1 R을 이용한 환경변수 별 회귀계수 추출 \t 18\n\n2.3.4.2 계수를 이용한 발전량 예상 \t 20\n\n2.3.5 발전량 산정방식 별 비교분석 \t 21\n\n제 3 장\n\n육상 대비 수상태양광 효율 검증 \t 22\n\n3.1 분석대상지 및 분석방법 선정 \t 23\n\n3.1.1 분석대상지 선정 \t 23\n\n3.1.2 분석방법 선정 \t 24\n\n3.2 현장조사 및 데이터 수집 \t 25\n\n3.2.1 현장조사 \t 25\n\n3.2.2 데이터수집 \t 27\n\n3.3 데이터 평가 및 보정 \t 30\n\n3.3.1 일사량 데이터 특징 \t 30\n\n3.3.2 일사량 데이터 평가 \t 31\n\n3.3.3 발전량 데이터 보정 \t 42\n\n3.4 분석대상지 발전효율 비교분석 \t 43\n\n3.4.1 분석대상지 이용률 분석 \t 43\n\n3.4.2 분석대상지 성능계수 분석 \t 44\n\n3.4.3 분석대상지 kW당 발전량 분석 \t 46\n\n3.5 결론 \t 47\n\n제 4 장 결 론 \t 48",
+    "blockRange": [
+      74,
+      114
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0035",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표\t목\t차",
+    "blockRange": [
+      115,
+      115
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0036",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차"
+    ],
+    "text": "표 1.1 2차년도 연구내용 및 목표 \t 3\n\n표 2.1 주암댐 수상 및 육상태양광 파일럿플랜트 \t 5\n\n표 2.2 주암댐 수상 및 육상태양광 분석 결과 \t 5\n\n표 2.3 국내외에 발표되고 제시된 기존의 태양광 출력관계식 \t 9\n\n표 2.4 일사량, 외기온도, 풍속, 습도항을 포함하는 발전량 예측모델 수식 ·· 18 표 2.5 보령지역 수상태양광 연간 예상/실제발전량 비교 (a : 일사량;\n\nb : 기온; c : 풍속; d : 습도) \t 21\n\n표 3.1 육상 및 수상태양광 분석대상지 현황 \t 24\n\n표 3.2 분석대상지 태양광 모듈 조사 \t 30\n\n표 3.3 일사량 데이터 평가 자료 \t 31\n\n표 3.4 일사량 데이터 F 검정(1) \t 32\n\n표 3.5 일사량 데이터 t 검정(1) \t 32\n\n표 3.6 일사량 데이터 F 검정(2) \t 33\n\n표 3.7 일사량 데이터 t 검정(2) \t 33\n\n표 3.8 일사량 데이터 ANOVA 검정(1) \t 34\n\n표 3.9 일사량 데이터 ANOVA 검정(2) \t 34\n\n표 3.10 일사량 데이터 F 검정(3) \t 35\n\n표 3.11 일사량 데이터 t 검정(3) \t 35\n\n표 3.12 일사량 데이터 F 검정(4) \t 36\n\n표 3.13 일사량 데이터 t 검정(4) \t 36\n\n표 3.14 일사량 데이터 ANOVA 검정(3) \t 37\n\n표 3.15 일사량 데이터 F 검정(5) \t 37\n\n표 3.16 일사량 데이터 t 검정(5) \t 38\n\n표 3.17 일사량 데이터 F 검정(6) \t 38\n\n표 3.18 일사량 데이터 t 검정(6) \t 39\n\n표 3.19 일사량 데이터 ANOVA 검정(4) \t 39\n\n표 3.20 일사량 데이터 F 검정(7) \t 40\n\n표 3.21 일사량 데이터 t 검정(7) \t 40\n\n표 3.22 일사량 데이터 F 검정(8) \t 41\n\n표 3.23 일사량 데이터 t 검정(8) \t 41\n\n표 3.24 일사량 데이터 분석 결과 \t 42\n\n표 3.25 수상태양광 및 육상태양광 분석대상지의 평균 이용률 \t 43\n\n표 3.26 수상태양광 및 육상태양광 분석대상지의 평균 성능계수\n\n(기상청 일사량) \t 44\n\n표 3.27 수상태양광 및 육상태양광 분석대상지의 평균 성능계수\n\n(물순환연구소 일사량) \t 45\n\n표 3.28 수상태양광 및 육상태양광 분석대상지의 평균 100kW당 발전량 \t 46",
+    "blockRange": [
+      116,
+      151
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0037",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그림목차",
+    "blockRange": [
+      152,
+      152
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0038",
+    "type": "text",
+    "breadcrumb": [
+      "그림목차"
+    ],
+    "text": "그림 1.1 세계최초 미국캘리포니아 나파밸리 단지 내의 소형\n\n수상태양광 발전단지 \t 1\n\n그림 1.2 세계최초 상업용수준의 합천댐 500kW 수상태양광단지 \t 1\n\n그림 1.3 일본 사이타마 저수지 발전(수면비) \t 1\n\n그림 1.4 일본 농업용저수지 발전단지(수면비) \t 1\n\n그림 2.1 환경 변수들 사이의 상관관계 \t 7\n\n그림 2.2 환경변수와 태양광 출력을 나타내는 분산도와 상관계수 예\n\n(Pmax: 발전량, POA : 경사면 일사량, GHI : 수평면일사량,\n\nTm : 모듈온도, Ta : 외기온도, WS : 풍속, RH : 상대습도) \t 11\n\n그림 2.3 수상태양광 출력량 분석 및 예측을 위한 구조도 \t 12\n\n그림 2.4 Rstudio 프로그램 화면 \t 13\n\n그림 2.5 파일 위치 확인 방법 \t 13\n\n그림 2.6 다중회귀분석을 위한 패키지 다운로드 및 파일 저장 위치 지정방법 14 그림 2.7 일사량 자료 제공화면(기상청-기상자료개방포털-종관기상관측) \t 15\n\n그림 2.8 그림 동 단위 습도, 기온, 풍속 자료 제공화면\n\n(기상청-기상자료개방포털-날씨예보) \t 16\n\n그림 2.9 2018년 2월 1일 기상청 제공 일사량 자료(좌) 및 전처리 후 동일날짜\n\n데이터시트(우) \t 17\n\n그림 2.10 모델 P5의 계수를 반영하기 위한 데이터 전처리 \t 18\n\n그림 2.11 Rstudio에 파일이 업로드 된 화면 \t 19\n\n그림 2.12 Rstudio에서 회귀계수를 추출하기 위한 명령어 \t 19\n\n그림 2.13 회귀계수 예시 \t 19\n\n그림 2.14 회귀계수를 이용하여 도출해낸 모델의 발전량 \t 20\n\n그림 2.15 대전 대청동의 1\\~3월 예상발전량 시계열 그래프 \t 20\n\n그림 3.1 분석대상지를 이용한 발전효율 검증 세부 추진내용 \t 22\n\n그림 3.2 K-water의 수상태양광 \t 23\n\n그림 3.3 육상 및 수상태양광 분석대상지 위치도 \t 24\n\n그림 3.4 육상태양광 분석대상지 1차 현장조사 \t 26\n\n그림 3.5 육상태양광 분석대상지 2차 현장조사 \t 26\n\n그림 3.6 분석대상지와 인근 기상청 유인관서 위치도 \t 27\n\n그림 3.7 기상청 기상자료개방포털 \t 27\n\n그림 3.8 신재생에너지 데이터센터의 태양광에너지 자료 \t 28\n\n그림 3.9 신재생에너지 데이터센터의 자원지도 자료 \t 28\n\n그림 3.10 K-water 발전종합정보시스템 \t 29\n\n그림 3.11 천리안 위성 관측 지면도달 일사량 \t 31\n\n그림 3.12 수상태양광 분석대상지의 이용률 \t 43\n\n그림 3.13 육상태양광 분석대상지의 이용률 \t 43\n\n그림 3.14 수상태양광 및 육상태양광 분석대상지의 평균 이용률 \t 44\n\n그림 3.15 수상태양광 분석대상지의 성능계수(기상청 일사량) \t 44\n\n그림 3.16 육상태양광 분석대상지의 성능계수(기상청 일사량) \t 45\n\n그림 3.17 수상태양광 및 육상태양광 분석대상지의 평균 성능계수\n\n(기상청 일사량) \t 45\n\n그림 3.18 수상태양광 분석대상지의 성능계수(물순환연구소 일사량) \t 45\n\n그림 3.19 육상태양광 분석대상지의 성능계수(물순환연구소 일사량) \t 46\n\n그림 3.20 수상태양광 및 육상태양광 분석대상지의 평균 성능계수\n\n(물순환연구소 일사량) \t 46\n\n그림 3.21 수상태양광 및 육상태양광 분석대사잊의 평균 100kW당 발전량 \t 47",
+    "blockRange": [
+      153,
+      198
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0039",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제1장서론",
+    "blockRange": [
+      199,
+      199
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0040",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론"
+    ],
+    "text": "## 1.1 연구목적 및 배경",
+    "blockRange": [
+      200,
+      200
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0041",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.1 연구목적 및 배경"
+    ],
+    "text": "육상의 태양광 발전시스템의 설치가 확대됨에 따라 태양광 발전의 출력량증대 및 토지의 효율적 이용 그리고 이를 통한 직접부하의 일부 담당을 목적으로 시작된 수상태양광발전은 지역에 따라 증발되는 수분을 차단하거나, 수중생물의 안식처를 제공하는 목적이외에도 경관 조경 등 다양한 목적으로 진화되고 있다.\n\n수상태양광은 2000년대 초 영국의 템즈강에 설치하기 위하여 시도하였으나 유속의 영향으로 포기한 이래 2007년 SPG사가 그림 1.1과 같이 미국 캘리포니아주의 나파밸리 포도농장 저수지에 설치 한 것이 처음인 것으로 알려져 있다. 이후 한국의 합천댐에 식생훼손방지 및 국토의 효율적 이용과 조류발생억제 및 어류 산란장 확보라는 기치를 내걸고 K water에서 새로운 수면가치 창출을 위한 본격적인 상업용 수준의 그림 1.2의 500kW 수상태양광 발전소를 가동하게 되었다. 이후 이를 모방하여 일본에서 본격적으로 각 지방의 지자체를 중심으로 그림 1.3과 1.4의 본격적인 저수지 및 농업용저수지에 수상형태의 태양광발전이 건설되었다.\n\n그림 1.2 세계최초 상업용수준의 합천댐\n\n500kW 수상태양광단지\n\n그림 1.1 세계최초 미국캘리포니아 나파밸리\n\n단지 내의 소형 수상태양광발전단지\n\n그림 1.3 일본 사이타마 저수지 발전(수면비)\n\n그림 1.4 일본 농업용저수지 발전단지(수면비)\n\n\n![image](image_003.png)\n\n\n![image](image_004.png)\n\n\n![image](image_005.png)\n\n\n![image](image_006.png)\n\n이후 2011년 후쿠시마 사고이후 일본은 70%이상 초토화된 마을을 대상으로 다음에 소개하는 것처럼 에너지자립마을을 위한 인공의 수상태양광과 융복합된 디자인을 통해 초토화된 마을을 복구하는 프로젝트를 가동 중에 있다는 사실이다. 특별히 수상환경을 조성함으로써 자연적인 수상환경이 아니더라도 출력증대가 가능하다는 사실에 기초하고 있다고 판단된다. 위의 마을 규모는 70 단독가구와 15 다세대 및 아파트 가구 등 총 85가구로 구성되어 있으며 사고로 삶의 터전을 잃은 가구를 대상으로 다양한 형태의 주택프로그램을 제공하고자 진행하고 있다. Fukushima 사고 전후에 처음으로 시도되는 ZNE(Zero Net Energy) 마을의 구성으로 그 의미가 있다 할 것이다.\n\n특별히 수상태양광발전과 연료전지(Fuel Cell) 및 에너지 저장장치(ESS)를 융복합한 시스템으로, 태양광은 470 [kW], Bio Diesel 또는 연료전지 500[kW] 그리고 ESS 500[kWh]로 구성되는 예를 보여주고 있으며, 태양광발전 470 [kW]중400[kW]는 인공수상환경과 60[kW]는 건물을 통해 BIPV 형태 및 10[kW]는 풍력으로 충당할 디자인을 보여주고 있다. 따라서 태양광은 단순한 발전 형태를 떠나 간헐적 공급의 약점을 극복하기 위해 타 에너지원과의 융복합 형태가 바람직할 것이며 그 중에서 태양광발전은 Cooling Effect를 이용한 출력의 증대를 위한 디자인이 바람직하다 할 것이다. 특히 여름철 나대지 태양광발전소의 모듈의 온도가 65℃까지 상승하는 상황을 고려하면 수상을 이용한 모듈의 온도 저감은 일반적인 모듈의 온도계수인 –0.4%/℃를 고려하더라도 최대 출력이 대략 10%내외의 출력증대가 예측되기도 한다.\n\n신규 사업 착수 전 해당사업의 성공 가능성을 분석하고, 사업추진 여부를 결정하기 위해서는 많은 요소를 고려해야 한다. 일반적으로는 사업시행자의 추진능력, 기술적 가능성, 수익창출을 위한 시장성, 예상되는 위험 정도 등이다. 사업의 시행 여부를 결정하기 위해 이러한 요소들을 검토하는 것이 사업타당성 분석이다. 타당성 분석에서는 국가 전체적인 관점이 아닌 개별 사업 주체의 입장에서 발생하는 금전적 비용과 수입을 추정하고, 그에 따른 재무적 수익률을 검토한다.(K-water, 2014) 수상태양광 신규 사업의 타당성을 검토할 때, 연간발전량 산출은 재무성 분석에서 중요한 요소로써 이를 이용하여 사업에서 발생하는 수익을 추정할 수 있다. 기존에 K-water에서 사용해왔던 수상태양광 연간발전량 산정기준은 과거 학술자료와 K-water의 단기 간·소규모 수상태양광 실증플랜트 운영결과를 적용하였다. 따라서 현재의 기술수준을 고려한 수상태양광 연간발전량 산정기준의 재정립하여 신규 수상태양광 사업 타당성 분석의 신뢰성을 향상시키고자 한다.",
+    "blockRange": [
+      201,
+      215
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0042",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론"
+    ],
+    "text": "## 1.2 연구내용 및 범위",
+    "blockRange": [
+      216,
+      216
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0043",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "### 1.2.1 최종 목표",
+    "blockRange": [
+      217,
+      217
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 최종 목표"
+    ],
+    "text": "본 연구과제의 최종목표는 수상조건이 태양광 발전량에 미치는 영향을 분석하고, 수상태양광 연간발전량 영향인자 및 산정기준을 재정립하는 것이다.",
+    "blockRange": [
+      218,
+      218
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0045",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "### 1.2.2 2차년도 연구내용 및 목표",
+    "blockRange": [
+      219,
+      219
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0046",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 2차년도 연구내용 및 목표"
+    ],
+    "text": "2차년도 연구목표는 아래 표 1.1과 같이 육상 대비 수상태양광 발전효율 검증, 다양한 환경변수를 반영한 연간발전량 산정 방법 제시로 나눌 수 있다.",
+    "blockRange": [
+      220,
+      220
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0047",
+    "type": "table",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 2차년도 연구내용 및 목표"
+    ],
+    "text": "**표 1.1 2차년도 연구내용 및 목표**\n\n| 구분 | 연구목표 | 연구내용 |\n| --- | --- | --- |\n| 2차년도<br>(2019) | ◦다양한 환경변수를 반영한 연간발전량 산정<br>방법 제시 | - 기술수준을 반영한 수상태양광 연간발전량 영향인자<br>재정립 및 산정방안 제시<br>- 연간발전량 산정 방식(안) 제시 |\n| 2차년도<br>(2019) | ◦육상 대비 수상태양광<br>발전효율 검증 | - 기존 운영 중인 육상 및 수상태양광을 중심으로<br>분석대상지 선정 및 관련 데이터 확보<br>- 분석대상지 데이터 분석 및 발전효율 검증<br>- 소규모 대조군 설비 운영 및 데이터 분석 |",
+    "blockRange": [
+      221,
+      221
+    ],
+    "page": 21,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0048",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 2차년도 연구내용 및 목표"
+    ],
+    "text": "Lab Test를 통한 수상조건의 태양광 발전량 영향 분석을 위하여 태양광 모듈 공인시험기관 의뢰를 통하여 수온, 빛 반사, 산란 등 수상조건의 환경인자들이 발전량에 영향을 미치는지 분석하고자 한다.\n\n육상 대비 수상태양광 발전효율 검증을 위하여 현재까지 운영되고 있는 육상태양광과 수상태양광을 분석대상지로 선정하고 구성 설비, 발전량, 기상정보 등 관련 데이터를 확보한 후 그 데이터를 이용하여 각 분석대상지의 발전효율을 검증하고자 한다. 또한, 소규모 대조군 설비를 운영하여 운영 데이터를 분석하고 검증 내용과 비교하고자 한다.",
+    "blockRange": [
+      222,
+      223
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0049",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제2장 연간발전량 영향인자 재정립 및 산정방법",
+    "blockRange": [
+      224,
+      224
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0050",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법"
+    ],
+    "text": "수상태양광 신규 사업의 타당성을 검토할 때, 수익과 비용에 대한 추정이 필요하다. 신재생에너지 사업에서 추정되는 수익은 크게 전력시장가격인 계통한계가격(SMP)의 수익과 신재생에너지 공급인증서(REC)의 판매 수익으로 구분할 수 있다. 수상태양광 발전설비의 연간발전량을 산정해야만 SMP와 REC 수익에 대한 값을 추정할 수 있다. 따라서 연간발전량 산정의 정확도가 신규 사업의 추진 가능여부를 결정하는 중요한 요소로 작용한다.",
+    "blockRange": [
+      225,
+      225
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0051",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법"
+    ],
+    "text": "## 2.1 K-water 연간발전량 산정 방법",
+    "blockRange": [
+      226,
+      226
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0052",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.1 K-water 연간발전량 산정 방법"
+    ],
+    "text": "기존에서 아래와 같은 수식 2.1을 이용하여 수상태양광 연간발전량을 산정하였다.\n\n연간발전량$(MWh)=$ 설비용량$(kW)\\times$이용률$()\\times 24(h)\\times 365(day)$\n\n(2.1)\n\n수식 2.1에서 사용된 이용률은 아래와 같은 수식 2.2를 이용하여 산정하였으며 수식에 사용된 계수들의 정의는 아래와 같다.\n\n일사량\n\n이용률$()=\\frac{(kWhm^{2}day)}{24(hday)\\times 1(kWm^{2})}\\times 75.2()\\times 121()\\times 110.24()$\n\n(2.2)\n\n\\* 75.2(%) = 태양광 시스템 종합 설계계수(2007년 학술자료 적용)\n\n\\* 121(%) = 30° 경사면 일사량 계수(2010년 학술자료 적용)\n\n\\* 110.24(%) = K-water 주암댐 2.4kW 파일럿플랜트 실증 결과를 바탕으로 분석한 육상 대비 수상태양광 효율 상승분(2014년 분석자료 적용)\n\n태양광 시스템 종합 설계계수 75.2%는 2007년에 발표된 「50kW급 계통연계형 태양광발전시스템의 성능모니터링 결과 및 평가분석」 논문을 참조한 값이다. 본 논문에서는 환경변화에 따른 태양광발전시스템의 성능을 평가하기 위하여 곡면형 평지붕방식으로 설치된 50kW 설비를 총 12개월간(2005년 9월\\~2006년 8월) 분석하였다. 입사각 변동 손실, 미스매치 손실, 온도상승 손실, 직류회로 손실, 기타 손실, PCS 손실 등이 고려되어 성능계수가 분석되었다.(소정훈 등, 2007)\n\n30° 경사면 일사량 계수 121%는 2010년에 발표된 「실측에 의한 국내 방위별 경사면일사량의 재평가」 논문을 참조한 값이다. 본 논문에서는 방위별 경사각도에 따른 태양에너지 강도 측정을 대전에서 13년 5개월간(1996년 8월\\~2009년 12월) 실시하였다. 30° 경사면 일사량이 수평면 전일사량과 비교할 때 121% 더 높게 분석되었다.(조덕기 등, 2010)\n\nK-water 주암댐 수상태양광 실증 결과를 바탕으로 분석한 육상 대비 수상태양광 효율 상승분 110.24%는 표 2.1과 같이 주암댐에 설치한 수상태양광과 육상태양광의 발전량을 총 13개월간(2010년 11월\\~2011년 11월) 분석한 결과이다. 결과는 표 2.2와 같이 수상태양광의 발전량이 육상태양광 대비 110.24% 높게 분석되었다.",
+    "blockRange": [
+      227,
+      239
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0053",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.1 K-water 연간발전량 산정 방법"
+    ],
+    "text": "**표 2.1 주암댐 수상 및 육상태양광 파일럿플랜트**\n\n| 구분 | 수상태양광 | 육상태양광 |\n| --- | --- | --- |\n| 설비구성 | 2.4kW, 11°(고정형) | 2.4kW, 11°(가변형) |\n| 설치연도 | 2009 | 2010 |\n| 설비사진 |  |  |",
+    "blockRange": [
+      240,
+      240
+    ],
+    "page": 23,
+    "table": {
+      "rows": 4,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0054",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.1 K-water 연간발전량 산정 방법"
+    ],
+    "text": "**표 2.2 주암댐 수상 및 육상태양광 분석 결과**\n\n| 기간 | 수상 발전량(kWh) | 육상 발전량(kWh) | 수상/육상 비율(%) |\n| --- | --- | --- | --- |\n| 2010.11 | 924.66 | 847.09 | 109.16 |\n| 2010.12 | 1,085.38 | 990.58 | 109.57 |\n| 2011.01 | 238.71 | 219.82 | 108.59 |\n| 2011.02 | 637.84 | 589.96 | 108.12 |\n| 2011.03 | 1,608.34 | 1,420.44 | 113.23 |\n| 2011.04 | 1,730.62 | 1,575.68 | 109.83 |\n| 2011.05 | 1,548.86 | 1,295.70 | 119.54 |\n| 2011.06 | 606.88 | 530.27 | 114.45 |\n| 2011.07 | 571.91 | 521.42 | 109.68 |\n| 2011.08 | 1,395.59 | 1,307.66 | 106.72 |\n| 2011.09 | 1,825.71 | 1,705.49 | 107.05 |\n| 2011.10 | 1,875.75 | 1,738.92 | 107.87 |\n| 2011.11 | 862.61 | 784.01 | 110.03 |\n| 합계 | 14,050.25 | 12,743.03 | 110.24 |",
+    "blockRange": [
+      241,
+      241
+    ],
+    "page": 23,
+    "table": {
+      "rows": 15,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0055",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.1 K-water 연간발전량 산정 방법"
+    ],
+    "text": "![image](image_007.png)\n\n\n![image](image_008.png)",
+    "blockRange": [
+      242,
+      243
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0056",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법"
+    ],
+    "text": "## 2.2 국내외 연간발전량 산정 방법",
+    "blockRange": [
+      244,
+      244
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0057",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.2 국내외 연간발전량 산정 방법"
+    ],
+    "text": "### 2.2.1 수식을 이용한 연간발전량 산정",
+    "blockRange": [
+      245,
+      245
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0058",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.2 국내외 연간발전량 산정 방법",
+      "2.2.1 수식을 이용한 연간발전량 산정"
+    ],
+    "text": "태양광 발전설비의 연간발전량을 간단하게 산정하기 위하여 2.1에서 사용한 방법과 유사하게 일조시간을 이용한 수식 2.3을 사용하고 있다. 일조시간은 지역별 차이가 있으나, 우리나라 전 국 평균 일조시간은 3.6시간으로 적용되고 있다.\n\n연간발전량 $(MWh)=$ 설비용량 $(kW)\\times$일조시간$(hday)\\times 365(day)$\n\n(2.3)",
+    "blockRange": [
+      246,
+      248
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0059",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.2 국내외 연간발전량 산정 방법"
+    ],
+    "text": "### 2.2.2 프로그램을 이용한 연간발전량 산정",
+    "blockRange": [
+      249,
+      249
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0060",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.2 국내외 연간발전량 산정 방법",
+      "2.2.2 프로그램을 이용한 연간발전량 산정"
+    ],
+    "text": "태양광 발전설비 설계 시 RETscreen, HOMER, PV SYST, PVWatts, SAM(Advisor Model), SOLAR PRO 등 발전량 예측을 위하여 이용할 수 있는 다양한 프로그램이 있다. 위치정보, 모듈 종류, 모듈 크기, 모듈 수, 모듈 효율, 인버터 종류, 인버터 수, 인버터 효율, 발전유형, 경사 등 프로그램별로 각기 다른 조건을 입력할 수 있다. 실제발전량과 예측발전량을 비교해 본 연 구결과, 동일한 프로그램이라도 태양광 설치 장소에 따라 각기 다른 오차를 보이는 것으로 볼 수 있었다. 태양광 발전량 예측 프로그램에서 실제 발전량과의 오차는 10% 내외로 판단된다.(노상태, 2014)",
+    "blockRange": [
+      250,
+      250
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0061",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.2 국내외 연간발전량 산정 방법"
+    ],
+    "text": "### 2.2.3 다중회귀분석을 이용한 연간발전량 산정",
+    "blockRange": [
+      251,
+      251
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0062",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.2 국내외 연간발전량 산정 방법",
+      "2.2.3 다중회귀분석을 이용한 연간발전량 산정"
+    ],
+    "text": "그림 2.1은 환경변수들 사이의 상관관계를 나타낸 것으로 절대값이 1에 가까울수록 강한 상관관계를 가지고 있다고 정의할 수 있으며, 상관계수의 절대값이 0에 가까울수록 상관관계가 없다는 것을 의미한다. 또한, 단순회귀 분석 및 다중회귀 분석법으로 태양광 발전소의 모니터링 데이터를 이용하여 태양광 발전소의 출력식을 구하여 시스템의 발전량 예측이 가능하다.\n\n그림 2.1 환경 변수들 사이의 상관관계\n\n종속변수와 하나 이상의 독립변수간의 선형관계를 구해내는 통계분석기법으로 특히 수상태양광 발전은 일사량이라는 독립변수 외에도 모듈온도, 풍속, 외기온도 외에 습도 등과 같은 독립변수에 의한 영향을 충분히 받는다.\n\n$y=a+bx_{1}+cx_{2}+dx_{3}+\\cdots$\t(2.4)\n\n식 (2.4)에서 y는 종속변수, a는 절편값, b,c,d는 독립변수간의 상관관계를 통하여 구해낸 상관 계수이다. 다중회귀분석의 하나의 예로, 수상태양광 발전의 전력량을 종속변수로 두고 일사량( $x_{1}$), 습도( $x_{2}$), 대기온도( $x_{3}$), 모듈온도( $x_{4}$) 를 독립변수로 하여 다중회귀 분석을 하면 식(2.5)와 같이 나타 낼 수 있다.\n\n$P_{m}=2.441+0.2805x_{1}+0.02706x_{2}-0.502x_{3}+0.417x_{4}$\t(2.5)\n\n기존에 일반적인 태양광 모듈의 출력관계식은 표 2.3에 설명하였다. 1986년에 제시된 모델은 일사량( $G_{T}$ )와 풍속( $WS$ )을 polynomial 형태로 전개하여 제시하고 있다. Regression 계수를 좀더 간략화하여 1998년에 제시된 Gianolli-Rossi 및 Krebs는 500$Wm^{2}$이상의 일사량데이터에 대한 회귀 계수를 이용하여 제시함으로써 고 일사량에서 정확도를 높이고자 하는 상관식을 나타내고 있다.\n\n1992년에 제시된 PTC를 가정하는 Farmer[12] 모델은 30일 동안의 일사량과 풍속 및 셀온도 데이터를 사용하여 1차식을 이용하여 출력을 제시하였다. 누적 데이터 수집 기간과 태양 복사에 대한 최소한의 데이터 수집기간과 수치를 제시하고 있으며, 이 방법은 500 $Wm^{2}$ 이상, 주변 온도 및 지면에서 10m 위의 풍속과 일사 강도 데이터를 사용하는 것이 특징이다.\n\n\n![image](image_009.png)\n\n2000년 Yang등이 제안한 모델은 일사량 및 셀 온도를 사용하고 있으며, 경사면에 입사된일사량( $Wm^{2}$ )대비, 현재 제시되고있는 온도 계수 $\\alpha$ 를 처음으로 제시하였으며, 이를 수정 적용하고자 교정 상수인 $\\beta$를 사용하여 출력을 예측하고 있다.\n\n이후 2004년에 SNL에서 King등은 실제 태양광 출력에 영향을 미치는 요인인자들이 Air Mass, 일사량, 셀온도로 판단하여 수정된 형태의 각 변수들을 제시하고 있으며 특히 셀 온도에 대한 영향을 상세하게 제시하고자 외기온도와 모듈온도에 영향을 미치는 풍속과의 상관관계를 이용하여 셀 온도를 추정함으로써 좀더 정확한 출력이론을 제시하고 있다.\n\n2006년에 Roseell과 Ibanez가 개발한 모델은 I-V 곡선을 기반으로 일사량과 온도를 사용하여 최대 출력을 계산한다. 또한 이 모델은 비선형 다중변수 회귀 방정식에 의해 추출되는 변수와 fitting parameter인 매개변수를 사용하여 작동조건에서 최대출력을 제시하고 있다.\n\n좀더 정확한 출력을 예측하고자 현재 가장 많은 참고를 하고 있는 이론은 2007년 Fuentes 와 Osterwald에 의해 제시되어 가장 간단하다고 알려진 모델 중의 하나이다. 이 모델에서 $P$max $ref$ 는 STC에서 측정한 최대 출력이고, $G_{Tref}$ 는 STC(1000 $Wm^{2}$ ) 조건 이며, $\\gamma$는 최대전력에서의 셀 온도 계수로 현재도 사용하고 있는 중요한 모델 파라미터이다.\n\n표준화된 일사량 및 PV 모듈 온도에 기반한 Held의 모델은 2007년 회귀계수를 사용하는 모델을 제시하고 있다. 2004년 SNL의 King등이 제시한 모델을 개조한 이 모델은 PV 모듈의 출력량을 Regression에 의해 구한 경험계수 $C_{j}$(j=1\\~6)를 바탕으로 표현한다. 따라서 이 모델은 측정된 일사량 $G_{T}$ 와 모듈온도 $T_{m}$ 을 구함으로써 다양한 환경 상황에서 출력을 예측할 수 있다.\n\n그러나 지금까지 제시된 모든 모델들은 일사량과, 모듈 및 대기온도 그리고 풍속의 일정기 간 이상의 데이터를 필요함으로써 Regression방법에 의해 출력을 제시함으로써 본 자문의 주요 범위인 습도상태가 많아 일사량과 모듈 및 셀의 온도 등에 영향을 미치는 수상태양광의 출력 예측에는 그 한계를 보일 것으로 판단된다.\n\n따라서 본 연구에서는 기존의 이론을 보완하여 수상환경에 적합한 이론과 출력량을 예측하기 위하여 다양한 환경변수에 습도성분이 포함된 출력량 예측식을 바탕으로 2019년도에 발표된 GG Kim의 연구를 바탕으로 합천, 충주 및 인제 등 데이터 취득이 장기간 가능한 지역을 선정하여 모델의 정확도와 출력량을 검증하고자 한다.",
+    "blockRange": [
+      252,
+      267
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0063",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.2 국내외 연간발전량 산정 방법",
+      "2.2.3 다중회귀분석을 이용한 연간발전량 산정"
+    ],
+    "text": "**표2.3 국내외에 발표되고 제시된 기존의 태양광 출력관계식**\n\n| 태양광 출력 및 변수 상관관계식<br>$(P:PowerofModule)$ | 변수 정의와 특징 | References |\n| --- | --- | --- |\n| $C_{1}+(C_{2}+C_{3}T_{C})G_{T}+(C_{4}+C_{5}WS)G_{T}^{2}$ | - $C_{i}$: Regression 계수<br>- $T_{C}$: 셀 온도<br>- $G_{T}$ : 측정 광량 $Wm^{2}$<br>- $WS$: 풍속 $ms$ | Taylor (1986) |\n| $C_{1}G_{T}+C_{2}G_{T}^{2}+C_{3}G_{T}+$ ln $G_{T}$ | -500 $Wm^{2}$ 이상 정확도 보장 | Gianolli-Rossi & Krebs (1988) |\n| $(C_{1}+C_{2}G_{T}+C_{3}T_{C}+C_{4}WS)G_{T}$ | -500 $Wm^{2}$ 이상시 정확도<br>- $WS$ : 지상 $10m$ 풍속 | Farmer (1992) |\n| $(\\alpha T_{C}+\\beta )G_{T}$ | - $\\alpha$: 온도계수<br>- $\\beta$: 보정상수 | Yang (2000) |\n| $f(AMa,AOI)=C_{1}+C_{2}AMa(AOI)$ $+C_{3}AMa^{2}(AOI)^{2}+.....C_{6}AMa^{5}(AOI)^{5}AOI$ $T_{m}=G_{T}e^{C1+C2WS}+T_{a}$ $T_{C}=T_{m}+G_{T}G_{Tref}$ ∆ $T$ | $AMa$: $I_{SC}$ 용 Air Mass교정<br>: 입사각 교정<br>$T_{a}$ : 외기 온도<br>$T_{m.}T_{C}$ : 수정된 모듈,Cell온도 | D.L. King, SNL (2004) |\n| $C_{1}G_{T}+C_{2}T_{c}+C_{3}($ln $G_{T})^{m}+C_{4}T_{C}($ln $G_{T})^{n}$ | - $C_{i}$는 Regression 계수<br>- $m,n$ fitting parameters | Rosell & Ibanez (2006) |\n| $P$max $_{ref}\\frac{G_{T}}{G_{Tref}}[1+\\gamma (T_{C}-25)]$ | -$P$max $ref$ : STC조건 출력<br>-$G_{Tref}$ : STC 일사량<br>-$\\gamma$: 온도계수 -0.35%/℃<br>(0.3 \\~ 0.5%/℃ 수치제시) | Fuentes et al. (2007) |\n| $G[P_{STC}+C_{1}($′ ln $G)+C_{2}($′ ln $G)^{2}$′ $+C_{3}T+C_{4}T($′ ′ ln $G)+C_{5}T($′ ′ ln $G)^{2}+C_{6}T]$′ ′ $2$<br>실제 모델링가능 온라인 사이트(PVGIS)<br>http://re.jrc.ec.europa.eu/pvgis/apps4/pvest.php(Click Here) | - $C_{i}$: Regression 계수<br>- ′<br>$G:G_{T}G_{Tref}$<br>-$T:T_{m}(Module)-T_{STC}$′ | Huld (2011)<br>(2004년 King<br>모델 수정식) |\n| $G_{T}[C_{1}+G_{T}(C_{2}\\cdot T_{a}+C_{3}\\cdot WS+C_{4}\\cdot RH)$ | - $C_{i}$: Regression 계수<br>- $RH$ : 습도 | G.G.Kim (2019)<br>습도 포함 |",
+    "blockRange": [
+      268,
+      268
+    ],
+    "page": 27,
+    "table": {
+      "rows": 10,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0064",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법"
+    ],
+    "text": "## 2.3 다중회귀분석을 사용한 연간발전량 산정방법",
+    "blockRange": [
+      269,
+      269
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0065",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.3 다중회귀분석을 사용한 연간발전량 산정방법"
+    ],
+    "text": "### 2.3.1 분석프로그램 「R」",
+    "blockRange": [
+      270,
+      270
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0066",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.3 다중회귀분석을 사용한 연간발전량 산정방법",
+      "2.3.1 분석프로그램 「R」"
+    ],
+    "text": "위의 과정을 수행하기 위하여 채택한 분석프로그램 ’R’은 통계 계산과 그래픽을 위해 특화된 프로그래밍 언어이자 소프트웨어 환경으로 뉴질랜드 오클랜드 대학의 로스 이하카(Ross Ihaka)와 로버트 젠틀맨(Rober Gentleman))에 의해 개발되어 통계 소프트웨어 개발과 자료 분석에 널리 사용되고 있으며, 패키지 개발이 용이하여 본 수상태양광발전의 출력량예측 모델의 상관계수를 회귀분석(Regression)방법으로 구하기 위하여 다양한 통계 기법과 수치해석기법을 제공하고 있으며 특히 본 환경변수간의 연관도가 존재하는 데이터의 분석을 위해서는 최적화된 방법 중의 하나로 빅데이터 분석에 적합하다할 것이다. 특히 여러 개의 데이터를 비교 분석하여 일정한 패턴을 찾거나, 변수들 간의 관계식을 구하고 이러한 변수들 간의 관계를 분석하며 이를 이용하여 기상데이터를 활용한 정확한 수상태양광 발전의 패턴 및 발전량을 분석할 수 있으리라 판단되어 적용하고자 한다.\n\n그림 2.2는 환경변수와 태양광 출력을 나타내는 분산도와 상관계수 예로 기 소개한 수치적인 상관 차트대비 데이터의 빈도와 데이터의 군들의 집합 형태 등을 나타내는 그래프로서 대각선 그림에 표시된 막대 그래프는 데이터의 빈도 분포를 나타내며 대각선 위의 숫자는 상관 계수로 -1에서 +1까지의 범위이다. 관계의 방향은 계수의 부호로 표시되며. \"+\"부호는 양의 상관 관계를 나타내기 때문에 실제 상관계수 정리 시 그 정도에 따라 보다 큰 상관식을 표현할 수도있으며 상대적으로 음의 상관 관계를 나타내는 특성 또한 역방향의 상관 관계로서 역시 그 크기의 정도에 따라 식을 제시할 수 있다. 즉 상관 계수의 절대 값이 높을수록 두 변수 간의 연관성이 강해지며, 대각선 아래의 그래프는 산점도로서 각각의 해당하는 변수사이의 상관 데이터의 집합을 나타내고 있다. 또한 데이터를 가로지르는 적색의 선은 두 변수 사이의 단순 다중 회귀선을 나타내어 각각의 변수사이의 선형성 또는 비선형성 등을 가름할 수 있다.\n\n그림 2.2 환경변수와 태양광 출력을 나타내는 분산도와 상관계수 예(Pmax: 발전량, POA : 경사면 일사량, GHI : 수평면일사량, Tm : 모듈온도, Ta : 외기온도, WS : 풍속, RH : 상대습도)\n\n그림 11은 수상태양광 출력량 분석 및 예측을 위한 구조도로 외부 환경요소로부터 모듈에 입사되는 일사량과 그로 인해 직접 모듈표면에 발생하는 온도의 영향으로 출력량이 변하며, 이러한 모듈의 온도는 외기온도, 습도, 풍속 등은 직간접적으로 모듈의 온도에 영향을 주어 출력의 변화에 영향을 미친다. 따라서 이러한 환경변수들을 조합한 기상 데이터는 최종 적으로 모니터링 시스템으로 입력되어 모듈로부터 들어오는 전기적인 출력과 일사량 및 모듈 온도와 결 합하여 R분석을 통해, 제시되는 모델의 계수를 구하기 위한 알고리즘으로 입력되어 가장 최적의 계수를 도출하게 된다.\n\n\n![image](image_010.png)\n\n그림 2.3 수상태양광 출력량 분석 및 예측을 위한 구조도",
+    "blockRange": [
+      271,
+      276
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0067",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.3 다중회귀분석을 사용한 연간발전량 산정방법"
+    ],
+    "text": "### 2.3.2 자료 분석 Tool 「R」설치",
+    "blockRange": [
+      277,
+      277
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0068",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.3 다중회귀분석을 사용한 연간발전량 산정방법",
+      "2.3.2 자료 분석 Tool 「R」설치"
+    ],
+    "text": "자료분석 Tool ‘R’은 통계계산과 그래픽을 위해 특화된 프로그래밍언어이자 소프트웨어로 뉴질랜드 오클랜드 대학의 로스 이하카(Ross Ihaka)와 로버트 젠틀맨(Robert Gentleman)에 의해 개발되어 통계소프트웨어 개발과 자료 분석에 널리 사용되고 있다. 본 수상태양광발전의 출력량 예측 모델의 상관계수를 회귀분석방법으로 구하기 위하여 사용한다. 프로그램 소개 및 설치 방법은 첨부문서에서 자세하게 확인할 수 있다. 설치 후 ‘studio_code’파일을 열면 그림 2.4 와 같은 화면을 확인할 수 있다.\n\n\n![image](image_011.png)\n\n그림 2.4 Rstudio 프로그램 화면\n\n이후에 작업을 수행할 폴더에 위의 Rstudio 파일을 저장한 후 우 클릭하여 속성에서 파일 위치를 그림 2.5처럼 확인한다. 에러 가능성을 줄이기 위해 가능한 단순한 위치에 저장하는 것을 추천한다.\n\n그림 2.5 파일 위치 확인 방법\n\n\n![image](image_012.png)\n\n\n![image](image_013.png)\n\n파일의 위치를 확인하였으며 그림 2.6의 setwd 명령어 뒤의 괄호 안에 위치정보를 저장하여 Rstudio가 파일을 사용할 수 있도록 한다. 그리고 첫줄부터 [Ctrl]+[Enter]를 통해 각 줄을 실행하여 엑셀파일을 읽기 위한 패키지와 상관도 분석을 위한 패키지를 다운로드한다. 이 때는 인터넷이 연결되어 있어야 수행이 가능하므로 반드시 인터넷이 사용가능한 환경에서 실행한다.\n\n그림 2.6 다중회귀분석을 위한 패키지 다운로드 및 파일 저장 위치 지정방법",
+    "blockRange": [
+      278,
+      286
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0069",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.3 다중회귀분석을 사용한 연간발전량 산정방법"
+    ],
+    "text": "### 2.3.3 데이터 전처리",
+    "blockRange": [
+      287,
+      287
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0070",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 연간발전량 영향인자 재정립 및 산정방법",
+      "2.3 다중회귀분석을 사용한 연간발전량 산정방법",
+      "2.3.3 데이터 전처리"
+    ],
+    "text": "2.3.3.1 기상자료 수집\n\n수상태양광 발전량 예측모델을 만들기 위해서는 일사량, 기온, 풍속, 습도, 발전량 자료가 필요하다. 이 중 기상자료(일사량, 기온, 풍속, 습도)는 기상청에서 제공하는 자료를 이용하며 발전량 자료는 기존에 설치되어 운영중인 장소(인제, 충주, 합천)의 데이터를 사용해야 한다. 이 자료들을 취합하여 예측모델에 사용될 환경변수별 계수를 도출해내어야 한다.\n\n기온, 풍속, 습도 자료는 그림 2.7, 그림 2.8과 같이 기상청 자료개방포털(data.kma.go.kr)의 ‘날씨예보-동네예보-‘실황분석자료’에서 얻을 수 있으며, 동 단위의 자료까지 제공되고 있다. 이 자료들은 00:00 \\~ 23:00까지 시간단위로 구성되어 있다.\n\n‘일사량’자료는 ‘종관기상관측’ 메뉴에서 얻을 수 있으며 시,군 단위의 자료만 제공되고 있다. 주의해야할 점은 일사량 제공시간이 월마다 바뀌며, 1월의 경우 08:00 \\~ 18:00까지 1시간 단위로 제공되는 반면 7월에는 06:00\\~ 20:00까지 제공된다.\n\n예시를 위해 2018년 1월의 대전광역시 동구 대청동의 기상자료를 사용하였으며, 일사량은 타 지역에 비해 가까운 지역인 충주의 발전량 자료를 사용하였다.\n\n\n![image](image_014.png)\n\n그림 2.7 일사량 자료 제공화면(기상청-기상자료개방포털-종관기상관측)\n\n\n![image](image_015.png)\n\n그림 2.8 그림 동 단위 습도, 기온, 풍속 자료 제공화면(기상청-기상자료개방포털-날씨예보)\n\n\n![image](image_016.png)\n\n\n![image](image_017.png)\n\n\n![image](image_018.png)",
+    "blockRange": [
+      288,
+      299
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0071",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 2.3.3.2 데이터 병합",
+    "blockRange": [
+      300,
+      300
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0072",
+    "type": "text",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합"
+    ],
+    "text": "수상태양광 출력량을 예측하기 위해서는 실제 설치되어 운영된 발전량 데이터가 필요하다. 이를 위해 K-water에서 운영하고 있는 충주, 인제, 합천 3개의 사이트의 2018년 1년간 발전량 및 기상데이터를 수집하였으며, 취득된 데이터 중 비정상적인 수치는 필터링을 통해 제거하였다. 인제의 경우 30분 간격의 데이터이며, 충주와 합천은 1시간 간격의 데이터이다.\n\n2.3.3.1에서 수집한 설치대상지의 기상자료와 기 설치지역의 발전량 자료를 이용하여 분석하기 위해서는 데이터를 통일성있게 정리하는 작업이 필요하다. 습도, 기온, 풍속자료의 경우 00시부터 23시까지, 일사량과 발전량 자료는 월별, 일별로 조금씩 상이하다. 발전량 예측을 위해서는 같은 시간 대에 모든 기상자료와 발전량 자료가 있어야하므로 이를 위해 하나의 데이터라도 없는 시간대가 있다면 해당 시간대의 데이터는 삭제해야 한다.\n\n예를 들어, 그림 2.9와 같이 2018년 기상청 제공 일사량데이터의 경우, 2월 1일 11시, 12시의 데이터는 없다. 따라서 해당시간의 모든 데이터를 삭제하여 모든 데이터가 존재하는 시간만 남겨두고 데이터를 정리해야한다.",
+    "blockRange": [
+      301,
+      303
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0073",
+    "type": "table",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합"
+    ],
+    "text": "|  | ⇨ |  |\n| --- | --- | --- |\n\n**그림 2.9 2018년 2월 1일 기상청 제공 일사량 자료(좌) 및 전처리 후 동일날짜 데이터시트(우)**",
+    "blockRange": [
+      304,
+      304
+    ],
+    "page": 35,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0074",
+    "type": "text",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합"
+    ],
+    "text": "2.3.3.3 다중회귀분석을 위한 데이터 세팅\n\n앞서 언급한 바와 같이 예상발전량을 산정하기 위하여 사용하는 식은 표 2.4와 같이 일사량, 외기온도, 풍속, 습도 총 4가지의 환경변수이며 변수마다 각각의 회귀계수가 존재한다. 그러나 일사량은 모든 회귀계수에 영향을 주며 특히 외기온도, 풍속, 습도에는 일사량의 제곱이 곱해지므로 이를 반영하기 위해 그림 2.10과 같이 데이터를 수정할 필요가 있다.\n\n\n![image](image_019.png)\n\n\n![image](image_020.png)",
+    "blockRange": [
+      305,
+      308
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0075",
+    "type": "table",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합"
+    ],
+    "text": "**표 2.4 일사량, 외기온도, 풍속, 습도항을 포함하는 발전량 예측모델 수식**\n\n| 모델 $P_{5}$ | $G_{T}[C_{1}+G_{T}(C_{2}\\cdot T_{a}+C_{3}\\cdot WS+C_{4}\\cdot RH)$ | - $C_{i}$: Regression 계수<br>- $RH$ : 습도 |\n| --- | --- | --- |",
+    "blockRange": [
+      309,
+      309
+    ],
+    "page": 36,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0076",
+    "type": "text",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합"
+    ],
+    "text": "그림 2.10 모델 P5의 계수를 반영하기 위한 데이터 전처리",
+    "blockRange": [
+      310,
+      310
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0077",
+    "type": "heading",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합"
+    ],
+    "text": "### 2.3.4 다중회귀분석을 이용한 발전량 산정",
+    "blockRange": [
+      311,
+      311
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0078",
+    "type": "text",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합",
+      "2.3.4 다중회귀분석을 이용한 발전량 산정"
+    ],
+    "text": "2.3.4.1 R을 이용한 환경변수 별 회귀계수 추출\n\n다중회귀분석에 사용되는 데이터는 그림 2.11부터 그림 2.13에 박스로 표시된 부분이며 ([view(dc)]라는 명령어를 통해 확인가능한 창), R 내에서 다중회귀분석을 하기 위한 명령어는 [lm]이다. [lm] 명령어 뒤의 괄호에는 종속변수인 발전량(Power)와 독립변수인 a, b, c, d를 이 용한다는 의미로 그림 21의 박스와 같이 명령어를 입력하여야 한다. 이후 [summary] 명령어를 통해 각 변수들의 계수를 확인할 수 있다.\n\n\n![image](image_021.png)\n\n그림 2.11 Rstudio에 파일이 업로드 된 화면\n\n그림 2.12 Rstudio에서 회귀계수를 추출하기 위한 명령어\n\n그림 2.13 회귀계수 예시\n\n\n![image](image_022.png)\n\n\n![image](image_023.png)\n\n\n![image](image_024.png)\n\n2.3.4.2 계수를 이용한 발전량 예상\n\n‘R’에서 도출한 계수는 엑셀 내의 값과 곱하여 최종적으로 그림 2.14에서처럼 발전량을 예측하게 된다. 여기서 a, b, c, d는 $G_{T}[C_{1}+G_{T}(C_{2}\\cdot T_{a}+C_{3}\\cdot WS+C_{4}\\cdot RH)$와 대응시키면\n\n$a=G_{T}$ , $b=G_{T}^{2}\\cdot T_{a}$ , $c=G_{T}^{2}\\cdot WS$, $d=G_{T}^{2}\\cdot RH$ 이다. 2018년 1월부터 3월까지의 충주의 발전량\n\n과 대전 대청동에 설치 시의 예상발전량을 비교하면 경향은 비슷하나 대체로 충주보다 발전량이 낮은 것을 알 수 있다. 이는 그림 2.15에서 알 수 있듯이 1월경에는 일중 최대 일사량이 약 500W/m2로 낮은 일사를 보여주기 때문인 것으로 판단할 수 있다.\n\n그림 2.14 회귀계수를 이용하여 도출해낸 모델의 발전량\n\n그림 2.15 대전 대청동의 1\\~3월 예상발전량 시계열 그래프\n\n\n![image](image_025.png)\n\n\n![image](image_026.png)",
+    "blockRange": [
+      312,
+      328
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0079",
+    "type": "heading",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합"
+    ],
+    "text": "### 2.3.5 발전량 산정방식 별 비교분석",
+    "blockRange": [
+      329,
+      329
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0080",
+    "type": "text",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합",
+      "2.3.5 발전량 산정방식 별 비교분석"
+    ],
+    "text": "기존의 K-water에서 사업성 심사 시 사용하던 예상발전량 방법과 다중회귀분석을 방법을 설비용량 2MW의 보령의 수상태양광발전소 데이터를 이용하여 비교분석하였다. 먼저 기존 방식으로 연간발전량을 추정하자면 일사량은 한국에너지기술연구원에서 서산지역의 10년간 평균 (2001\\~2010)값인 3.79kWh/$m^{2}$ 를 대입하였으며, 이에 따라 예상이용률은 0.144이다. 앞 절의 연간발전량 계산식에 의해 예상발전량은 약 2,422MWh이다. 이 때 수면효과에 의한 효율상승을 10%로 가정한다면 예상발전량은 약 2,665MWh까지 증가하게 된다. 오차율은 수면효과를 반영하였을 때가 반영하지 않았을 때보다 낮았다. 그러나 최근 논문에 의하면 장기간 운영 시 수면효과에 의한 효율상승은 약 5% 정도라는 결과가 있다. 이처럼 장기간 운영 시에는 현재와 같은 정확도를 보장하기 어렵다고 할 수 있다.\n\n다중회귀분석방법을 이용하여 발전량을 예상할 때는 독립변수를 임의로 지정이 가능하다. 일사량만이 독립변수라고 할 수 있는 기존 방법과의 비교를 위해 일사량만 사용한 식부터 일사량, 기온, 풍속, 습도 4가지의 환경변수를 사용한 식까지 나타내었다. 이 때 오차는 독립변수가 많아질수록 정확도가 높아지는 것을 확인할 수 있다. 이 방식은 데이터를 수집하고 전처리를 하는데 많은 시간이 걸린다는 단점이 있지만, 과거데이터가 많을수록 변화의 추이도 반영할 수 있으므로 기존 방식에 비해 보다 정확하게 발전량을 예상할 수 있다고 판단할 수 있다.\n\n표 2.5 보령지역 수상태양광 연간 예상/실제발전량 비교 (a : 일사량 /b : 기온 /c : 풍속 /d : 습도)",
+    "blockRange": [
+      330,
+      332
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0081",
+    "type": "table",
+    "breadcrumb": [
+      "2.3.3.2 데이터 병합",
+      "2.3.5 발전량 산정방식 별 비교분석"
+    ],
+    "text": "| 구분 | 연도 | 실제발전량<br>(kWh) | 기존 예상발전량(kWh) |  | 회귀분석 예상발전량(kWh) |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 구분 | 연도 | 실제발전량<br>(kWh) | - | 10% 반영 | a | abc | abcd |\n| 발전량 | 17년 | 2,736,439 | 2,422,675 | 2,664,943 | - | - | - |\n| 발전량 | 18년 | 2,668,298 | 2,422,675 | 2,664,943 | 2,525,977 | 2,603,749 | 2,636,287 |\n| 오차율(%) | 17년 | - | -11.466 | -2.613 | - | - | - |\n| 오차율(%) | 18년 | - | -9.205 | -0.126 | 5.634 | 2.479 | 1.214 |",
+    "blockRange": [
+      333,
+      333
+    ],
+    "page": 39,
+    "table": {
+      "rows": 6,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0082",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제3장 육상 대비 수상태양광 효율 검증",
+    "blockRange": [
+      334,
+      334
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0083",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증"
+    ],
+    "text": "육상태양광 대비 수상태양광의 효율을 검증하기 위해서 운영 중인 합천댐의 수상태양광과 인근 육상태양광의 4년간 발전량 데이터를 조사하여 장기간 운영시의 이용률과 발전량을 분석하였으며, 분석 프로세스는 그림 3.1과 같다.\n\n그림 3.1 분석대상지를 이용한 발전효율 검증 세부 추진내용\n\n\n![image](image_027.png)",
+    "blockRange": [
+      335,
+      337
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0084",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증"
+    ],
+    "text": "## 3.1 분석대상지 및 분석방법 선정",
+    "blockRange": [
+      338,
+      338
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0085",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정"
+    ],
+    "text": "### 3.1.1 분석대상지 선정",
+    "blockRange": [
+      339,
+      339
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0086",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.1 분석대상지 선정"
+    ],
+    "text": "K-water에서는 그림 3.2와 같이 2008년 주암댐 2.4kW 수상태양광을 시작으로 2011년 합천댐 100kW, 2012년 합천댐 500kW, 2013년 합천댐 100kW, 2015년 보령댐 2MW, 2017년 소양강댐 110kW, 2017년 충주댐 3MW, 2018년 충주댐 200kW 등의 수상태양광 설비를 설치하였다. 주암댐에 설치한 2.4kW 수상태양광은 초창기 연구용으로 설치되었으며 2017년에 철거되어 현재는 운영하고 있지 않다. 따라서 합천댐에 설치되어 운영 중인 수상태양광이 K-water에서 가장 오래 운영하고 있는 설비이므로 이를 기준으로 분석대상지를 선정하고자 하였다.\n\n그림 3.2 K-water의 수상태양광\n\n합천에 운영 중인 수상태양광은 총 3개소이다. 그 중 2013년에 설치된 100kW 수상태양광은 추적식 수상태양광 연구개발을 목적으로 설치되었기 때문에 설비 점검, 발생 문제점 개선 및 보완 등의 사유로 지속적으로 설비 구동이 이루어지지 않아 분석대상지 선정에서 제외하였다. 따라서 수상태양광 분석대상지는 2011년 11월에 설치된 100kW, 2012년 10월에 설치된 500kW 2개소로 선정하였다. 육상태양광 분석대상지는 수상태양광 분석대상지와 동일한 합천지역 내에 유사한 시기에 설치된 태양광 설비 3개소로 선정하였다. 최종 선정한 분석대상지는 표 3.1 및 그림 3.3과 같다.\n\n\n![image](image_028.png)",
+    "blockRange": [
+      340,
+      343
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0087",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.1 분석대상지 선정"
+    ],
+    "text": "**표 3.1 육상 및 수상태양광 분석대상지 현황**\n\n| 구분 | 명칭 | 설치위치 | 설비용량(kW) | 발전개시 |\n| --- | --- | --- | --- | --- |\n| 수상태양광 | A | 합천군 대병면 | 99.4 | 2011.11 |\n| 수상태양광 | B | 합천군 용주면 | 496.8 | 2012.10 |\n| 육상태양광 | C | 합천군 합천읍 | 97.9 | 2013.07 |\n| 육상태양광 | D | 합천군 가야면 | 930.9 | 2013.08 |\n| 육상태양광 | E | 합천군 삼가면 | 130.5 | 2013.06 |",
+    "blockRange": [
+      344,
+      344
+    ],
+    "page": 42,
+    "table": {
+      "rows": 6,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0088",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.1 분석대상지 선정"
+    ],
+    "text": "그림 3.3 육상 및 수상태양광 분석대상지 위치도",
+    "blockRange": [
+      345,
+      345
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0089",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정"
+    ],
+    "text": "### 3.1.2 분석방법 선정",
+    "blockRange": [
+      346,
+      346
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0090",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.2 분석방법 선정"
+    ],
+    "text": "총 5개의 분석대상지를 어떠한 방법으로 비교분석할 것인지 결정해야 필요한 데이터를 선정하고 수집할 수 있다. 설치 지역은 합천으로 동일하나 설치 위치와 시기, 태양광 모듈·인버터 등 설비 현황은 모두 다르기 때문에 이용률, 성능계수, kW당 발전량으로 다면분석을 실시하여 비교 및 분석하고자 하였다. 태양광 모듈의 직·병렬 수, 인버터 용량 등 전체적인 태양광 설비구성을 적용하는 분석방안은 고려해야할 변수가 너무 많아 제외하였다.\n\n\n![image](image_029.png)\n\n- 가. 이용률",
+    "blockRange": [
+      347,
+      349
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0091",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.2 분석방법 선정",
+      "가. 이용률"
+    ],
+    "text": "이용률은 태양광 발전설비가 24시간 동안 운영되었을 때의 발전량과 실제 발전량의 비율이라고 할 수 있다. 태양광 발전설비의 1일 가동비율로 볼 수 있으며, 아래 수식 (3.1)과 같다.\n\n실제발전량\n\n이용률$()=\\frac{(kWh)}{(kW)\\times 24()\\times ()}\\times 100$ 설비용량\t시간 운영일수 일\n\n(3.1)",
+    "blockRange": [
+      350,
+      353
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0092",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.2 분석방법 선정"
+    ],
+    "text": "- 나. 성능계수",
+    "blockRange": [
+      354,
+      354
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0093",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.2 분석방법 선정",
+      "나. 성능계수"
+    ],
+    "text": "성능계수는 태양광 발전설비의 이론적 발전량과 실제 발전량의 비율이라고 할 수 있으며, 아래 수식 (3.2)와 같다. 일사량과 태양광 발전설비의 설치면적, 설치된 태양광 모듈의 효율이 고려되기 때문에, 서로 다른 태양광 발전설비를 비교하더라도 설치위치와 일사량 값의 차이와 관계없이 태양광 발전설비의 성능평가 값으로 이용할 수 있다.\n\n실제발전량\n\n성능계수$()=\\frac{(kWh)}{(kWhm)\\times (m)\\times ()}_{22}\\times 100$일사량\t설치면적\t모듈효율\n\n(3.2)",
+    "blockRange": [
+      355,
+      358
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0094",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.2 분석방법 선정"
+    ],
+    "text": "- 다. kW당 발전량",
+    "blockRange": [
+      359,
+      359
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0095",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.1 분석대상지 및 분석방법 선정",
+      "3.1.2 분석방법 선정",
+      "다. kW당 발전량"
+    ],
+    "text": "kW당 발전량은 발전소별 설비용량이 상이하여 실제발전량을 한눈에 비교하기 어렵기 때문에 설비용량을 동일한 수준으로 두고 발전량을 비교할 수 있으며, 아래 수식 (3.3)과 같다. 이는 단위법(P.U법)과 동일하다고 할 수 있다.\n\n$(kWh)=\\frac{(kWh)\\times 100(kW)}{(kW)}$실제발전량 $100kW$당발전량\n\n설비용량\n\n(3.3)",
+    "blockRange": [
+      360,
+      363
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0096",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증"
+    ],
+    "text": "## 3.2 현장 조사 및 데이터 수집",
+    "blockRange": [
+      364,
+      364
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0097",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집"
+    ],
+    "text": "분석대상지와 분석방법 선정 후 태양광 모듈, 인버터 등 설비현황과 발전량, 일사량 등 운영 데이터가 필요하여 합천지사와 협업을 통해 현장조사와 데이터 수집을 실시하였다. 현장조사는 총 2차례 실시하였으며, 데이터 수집은 K-water 외에 다른 공공기관에 협조를 구하여 시행하였다.",
+    "blockRange": [
+      365,
+      365
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0098",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집"
+    ],
+    "text": "### 3.2.1 현장조사",
+    "blockRange": [
+      366,
+      366
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0099",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집",
+      "3.2.1 현장조사"
+    ],
+    "text": "수상태양광 분석대상지 A, B는 K-water에서 운영하고 있어 설비현황과 운영데이터 수집에 문제가 없으나, 육상태양광 분석대상지는 민간이 소유하고 있기 때문에 데이터 수집이 쉽지 않아 4월경 1차 현장조사를 실시하였다. 현장조사 결과, 분석대상지는 울타리와 잠금장치로 접근이 통제되어 있어 설비현황을 쉽게 파악할 수 없었으며 주변 탐문을 거쳤지만 소유자를 만나거나 연락처를 얻을 수 없었다.\n\n그림 3.4 육상태양광 분석대상지 1차 현장조사\n\n이후 한국전기안전공사 경남북부지사의 협조를 얻고, 소유자의 동의를 받아 8월경 2차 현장조사를 실시하였다. 설치된 태양광 모듈, 인버터 등 설비현황과 현재 운영 상 문제점은 없는지 조사하였다.\n\n그림 3.5 육상태양광 분석대상지 2차 현장조사\n\n\n![image](image_030.png)\n\n\n![image](image_031.png)",
+    "blockRange": [
+      367,
+      372
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0100",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집"
+    ],
+    "text": "### 3.2.2 데이터 수집",
+    "blockRange": [
+      373,
+      373
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0101",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집",
+      "3.2.2 데이터 수집"
+    ],
+    "text": "- 가. 일사량",
+    "blockRange": [
+      374,
+      374
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0102",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집",
+      "3.2.2 데이터 수집",
+      "가. 일사량"
+    ],
+    "text": "수상태양광 분석대상지에 설치된 일사량계의 측정 데이터가 존재하지만 일사량계의 정확도가 낮고 정기적인 교정을 받지 않아 신뢰도가 낮아 일사량은 기상청과 인공위성 데이터를 수집하였다. 기상청의 관측소는 유인관서와 무인관서로 나뉘는데 무인관서에서는 기온, 강수량, 바람, 습도, 일조시간을 관측하며 유인관서에서는 무인관측요소에서 날씨, 구름, 적설을 추가로 관측한다. 합천은 무인관서로 운영되어 일사량을 측정하고 있지 않아 그림 3.6과 같이 주변지역 유인관서 3개소로 함양, 진주, 의령을 선정하였다.\n\n그림 3.6 분석대상지와 인근 기상청 유인관서 위치도\n\n합천 인근의 함양, 진주, 의령 3개소의 유인관서를 선정한 후 발전량 데이터 수집 기간과 동일하게 2013년 10월부터 2018년 6월까지 일사량 데이터를 수집하였다. 과거 날씨자료는 기상청에서 운영하는 기상자료개방포털에서 조회 및 이용이 가능하다.\n\n그림 3.7 기상청 기상자료개방포털\n\n\n![image](image_032.png)\n\n\n![image](image_033.png)\n\n기상청 자료 외에 한국에너지기술연구원(KIER)에서 운영 중인 신재생에너지 데이터센터를 통해 일사량 자료를 확보할 수 있다. KIER이 16개 지점에서 관측한 1982년부터 2012년까지 일사량 자료를 그림 3.8과 같이 조회할 수 있다. 또한, 16개 지점의 관측 자료를 근거로 보간법이 적용된 자원지도를 그림 3.9와 같이 제공하고 있다.\n\n그림 3.8 신재생에너지 데이터센터의 태양광에너지 자료\n\n그림 3.9 신재생에너지 데이터센터의 자원지도 자료\n\n\n![image](image_034.png)\n\n\n![image](image_035.png)\n\n신재생에너지 데이터센터에서 제공하는 데이터는 신규 사업 타당성 검토단계에서 연간발전량 산정을 위한 일사량 평균값으로 사용할 수 있으나, 현재 분석대상지의 발전효율을 분석하기 위하여 분석기간 내의 월별 일사량 데이터가 필요하다. 기상청 수집 데이터는 정확한 합천지역의 데이터가 아니기 때문에 데이터 신뢰성 확보 및 비교검증을 위하여 KIER의 태양광 자원지도 데이터 활용 협조를 구하였다. 2013년 10월부터 2018년 6월까지 전체 분석기간 중 분석대상지 5개 지점의 일사량 자료를 얻는 것이 가장 좋지만 전체 데이터를 얻는 데 무리가 있어 분석대상지 B(수상), C(육상) 2개 지점의 2014년부터 2015년까지 월별 수평면 전일사량 데이터를 요청하였다.\n\n또한 K-water 물순환연구소 위성활용부에 위성영상을 활용한 일사량 데이터를 요청하였다. 요청지점은 KIER에 요청한 것과 같이 분석대상지 B(수상), C(육상) 2개 지점으로 한정하였으며, 분석기간은 2013년 10월부터 2018년 6월까지 전체 분석기간을 요청하였다.",
+    "blockRange": [
+      375,
+      387
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0103",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집",
+      "3.2.2 데이터 수집"
+    ],
+    "text": "- 나. 발전량",
+    "blockRange": [
+      388,
+      388
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0104",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집",
+      "3.2.2 데이터 수집",
+      "나. 발전량"
+    ],
+    "text": "발전량은 전력거래량을 기준으로 2013년 10월부터 2018년 6월까지 수집하였다. 수상태양광 분석대상지의 월별발전량은 모니터링 시스템의 값을 이용할 경우 전력거래량과 오차가 있기 때문에 그림 3.10과 같이 K-water 발전종합정보시스템을 이용하였다. 육상태양광 분석대상지의 월별발전량은 한국전력공사 합천지사의 협조를 얻어 데이터를 제공받았다.\n\n그림 3.10 K-water 발전종합정보시스템",
+    "blockRange": [
+      389,
+      390
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0105",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집",
+      "3.2.2 데이터 수집"
+    ],
+    "text": "- 다. 설비사양",
+    "blockRange": [
+      391,
+      391
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0106",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집",
+      "3.2.2 데이터 수집",
+      "다. 설비사양"
+    ],
+    "text": "1차, 2차 현장조사 결과를 바탕으로 수집한 태양광 모듈의 사양은 아래 표 3.2와 같으며, 이를 이용하여 분석에 활용하였다.\n\n\n![image](image_036.png)",
+    "blockRange": [
+      392,
+      393
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0107",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.2 현장 조사 및 데이터 수집",
+      "3.2.2 데이터 수집",
+      "다. 설비사양"
+    ],
+    "text": "**표 3.2 분석대상지 태양광 모듈 조사**\n\n|  | A | B | C | D | E |\n| --- | --- | --- | --- | --- | --- |\n| 모듈 수량(장) | 414 | 1,656 | 384 | 3,210 | 450 |\n| 모듈 면적(㎡) | 1.61 | 1.92 | 1.94 | 1.94 | 1.97 |\n| Pmax(W) | 240 | 300 | 255 | 290 | 290 |\n| Vmp(V) | 29.9 | 36.22 | 30.7 | 36.2 | 36.3 |\n| Imp(A) | 8.16 | 8.29 | 8.31 | 8.01 | 7.99 |\n| Voc(V) | 38 | 45.22 | 37.6 | 44 | 44.7 |\n| Isc(A) | 8.64 | 8.91 | 8.9 | 8.55 | 8.5 |\n| 모듈 효율(%) | 14.89 | 15.54 | 15.67 | 14.9 | 14.7 |",
+    "blockRange": [
+      394,
+      394
+    ],
+    "page": 48,
+    "table": {
+      "rows": 9,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0108",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증"
+    ],
+    "text": "## 3.3 데이터 평가 및 보정",
+    "blockRange": [
+      395,
+      395
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0109",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정"
+    ],
+    "text": "### 3.3.1 일사량 데이터 특징",
+    "blockRange": [
+      396,
+      396
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0110",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.1 일사량 데이터 특징"
+    ],
+    "text": "합천 육상 및 수상태양광 발전효율 검증을 위하여 수집한 일사량 데이터는 총 3가지 종류로 합천 인근 지역에서 관측한 기상청 일사량, KIER의 협조로 얻은 인공위성 일사량, K-water 물순환연구소의 협조로 얻은 인공위성 일사량이다. 기상청 일사량 데이터는 기상자료개방포털을 이용하여 원하는 지점과 기간의 자료를 쉽게 확보할 수 있다는 장점이 있으나, 모든 지역의 일사량을 관측하지 않는다는 단점이 있다. 합천은 무인관서에 해당되어 일사량을 관측하지 않아 합천 주변의 3개 지역의 일사량 평균값을 데이터 평가에 이용하고자 한다.\n\nKIER의 일사량 데이터는 KIER에서 개발한 태양 자원지도를 기반으로 한다. 천리안 위성영상을 기반으로 수평면 전일사량 산출을 위하여 물리 모형을 개발하였다. Heliosat-Ⅱ 방법을 이용하여 ESRA 물리모델을 국내에 최적화하였고 이를 통하여 청천시점의 직달 및 산란 일사량 추정의 정확도를 높였다. 청천지수 보정식을 2차식의 형태로 새롭게 도출하고 이를 적용하여 전일사량의 정확도를 높일 수 있었다.(한국에너지기술연구원, 2016) 원하는 지점의 과거 일사량을 정확도 높게 얻을 수 있으나, 분석에 활용하고자 하는 전체 지점(분석대상지 A\\~D)과 기간(2013년 10월\\~2018년 6월)의 데이터를 얻지 못했다.\n\n물순환연구소의 일사량 데이터는 천리안 위성영상을 기반으로 한다. 천리안위성의 표면도달일사량은 4km×4km의 공간해상도로 제공되고 있고, 실제적으로 지상에서 관측하기 어려운 접근 불능지역에 대한 일사량을 간접적으로 관측할 수 있는 장점이 있다. 본 일사량 데이터에 사용된 천리안위성 자료는 MI 센서로부터 측정된 Level2 지면도달일사량자료이며 공간해상도는 4 km × 4 km인 북반구 확장자료(1934×1544)이다. 그림 3.11은 천리안위성에서 관측된 겨울과 여름의 지면도달일사량 값을 보여주고 있다.\n\n그림 3.11 천리안 위성 관측 지면도달일사량\n\n천리안 일사량 자료는 15분 누적 데이터로 제공되고 있다. 따라서 이를 일 단위 데이터로 변환하는 전처리 과정을 우선 수행하였으며, 변환 중에 누락된 결측 데이터는 제외하고 누적 데이터를 산출하였다. 2018년 1월\\~2018년 3월에는 일별로 결측이 발생하였고, 5월은 전체 데이터가 결측되어 일 누적 일사량 데이터가 산출되지 않았다.",
+    "blockRange": [
+      397,
+      401
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0111",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정"
+    ],
+    "text": "### 3.3.2 일사량 데이터 평가",
+    "blockRange": [
+      402,
+      402
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0112",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가"
+    ],
+    "text": "- 가. 분석 데이터 선정",
+    "blockRange": [
+      403,
+      403
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0113",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "가. 분석 데이터 선정"
+    ],
+    "text": "일사량 데이터 평가를 위하여 확보한 데이터는 아래 표 3.3과 같으며, 2014년 1월부터 2015년 12월까지의 월간 일사량 데이터를 평가하였다. 기상청과 K-water의 일사량 데이터는 2013년 10월부터 2018년 6월까지 확보하였으나, KIER의 일사량 데이터는 2014년 1월부터 2015년 12월까지 확보하여 분석기간을 최소로 선정하였다.",
+    "blockRange": [
+      404,
+      404
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0114",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "가. 분석 데이터 선정"
+    ],
+    "text": "**표 3.3 일사량 데이터 평가 자료**\n\n| 구분 | 측정방법 | 데이터 기간 | 기타사항 |\n| --- | --- | --- | --- |\n| 기상청 | 유인관측 | 2013.10.∼2018.06. | - 합천 주변 3개 지역 평균값 |\n| KIER | 인공위성 | 2014.01.∼2015.12. | - 천리안 위성 2개 지점(B, C) 자료<br>- 국내 최적화 보정 적용 |\n| K-water | 인공위성 | 2013.10.∼2018.06. | - 천리안 위성 2개 지점(B, C) 자료<br>- 2018년 일부 결측자료 발생 |",
+    "blockRange": [
+      405,
+      405
+    ],
+    "page": 49,
+    "table": {
+      "rows": 4,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0115",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가"
+    ],
+    "text": "- 나. KIER의 2개 지점 간 일사량 분석",
+    "blockRange": [
+      406,
+      406
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0116",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "나. KIER의 2개 지점 간 일사량 분석"
+    ],
+    "text": "KIER의 2개 지점(분석대상지 B, C) 일사량이 동일한지 여부를 분석하였다. 우선 통계적 모형에서의 분산이 같은가, 즉 등분산 여부를 검정하는 것이 F-검정이다. 분산에 대한 두 집단의 동질성을 표 3.4와 같이 확인하였다. 엑셀프로그램 내의 통계분석도구를 사용하여 분석을 실시한 후 제공되는 값을 이용하여 귀무가설의 기각 여부를 판단하게 되는데, 통상적으로 유의확률인 P값을 활용한다. P값이 설정한 유의수준보다 작으면 귀무가설을 기각하고 대립가설을 선택하게 되는데 P값이 0.05보다 크면 귀무가설은 기각되지 않는다. B지점과 C 지점의 일사량 비교시 $P$값 $=0.475\\times 2=0.950>0.05$이므로 신뢰수준 95%에서 등분산을 만족한다.\n\n\n![image](image_037.png)",
+    "blockRange": [
+      407,
+      408
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0117",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "나. KIER의 2개 지점 간 일사량 분석"
+    ],
+    "text": "**표 3.4 일사량 데이터 F 검정(1)**\n\n| 구분 | B 일사량(KIER) | C 일사량(KIER) |\n| --- | --- | --- |\n| 평균 | 108.6349 | 109.1823 |\n| 분산 | 1227.23 | 1194.826 |\n| 관측수 | 24 | 24 |\n| 자유도 | 23 | 23 |\n| F 비 | 1.027121 | C 일사량(KIER) |\n| P(F<=f) 단측 검정 | 0.474695 | 109.1823 |\n| F 기각치: 단측 검정 | 2.014425 | 1194.826 |",
+    "blockRange": [
+      409,
+      409
+    ],
+    "page": 50,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0118",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "나. KIER의 2개 지점 간 일사량 분석"
+    ],
+    "text": "이후 t 검정으로 KIER의 2개 지점 일사량 간 차이가 의미 있는 지 표 3.5와 같이 확인하였다. $P$값 $=0.956781>0.05$이므로 수상 일사량과 육상 일사량의 차이는 신뢰수준 95%에서 통계적으로 유의하지 않아 차이가 없다. 즉, KIER의 2개 지점의 일사량은 동일하다고 할 수 있다.",
+    "blockRange": [
+      410,
+      410
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0119",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "나. KIER의 2개 지점 간 일사량 분석"
+    ],
+    "text": "**표 3.5 일사량 데이터 t 검정(1)**\n\n| 구분 | B 일사량(KIER) | C 일사량(KIER) |\n| --- | --- | --- |\n| 평균 | 108.6349 | 109.1823 |\n| 분산 | 1227.23 | 1194.826 |\n| 관측수 | 24 | 24 |\n| 공동(Pooled) 분산 | 1211.028 |  |\n| 가설 평균차 | 0 |  |\n| 자유도 | 46 |  |\n| t 통계량 | -0.05449 |  |\n| P(T<=t) 단측 검정 | 0.478391 |  |\n| t 기각치 단측 검정 | 1.67866 |  |\n| P(T<=t) 양측 검정 | 0.956781 |  |\n| t 기각치 양측 검정 | 2.012896 |  |",
+    "blockRange": [
+      411,
+      411
+    ],
+    "page": 50,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0120",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가"
+    ],
+    "text": "- 다. K-water의 2개 지점 간 일사량 분석",
+    "blockRange": [
+      412,
+      412
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0121",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "다. K-water의 2개 지점 간 일사량 분석"
+    ],
+    "text": "K-water의 2개 지점(분석대상지 B, C) 일사량이 동일한지 여부를 분석하였다. 우선 F 검정으로 분산에 대한 두 집단의 동질성을 표 3.6과 같이 확인하였다. $P$값 $=0.481\\times 2=0.962>0.05$이므로 신뢰수준 95%에서 등분산을 만족한다.",
+    "blockRange": [
+      413,
+      413
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0122",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "다. K-water의 2개 지점 간 일사량 분석"
+    ],
+    "text": "**표 3.6 일사량 데이터 F 검정(2)**\n\n| 구분 | B 일사량(K-water) | C 일사량(K-water) |\n| --- | --- | --- |\n| 평균 | 91.23894 | 91.30995 |\n| 분산 | 819.0636 | 802.3974 |\n| 관측수 | 24 | 24 |\n| 자유도 | 23 | 23 |\n| F 비 | 1.020771 |  |\n| P(F<=f) 단측 검정 | 0.480554 |  |\n| F 기각치: 단측 검정 | 2.014425 |  |",
+    "blockRange": [
+      414,
+      414
+    ],
+    "page": 51,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0123",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "다. K-water의 2개 지점 간 일사량 분석"
+    ],
+    "text": "이후 t 검정으로 K-water의 2개 지점 일사량 간 차이가 의미 있는 지 표 3.7과 같이 확인하였다. $P$값 $=0.993144>0.05$이므로 수상 일사량과 육상 일사량의 차이는 신뢰수준 95%에서 통계적으로 유의하지 않아 차이가 없다. 즉, K-water의 2개 지점의 일사량은 동일하다고 할 수 있다.",
+    "blockRange": [
+      415,
+      415
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0124",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "다. K-water의 2개 지점 간 일사량 분석"
+    ],
+    "text": "**표 3.7 일사량 데이터 t 검정(2)**\n\n| 구분 | B 일사량(K-water) | C 일사량(K-water) |\n| --- | --- | --- |\n| 평균 | 91.23894 | 91.30995 |\n| 분산 | 819.0636 | 802.3974 |\n| 관측수 | 24 | 24 |\n| 공동(Pooled) 분산 | 810.7305 |  |\n| 가설 평균차 | 0 |  |\n| 자유도 | 46 |  |\n| t 통계량 | -0.00864 |  |\n| P(T<=t) 단측 검정 | 0.496572 |  |\n| t 기각치 단측 검정 | 1.67866 |  |\n| P(T<=t) 양측 검정 | 0.993144 |  |\n| t 기각치 양측 검정 | 2.012896 |  |",
+    "blockRange": [
+      416,
+      416
+    ],
+    "page": 51,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0125",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가"
+    ],
+    "text": "- 라. KIER, K-water, 기상청 일사량 분석",
+    "blockRange": [
+      417,
+      417
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0126",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "라. KIER, K-water, 기상청 일사량 분석"
+    ],
+    "text": "KIER의 B, C지점 일사량, K-water의 B, C지점 일사량, 기상청 일사량 간 차이가 의미 있는 지 표 3.8과 같이 확인하였다. F기각치보다 F비가 크므로(F비 3.565 > F기각치 2.451) 각 일사량 간 차이는 신뢰수준 99%에서 통계적으로 유의하여 차이가 있다. 즉, 각각의 일사량을 모두 동일하게 볼 수 없다.\n\n요약표",
+    "blockRange": [
+      418,
+      419
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0127",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "라. KIER, K-water, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.8 일사량 데이터 ANOVA 검정(1)**\n\n| 인자의 수준 | 관측수 | 합 | 평균 | 분산 |\n| --- | --- | --- | --- | --- |\n| B 일사량(KIER) | 24 | 2607.237 | 108.6349 | 1227.230 |\n| C 일사량(KIER) | 24 | 2620.375 | 109.1823 | 1194.813 |\n| B 일사량(K-water) | 24 | 2189.735 | 91.2389 | 819.064 |\n| C 일사량(K-water) | 24 | 2191.439 | 91.3010 | 802.397 |\n| 일사량(기상청) | 24 | 2885.685 | 120.2369 | 1307.067 |",
+    "blockRange": [
+      420,
+      420
+    ],
+    "page": 52,
+    "table": {
+      "rows": 6,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0128",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "라. KIER, K-water, 기상청 일사량 분석"
+    ],
+    "text": "분산분석",
+    "blockRange": [
+      421,
+      421
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0129",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "라. KIER, K-water, 기상청 일사량 분석"
+    ],
+    "text": "| 변동의 요인 | 제곱합 | 자유도 | 제곱 평균 | F비 | P-값 | F 기각치 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 처리 | 15258.8 | 4 | 3814.706 | 3.564756 | 0.008851 | 2.450571 |\n| 잔차 | 123063.4 | 115 | 1070.117 |  |  |  |\n| 계 | 138322.3 | 119 |  |  |  |  |",
+    "blockRange": [
+      422,
+      422
+    ],
+    "page": 52,
+    "table": {
+      "rows": 4,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0130",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가"
+    ],
+    "text": "- 마. KIER, K-water 일사량 분석",
+    "blockRange": [
+      423,
+      423
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0131",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "KIER과 K-water의 일사량 집단이 동일한지 여부를 분석하고자 한다. KIER의 B, C지점 일사량과 K-water의 B, C지점 일사량 간 차이가 의미 있는 지 표 3.9와 같이 확인하였다. F기각치가 F비보다 크므로(F비 2.462 < F기각치 4.002) 각 일사량 간 차이는 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다.\n\n요약표",
+    "blockRange": [
+      424,
+      425
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0132",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "**표 3.9 일사량 데이터 ANOVA 검정(2)**\n\n| 인자의 수준 | 관측수 | 합 | 평균 | 분산 |\n| --- | --- | --- | --- | --- |\n| B 일사량(KIER) | 24 | 2607.237 | 108.6349 | 1227.230 |\n| C 일사량(KIER) | 24 | 2620.375 | 109.1823 | 1194.813 |\n| B 일사량(K-water) | 24 | 2189.735 | 91.2390 | 819.064 |\n| C 일사량(K-water) | 24 | 2191.439 | 91.3010 | 802.397 |",
+    "blockRange": [
+      426,
+      426
+    ],
+    "page": 52,
+    "table": {
+      "rows": 5,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0133",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "분산분석",
+    "blockRange": [
+      427,
+      427
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0134",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "| 변동의 요인 | 제곱합 | 자유도 | 제곱 평균 | F비 | P-값 | F 기각치 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 처리 | 7466.8 | 3 | 2488.923 | 2.462137 | 0.0674751 | 4.001894 |\n| 잔차 | 93000.9 | 92 | 1010.879 |  |  |  |\n| 계 | 100467.7 | 95 |  |  |  |  |",
+    "blockRange": [
+      428,
+      428
+    ],
+    "page": 52,
+    "table": {
+      "rows": 4,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0135",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "F 검정으로 KIER의 B지점 일사량과 K-water의 B지점 일사량의 분산에 대한 두 집단의 동질성을 표 3.10과 같이 확인하였다. $P$값 $=0.170\\times 2=0.340>0.05$이므로 신뢰수준 95%에서 등분산을 만족한다.",
+    "blockRange": [
+      429,
+      429
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0136",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "**표 3.10 일사량 데이터 F 검정(3)**\n\n| 구분 | B 일사량(KIER) | B 일사량(K-water) |\n| --- | --- | --- |\n| 평균 | 108.6349 | 91.2389 |\n| 분산 | 1227.2301 | 819.0636 |\n| 관측수 | 24 | 24 |\n| 자유도 | 23 | 23 |\n| F 비 | 1.4983 |  |\n| P(F<=f) 단측 검정 | 0.1696 |  |\n| F 기각치: 단측 검정 | 2.0144 |  |",
+    "blockRange": [
+      430,
+      430
+    ],
+    "page": 53,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0137",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "t 검정으로 KIER의 B지점 일사량과 K-water의 B지점 일사량 간 차이가 의미 있는 지 표 3.11과 같이 확인하였다. $P$값 $=0.06590>0.05$이므로 KIER의 B지점 일사량과 K-water의 B지점 일사량의 차이는 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다. 즉, KIER의 B지점 일사량과 K-water의 B지점 일사량은 동일하다고 할 수 있다.",
+    "blockRange": [
+      431,
+      431
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0138",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "**표 3.11 일사량 데이터 t 검정(3)**\n\n| 구분 | B 일사량(KIER) | B 일사량(K-water) |\n| --- | --- | --- |\n| 평균 | 108.6349 | 91.2389 |\n| 분산 | 1227.2301 | 819.0636 |\n| 관측수 | 24 | 24 |\n| 공동(Pooled) 분산 | 1023.1469 |  |\n| 가설 평균차 | 0 |  |\n| 자유도 | 46 |  |\n| t 통계량 | 1.88395 |  |\n| P(T<=t) 단측 검정 | 0.03295 |  |\n| t 기각치 단측 검정 | 2.41019 |  |\n| P(T<=t) 양측 검정 | 0.06590 |  |\n| t 기각치 양측 검정 | 2.68701 |  |",
+    "blockRange": [
+      432,
+      432
+    ],
+    "page": 53,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0139",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "F 검정으로 KIER의 C지점 일사량과 K-water의 C지점 일사량의 분산에 대한 두 집단의 동질성을 표 3.12와 같이 확인하였다. $P$값 $=0.173\\times 2=0.346>0.05$이므로 신뢰수준 95%에서 등분산을 만족한다.",
+    "blockRange": [
+      433,
+      433
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0140",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "**표 3.12 일사량 데이터 F 검정(4)**\n\n| 구분 | C 일사량(KIER) | C 일사량(K-water) |\n| --- | --- | --- |\n| 평균 | 109.1823 | 91.3100 |\n| 분산 | 1194.8256 | 802.3974 |\n| 관측수 | 24 | 24 |\n| 자유도 | 23 | 23 |\n| F 비 | 1.4891 |  |\n| P(F<=f) 단측 검정 | 0.1733 |  |\n| F 기각치: 단측 검정 | 2.0144 |  |",
+    "blockRange": [
+      434,
+      434
+    ],
+    "page": 54,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0141",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "t 검정으로 KIER의 C지점 일사량과 K-water의 C지점 일사량 간 차이가 의미 있는 지 표 3.13과 같이 확인하였다. $P$값 $=0.05617>0.01$이므로 KIER의 C지점 일사량과 K-water의 C지점 일사량의 차이는 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다. 즉, KIER의 C지점 일사량과 K-water의 C지점 일사량은 동일하다고 할 수 있다.",
+    "blockRange": [
+      435,
+      435
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0142",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "마. KIER, K-water 일사량 분석"
+    ],
+    "text": "**표 3.13 일사량 데이터 t 검정(4)**\n\n| 구분 | C 일사량(KIER) | C 일사량(K-water) |\n| --- | --- | --- |\n| 평균 | 109.1823 | 91.3100 |\n| 분산 | 1194.8256 | 802.3974 |\n| 관측수 | 24 | 24 |\n| 공동(Pooled) 분산 | 998.6115 |  |\n| 가설 평균차 | 0 |  |\n| 자유도 | 46 |  |\n| t 통계량 | 1.95918 |  |\n| P(T<=t) 단측 검정 | 0.02808 |  |\n| t 기각치 단측 검정 | 2.41019 |  |\n| P(T<=t) 양측 검정 | 0.05617 |  |\n| t 기각치 양측 검정 | 2.68701 |  |",
+    "blockRange": [
+      436,
+      436
+    ],
+    "page": 54,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0143",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가"
+    ],
+    "text": "- 바. KIER, 기상청 일사량 분석",
+    "blockRange": [
+      437,
+      437
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0144",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "KIER과 기상청의 일사량 집단이 동일한지 여부를 분석하고자 한다. KIER의 B, C지점 일사량과 기상청 일사량 간 차이가 의미 있는 지 표 3.14와 같이 확인하였다. F기각치가 F비보다 크므로(F비 0.827 < F기각치 4.927) 각 일사량 간 차이는 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다.\n\n요약표",
+    "blockRange": [
+      438,
+      439
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0145",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.14 일사량 데이터 ANOVA 검정(3)**\n\n| 인자의 수준 | 관측수 | 합 | 평균 | 분산 |\n| --- | --- | --- | --- | --- |\n| B 일사량(KIER) | 24 | 2607.237 | 108.6349 | 1227.230 |\n| C 일사량(KIER) | 24 | 2620.375 | 109.1823 | 1194.813 |\n| 일사량(기상청) | 24 | 2885.685 | 120.2369 | 1307.067 |",
+    "blockRange": [
+      440,
+      440
+    ],
+    "page": 55,
+    "table": {
+      "rows": 4,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0146",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "분산분석",
+    "blockRange": [
+      441,
+      441
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0147",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "| 변동의 요인 | 제곱합 | 자유도 | 제곱 평균 | F비 | P-값 | F 기각치 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 처리 | 2056.9 | 2 | 1028.441 | 0.827359 | 0.4414925 | 4.926671 |\n| 잔차 | 85769.8 | 69 | 1243.041 |  |  |  |\n| 계 | 87826.7 | 71 |  |  |  |  |",
+    "blockRange": [
+      442,
+      442
+    ],
+    "page": 55,
+    "table": {
+      "rows": 4,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0148",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "F 검정으로 KIER의 B지점 일사량과 기상청 일사량의 분산에 대한 두 집단의 동질성을 표 3.15와 같이 확인하였다. $P$값 $=0.441\\times 2=0.882>0.05$이므로 신뢰수준 95%에서 등분산을 만족한다.",
+    "blockRange": [
+      443,
+      443
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0149",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.15 일사량 데이터 F 검정(5)**\n\n| 구분 | B 일사량(KIER) | 일사량(기상청) |\n| --- | --- | --- |\n| 평균 | 108.6349 | 120.2369 |\n| 분산 | 1227.23 | 1307.067 |\n| 관측수 | 24 | 24 |\n| 자유도 | 23 | 23 |\n| F 비 | 0.938919 |  |\n| P(F<=f) 단측 검정 | 0.440585 |  |\n| F 기각치: 단측 검정 | 0.49642 |  |",
+    "blockRange": [
+      444,
+      444
+    ],
+    "page": 55,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0150",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "이후 t 검정으로 KIER의 B지점 일사량과 기상청 일사량 간 차이가 의미 있는 지 표 3.16과 같이 확인하였다. $P$값 $=0.26473>0.05$이므로 KIER의 B지점 일사량과 기상청 일사량의 차이는 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다. 즉, KIER의 B지점 일사량과 기상청 일사량은 동일하다고 할 수 있다.",
+    "blockRange": [
+      445,
+      445
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0151",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.16 일사량 데이터 t 검정(5)**\n\n| 구분 | B 일사량(KIER) | 일사량(기상청) |\n| --- | --- | --- |\n| 평균 | 108.6349 | 120.2369 |\n| 분산 | 1227.2301 | 1307.0671 |\n| 관측수 | 24 | 24 |\n| 공동(Pooled) 분산 | 1267.1486 |  |\n| 가설 평균차 | 0 |  |\n| 자유도 | 46 |  |\n| t 통계량 | -1.12904 |  |\n| P(T<=t) 단측 검정 | 0.13237 |  |\n| t 기각치 단측 검정 | 2.41019 |  |\n| P(T<=t) 양측 검정 | 0.26473 |  |\n| t 기각치 양측 검정 | 2.68701 |  |",
+    "blockRange": [
+      446,
+      446
+    ],
+    "page": 56,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0152",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "F 검정으로 KIER의 C지점 일사량과 기상청 일사량의 분산에 대한 두 집단의 동질성을 표 3.17과 같이 확인하였다. $P$값 $=0.416\\times 2=0.832>0.05$이므로 신뢰수준 95%에서 등분산을 만족한다.",
+    "blockRange": [
+      447,
+      447
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0153",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.17 일사량 데이터 F 검정(6)**\n\n| 구분 | C 일사량(KIER) | 일사량(기상청) |\n| --- | --- | --- |\n| 평균 | 109.1823 | 120.2369 |\n| 분산 | 1194.8256 | 1307.0671 |\n| 관측수 | 24 | 24 |\n| 자유도 | 23 | 23 |\n| F 비 | 0.914127 |  |\n| P(F<=f) 단측 검정 | 0.415688 |  |\n| F 기각치: 단측 검정 | 0.496420 |  |",
+    "blockRange": [
+      448,
+      448
+    ],
+    "page": 56,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0154",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "이후 t 검정으로 KIER의 C지점 일사량과 기상청 일사량 간 차이가 의미 있는 지 표 3.18과 같이 확인하였다. $P$값 $=0.28458>0.05$이므로 KIER의 B지점 일사량과 기상청 일사량의 차이는 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다. 즉, KIER의 B지점 일사량과 기상청 일사량은 동일하다고 할 수 있다.",
+    "blockRange": [
+      449,
+      449
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0155",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "바. KIER, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.18 일사량 데이터 t 검정(6)**\n\n| 구분 | C 일사량(KIER) | 일사량(기상청) |\n| --- | --- | --- |\n| 평균 | 109.1823 | 120.2369 |\n| 분산 | 1194.8256 | 1307.0671 |\n| 관측수 | 24 | 24 |\n| 공동(Pooled) 분산 | 1250.9464 |  |\n| 가설 평균차 | 0 |  |\n| 자유도 | 46 |  |\n| t 통계량 | -1.08272 |  |\n| P(T<=t) 단측 검정 | 0.14229 |  |\n| t 기각치 단측 검정 | 2.41019 |  |\n| P(T<=t) 양측 검정 | 0.28458 |  |\n| t 기각치 양측 검정 | 2.68701 |  |",
+    "blockRange": [
+      450,
+      450
+    ],
+    "page": 57,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0156",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가"
+    ],
+    "text": "- 사. K-water, 기상청 일사량 분석",
+    "blockRange": [
+      451,
+      451
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0157",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "K-water와 기상청의 일사량 집단이 동일한지 여부를 분석하고자 한다. K-water의 B, C지점 일사량과 기상청 일사량 간 차이가 의미 있는 지 표 3.19와 같이 확인하였다. F기각치가 F비보다 작으므로(F비 6.874 > F기각치 4.927) 각 일사량 간 차이는 신뢰수준 99%에서 통계적으로 유의하여 차이가 있다.\n\n요약표",
+    "blockRange": [
+      452,
+      453
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0158",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.19 일사량 데이터 ANOVA 검정(4)**\n\n| 인자의 수준 | 관측수 | 합 | 평균 | 분산 |\n| --- | --- | --- | --- | --- |\n| B 일사량(K-water) | 24 | 2189.735 | 91.2390 | 819.064 |\n| C 일사량(K-water) | 24 | 2191.439 | 91.3010 | 802.397 |\n| 일사량(기상청) | 24 | 2885.685 | 120.2369 | 1307.067 |",
+    "blockRange": [
+      454,
+      454
+    ],
+    "page": 57,
+    "table": {
+      "rows": 4,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0159",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "분산분석",
+    "blockRange": [
+      455,
+      455
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0160",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "| 변동의 요인 | 제곱합 | 자유도 | 제곱 평균 | F비 | P-값 | F 기각치 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 처리 | 13421.2 | 2 | 6710.616 | 6.874392 | 0.0018946 | 4.926671 |\n| 잔차 | 67356.1 | 69 | 976.176 |  |  |  |\n| 계 | 80777.4 | 71 |  |  |  |  |",
+    "blockRange": [
+      456,
+      456
+    ],
+    "page": 57,
+    "table": {
+      "rows": 4,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0161",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "F 검정으로 K-water의 B지점 일사량과 기상청 일사량의 분산에 대한 두 집단의 동질성을 표 3.20과 같이 확인하였다. $P$값 $=0.135\\times 2=0.270>0.05$이므로 신뢰수준 95%에서 등분산을 만족한다.",
+    "blockRange": [
+      457,
+      457
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0162",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.20 일사량 데이터 F 검정(7)**\n\n| 구분 | B 일사량(K-water) | 일사량(기상청) |\n| --- | --- | --- |\n| 평균 | 91.23894 | 120.2369 |\n| 분산 | 819.0636 | 1307.067 |\n| 관측수 | 24 | 24 |\n| 자유도 | 23 | 23 |\n| F 비 | 0.62664 |  |\n| P(F<=f) 단측 검정 | 0.13486 |  |\n| F 기각치: 단측 검정 | 0.49642 |  |",
+    "blockRange": [
+      458,
+      458
+    ],
+    "page": 58,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0163",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "이후 t 검정으로 K-water의 B지점 일사량과 기상청 일사량 간 차이가 의미 있는 지 표 3.21과 같이 확인하였다. $P$값 $=0.0035<0.05$이므로 K-water의 B지점 일사량과 기상청 일사량의 차이는 신뢰수준 99%에서 통계적으로 유의하여 차이가 있다. 즉, K-water의 B지점 일사량과 기상청 일사량은 동일하지 않다고 할 수 있다.",
+    "blockRange": [
+      459,
+      459
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0164",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.21 일사량 데이터 t 검정(7)**\n\n| 구분 | B 일사량(K-water) | 일사량(기상청) |\n| --- | --- | --- |\n| 평균 | 91.2389 | 120.2369 |\n| 분산 | 819.0636 | 1307.0671 |\n| 관측수 | 24 | 24 |\n| 공동(Pooled) 분산 | 1063.0654 |  |\n| 가설 평균차 | 0 |  |\n| 자유도 | 46 |  |\n| t 통계량 | -3.0809 |  |\n| P(T<=t) 단측 검정 | 0.0017 |  |\n| t 기각치 단측 검정 | 2.4102 |  |\n| P(T<=t) 양측 검정 | 0.0035 |  |\n| t 기각치 양측 검정 | 2.6870 |  |",
+    "blockRange": [
+      460,
+      460
+    ],
+    "page": 58,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0165",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "F 검정으로 K-water의 C지점 일사량과 기상청 일사량의 분산에 대한 두 집단의 동질성을 표 3.22와 같이 확인하였다. $P$값 $=0.125\\times 2=0.250>0.05$이므로 신뢰수준 95%에서 등분산을 만족한다.",
+    "blockRange": [
+      461,
+      461
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0166",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.22 일사량 데이터 F 검정(8)**\n\n| 구분 | C 일사량(K-water) | 일사량(기상청) |\n| --- | --- | --- |\n| 평균 | 91.3100 | 120.2369 |\n| 분산 | 802.3974 | 1307.067 |\n| 관측수 | 24 | 24 |\n| 자유도 | 23 | 23 |\n| F 비 | 0.61390 |  |\n| P(F<=f) 단측 검정 | 0.12470 |  |\n| F 기각치: 단측 검정 | 0.49642 |  |",
+    "blockRange": [
+      462,
+      462
+    ],
+    "page": 59,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0167",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "이후 t 검정으로 K-water의 C지점 일사량과 기상청 일사량 간 차이가 의미 있는 지 표 3.23과 같이 확인하였다. $P$값 $=0.0035<0.05$이므로 K-water의 C지점 일사량과 기상청 일사량의 차이는 신뢰수준 99%에서 통계적으로 유의하여 차이가 있다. 즉, K-water의 C지점 일사량과 기상청 일사량은 동일하지 않다고 할 수 있다.",
+    "blockRange": [
+      463,
+      463
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0168",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "사. K-water, 기상청 일사량 분석"
+    ],
+    "text": "**표 3.23 일사량 데이터 t 검정(8)**\n\n| 구분 | C 일사량(K-water) | 일사량(기상청) |\n| --- | --- | --- |\n| 평균 | 91.3100 | 120.2369 |\n| 분산 | 802.3974 | 1307.0671 |\n| 관측수 | 24 | 24 |\n| 공동(Pooled) 분산 | 1054.7322 |  |\n| 가설 평균차 | 0 |  |\n| 자유도 | 46 |  |\n| t 통계량 | -3.0855 |  |\n| P(T<=t) 단측 검정 | 0.0017 |  |\n| t 기각치 단측 검정 | 2.4102 |  |\n| P(T<=t) 양측 검정 | 0.0035 |  |\n| t 기각치 양측 검정 | 2.6870 |  |",
+    "blockRange": [
+      464,
+      464
+    ],
+    "page": 59,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0169",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가"
+    ],
+    "text": "- 아. 결론",
+    "blockRange": [
+      465,
+      465
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0170",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "아. 결론"
+    ],
+    "text": "KIER과 K-water의 B(수상), C(육상) 분석대상지 일사량 데이터 분석 결과, 수상 및 육상 분석대상지의 일사량은 신뢰수준 95%에서 차이가 없다. 따라서 수상과 육상 분석대상지 발전효율 분석 시 일사량이 동일하다고 가정하고 분석할 수 있다.\n\nKIER의 B, C지점 일사량, K-water의 B, C지점 일사량, 기상청 일사량 데이터 분석 결과 다섯 집단의 일사량은 신뢰수준 99%에서 통계적으로 유의하여 차이가 있다. 전체 집단을 동일하게 가정할 수 없어 두 집단씩 동일한지 여부를 분석하고자 하였다. 첫째로 KIER과 K-water의 데이터 집단을 분석하였다. KIER의 B, C지점 일사량, K-water의 B, C 지점 일사량 데이터 분석 결과 네 집단의 일사량은 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다. 또한, KIER의 B지점 일사량, K-water의 B지점 일사량 두 집단의 데이터 분석 결과와 KIER의 C지점 일사량, K-water의 C지점 일사량 두 집단의 데이터 분석 결과도 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다. 둘째로 KIER과 기상청의 데이터 집단을 분석하였다. KIER의 B, C 지점 일사량, 기상청 일사량 데이터 분석 결과 세 집단의 일사량은 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다. 또한, KIER의 B지점 일사량, 기상청 일사량 두 집단의 데이터 분석 결과와 KIER의 C지점 일사량, 기상청 일사량 두 집단의 데이터 분석 결과도 신뢰수준 99%에서 통계적으로 유의하지 않아 차이가 없다. 셋째로 K-water와 기상청의 데이터 집단을 분석하였다. K-water의 B, C지점 일사량, 기상청 일사량 데이터 분석 결과 세 집단의 일사량은 신뢰수준 99%에서 통계적으로 유의하여 차이가 있다. 또한, K-water의 B지점 일사량, 기상청 일사량 두 집단의 데이터 분석 결과와 K-water의 C지점 일사량, 기상청 일사량 두 집단의 데이터 분석 결과도 신뢰수준 99%에서 통계적으로 유의하여 차이가 있다. 두 집단 간 일사량 데이터 분석 결과는 아래 표 3.24와 같이 정리하였다.\n\n위의 결과에 따라 KIER, K-water, 기상청 일사량을 모두 동일하다고 가정할 수 없다. KIER 일사량 데이터는 전체 기간의 데이터 취득을 하지 못하였기 때문에 KIER 일사량과 동일하다고 볼 수 있는 기상청 일사량과 K-water의 일사량을 각각 이용하여 비교분석을 실시하였다.",
+    "blockRange": [
+      466,
+      468
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0171",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.2 일사량 데이터 평가",
+      "아. 결론"
+    ],
+    "text": "**표 3.24 일사량 데이터 분석 결과**\n\n| 구분 | B 일사량<br>(KIER) | C 일사량<br>(KIER) | B 일사량<br>(K-water) | C 일사량<br>(K-water) | 일사량<br>(기상청) |\n| --- | --- | --- | --- | --- | --- |\n| B 일사량<br>(KIER) |  |  |  |  |  |\n| C 일사량<br>(KIER) | 유의하지 않다 |  |  |  |  |\n| B 일사량<br>(K-water) | 유의하지 않다 | - |  |  |  |\n| C 일사량<br>(K-water) | - | 유의하지 않다 | 유의하지 않다 |  |  |\n| 일사량<br>(기상청) | 유의하지 않다 | 유의하지 않다 | 유의하다 | 유의하다 |  |",
+    "blockRange": [
+      469,
+      469
+    ],
+    "page": 60,
+    "table": {
+      "rows": 6,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0172",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정"
+    ],
+    "text": "### 3.3.3 발전량 데이터 보정",
+    "blockRange": [
+      470,
+      470
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0173",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.3 데이터 평가 및 보정",
+      "3.3.3 발전량 데이터 보정"
+    ],
+    "text": "육상태양광 분석대상지 선정 시 2013년에 설치된 설비들을 조사하여 선정하였으나, 수상태양광은 설치사례가 많지 않아 2011년, 2012년에 설치된 설비들을 선정하였다. 육상태양광 분석대상지와 수상태양광 분석대상지 간의 구축시기가 1\\~2년 차이가 있으며 태양광 모듈은 설치 후 시간이 지나면서 발전량이 감소하기 때문에 이를 감안하여 발전량 데이터를 보정하였다. 수상태양광 분석대상지에 적용된 태양광 모듈은 LS산전에서 제작하였으며 출력보증은 10년 90% 정도이다. 따라서 1년당 1%의 발전효율 하락을 적용하여 2013년에 설치된 C, D, E 분석대상지를 기준으로 하여 A 분석대상지는 2%, B 분석대상지는 1%를 적용하였다.",
+    "blockRange": [
+      471,
+      471
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0174",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증"
+    ],
+    "text": "## 3.4 분석대상지 발전효율 비교분석",
+    "blockRange": [
+      472,
+      472
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0175",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석"
+    ],
+    "text": "### 3.4.1 분석대상지 이용률 분석",
+    "blockRange": [
+      473,
+      473
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0176",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.1 분석대상지 이용률 분석"
+    ],
+    "text": "앞서 선정한 분석방법과 같이 분석대상지의 이용률을 분석하였으며, 결과는 아래 표 3.25, 그림 3.12, 그림 3.13, 그림 3.14와 같다. 2014년부터 2017년까지의 연간 평균 이용률을 분석한 결과, 수상태양광 분석대상지의 이용률이 육상태양광 분석대상지의 이용률보다 0.75% 높았으며 이는 육상태양광 분석대상지의 이용률 대비 수상태양광 분석대상지의 이용률이 105.26% 높다.\n\n(단위 : %)",
+    "blockRange": [
+      474,
+      475
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0177",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.1 분석대상지 이용률 분석"
+    ],
+    "text": "**표 3.25 수상태양광 및 육상태양광 분석대상지의 평균 이용률**\n\n| 구분 | 2014년 | 2015년 | 2016년 | 2017년 | 평균 |\n| --- | --- | --- | --- | --- | --- |\n| 수상태양광 | 14.91 | 14.99 | 14.28 | 15.88 | 15.01 |\n| 육상태양광 | 13.31 | 14.35 | 13.95 | 15.43 | 14.26 |",
+    "blockRange": [
+      476,
+      476
+    ],
+    "page": 61,
+    "table": {
+      "rows": 3,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0178",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.1 분석대상지 이용률 분석"
+    ],
+    "text": "그림 3.12 수상태양광 분석대상지의 이용률\n\n그림 3.13 육상태양광 분석대상지의 이용률\n\n그림 3.14 수상태양광 및 육상태양광 분석대상지의 평균 이용률\n\n\n![image](image_038.png)\n\n\n![image](image_039.png)",
+    "blockRange": [
+      477,
+      481
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0179",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석"
+    ],
+    "text": "### 3.4.2 분석대상지 성능계수 분석",
+    "blockRange": [
+      482,
+      482
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0180",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.2 분석대상지 성능계수 분석"
+    ],
+    "text": "분석대상지의 성능계수를 분석하였으며, 선정한 일사량 데이터 중 기상청 일사량을 적용한 결과는 아래 표 3.26, 그림 3.15, 그림 3.16, 그림 3.17과 같다. 2014년부터 2017년까지의 연간 평균 성능계수를 분석한 결과, 수상태양광 분석대상지의 성능계수가 육상태양광 분석대상지의 성능계수보다 4.39% 높았으며 이는 육상태양광 분석대상지의 성능계수 대비 수상태양광 분석대상지의 성능계수가 105.71% 높다.\n\n(단위 : %)",
+    "blockRange": [
+      483,
+      484
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0181",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.2 분석대상지 성능계수 분석"
+    ],
+    "text": "**표 3.26 수상태양광 및 육상태양광 분석대상지의 평균 성능계수(기상청 일사량)**\n\n| 구분 | 2014년 | 2015년 | 2016년 | 2017년 | 평균 |\n| --- | --- | --- | --- | --- | --- |\n| 수상태양광 | 78.14 | 78.25 | 84.67 | 83.82 | 81.22 |\n| 육상태양광 | 69.81 | 74.34 | 81.89 | 81.28 | 76.83 |",
+    "blockRange": [
+      485,
+      485
+    ],
+    "page": 62,
+    "table": {
+      "rows": 3,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0182",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.2 분석대상지 성능계수 분석"
+    ],
+    "text": "그림 3.15 수상태양광 분석대상지의 성능계수(기상청 일사량)\n\n\n![image](image_040.png)\n\n\n![image](image_041.png)\n\n그림 3.16 육상태양광 분석대상지의 성능계수(기상청 일사량)\n\n그림 3.17 수상태양광 및 육상태양광 분석대상지의 평균 성능계수(기상청 일사량)\n\n이어서 선정한 일사량 데이터 중 물순환연구소의 일사량을 적용한 결과는 아래 표 3.27, 그림 3.18, 그림 3.19, 그림 3.20과 같다. 2014년부터 2017년까지의 연간 평균 성능계수를 분석한 결과, 수상태양광 분석대상지의 성능계수가 육상태양광 분석대상지의 성능계수보다 5.52% 높았으며 이는 육상태양광 분석대상지의 성능계수 대비 수상태양광 분석대상지의 성능계수가 105.99% 높다.\n\n(단위 : %)",
+    "blockRange": [
+      486,
+      492
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0183",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.2 분석대상지 성능계수 분석"
+    ],
+    "text": "**표 3.27 수상태양광 및 육상태양광 분석대상지의 평균 성능계수(물순환연구소 일사량)**\n\n| 구분 | 2014년 | 2015년 | 2016년 | 2017년 | 평균 |\n| --- | --- | --- | --- | --- | --- |\n| 수상태양광 | 105.09 | 103.45 | 92.00 | 90.22 | 97.69 |\n| 육상태양광 | 94.03 | 98.33 | 88.82 | 87.52 | 92.17 |",
+    "blockRange": [
+      493,
+      493
+    ],
+    "page": 63,
+    "table": {
+      "rows": 3,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0184",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.2 분석대상지 성능계수 분석"
+    ],
+    "text": "그림 3.18 수상태양광 분석대상지의 성능계수(물순환연구소 일사량)\n\n그림 3.19 육상태양광 분석대상지의 성능계수(물순환연구소 일사량)\n\n\n![image](image_042.png)\n\n\n![image](image_043.png)\n\n\n![image](image_044.png)\n\n그림 3.20 수상태양광 및 육상태양광 분석대상지의 평균 성능계수(물순환연구소 일사량)",
+    "blockRange": [
+      494,
+      499
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0185",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석"
+    ],
+    "text": "### 3.4.3 분석대상지 kW당 발전량 분석",
+    "blockRange": [
+      500,
+      500
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0186",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.3 분석대상지 kW당 발전량 분석"
+    ],
+    "text": "분석대상지의 kW당 발전량을 분석하였으며, 결과는 아래 표3.28, 그림 3.21와 같다. 2014년부터 2017년까지의 연간 평균 100kW당 발전량을 분석한 결과, 육상태양광 분석대상지의 발전량 대비 수상태양광 분석대상지의 발전량이 105.26% 높다.\n\n(단위 : kWh)",
+    "blockRange": [
+      501,
+      502
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0187",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.3 분석대상지 kW당 발전량 분석"
+    ],
+    "text": "**표 3.28 수상태양광 및 육상태양광 분석대상지의 평균 100kW당 발전량**\n\n| 구분 | 2014년 | 2015년 | 2016년 | 2017년 | 평균 |\n| --- | --- | --- | --- | --- | --- |\n| 수상태양광 | 130,665 | 131,350 | 125,363 | 138,829 | 131,552 |\n| 육상태양광 | 116,645 | 125,782 | 122,529 | 134,945 | 124,975 |",
+    "blockRange": [
+      503,
+      503
+    ],
+    "page": 64,
+    "table": {
+      "rows": 3,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0188",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.4 분석대상지 발전효율 비교분석",
+      "3.4.3 분석대상지 kW당 발전량 분석"
+    ],
+    "text": "![image](image_045.png)\n\n\n![image](image_046.png)\n\n그림 3.21 수상태양광 및 육상태양광 분석대상지의 평균 100kW당 발전량",
+    "blockRange": [
+      504,
+      506
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0189",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증"
+    ],
+    "text": "## 3.5 결론",
+    "blockRange": [
+      507,
+      507
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0190",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 육상 대비 수상태양광 효율 검증",
+      "3.5 결론"
+    ],
+    "text": "합천 지역에 설치된 수상태양광과 육상태양광 발전설비를 이용하여 수상태양광의 발전효율을 검증하고자 하였다. 수상태양광 분석대상지 2개소, 육상태양광 분석대상지 3개소를 선정 후 발전효율 검증을 위하여 비교방안으로 이용률, 성능계수, kW당 발전량을 선정하였다. 현장조사, 관계기관 자료 요청, 부서 간 협업으로 분석에 필요한 발전량, 일사량, 설비 현황 등의 데이터를 수집하였다.\n\n수상태양광 및 육상태양광 분석대상지의 다면분석 결과, 이용률은 수상태양광 분석대상지가 육상태양광 분석대상지 대비 105.26%, 성능계수는 수상태양광 분석대상지가 육상태양광 분석대상지 대비 105.71%\\~105.99%, kW당 발전량은 수상태양광 분석대상지가 육상태양광 분석대상지 대비 105.26% 정도였다. 이용률, 성능계수, kW당 발전량 모두 수상태양광 분석대상지가 육상태양광 분석대상지 대비 5% 정도 높음을 확인하였다.\n\n\n![image](image_047.png)",
+    "blockRange": [
+      508,
+      510
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0191",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제4장결론",
+    "blockRange": [
+      511,
+      511
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0192",
+    "type": "text",
+    "breadcrumb": [
+      "제4장결론"
+    ],
+    "text": "현재까지 발표되고 연구된 국내·외의 이론을 조사·분석한 결과를 토대로 수상환경에 적합한 이론과 출력량을 예측하기 위하여 다양한 환경변수에 습도성분이 포함된 출력량 예측식을 바탕으로 합천, 충주 및 인제 등 데이터 취득이 장기간 가능한 지역을 선정하여 모델의 정확도와 출력량을 검증하였다.\n\n기존의 K-water에서 사업성 심사 시 사용하던 예상발전량 방법과 다중회귀분석을 방법을 설비용량 2MW의 보령의 수상태양광발전소 데이터를 이용하여 비교분석하였다. 먼저 기존 방식으로 연간발전량을 추정하자면 일사량은 한국에너지기술연구원에서 서산지역의 10년간 평균 (2001\\~2010)값인 3.79kWh/$m^{2}$ 를 대입하였으며, 이에 따라 예상이용률은 0.144이다. 앞 절의 연간발전량 계산식에 의해 예상발전량은 약 2,422MWh이다. 이 때 수면효과에 의한 효율상승을 10%로 가정한다면 예상발전량은 약 2,665MWh까지 증가하게 된다. 오차율은 수면효과를 반영하였을 때가 반영하지 않았을 때보다 낮았다. 그러나 최근 논문에 의하면 장기간 운영 시 수면효과에 의한 효율상승은 약 5% 정도라는 결과가 있다. 이처럼 장기간 운영 시에는 현재와 같은 정확도를 보장하기 어렵다고 할 수 있다.\n\n다중회귀분석방법을 이용하여 발전량을 예상할 때는 독립변수를 임의로 지정이 가능하다. 일사량만이 독립변수라고 할 수 있는 기존 방법과의 비교를 위해 일사량만 사용한 식부터 일사량, 기온, 풍속, 습도 4가지의 환경변수를 사용한 식까지 나타내었다. 이 때 오차는 독립변수가 많아질수록 정확도가 높아지는 것을 확인할 수 있다. 이 방식은 데이터를 수집하고 전처리를 하는데 많은 시간이 걸린다는 단점이 있지만, 과거데이터가 많을수록 변화의 추이도 반영할 수 있으므로 기존 방식에 비해 보다 정확하게 발전량을 예상할 수 있다고 판단할 수 있다.\n\n본 연구에서는 합천지역에 설치되어 있는 육상과 수상의 태양광발전설비를 이용하여 이용률, 성능계수, kW당 발전량을 비교분석하였다. 일사량은 기상청, 한국에너지기술연구원(KIER), K-water 물순환연구소에서 제공하는 위성자료를 사용하였고, 통계분석을 통하여 KIER과 K-water의 관측자료가 통계적 의미에서 동일하다고 가정할 수 있기에 앞서 언급한 이용률, 성능계수, kW당 발전량을 분석하는데 사용하였다. 분석결과 이용률은 105.26%, 성능계수는 105.71%, kW당 발전량은 105.26% 높은 것을 확인할 수 있었다. 이에 따라 기존에 사용하던 수상태양광 효율 상승분이 다소 하향되어야 함을 판단할 수 있다.",
+    "blockRange": [
+      512,
+      515
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0193",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참고문헌",
+    "blockRange": [
+      516,
+      516
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0194",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "1. 한국수자원공사, “전직원이 알아야 하는 직무이해(기술)”, 한국수자원공사 교육도서, 2014.11.\n2. 한국수자원공사, “전직원이 알아야 하는 직무이해(경영)”, 한국수자원공사 교육도서, 2014.11.\n3. 소정훈, 유병규, 황혜미, 유권종, 최주엽, “50kW급 계통연계형 태양광발전시스템의 성능모니터링 결과 및 평가분석”, 한국태양에너지학회 논문집, 제27권, 제2호, pp29-35, 2007.\n4. 조덕기, 윤창열, 김광득, 강용혁, “실측에 의한 국내 방위별 경사면일사량의 재평가”, 한국태양에너지학회 춘계학술발표대회 논문집, 제30권, 제1호, pp200-203, 2010.\n5. 한국에너지기술연구원, “신재생에너지 자원지도 3.0 – 표준화 및 예보기술 개발”, 한국에너지기술연구원 연구보고서, p604, 2016.\n6. 노상태 “태양광 발전량 예측 도구별 입력 요소 분석 및 실제 발전량 비교에 관한 연 구”, 한국생태환경건축학회 논문집, 제14권, 제6호, pp87-92, 2014.\n7. Anyanime Tim Umoette, Emmanuel A. Ubom, Ibiangake Etie Akpan, “Comparative Analysis of Three NOCT-Based Cell Temperature Models”, International Journal of Systems Science and Applied Mathematics, pp69-75, 2016.\n8. Kim Seung-Yeon, “A study on the Efficiency Analysis of Rotary type Floating Photovolataic Power Generation System”, Master Thesis, 2015. 2\n9. Kim In-Soo, Oh Sung-Chan, Kim Yang-Mo, Choi Young-Kwan, “A study on Modeling of Tracking-Type Floating Photovoltaic System based on Matlab/Simulink”, The transactions of The Korean Institute of Electrical Engineers, Vol.64, No.5, pp.805-810, 2015.\n10. Oh Sung-Duk, ‘The Way to Commercialization of Floating Photovoltaic is Opened’, Construction Technology News, 2012, 3. 27\n11. Y.K. Choi, “ A Study on Power Generation Analysis of Floating PV System Considering Environmental Impact” Int. J. Software Engineering and Its Application, Vol. 8, No. 1 pp.75-84, 2014.\n12. Lee Jae-Hyung, Kim Min-Woo, Won Chang-Sub, “The Current State of Development of Floating-Rotary Photovoltaic System”, The Korean Institute of Electrical Engineers, Vol. 66, No. 3, pp. 13-25, 2017.\n13. Kim Eui-Hwan, Kang Seng-Won, Kim Jae-Eon, “The Long-term Operating Evaluation of the Grid Connected Photovoltaic System”, Korea New&Renewable Energy, Vol. 7, No. 2, pp. 28-35, 2011\n14. Woo Kyung-Il, Park Han-Seok, Jang Yong-Hae, Joo In-Ho, Oh Bong-Keun, Kim Hyun-Il, Jeong Jun-Gi, Kwon Ogeuk, Lee Su-Min “Analysis of Capacity Factor of Floating Photovoltaic and Semi-fixed Photovoltaic Power Generation”, KIEE Summer Conference, pp. 883-884, 2018.\n15. Choi Young-Kwan, Lee Nam-Hyung, Kim Kern-Joong, “Empirical Research on the efficiency of Floating PV systems compared with Overland PV Systems”, CES-CUBE 2013, Guam, USA, 2013.\n16. Jady Lee, Sang-Bong Rhee, “Analysis on the power generation efficiency by the direct sunlight”, KIEE Fall Conference, pp. 89-91, 2008.\n17. P.G. Loutzenhiser, H. Manz, C. Felsmann, P.A. Strachan, T. Frank, G.M. Maxwell, “Empirical validation of models to compute solar irradiance on inclined surfaces for building energy simulation”, Solar Energy, Vol.81, pp. 254-267, 2007.\n18. Cha Wang-Cheol, Park Joung-Ho, Cho Uk-Rae, Kim Jae-Chul, “Design of Generation Efficiency Fuzzy Prediction Model using Solar Power Element Data”, The Transactions of the Korean Institute of Electrical Engineers, Vol.63, No.10, pp. 1423-1427, 2014.\n19. Lee Chang-Sung, Ji Pyeong-Shik, “Development of Daily PV Power Forecasting Models using ELM”, The Transaction of the Korean Institute of Electrical Engineers, Vol.64, No.3, pp. 164-168, 2015.\n20. Lee Dae-Jong, Lee Jong-Pil, Lee Chang-Sung, Lim Jae-Yoon, Ji Peyong-Shik, “Development of PV Power Prediction Algorithm using Adaptive Neuro-Fuzzy Model”, The Transaction of the Korean Institute of Electrical Engineers, Vol. 64, No.4, pp. 246-250, 2015.",
+    "blockRange": [
+      517,
+      536
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0195",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 실용화추진계획서",
+    "blockRange": [
+      537,
+      537
+    ],
+    "page": 70
+  },
+  {
+    "id": "c0196",
+    "type": "table",
+    "breadcrumb": [
+      "실용화추진계획서"
+    ],
+    "text": "| 과제번호 | 2020-RE-RR-1-13 | 구 분 | 현안해소 목적 연구성과, 정책수립<br>등 경영지원 |  |  |  |  |  |  | 년도 | 2020 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 연구수행 | 연구과제명 | 수상태양광 연간발전량 영향 인자 연구(1차년도) |  |  |  |  |  |  |  |  |  |\n| 연구수행 | 연구수행자 | 권오극 외 9명 |  |  |  |  |  |  |  |  |  |\n| 연구수행 | 연구기간 | 2018. 1. \\~ 2019. 12. |  |  |  |  |  |  |  |  |  |\n| 연구수행 | 예산현황<br>(2차년도) | 90% 집행 |  |  | 집행액:44,235천원 |  |  | 예산액: 49,150천원 |  |  |  |\n| 연구수행 | 연구결과 | 수상태양광 연간발전량 영향 인자 연구 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 제 목 | 수상태양광 연간발전량 산정 가이드라인 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 수행자 | 권오극 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 적용대상<br>부서 및 담당자 | 물에너지처 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 내 용 | - 목적 : 수상태양광 개발사업의 연간발전량 산정시 적용<br>- 적용대상 : 신재생에너지처, 설계처, 본부 등 수상태양광<br>사업 개발관련 발전량 검토시 적용<br>- 기대효과<br>수상태양광 연간발전량 산정 가이드라인 작성(연구원)으로<br>댐 수면위 설치에 따른 태양광 효율관련 자료 제공<br>수상태양광 사업 추진 시 B/C 분석신뢰성 향상 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 추진계획 | 수상태양광 설계 및 사업개발 검토 자료로 활용 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 추진계획 | 1/4분기 |  | 2/4분기 |  | 3/4분기 | 4/4분기 |  | 계 |  |  |\n| 실용화<br>추진계획 | 추진계획 | 25% |  | 25% |  | 25% | 25% |  | 총계100% |  |  |\n| 실용화<br>추진계획 | 소요예산 | - |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      538,
+      538
+    ],
+    "page": 70,
+    "table": {
+      "rows": 14,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0197",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참여연구원현황",
+    "blockRange": [
+      539,
+      539
+    ],
+    "page": 71
+  },
+  {
+    "id": "c0198",
+    "type": "table",
+    "breadcrumb": [
+      "참여연구원현황"
+    ],
+    "text": "| 연구원 | 참여내역 | 비 고 |\n| --- | --- | --- |\n| 권오극 | ◦연구책임자<br>◦참여내역<br>- 수상태양광 영향인자 재정립<br>- 연간발전량 산정방식 정립<br>- 육상 대비 수상태양광 효율 검증 | - '19.1 ～ '19.12<br>- 물인프라·에너지연구소<br>- 042-870-7663 |\n| 조연주 | ◦연구실무자<br>◦참여내역<br>- 수상태양광 영향인자 재정립<br>- 연간발전량 산정방식 정립 | - '19.1 ～ '19.12<br>- 물인프라·에너지연구소<br>- 042-870-7690 |\n| 조현식 | ◦연구실무자<br>◦참여내역<br>- 수상태양광 영향인자 재정립<br>- 육상 대비 수상태양광 효율 검증 | - '19.1 ～ '19.12<br>- 물인프라·에너지연구소<br>- 042-870-7687 |\n| 윤이중 | ◦연구참여자<br>◦참여내역<br>- 육상 대비 수상태양광 효율 검증 | - '19.1 ～ '19.12<br>- 물인프라·에너지연구소<br>- 042-870-7650 |\n| 표민태 | ◦연구참여자(겸직)<br>◦참여내역<br>- 육상 대비 수상태양광 효율 검증 | - '19.1 ～ '19.12<br>- 보령권지사<br>- 041-939-1227 |\n| 옥광석 | ◦연구참여자(겸직)<br>◦참여내역<br>- 육상 대비 수상태양광 효율 검증 | - '19.1 ～ '19.12<br>- 합천지사<br>- 055-930-5221 |\n| 이승용 | ◦연구참여자(겸직)<br>◦참여내역<br>- 육상 대비 수상태양광 효율 검증 | - '19.1 ～ '19.12<br>- 충주권지사<br>- 043-840-1261 |\n| 정한상 | ◦연구참여자(겸직)<br>◦참여내역<br>- 육상 대비 수상태양광 효율 검증 | - '19.1 ～ '19.12<br>- 금·영·섬물관리처<br>- 063-281-1390 |\n| 권진성 | ◦연구참여자<br>◦참여내역<br>- 분석대상지를 이용한 발전효율 검증<br>- 대조군을 이용한 발전효율 검증 | - '19.1 ～ '19.12<br>- 물인프라·에너지연구소<br>- 042-870-7662 |",
+    "blockRange": [
+      540,
+      540
+    ],
+    "page": 71,
+    "table": {
+      "rows": 10,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0199",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 서지자료",
+    "blockRange": [
+      541,
+      541
+    ],
+    "page": 73
+  },
+  {
+    "id": "c0200",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "| (1) 출판물 고유번호<br>2020-RE-RR-1-13 | (2) 사업분류 |  | (3) 발행일<br>2019.12.31. |  |\n| --- | --- | --- | --- | --- |\n| (4) 제목/부제<br>수상태양광 연간발전량 영향 인자 연구(2차년도) |  |  | (5) 연구기간<br>2019.01.01. \\~ 2019.12.31. |  |\n| (6) 연구수행기관<br>한국수자원공사, K-water융합연구원 물인프라·에너지연구소 |  |  | (7) 연구 수행자(소속)<br>권오극(물인프라·에너지연구소) 외 9명 |  |\n| (8) 수행기관 주소<br>대전광역시 유성구 유성대로 1689번길 125 |  |  | (9) 연구의뢰기관 및 주소 |  |\n| (10) 공동 수행기간<br>2018.01. \\~ 2019.12. (24개월) |  |  | (11) 계약 또는 인가번호 |  |\n| (12) 초록<br>기존의 K-water에서 사업성 심사 시 사용하던 예상발전량 방법과 다중회귀분석을 방법을<br>설비용량 2MW의 보령의 수상태양광발전소 데이터를 이용하여 비교분석하였다. 먼저 기존 방식으로 연간발전량을 추정하면 약 2,422MWh이다. 이 때 수면효과에 의한 효율상승을 10%로 가정한다면 예상발전량은 약 2,665MWh까지 증가하게 된다. 오차율은 수면효과를 반영하였을 때가 반영하지 않았을 때보다 낮았다. 그러나 최근 논문에 의하면 장기간 운영 시 수면효과에 의한 효율상승은 약 5% 정도라는 결과가 있다. 이처럼 장기간 운영 시에는 현재와<br>같은 정확도를 보장하기 어렵다고 할 수 있다.<br>일사량만이 독립변수라고 할 수 있는 기존 방법과의 비교를 위해 일사량만 사용한 식부터<br>일사량, 기온, 풍속, 습도 4가지의 환경변수를 사용한 식까지 나타내었다. 이 때 오차는 독립변수가 많아질수록 정확도가 높아지는 것을 확인할 수 있다. 이 방식은 데이터를 수집하고<br>전처리를 하는데 많은 시간이 걸린다는 단점이 있지만, 과거데이터가 많을수록 변화의 추이도 반영할 수 있으므로 기존 방식에 비해 보다 정확하게 발전량을 예상할 수 있다고 판단할<br>수 있다.<br>합천지역에 설치되어 있는 육상과 수상의 태양광발전설비를 이용하여 이용률, 성능계수,<br>kW당 발전량을 비교분석하였다. 일사량은 기상청, 한국에너지기술연구원(KIER), K-water 물순환연구소에서 제공하는 위성자료를 사용하였고, 통계분석을 통하여 KIER과 K-water의 관측자료가 통계적 의미에서 동일하다고 가정할 수 있다. 분석결과 이용률은 105.26%, 성능계수는 105.71%, kW당 발전량은 105.26% 높은 것을 확인할 수 있었다. 이에 따라 기존에 사용하던 수상태양광 효율 상승분이 다소 하향되어야 함을 판단할 수 있다. |  |  |  |  |\n| (13) 키-워드<br>수상태양광, 연간발전량 |  |  |  |  |\n| (14) 사업고유번호 |  |  |  |  |\n| (15) 공개여부<br>예 | (16) 총면수 | (17) 발행부수 |  | (18) 가격 |",
+    "blockRange": [
+      542,
+      542
+    ],
+    "page": 73,
+    "table": {
+      "rows": 9,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0201",
+    "type": "heading",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "### BIBLIOGRAPHIC DATA SHEET",
+    "blockRange": [
+      543,
+      543
+    ],
+    "page": 74
+  },
+  {
+    "id": "c0202",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| (1) Report ID 2020-RE-RR-1-13 |  | (2) Project Classification |  |  | (3) Report Date Dec. 31, 2019 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (4) Title/Subtitle Study on the Influential Factors of Floating PV Annual Generation |  |  |  | (5) Research Period Jan. 1, 2018 \\~ Dec. 31, 2019 |  |  |\n| (6) Performing Organization Water Infrastructure-Energy Center, KIWE, K-water |  |  |  | (7) Author(s) Kwon Okeuk et al. |  |  |\n| (8) Performing Organization Address 125, Yuseong-daero 1689beon-gil, Yuseong-gu, Daejeon, ROK |  |  |  | (9) Sponsoring Agency and address |  |  |\n| (10) Co-performing Organization(s) 2018.01. \\~ 2019.12. (24 months) |  |  |  | (11) Contract or Authorization |  |  |\n| (12) Abstracts Based on the results of research and analysis of domestic and international theories published and researched up to now, the theory and power generation suitable for the water environment are predicted. The accuracy and output of the model were verified by selecting regions where data can be acquired for a long time, such as Hapcheon, Chungju, and Inje, based on a prediction formula that included humidity components in various environmental variables. When predicting the amount of generation using multiple regression analysis, independent variables can be specified. For comparison with the existing method, where only the solar radiation is an independent variable, this report described the method using only the solar radiation and the method using four environmental variables (insolation, temperature, wind speed, and humidity). The more independent variables, the higher the accuracy. This method has a disadvantage in that it takes a lot of time to collect and preprocess data, but the more data in the past can reflect the trend of change, it is possible to accurately predict the amount of generation compared to the existing method. In order to analyze the power generation of land-based and Floating PV in Hapcheon, the solar radiation data measured by Meteorological Administration, KIER and K-water were statistically significantly compared with each other, and the utilization rate, performance coefficient and power generation per 100kW were compared. In all three indicators, all of them is confirmed to be 5% higher than that of the athletics. |  |  |  |  |  |  |\n| (13) Keyword Floating PV, Annual power generation |  |  |  |  |  |  |\n| (14) Project ID |  |  |  |  |  |  |\n| (15) Security Yes | (16) No. of Pages |  | (17) Circulation |  |  | (18) Price |",
+    "blockRange": [
+      544,
+      544
+    ],
+    "page": 74,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0203",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "주의사항\n\n본 보고서의 저작권은 한국수자원공사에 있으므로, 본 자료의 내용을 허가없이 인용, 복사, 전재, 재배포를 할 경우 법적 제재를 받을 수 있습니다.\n\nCopyright ⓒ 2019\n\nby\n\nKorea Water Resources Corporation\n\n발행인 : 한국수자원공사 사장 이학수\n\n발행일 : 2019. 12. 31.\n\n발행처 : 한국수자원공사 K-water연구원\n\n대전광역시 유성구 유성대로 1689번길 125 Tel. (042) 870-7005\n\n한국수자원공사는 친환경 기업윤리 이념을 구현하기 위하여 2019. 12. 00 『환경경영』을 선포하고, 모든 보고서 발간에 『재생용지 및 무코팅 방식』을 사용하고 있습니다.",
+    "blockRange": [
+      545,
+      554
+    ],
+    "page": 75
+  }
+]

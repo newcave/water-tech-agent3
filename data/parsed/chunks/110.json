@@ -1,0 +1,3199 @@
+[
+  {
+    "id": "c0001",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "<!-- <table id=\"t1\" /> -->\n| K-water | WR | WR |\n| --- | --- | --- |\n| K-water | 염<br>분<br>침<br>투<br>특<br>성<br>을<br>고<br>려<br>한<br>콘<br>크<br>리<br>트<br>구<br>조<br>물<br>잔<br>존<br>수<br>명<br>예<br>측<br>(Ⅱ) | <!-- <table parent_id=\"t1\" child_id=\"t2\" /> --> Final Report<br>염분침투 특성을 고려한<br>해양 콘크리트 구조물<br>잔존수명 예측(Ⅱ)<br>Residual Life Prediction of Marine Concrete Structures Considering Chloride Penetration Characteristics (Ⅱ)<br>2021. 12 |\n\n<!-- <table id=\"t2\" parent_id=\"t1\" /> -->\n| 관리번호 |\n| --- |\n| 2022-TE-RR-11-194 |\n| M200001 |",
+    "blockRange": [
+      0,
+      0
+    ],
+    "page": 1,
+    "table": {
+      "rows": 2,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0002",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "![image](image_001.png)\n\n\n![image](image_002.png)",
+    "blockRange": [
+      1,
+      2
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0003",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "관리번호\n2022-TE-RR-11-194\nM200001",
+    "blockRange": [
+      3,
+      3
+    ],
+    "page": 2,
+    "table": {
+      "rows": 3,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0004",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "Fianl Report",
+    "blockRange": [
+      4,
+      4
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0005",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ)",
+    "blockRange": [
+      5,
+      5
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0006",
+    "type": "heading",
+    "breadcrumb": [
+      "염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ)"
+    ],
+    "text": "### Residual Life Prediction of Marine Concrete Structures Considering Chloride Penetration Characteristics (Ⅱ)",
+    "blockRange": [
+      6,
+      6
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0007",
+    "type": "text",
+    "breadcrumb": [
+      "염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ)",
+      "Residual Life Prediction of Marine Concrete Structures Considering Chloride Penetration Characteristics (Ⅱ)"
+    ],
+    "text": "2021. 12",
+    "blockRange": [
+      7,
+      7
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0008",
+    "type": "text",
+    "breadcrumb": [
+      "염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ)",
+      "Residual Life Prediction of Marine Concrete Structures Considering Chloride Penetration Characteristics (Ⅱ)",
+      "2021. 12"
+    ],
+    "text": "![image](image_003.png)\n\n< 공 란 >",
+    "blockRange": [
+      8,
+      9
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0009",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ)",
+    "blockRange": [
+      10,
+      10
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0010",
+    "type": "heading",
+    "breadcrumb": [
+      "염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ)"
+    ],
+    "text": "### Residual Life Prediction of Marine Concrete Structures Considering Chloride Penetration Characteristics (Ⅱ)",
+    "blockRange": [
+      11,
+      11
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0011",
+    "type": "text",
+    "breadcrumb": [
+      "염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ)",
+      "Residual Life Prediction of Marine Concrete Structures Considering Chloride Penetration Characteristics (Ⅱ)"
+    ],
+    "text": "2021. 12\n\n< 공 란 >",
+    "blockRange": [
+      12,
+      13
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0012",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제\t출\t문",
+    "blockRange": [
+      14,
+      14
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0013",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "사 장 귀하\n\n이 보고서를 2021년도 K-water연구원 물인프라안전연구소에서 수행한 “염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(2차년도)”의 연구보고서로 제출합니다.\n\n2021. 12",
+    "blockRange": [
+      15,
+      17
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0014",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "2021. 12"
+    ],
+    "text": "연구책임자 : K-water 연구원 소장 장봉석\n\n연구수행자 : K-water 연구원 책임연구원 김남룡\n\nK-water 연구원 선임연구원 김태민\n\nK-water 연구원 사원 안태성\n\n겸직연구원 : 시화조력관리단 차장 권준호\n\n시화조력관리단 과장 김 신\n\n자문 한국교통대학교 교수 장승엽",
+    "blockRange": [
+      18,
+      24
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0015",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "- i -",
+    "blockRange": [
+      25,
+      25
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0016",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "- i -"
+    ],
+    "text": "< 공 란 >",
+    "blockRange": [
+      26,
+      26
+    ],
+    "page": 7
+  },
+  {
+    "id": "c0017",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구개발결과 활용보고서",
+    "blockRange": [
+      27,
+      27
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0018",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 1.<br>연구<br>총괄 | [간행물 관리번호: 2022-TE-RR-11-194 ] |  | [과제번호: M200001] |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1.<br>연구<br>총괄 | (1) 연구개발과제명 | 염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ) |  |  |  |\n| 1.<br>연구<br>총괄 | (2) 수행부서 | K-water연구원<br>물인프라안전연구소 | (3)<br>연구책임자 | 성명 | 장봉석 |\n| 1.<br>연구<br>총괄 | (2) 수행부서 | K-water연구원<br>물인프라안전연구소 | (3)<br>연구책임자 | 소속 | 물인프라안전연구소 |\n| 1.<br>연구<br>총괄 | (2) 수행부서 | K-water연구원<br>물인프라안전연구소 | (3)<br>연구책임자 | 전화번호 | 042-870-7607 |\n| 1.<br>연구<br>총괄 | (2) 수행부서 | K-water연구원<br>물인프라안전연구소 | (3)<br>연구책임자 | E-mail | concrete@ kwater.or.kr |\n| 1.<br>연구<br>총괄 | (4) 연구기간 | 2021. 1 . \\~ 2021. 12.<br>(총 12개월) | (5)<br>총연구개발비<br>(천원) | 총액 | 41,315천원 |\n| 1.<br>연구<br>총괄 | (6) 협동기관 |  | (5)<br>총연구개발비<br>(천원) | 총액 | 41,315천원 |\n| 1.<br>연구<br>총괄 | (6) 협동기관 |  | (5)<br>총연구개발비<br>(천원) | 정부 | 천원 |\n| 1.<br>연구<br>총괄 | (7) 참여기업 |  | (5)<br>총연구개발비<br>(천원) | 정부 | 천원 |\n| 1.<br>연구<br>총괄 | (7) 참여기업 |  | (5)<br>총연구개발비<br>(천원) | 기업 | 천원 |\n| 1.<br>연구<br>총괄 | (8) 기술분야 | 콘크리트 구조/재료 | (9)<br>참여연구원 | 4(+2)명/ 12개월 |  |\n| 1.<br>연구<br>총괄 | (10) 연구개발목표 |  |  |  |  |\n| 1.<br>연구<br>총괄 | ㅇ 최종목표 : 해양 콘크리트 구조물 염소이온 침투프로파일 조사 및 내구수명<br>추정<br>- 세부목표<br>1. 시화조력발전소 구조물 콘크리트 시험체 염소이온 침투프로파일 조사<br>2. 시화조력발전소 구조물 콘크리트 시험체 내구수명 추정 |  |  |  |  |\n| 1.<br>연구<br>총괄 | (11) 주요연구내용 |  |  |  |  |\n| 1.<br>연구<br>총괄 | 본 연구 제 2차년도 주요 연구 내용은 아래와 같다.<br>￭ 낙동강하굿둑 염수 영향 검토<br>￭ 낙동강하굿둑 염소이온 침투 프로파일 조사<br>￭ 아라뱃길 내구성 설계자료 조사<br>￭ 낙동강하굿둑, 아라뱃길 구조물 내구수명 추정<br>￭ 1차년도 결과를 활용하여 해양구조물(낙동강하구둑, 아라뱃길) 등 내구수명 확인<br>방안 도출 |  |  |  |  |",
+    "blockRange": [
+      28,
+      28
+    ],
+    "page": 8,
+    "table": {
+      "rows": 16,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0019",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- iii -",
+    "blockRange": [
+      29,
+      29
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0020",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iii -"
+    ],
+    "text": "| 2.<br>연구성과 활용<br>유형 및<br>주요연구 성과 | (12) 연구결과의 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2.<br>연구성과 활용<br>유형 및<br>주요연구 성과 | 구분 | 기술실용화 |  |  |  |  |  |  |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과 활용<br>유형 및<br>주요연구 성과 | 구분 | 실용화<br>완료 |  | 실용화<br>추진중 |  | 실용화<br>보류(중단) |  | 선행<br>연구 |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과 활용<br>유형 및<br>주요연구 성과 | 구분 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과 활용<br>유형 및<br>주요연구 성과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과 활용<br>유형 및<br>주요연구 성과 | (13) 주요 연구성과 및 기술 개발단계 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과 활용<br>유형 및<br>주요연구 성과 | ∘기술명:<br>∘기술특성 : |  |  |  |  |  |  |  | ∘기술의 완성도<br>기초, 탐색연구단계 ( ), 응용연구단계 (○),<br>개발연구단계 ( )<br>기업화 준비단계 ( ), 상품화 완료단계( )<br>∘기술 수명주기<br>기술개념 정립기 ( ), 기술 실험기 ( )<br>기술적용 시작기 (○), 기술적용 성장기 ( )<br>기술적용 성숙기 ( ), 기술적용 쇠퇴기 ( ) |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | (14) 현장적용실적 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  | 공사명 |  | 공사기간 |  |  |  | 물량<br>(총물량) |  |  | 발주기관 |  |  | 시공기관 |  |  | R&D<br>참여자 역활 |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 가. 현장명 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 구분 |  | 기 존<br>(A) |  | 개 선<br>(B) |  |  | 단위효과<br>(C=A-B) |  |  | 현장<br>총물량<br>(D) |  |  | 향상도 |  |  | 적용현장<br>총효과<br>(C×D) |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공사비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 유지관리비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 기타비용절감<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 사고율<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 고 용<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공 기<br>(일/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 내구성<br>(年) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      30,
+      30
+    ],
+    "page": 9,
+    "table": {
+      "rows": 20,
+      "cols": 21
+    }
+  },
+  {
+    "id": "c0021",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 개별 공사에 가장 적합한 척도 사용가능 ex) m2, Km\n- ※ 적용 현장이 여러 곳일 경우 위 서식 복사해서 사용\n- iv -",
+    "blockRange": [
+      31,
+      33
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0022",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iv -"
+    ],
+    "text": "| 4.<br>기술적<br>효과 | (15) 기술개발목표 달성도 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 4.<br>기술적<br>효과 | 구분 | 지표명<br>(단위) |  | 개발전<br>국내수준 |  | 당개발사업<br>최종목표치 |  |  | 개발결과<br>실제달성치 |  |  | 현재국내<br>기술수준 |  |  |  |  | 세계 최고<br>기술수준 |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (16) 산업재산권 (발명특허‧실용신안‧의장‧s/w ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  |  | 출원국 | 출원 및<br>등록자 |  |  | 출원 |  |  |  |  |  | 등록 |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  |  | 출원국 | 출원 및<br>등록자 |  |  | 출원일 | 출원번호 |  |  |  |  | 등록일 |  |  |  | 등록번호 |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (17) 건설신기술 지정 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  | 출원일 |  |  | 고시일 |  | 보호기간 |  |  |  |  | 지정번호 |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (18) 기타 등록 및 지정현황(상품, 서비스 등록, KT 마크 등) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  | 출원일 |  |  | 고시일 |  | 보호기간 |  |  |  |  | 기 타 |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (19) 국내외 전문학술지 게재 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 구분 |  | 논문제목 |  |  |  |  | 학술지명 |  |  | 국명 |  |  | 통권, 호 |  |  |  | 년,월 |  |\n| 5.<br>학술적<br>효과 | 학술<br>연구<br>재단<br>등재지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 학술<br>연구<br>재단<br>등재지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (20) 학술회의 발표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 논문제목 |  |  |  |  |  | 학술회의 명칭 |  |  |  |  |  | 국 명 |  |  |  | 연도‧호 |  |  |\n| 5.<br>학술적<br>효과 | 33년 된 해양 콘크리트 구조물의<br>염분 침투깊이 측정 계획 |  |  |  |  |  | 한국콘크리트학회 2021년<br>봄 학술발표회 |  |  |  |  |  |  |  |  |  | 2021. 5 |  |  |\n| 5.<br>학술적<br>효과 | 33년된 해양 콘크리트 구조물의<br>염분 침투깊이 측정 결과 |  |  |  |  |  | 한국콘크리트학회 2021년<br>가을 학술발표회 |  |  |  |  |  |  |  |  |  | 2021. 11 |  |  |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      34,
+      34
+    ],
+    "page": 10,
+    "table": {
+      "rows": 27,
+      "cols": 20
+    }
+  },
+  {
+    "id": "c0023",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- v -",
+    "blockRange": [
+      35,
+      35
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0024",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- v -"
+    ],
+    "text": "| 6.<br>공공적<br>효과 | (21) 법․제도 (설계기준, 시방서, 지침) 등에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6.<br>공공적<br>효과 | 구분 | 명칭 및 조항1) |  | 시행일시 |  | 기존내용 |  |  |  | 신규내용 |  |  |\n| 6.<br>공공적<br>효과 | 법 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 규정/지침 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기준 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 시방서 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 매뉴얼 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (22) 정책수립에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 정책명 | 정책추진 실적 |  | 정책추진<br>일시 |  |  |  | 담당부처․팀 |  |  | 기대효과 |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (23) 교육 및 지도에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 구분 | 교육명 | 교육내용 |  | 교육대상 |  | 교육시간 |  | 교육인원 |  |  | 교육회수 |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 현장기술지도 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (24) 사회적 성과 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      36,
+      36
+    ],
+    "page": 11,
+    "table": {
+      "rows": 27,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0025",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- vi -",
+    "blockRange": [
+      37,
+      37
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0026",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      38,
+      38
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0027",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 1. 연구제목",
+    "blockRange": [
+      39,
+      39
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0028",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1. 연구제목"
+    ],
+    "text": "염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅱ)",
+    "blockRange": [
+      40,
+      40
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0029",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 2. 연구기간",
+    "blockRange": [
+      41,
+      41
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0030",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "2. 연구기간"
+    ],
+    "text": "2021. 01. 01. \\~ 2021. 12. 31. (2차년도)",
+    "blockRange": [
+      42,
+      42
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0031",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 3. 연구목적",
+    "blockRange": [
+      43,
+      43
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0032",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3. 연구목적"
+    ],
+    "text": "본 연구에서는 시화조력발전소 구조물 시공시에 만들어 놓은 시험체를 활용하여 염소이온침투 프로파일을 조사하고자 한다. 염소이온 침투 프로파일을 몇 가지 방법으로 조사하여 실제 염소이온 침투 특성과 침투 깊이를 확인하고 설계시에 사용한 염소이온 침투해석 결과와 현재 침투 속도를 비교하여 잔존 내구수명을 예측하고자 한다. 잔존 내구수명에 따른 해양 콘크리트 구조물의 철근부식에 대한 유지관리 방안 후속 연구 자료로 활용하고자 한다.\n\n본 연구의 최종 목표는 해양 콘크리트 구조물 염소이온 침투 프로파일 조사 및 내구수명 추정이며, 이를 달성하기 위한 세부 목표는 다음의 두 가지이다.\n\n1. 시화조력발전소 구조물 콘크리트 시험체 염소이온 침투 프로파일 조사\n2. 시화조력발전소 구조물 콘크리트 시험체 내구수명 추정",
+    "blockRange": [
+      44,
+      47
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0033",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4. 연구내용",
+    "blockRange": [
+      48,
+      48
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0034",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "본 연구의 연차별 내용은 다음과 같다.\n\n- vii -",
+    "blockRange": [
+      49,
+      50
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0035",
+    "type": "table",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용",
+      "- vii -"
+    ],
+    "text": "| 구분 | 연구개발 목표 | 연구개발 내용 |\n| --- | --- | --- |\n| 1차년도<br>(2020) | ㅇ선행 연구 조사<br>ㅇ시화조력발전소 구조물 콘크리트 염소이온 침투프로파일<br>조사<br>ㅇ시화조력발전소 구조물 콘크리트 내구수명 추정 | ㅇ국내외 해양콘크리트 내구성 연구 사례 검토<br>ㅇ수차/수문구조물 염소이온 침투 프로파일 조사<br>- 침지대, 간만대, 대기부 조사<br>ㅇ잔존 내구수명 예측<br>- 설계 사용 자료와 실제 조사분석된<br>자료 비교를 통한 예측 |\n| 2차년도<br>(2021) | ㅇ해양 콘크리트 구조물의 내구수명 확인 방안 도출 | ㅇ낙동강하굿둑 염수 영향 검토<br>ㅇ낙동강하굿둑 염소이온 침투 프로파일<br>조사<br>ㅇ아라뱃길 내구성 설계자료 조사<br>ㅇ낙동강하굿둑, 아라뱃길 구조물 내구수명 추정<br>ㅇ1차년도 결과를 활용하여 해양구조물(낙동강하구둑, 아라뱃길) 등 내구수명<br>확인 방안 도출 |",
+    "blockRange": [
+      51,
+      51
+    ],
+    "page": 13,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0036",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "5. 연구결과",
+    "blockRange": [
+      52,
+      52
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0037",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용",
+      "5. 연구결과"
+    ],
+    "text": "낙동강하굿둑 구조물의 염소이온 침투 프로파일 조사를 위하여 Pier 6의 좌측면에서 간만대와 비말대 2곳에서 코어를 채취하였다. 채취한 코어에서 표면에서 5 mm 단위로 염소이온 침투프로파일을 조사하고 그 결과를 분석하여 내구수명을 추정하였다. 아라뱃길 구조물은 내구성 설계자료를 조사하여 내구수명을 검토하였다.\n\n본 연구에서 1차년도에서 수행한 시화조력발전소 콘크리트 구조물의 추정 내구수명 산정 방법과 낙동강하굿둑 구조물의 내구수명 추정 방법을 장단점을 검토하여 해양구조물의 내구수명 확인방안을 도출하였다.",
+    "blockRange": [
+      53,
+      54
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0038",
+    "type": "table",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용",
+      "5. 연구결과"
+    ],
+    "text": "**표 1. 낙동강하굿둑 추정 내구수명**\n\n| 구 분 | $C_{0}$ | $C_{lim}$ | $D_{28}$ | m | 추정<br>내구수명<br>(년) | 설계<br>내구수명<br>(년) |\n| --- | --- | --- | --- | --- | --- | --- |\n| 간만대 | 9.0 | 1.2 | 3.85E-12 | 0.4 | 213.7 | 166.5 |\n| 간만대 | 11.0 | 1.2 | 3.85E-12 | 0.4 | 185.5 | 166.5 |\n| 침지대 | 10.0 | 1.2 | 3.50E-12 | 0.3 | 122.6 | 102.9 |\n| 침지대 | 12.0 | 1.2 | 3.50E-12 | 0.3 | 108.5 | 102.9 |",
+    "blockRange": [
+      55,
+      55
+    ],
+    "page": 13,
+    "table": {
+      "rows": 5,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0039",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "- viii -",
+    "blockRange": [
+      56,
+      56
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0040",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# SUMMARY",
+    "blockRange": [
+      57,
+      57
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0041",
+    "type": "heading",
+    "breadcrumb": [
+      "SUMMARY"
+    ],
+    "text": "## 1. Proj ect Title",
+    "blockRange": [
+      58,
+      58
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0042",
+    "type": "text",
+    "breadcrumb": [
+      "SUMMARY",
+      "1. Proj ect Title"
+    ],
+    "text": "Residual Life Prediction of Marine Concrete Structures Considering Chloride Penetration Characteristics (Ⅱ)",
+    "blockRange": [
+      59,
+      59
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0043",
+    "type": "heading",
+    "breadcrumb": [
+      "SUMMARY"
+    ],
+    "text": "## 2. Research Period",
+    "blockRange": [
+      60,
+      60
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "SUMMARY",
+      "2. Research Period"
+    ],
+    "text": "2021. 01. 01. \\~ 2021. 12. 31. (1st year)",
+    "blockRange": [
+      61,
+      61
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0045",
+    "type": "heading",
+    "breadcrumb": [
+      "SUMMARY"
+    ],
+    "text": "## 3. Obj ective of Research",
+    "blockRange": [
+      62,
+      62
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0046",
+    "type": "text",
+    "breadcrumb": [
+      "SUMMARY",
+      "3. Obj ective of Research"
+    ],
+    "text": "In this study, the penetration profile of chlorine ion was investigated using the test specimen made during the construction of Sihwa tidal power plant structure. By examining the penetration profile of chloride ion in several ways, the actual chloride ion penetration characteristics and depth were confirmed, and the residual durability life was predicted by comparing the current penetration rate with the chloride ion penetration analysis results used in the design.\n\nIt is intended to be used as a follow-up study of the maintenance plan for the corrosion of reinforcing bars of offshore concrete structures according to the remaining durability life.\n\nThe final goal of this study is to investigate the penetration profile of chloride ion and estimate the durability life of marine concrete structures. The detailed goals to achieve this are as two follows.\n\n1. Concrete test specimen of Sihwa tidal power plant structure for penetration profile investigation of chloride ion\n2. Durability life estimation of concrete test specimen of Sihwa tidal power plant",
+    "blockRange": [
+      63,
+      67
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0047",
+    "type": "heading",
+    "breadcrumb": [
+      "SUMMARY"
+    ],
+    "text": "## 4. Content, Scope and Method of Research",
+    "blockRange": [
+      68,
+      68
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0048",
+    "type": "text",
+    "breadcrumb": [
+      "SUMMARY",
+      "4. Content, Scope and Method of Research"
+    ],
+    "text": "The annual contents of this study are as follows.\n\n- ix -",
+    "blockRange": [
+      69,
+      70
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0049",
+    "type": "table",
+    "breadcrumb": [
+      "SUMMARY",
+      "4. Content, Scope and Method of Research",
+      "- ix -"
+    ],
+    "text": "|  | Objectives | Research and development contents |\n| --- | --- | --- |\n| 1st year (2020) | ㅇPrior research review ㅇInvestigation of chlorine ion penetration profile of concrete structure of Sihwa tidal power plant ㅇEstimation of concrete durability life of Sihwa tidal power plant | ㅇReview of domestic and overseas cases for marine concrete durability research ㅇInvestigation of chloride ion penetration profile of aberration/sluice structure<br>-Investigation of immersion zone, tidal zone, and splash zone ㅇ Prediction of remaining durable life<br>-Prediction through comparison of design usage data and actual survey and analysis data |\n| 2nd year (2021) | ㅇDeriving a plan to check the durability life of marine concrete structures | ㅇReview of the effect of salt water on the Nakdong River Estuary barrage ㅇInvestigation of chloride ion penetration profile in the Nakdong River Estuary barrage ㅇDurability design data investigation of Ara waterway ㅇEstimation of durability life of structures on the Nakdong River Estuary barrage and Ara Waterway ㅇConclusion of the durability life of offshore structures from the results of the first year (Nakdong River Estuary Barrage, Ara Waterway) |",
+    "blockRange": [
+      71,
+      71
+    ],
+    "page": 15,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0050",
+    "type": "text",
+    "breadcrumb": [
+      "SUMMARY",
+      "4. Content, Scope and Method of Research"
+    ],
+    "text": "5. Research Result",
+    "blockRange": [
+      72,
+      72
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0051",
+    "type": "text",
+    "breadcrumb": [
+      "SUMMARY",
+      "4. Content, Scope and Method of Research",
+      "5. Research Result"
+    ],
+    "text": "For the investigation of the chloride ion penetration profile of the structure of the Nakdong River estuary, cores were collected from the tidal zone and the splash zone on the left side of Pier 6. The durability life was estimated by examining the chloride ion penetration profile in units of 5 mm from the surface of the collected core and analyzing the results. The durability of the Arab Waterway structure was reviewed by examining the durability design data.\n\nIn this study, a method for determining the durability of offshore structures was derived by examining the pros and cons of the method of estimating the durability of the concrete structure of the Sihwa Tidal Power Plant and the method of estimating the durability of the structure of the Nakdong River estuary conducted in the first year in this study.",
+    "blockRange": [
+      73,
+      74
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0052",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# CONTENTS",
+    "blockRange": [
+      75,
+      75
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0053",
+    "type": "text",
+    "breadcrumb": [
+      "CONTENTS"
+    ],
+    "text": "Submit Summary i vii\nContents xii\nTable Contents xiii\nPicture Contents CHAPTER 1 Introduction 1 1.1 Background and necessity of research 3 1.1.1 Overview of R&D 3 1.1.2 Importance of R&D 3 1.2 Purpose and content of research 5 Chapter 2 Domestic and foreign offshore concrete research trends 7 2.1 Overview 9 2.2 Design criteria 10 2.3 Critical Corrosion Concentration 12 Chapter 3 Investigation of Chloride Ion Permeation Profiles in Nakdong Estuary 27 3.1 Overview 29 3.2 Chloride Ion Penetration Profile Results 31 3.3 Estimation of the durability of the Nakdong River estuary 40 Chapter 4 Ara Waterway Durability Design Data Investigation 53 4.1 Overview 55 4.2 Durability Design of Ara Waterway 56 4.3 Durability of Ara Waterway 64 Chapter 5 Endurance Life Check of Offshore Structures 67 5.1 Estimated Durability of Sihwa Tidal Concrete Structures 69 5.2 Estimated service life of concrete structures of Nakdong River estuary 70 5.3 Measures to check the durability of offshore structures 71 Chapter 6 Conclusion 73 6.1 Conclusion 75 6.2 Further studies 75 REFERENCES 77 xiv\n\n- xi -",
+    "blockRange": [
+      76,
+      77
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0054",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목\t차",
+    "blockRange": [
+      78,
+      78
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0055",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "제 출 문 i\n요 약 문 vii\n목 차 xii\n표 목 차 xiii\n그림목차 제 1 장 서 론 작성자:장봉석 1 1.1 연구배경 및 필요성 3 1.1.1 연구개발의 개요 3 1.1.2 연구개발의 중요성 3 1.2 연구의 목적 및 내용 5 제 2 장 국내외 해양 콘크리트 연구 동향 작성자:김태민,장봉석 7 2.1 개요 9 2.2 설계기준 10 2.3 부식임계농도 21 제 3 장 낙동강하굿둑 염소이온 침투 프로파일 조사 작성자:장봉석,김태민,안태성 · 27 3.1 개요 29 3.2 염소이온 침투 프로파일 결과 31 3.3 낙동강하굿둑 내구수명 추정 40 제 4 장 아라뱃길 내구성 설계 자료 조사 작성자:장봉석,김태민 53 4.1 개요 55 4.2 아라뱃길 내구성 설계 56 4.3 아라뱃길 내구수명 64 제 5 장 해양구조물의 내구수명 확인 방안 작성자:장봉석,김남룡,김태민 67 5.1 시화조력 콘크리트 구조물의 추정 내구수명 69 5.2 낙동강하굿둑 콘크리트 구조물의 추정 내구수명 70 5.3 해양구조물의 내구수명 확인 방안 71 제 6 장 결 론 작성자:장봉석,김태민 73 6.1 결론 75 6.2 추후 연구 75 참 고 문 헌 77 xiv\n\n- xii -",
+    "blockRange": [
+      79,
+      80
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0056",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표\t목\t차",
+    "blockRange": [
+      81,
+      81
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0057",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차"
+    ],
+    "text": "표 2.1. 콘크리트 표면의 염소이온 농도(㎏/㎥) \t 17\n\n표 2.2. 해상부 크리트 구조물의 해수 접촉 부위별 표면 염소이온 농도 \t 17\n\n표 2.3 해안 지역에서의 표면 염소이온 농도 \t 18\n\n표 2.4 임계 염소이온 농도의 연구 결과 \t 22\n\n표 2.4 임계 염소이온 농도의 연구 결과(계속) \t 23\n\n표 2.4 임계 염소이온 농도의 연구 결과(계속) \t 24\n\n표 2.5 부식임계농도 가정 추천값 \t 25\n\n표 3.1 7일 강도에 의한 배합설계 결과 \t 30\n\n표 3.2 28일 강도에 의한 배합설계 결과 \t 30\n\n표 3.3 비말대 수용성 염화물 함유량 \t 34\n\n표 3.4 비말대 산-가용성 염화물 함유량 \t 35\n\n표 3.5 간만대 수용성 염화물 함유량 \t 35\n\n표 3.6 간만대 산-가용성 염화물 함유량 \t 36\n\n표 3.7 콘크리트 배합비 \t 40\n\n표 3.8 모델 파라미터 산정 및 잔존 내구수명 예측결과 \t 52\n\n표 4.1 1종 방식방법 \t 56\n\n표 4.2. 1종 방식방법 외의 염해 대책 \t 57\n\n표 4.3 콘크리트 배합표 \t 58\n\n표 4.4 탄산화 해석결과 \t 58\n\n표 4.5 염분침투 해석결과 \t 59\n\n표 4.6 환경지수의 산정 \t 60\n\n표 4.7 재료분야 내구지수 증분치 \t 61\n\n표 4.8 설계분야 내구지수 증분치 \t 62\n\n표 4.9 시공분야 내구지수 증분치 \t 63\n\n표 4.10 내구지수의 산정 \t 63\n\n표 5.1 염소이온 프로파일을 고려한 시화조력 콘크리트 구조물의 추정 내구수명 69 표 5.2 모델 파라미터 산정 및 잔존 내구수명 예측결과 \t 70\n\n표 6.1 낙동강하굿둑 추정 내구수명 \t 75\n\n- xiii -",
+    "blockRange": [
+      82,
+      109
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0058",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그\t림\t목\t차",
+    "blockRange": [
+      110,
+      110
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0059",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "그림 2.1 Tuutti의 내구수명 모형 \t 9\n\n그림 2.2 시간에 따른 확산계수의 감소 경향(Costa and Appelon, 1999a; 1999b) 11\n\n그림 2.3. 재령에 따른 콘크리트 염소이온 확산계수(Bamforth, 1999) \t 14\n\n그림 2.4 확산계수 재령계수 모델 비교 \t 16\n\n그림 2.5 재령계수 모델상수 간 상관관계 \t 16\n\n그림 2.5 대기부에서의 최대 염화물량 분포(한국콘크리트학회, 2010) \t 18\n\n그림 2.6 거리(높이)에 따른 염화물량 분포(한국콘크리트학회, 2010) \t 19\n\n그림 3.1 낙동강하굿둑 좌안 \t 29\n\n그림 3.2 제5차 낙동강하굿둑 정밀안전진단보고서 관련 내용 \t 30\n\n그림 3.3 낙동강하굿둑 인근 조위표 \t 31\n\n그림 3.4 낙동강하굿둑 P6 전경 \t 32\n\n그림 3.5 낙동강하굿둑 P6(좌측벽) 코아 채취 \t 33\n\n그림 3.6 낙동강하굿둑 P6(좌측벽) 채취 코아 시험체 \t 33\n\n그림 3.7 비말대 수용성 염화물 함유량 \t 37\n\n그림 3.8 간만대 수용성 염화물 함유량 \t 37\n\n그림 3.9 비말대 산-가용성 염화물 함유량 \t 38\n\n그림 3.10 간만대 산-가용성 염화물 함유량 \t 38\n\n그림 3.11 비말대 수용성 및 산가용성 염화물 함유량 \t 39\n\n그림 3.12 간만대 수용성 및 산가용성 염화물 함유량 \t 39\n\n그림 3.13 낙동강하굿둑 비말대 콘크리트에서의 산-가용성 염소이온 농도 프로파일 \t 41\n\n그림 3.13 낙동강하굿둑 비말대 콘크리트에서의 산-가용성 염소이온 농도 프로파일(계속) \t 42\n\n그림 3.14 낙동강하굿둑 비말대 콘크리트에서의 수용성 염소이온 농도 프로파일 43 그림 3.14 낙동강하굿둑 비말대 콘크리트에서의 수용성 염소이온 농도 프로파일(계\n\n속) \t 44\n\n그림 3.15 낙동강하굿둑 간만대 콘크리트에서의 산-가용성 염소이온 농도 프로파일 \t 45\n\n그림 3.15 낙동강하굿둑 간만대 콘크리트에서의 산-가용성 염소이온 농도 프로파일(계속) \t 46\n\n그림 3.16 낙동강하굿둑 간만대 콘크리트에서의 수용성 염소이온 농도 프로파일 46 그림 3.16 낙동강하굿둑 간만대 콘크리트에서의 수용성 염소이온 농도 프로파일(계\n\n속) \t 47\n\n그림 3.17 수용성 염소이온 농도와 산-가용성 염소이온 농도 관계 \t 48\n\n그림 3.18 모델 파라미터 산정 \t 49\n\n- xiv -",
+    "blockRange": [
+      111,
+      140
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0060",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xiv -"
+    ],
+    "text": "그림 3.19 잔존 내구수명 예측(비말대) \t 50\n\n그림 3.20 잔존 내구수명 예측(간만대) \t 51\n\n그림 4.1 경인아라뱃길 1공구 위치 및 단면도 \t 55\n\n그림 4.2 내구성 설계 흐름도 \t 59\n\n그림 5.1 잔존 내구수명 평가 절차 \t 72",
+    "blockRange": [
+      141,
+      145
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0061",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xv -",
+    "blockRange": [
+      146,
+      146
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0062",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xv -"
+    ],
+    "text": "< 공 란 >",
+    "blockRange": [
+      147,
+      147
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0063",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제1장서론",
+    "blockRange": [
+      148,
+      148
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0064",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론"
+    ],
+    "text": "<u>작성자 : 장봉석</u>\n\n< 공 란 >",
+    "blockRange": [
+      149,
+      150
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0065",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론"
+    ],
+    "text": "## 1.1 연구배경 및 필요성",
+    "blockRange": [
+      151,
+      151
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0066",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론",
+      "1.1 연구배경 및 필요성"
+    ],
+    "text": "### 1.1.1 연구개발의 개요",
+    "blockRange": [
+      152,
+      152
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0067",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.1 연구배경 및 필요성",
+      "1.1.1 연구개발의 개요"
+    ],
+    "text": "1990년도 후반에는 미국에서 주요 SOC 구조물인 교량의 부식 발생에 대한 보수 비용이 커서 국가 차원에서 보수하지 못하고 폐쇄된 다수의 교량이 존재하였다. 이러한국가차원에서 관리의 어려움을 타산지석으로 삼아 시화 조력발전소 구조물 시공 당시에 내구수명 확보를 위한 콘크리트 내구성 배합 조정, 부식 모니터링 센서 설치와 장기 유지관리 방안 도출을 위한 현장 적용 배합으로 시험체 제작 및 해양환경시험장에 설치 등을 실시하였다.\n\n이에 따라 염소이온 침투에 의한 내구수명 확인을 위한 초깃값 확보를 위한 염소이온 침투 프로파일 조사하고 설계/시공시에 사용된 자료를 비교 분석하여 시화조력발전소 구조물의 잔존 내구수명을 예측하여, 시화조력 내구수명 100년 확보 점검 및 부식 대책 방안 수립 연구에 활용하고자 하였다.\n\n1차년도 연구에서는 해양환경시험장에 설치해 두었던 시험체에 대하여 염소이온 침투 프로파일 조사를 통하여 시화조력발전소 구조물의 잔존 내구수명을 도출하였다. 이는 추후 염소이온 침투에 의한 철근 부식으로 사용되는 보수비용의 1/10 \\~ 1/20 수준으로 유지관리가 가능한 방안 도출 연구에 활용될 수 있을 것으로 기대된다.\n\n금년도 연구인 2차년도에서는 낙동강하굿둑 구조물의 시편을 채취하여 염소이온 침투 프로파일을 조사하였다. 실제 염소이온 침투 특성과 침투 깊이를 확인하고 설계시에 사용한 염소이온 침투해석 결과와 현재 침투 속도를 비교하여 낙동강하굿둑 구조물의 잔존 내구수명을 예측하였다. 금년도 연구 대상으로 한 낙동강하굿둑(좌안) 구조물은 공용년수 30년을 넘으며(1987년 11월 준공) 유지관리의 중요성이 증가되고 있다. 본 연구를 통해 해양 콘크리트 구조물 잔존 내구수명 평가 방법 및 결과를 분석하여 장기적인 철근부식에 대한 유지관리 방안 후속 연구 자료로 활용하고자 한다.",
+    "blockRange": [
+      153,
+      156
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0068",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론",
+      "1.1 연구배경 및 필요성"
+    ],
+    "text": "### 1.1.2 연구개발의 중요성",
+    "blockRange": [
+      157,
+      157
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0069",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.1 연구배경 및 필요성",
+      "1.1.2 연구개발의 중요성"
+    ],
+    "text": "가. 기술적 측면",
+    "blockRange": [
+      158,
+      158
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0070",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.1 연구배경 및 필요성",
+      "1.1.2 연구개발의 중요성",
+      "가. 기술적 측면"
+    ],
+    "text": "염소이온 침투프로파일을 조사하여 해양콘크리트 구조물의 잔존 내구수명을 판단함으로써 추후 해양 콘크리트 구조물의 내구수명 확보 및 유지관리 비용 저감을 위한 부식 대책 방안 수립 연구에 활용이 필요하다.",
+    "blockRange": [
+      159,
+      159
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0071",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론"
+    ],
+    "text": "## 나. 경제․산업적 측면",
+    "blockRange": [
+      160,
+      160
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0072",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "나. 경제․산업적 측면"
+    ],
+    "text": "도출된 연구 결과를 추후 ‘해양콘크리트 구조물 철근 부식 대책 방안 수립 연구’에 활용하여 세계 최대 조력발전소인 시화조력발전소를 비롯한 K-water 해양 구조물의 저비용 고효율 유지관리 방안 도출을 통하여 장기적인 유지관리 비용 절감이 가능 하다.\n\n다. 사회․문화적 측면",
+    "blockRange": [
+      161,
+      162
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0073",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "나. 경제․산업적 측면",
+      "다. 사회․문화적 측면"
+    ],
+    "text": "시화조력발전소의 철근 부식 보수시 시공 당시에 사용한 거대 가물막이 설치 등으로 인한 환경 미치는 영향을 최소화할 수 있는 ‘해양 콘크리트 구조물 유지관리 방법의 선정 및 적용’으로 환경 영향 최소화 가능하다.",
+    "blockRange": [
+      163,
+      163
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0074",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장서론"
+    ],
+    "text": "## 1.2 연구의 목적 및 내용",
+    "blockRange": [
+      164,
+      164
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0075",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구의 목적 및 내용"
+    ],
+    "text": "본 연구는 최종 목표는 다음과 같다.\n\nㅇ최종목표: 해양 콘크리트 구조물 염소이온 침투프로파일 조사 및 내구수명 추정\n\n- 세부목표\n\n1. 시화조력발전소 구조물 콘크리트 시험체 염소이온 침투프로파일 조사\n2. 시화조력발전소 구조물 콘크리트 시험체 내구수명 추정",
+    "blockRange": [
+      165,
+      169
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0076",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구의 목적 및 내용",
+      "2. 시화조력발전소 구조물 콘크리트 시험체 내구수명 추정"
+    ],
+    "text": "연도별 연구개발 목표 및 연구개발 내용은 다음과 같다.",
+    "blockRange": [
+      170,
+      170
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0077",
+    "type": "table",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구의 목적 및 내용",
+      "2. 시화조력발전소 구조물 콘크리트 시험체 내구수명 추정"
+    ],
+    "text": "| 구분 | 연구개발 목표 | 연구개발 내용 |\n| --- | --- | --- |\n| 1차년도<br>(2020) | ㅇ선행 연구 조사<br>ㅇ시화조력발전소 구조물 콘크리트 염소이온 침투프로파일 조사<br>ㅇ시화조력발전소 구조물 콘크리트 내구수명 추정 | ㅇ국내외 해양콘크리트 내구성 연구 사례<br>검토<br>ㅇ수차/수문구조물 염소이온 침투 프로파일<br>조사<br>-침지대, 간만대, 대기부 조사<br>ㅇ잔존 내구수명 예측<br>-설계 사용 자료와 실제 조사분석된 자료<br>비교를 통한 예측 |\n| 2차년도<br>(2021) | ㅇ해양 콘크리트 구조물의 내구수명 확인 방안 도출 | ㅇ낙동강하굿둑 염수 영향 검토<br>ㅇ1차년도 결과를 활용하여 낙동강하구둑,<br>아라뱃길 콘크리트 시설물 등 내구수명<br>확인 방안 도출 |",
+    "blockRange": [
+      171,
+      171
+    ],
+    "page": 26,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0078",
+    "type": "text",
+    "breadcrumb": [
+      "제1장서론",
+      "1.2 연구의 목적 및 내용",
+      "2. 시화조력발전소 구조물 콘크리트 시험체 내구수명 추정"
+    ],
+    "text": "< 공 란 >",
+    "blockRange": [
+      172,
+      172
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0079",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제2장 국내외 해양 콘크리트 연구 동향",
+    "blockRange": [
+      173,
+      173
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0080",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향"
+    ],
+    "text": "<u>작성자 : 장봉석, 김태민</u>\n\n< 공 란 >",
+    "blockRange": [
+      174,
+      175
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0081",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향"
+    ],
+    "text": "## 2.1 개요",
+    "blockRange": [
+      176,
+      176
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0082",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향"
+    ],
+    "text": "## 2.1. 철근부식에 관한 내구수명 모델",
+    "blockRange": [
+      177,
+      177
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0083",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.1. 철근부식에 관한 내구수명 모델"
+    ],
+    "text": "철근부식에 관한 콘크리트 구조물의 내구수명 모형으로 가장 일반적인 것은 그림 2.1과 같은 2단계 모형으로 Tuutti(1982)가 제안한 모형 중 가장 단순한 형태이다 (Clifton and Knab, 1989). 이 모형에 따르면 내구 수명 기간은 잠재기와 진전기의 두 단계로 구분된다. 잠재기는 염소이온의 침투에 의해 철근의 부식이 시작되기 이전까지의 기간으로 염소이온과 수분 등의 침투속도가 지배적인 인자가 된다. 진전기는 철근의 부식이 시작된 이후부터 콘크리트의 균열, 박리 등으로 실질적인 구조물의 내하력 감소와 파괴가 발생하기까지의 기간을 의미한다. 이 기간은 부식 속도에 영향을 미치는 수분, 산소량 등이 중요한 지배 인자가 된다.\n\nTuutti의 내구수명 모형에서 총 내구수명은 잠재기와 진전기를 더한 기간이지만, 내구성 설계에서는 진전기는 매우 짧은 것으로 간주하고, 잠재기, 즉 철근 부식의 발현 까지의 기간을 내구수명으로 정의한다. 그리고 이에 따라 한계상태는 “철근 위치에서의 염소이온 농도가 부식이 발현되는 임계 염소이온 농도에 도달하는 상태”로 정의된다.\n\n부식진행,\n\n균열/박리 발생\n\n열화\n\n구조물의\n\n철근 부식 개시\n\nCl, O2, H2O 침투\n\n시간\n\n잠재기\n\n(=설계 내구수명)\n\n진전기\n\n총 내구수명\n\n그림 2.1 Tuutti의 내구수명 모형",
+    "blockRange": [
+      178,
+      191
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0084",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향"
+    ],
+    "text": "## 2.2. 염소이온 침투 예측모델",
+    "blockRange": [
+      192,
+      192
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0085",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델"
+    ],
+    "text": "### 2.2.1. Fick의 제2확산법칙과 일반해",
+    "blockRange": [
+      193,
+      193
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0086",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.1. Fick의 제2확산법칙과 일반해"
+    ],
+    "text": "콘크리트 내부로 염소이온이 침투하는 주요 메커니즘은 공극수 내에서 염소이온의 확산(diffusion)과 염소이온을 함유한 모세관 내부 공극수 자체의 이동(convection)으로 이루어진다. 콘크리트 내부의 수분이 포화되었다고 가정하면 공극수 자체의 이동은 무시할 수 있다. 따라서 다음과 같은 Fick의 제2확산법칙을 적용할 수 있게 된다.\n\n$\\frac{C}{t}=D(t)\\frac{^{2}C}{x}_{2}$\n\n(2.1)\n\n여기서 $C$ 는 시간 $t$ (s) 동안 염분에 노출된 콘크리트의 표면으로부터 거리 $x$ (m) 만큼 떨어진 위치에서의 염소이온 농도(kg/m³)이며, $D$ 는 콘크리트 염소이온 확산계수(m²/s)를 나타낸다.\n\n확산계수 $D$ 가 시간에 따라 변화하지 않는다고 가정하고, 외부의 염소이온 농도 역시 일정하며($C=C_{s}$ for $t\\to \\infty$ ), 콘크리트 내부의 초기 염소이온 농도도 역시 일정하다고 가정하면($C=C_{i}$ at $t$=0), 식 (2.1)의 해는 다음과 같이 구할 수 있다.\n\n$^{C}t^{=C}i^{+(C}s^{-C}i^{)}_{}^{1-erf}(^{\\frac{x}{\\sqrt{4Dt}}})^{}_{}$\n\n여기서 $erf$는 오차함수를 나타내며, 아래와 같이 정의된다.\n\n$erf(s)=\\frac{2}{\\pi ^{12}}\\int _{0}e^{-\\lambda 2}d\\lambda$$s$\n\n(2.2)\n\n(2.3)",
+    "blockRange": [
+      194,
+      203
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0087",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델"
+    ],
+    "text": "### 2.2.2. 확산계수의 시간 의존성을 고려한 모델",
+    "blockRange": [
+      204,
+      204
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0088",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.2. 확산계수의 시간 의존성을 고려한 모델"
+    ],
+    "text": "콘크리트의 확산계수는 실제로는 시간에 따라 일정한 것이 아니라 재령이 증가하면 서 콘크리트의 수화가 진전되어 감에 따라 점차 감소하게 된다(그림 2.2 참조). 따라서 만약 확산계수가 시간에 따라 감소하는 것을 고려하지 않고 재령 초기의 확산계수를 적용하게 되면 지나치게 보수적인 결과를 가져오게 된다.\n\n확산계수가 시간에 따라 감소한다고 할 때 새로운 매개변수 $T$를 도입하면 식 (2.1)을 아래와 같이 바꾸어 나타낼 수 있다.\n\n$\\frac{C}{T}=\\frac{^{2}C}{x^{2}}$\n\n(2.4)\n\n$T=\\int _{0}D(\\tau )d\\tau$$t$\n\n(2.5)\n\n따라서 경계조건과 초기조건이 동일할 때, 식 (2.4)의 해를 식 (2.2)와 유사하게 다음과 같이 나타낼 수 있다.\n\n(a) 측정 데이터\n\n(b) curve fit\n\n그림 2.2 시간에 따른 확산계수의 감소 경향(Costa and Appelon, 1999a; 1999b)\n\n\n![image](image_004.png)\n\n\n![image](image_005.png)\n\n$Ct^{=}Ci^{+(}Cs^{-}Ci^{)}_{}1^{-}erf(^{\\frac{x}{\\sqrt{4T}}})^{}_{}$\n\n여기서 매개변수 $T$ 대신 확산계수 시간 평균 $D_{m}$을 도입하면,\n\n$Dm=\\frac{1}{t}\\int _{0}D(\\tau )d\\tau =\\frac{T}{t}$$t$\n\n식 (2.6)은 다시 아래와 같이 나타낼 수 있다.\n\n(2.6)\n\n(2.7)\n\n$^{C-C}i^{=(C}s^{-C}i^{)1-erf}(^{\\frac{x}{2\\sqrt{D_{m}t}}})^{}$$$\n\n또는 다음과 같이 나타내기도 한다.\n\n(2.8a)\n\n$^{C-C}i^{=(C}s^{-C}i^{)erfc}(^{\\frac{x}{2\\sqrt{D_{m}t}}})$\n\n여기서 $erfc=1-erf$.\n\n(2.8b)\n\n확산계수의 재령에 따른 의존성을 나타내는 모델은 아래와 같은 모델이 있다.\n\n(1) 1-parameter model (Takewaka and Mastumoto, 1988; Tang and Nilsson, 1992; Bentz and Thomas, 2001).",
+    "blockRange": [
+      205,
+      230
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0089",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.2. 확산계수의 시간 의존성을 고려한 모델",
+      "(1) 1-parameter model (Takewaka and Mastumoto, 1988; Tang and Nilsson, 1992; Bentz and Thomas, 2001)."
+    ],
+    "text": "$D(t)=D0(\\frac{t_{0}}{t})$$m$ , ( $t\\le t_{c}$)\t(2.9a)\n\n$m$\n\n= const, ( $t\\ge t_{c}$)\t(2.9b)\n\n$D(t)=D0(\\frac{t_{0}}{t_{c}})$\n\n여기서, $m$은 확산계수의 시간(재령)에 따른 감소를 나타내는 재령계수(-)이고, $D_{0}$ 는 시간 $t_{0}$(s)에서의 확산계수 기준값을, $t_{c}$는 확산계수가 더 이상 감소하지 않는 시간(s)을 나타낸다. Life-365(Bentz and Thomas, 2001)에서는 $t_{c}$를 30년으로 가정하고 있다.\n\n시간에 대한 적분을 거쳐 나타내면 아래와 같이 쓸 수 있다.\n\n$Dm=\\frac{D_{0}}{1-m}(\\frac{t_{0}}{t})t\\le tc$$m$ , ( )\n\n(2.10a)\n\n$Dm=\\frac{D_{0}}{1-m}(\\frac{t_{0}}{t_{c}})^{m}1-m+m(\\frac{t_{c}}{t})^{}t\\ge tc$, ( )\t(2.10b)",
+    "blockRange": [
+      231,
+      239
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0090",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.2. 확산계수의 시간 의존성을 고려한 모델",
+      "(1) 1-parameter model (Takewaka and Mastumoto, 1988; Tang and Nilsson, 1992; Bentz and Thomas, 2001)."
+    ],
+    "text": "|  |  | 여기서 주의할 점은 기준 확산계수 $D_{0}$는 시간 0\\~$t_{0}$까지의 평균 확산계수가 아니라 $t_{0}$에서의 순간 확산계수를 나타낸다는 점이다. 따라서 $D_{0}$는 반드시 전기적 방법과 같은 짧은 시간에 측정된 확산계수를 적용해야 한다. 만약 침지실험이나 구조물에서 얻은 코어 시편에서 측정된 염소이온 프로파일로부터 구한 확산계수를 적용하려면 이 |  |  |\n| --- | --- | --- | --- | --- |\n| 확산계수는 아래와 같이 표현해야 한다. |  |  |  |  |\n|  | $D_{0m}=D_{0}(1-m)$ | 따라서 이 경우 식 (2.10a)와 (2.10b)는 다음과 같이 변경되어야 한다. |  | (2.11) |\n|  | $Dm=D0m(\\frac{t_{0}}{t})t\\le tc$$m$ , ( | ) |  | (2.12a) |\n|  |  | , ( | ) | (2.12b) |",
+    "blockRange": [
+      240,
+      240
+    ],
+    "page": 34,
+    "table": {
+      "rows": 5,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0091",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.2. 확산계수의 시간 의존성을 고려한 모델",
+      "(1) 1-parameter model (Takewaka and Mastumoto, 1988; Tang and Nilsson, 1992; Bentz and Thomas, 2001)."
+    ],
+    "text": "$Dm=D0m(\\frac{t_{0}}{t_{c}})^{m}1-m+m(\\frac{t_{c}}{t})^{}t\\ge tc$",
+    "blockRange": [
+      241,
+      241
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0092",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.2. 확산계수의 시간 의존성을 고려한 모델",
+      "(1) 1-parameter model (Takewaka and Mastumoto, 1988; Tang and Nilsson, 1992; Bentz and Thomas, 2001)."
+    ],
+    "text": "|  | Thomas, 2001)에서 제시하고 있는 다음 식을 사용할 수 있다. | 재령계수 $m$에 대하여 신뢰할 만한 시험값을 확보하지 못하면 Life-365(Bentz and |  |  |\n| --- | --- | --- | --- | --- |\n| $m=0.2+0.4(FA()50+SG()70)FA$, |  | 여기서, $FA$(%)와 $SG$(%) 는 각각 총 결합재 질량에 대한 플라이애시와 고로슬래 그 함유율(%)을 나타낸다. 위 식은 그림 2.3에 나타낸 Bamforth(1999)의 연구결과를 적용한 것이다. 그림에서 알 수 있듯이 데이터의 산포도가 상당히 크다. 1-parameter model은 하나의 파라미터를 정하면 되므로 데이터 핏팅을 통해 파라미터를 결정하기 쉬운 장점이 있는 반면 시간이 갈수록 확산계수가 0으로 접근하는 모델이기 때문에 시간이 경과할수록 실제 콘크리트 확산계수의 감소 경향을 과대평가하는 경향이 있다. 따라서 확산계수가 변하지 않는 시점($t_{c}$)을 임의로 정해야 한다. 그러나 이렇게 특정 시간에 도달하면 확산계수가 더 이상 감소하지 않는 것으로 설정한다고 해도 그 시점까지 확산계수가 빠르게 감소하는 것으로 표현되므로 여전히 확산계수를 너무 낮게 평가하게 된다. 또한 $t_{c}$를 기준으로 해석해가 달라지므로 염화물량 측정 데이터와의 핏팅(fitting)을 통해 확산계수 등을 결정하는 데 해석해를 적 | (%)≤50%, $SG$(%)≤70% | (2.13) |\n| 용하기가 어렵다는 문제가 있다. |  |  |  |  |",
+    "blockRange": [
+      242,
+      242
+    ],
+    "page": 34,
+    "table": {
+      "rows": 3,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0093",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.2. 확산계수의 시간 의존성을 고려한 모델",
+      "(1) 1-parameter model (Takewaka and Mastumoto, 1988; Tang and Nilsson, 1992; Bentz and Thomas, 2001)."
+    ],
+    "text": "(a) 포틀랜드 시멘트 콘크리트\n\n(b) 플라이애시 콘크리트\n\n(c) 슬래그 콘크리트\n\n그림 2.3 재령에 따른 콘크리트 염소이온 확산계수(Bamforth, 1999)\n\n\n![image](image_006.png)\n\n\n![image](image_007.png)\n\n\n![image](image_008.png)",
+    "blockRange": [
+      243,
+      249
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0094",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.2. 확산계수의 시간 의존성을 고려한 모델"
+    ],
+    "text": "(2) 2-parameter model (Saetta et al., 1993)",
+    "blockRange": [
+      250,
+      250
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0095",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.2. 확산계수의 시간 의존성을 고려한 모델",
+      "(2) 2-parameter model (Saetta et al., 1993)"
+    ],
+    "text": "앞서 설명한 1-parameter model의 문제점을 줄이기 위한 대안으로 아래에 제시하는 2-parameter model의 적용을 검토할 수 있다. 재령이 증가함에 따라 수화반응과 포졸 란 반응(혼화재료를 사용하는 경우)에 의해 시멘트 페이스트의 미세구조가 더 치밀해지기 때문이다. 이런 작용은 통상 상당 기간 지속적으로 이루어진다. 그러나 이론적으로 최대 수화도에 도달하면 공간적 제약으로 인해 더 이상의 수화반응이 발생할 수 없다. 그러므로 확산계수는 하한값을 갖는 것으로 보는 것이 타당할 것이다.\n\n확산계수가 하한값에 접근하는 경향을 가지도록 하려면 아래와 같은 2-parameter model이 보다 합리적이다.\n\n$m$′\n\n$\\frac{D(t)}{D_{0}}=\\alpha +(1-\\alpha )(\\frac{t_{0}}{t})$\t(2.14)\n\n여기서, $\\alpha =\\frac{D_{LL}}{D_{0}}$이고, $m$′는 2-parameter model의 재령계수, $D_{LL}$은 확산계수 하한\n\n값을 나타낸다. 2-parameter model은 수치해석에서는 적용되고 있지만 2개의 변수가 필요하다는 점 때문에 염화물량 분석에서는 널리 활용되지 못했다.\n\n그림 2.4는 1-parameter model과 2-parameter model을 비교한 결과이다. 확산계수의 하한값이 1-parameter model에서 확산계수가 일정해지는 시점($t_{c}$)에서의 확산계수라고 가정하고, 1-paramter model과 15년 경과시점(5760일)까지 가장 비슷한 값을 갖도록 피팅한 결과를 보여준다. 그림에서 알 수 있듯이 15년까지 유사한 값을 나타내지만 이후부터 차츰 격차가 커지면서 1-parameter model이 상대적으로 확산계수를 더 과소평가하게 됨을 알 수 있다. 기존 연구에서 대부분 10년 내외의 측정값을 이용하여 모델 상수값을 결정했기 때문에 이 결과는 1-parameter model을 적용하면 수명을 과대평가할 수 있음을 시사한다.\n\n그림 2.4 확산계수 재령계수 모델 비교\n\n그림 2.5 재령계수 모델상수 간 상관관계\n\n2-parameter model은 아직 충분한 데이터가 확보되지 않아 추정이 쉽지 않다. 앞서 설명한 방법으로 2-parameter model의 모델 상수값인 $m$′ 및 $\\alpha$와 1-parameter model의 상수인 $m$값과의 관계를 추정해 보면 아래 식 (2.15) 및 (2.16)과 같이 나타낼 수 있다(그림 2.5 참조).\n\n\n![image](image_009.png)\n\n\n![image](image_010.png)\n\n$m=0.7015m+0.2138$′\n\n$\\alpha =(\\frac{D_{LL}}{D_{ref}})=(\\frac{t_{ref}}{t_{c}})$$m$\n\n(2.15)\n\n(2.16)",
+    "blockRange": [
+      251,
+      266
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0096",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델"
+    ],
+    "text": "### 2.2.3. 표면 염소이온농도의 변화를 고려한 모델",
+    "blockRange": [
+      267,
+      267
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0097",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델"
+    ],
+    "text": "위 식 (2.8a) 또는 (2.8b)는 표면 염소이온 농도가 일정하다는 가정하에 적용된다. 표면 염소이온 농도에 관한 시방서의 규정을 먼저 살펴보면 가장 대표적인 것은 표 2.1에 나타낸 일본 토목학회 콘크리트 표준시방서 내구성조사형 시공편(일본토목학회, 1999)의 규정이다. 여기서는 비말대와 해양대기중으로 나누고 해상대기중의 경우 해안선으로부터 거리에 따른 콘크리트 표면 염소이온 농도를 규정하고 있다.\n\n비말대 해안으로부터 거리 (m)\n\n해안선 부근 100 250 500 1000",
+    "blockRange": [
+      268,
+      270
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0098",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델"
+    ],
+    "text": "**표 2.1 콘크리트 표면의 염소이온 농도(㎏/㎥)**\n\n| 13.0 | 9.0 | 4.5 | 3.0 | 2.0 | 1.5 |\n| --- | --- | --- | --- | --- | --- |",
+    "blockRange": [
+      271,
+      271
+    ],
+    "page": 38,
+    "table": {
+      "rows": 1,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0099",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델"
+    ],
+    "text": "\\* 해안부근의 높이방향에 대해서는 높이 1 m가 해안에서의 거리 25 m에 해당된다고\n\n가정한다.\n\n※ 출처 : 일본토목학회 콘크리트 표준시방서 내구성조사형 시공편(1999)",
+    "blockRange": [
+      272,
+      274
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0100",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델",
+      "※ 출처 : 일본토목학회 콘크리트 표준시방서 내구성조사형 시공편(1999)"
+    ],
+    "text": "**표 2.2 해상부 콘크리트 구조물의 해수 접촉 부위별 표면 염소이온 농도**\n\n| 해안 구분\\* | 해수접촉부위 | 표면 염소이온 농도(㎏/㎥) |\n| --- | --- | --- |",
+    "blockRange": [
+      275,
+      275
+    ],
+    "page": 38,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0101",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델",
+      "※ 출처 : 일본토목학회 콘크리트 표준시방서 내구성조사형 시공편(1999)"
+    ],
+    "text": "서, 남해안 간만대 20.0\n\n비말대 5.0\n\n해상대기중 2.5\n\n동해안 간만대, 비말대 13.0\n\n해상대기중 9.0\n\n\\* 서남해안과 동해안의 구분은 부산지역으로 한다.",
+    "blockRange": [
+      276,
+      281
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0102",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델"
+    ],
+    "text": "※ 출처 : KDS 14 20 40(콘크리트구조 내구성 설계기준) 부록 해설(한국콘크리트학회, 2021)",
+    "blockRange": [
+      282,
+      282
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0103",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델",
+      "※ 출처 : KDS 14 20 40(콘크리트구조 내구성 설계기준) 부록 해설(한국콘크리트학회, 2021)"
+    ],
+    "text": "**표 2.3 해안 지역에서의 표면 염소이온 농도**\n\n| 해안 구분 | 해안으로부터 거리(m) | 표면 염소이온 농도(㎏/㎥) |\n| --- | --- | --- |",
+    "blockRange": [
+      283,
+      283
+    ],
+    "page": 39,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0104",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델",
+      "※ 출처 : KDS 14 20 40(콘크리트구조 내구성 설계기준) 부록 해설(한국콘크리트학회, 2021)"
+    ],
+    "text": "서, 남해안 해안선 부근 2.5\n\n100 2.0\n\n250 1.5\n\n동해안 해안선 부근 9.0\n\n100 4.5\n\n250 3.0\n\n500 2.5\n\n1,000 1.5",
+    "blockRange": [
+      284,
+      291
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0105",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델"
+    ],
+    "text": "※ 출처 : KDS 14 20 40(콘크리트구조 내구성 설계기준) 부록 해설(한국콘크리트학회, 2021)",
+    "blockRange": [
+      292,
+      292
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0106",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.2. 염소이온 침투 예측모델",
+      "2.2.3. 표면 염소이온농도의 변화를 고려한 모델",
+      "※ 출처 : KDS 14 20 40(콘크리트구조 내구성 설계기준) 부록 해설(한국콘크리트학회, 2021)"
+    ],
+    "text": "우리나라의 경우에도 KDS 14 20 40(콘크리트구조 내구성 설계기준) 부록 해설(한국콘크리트학회, 2021)에서 표 2.2와 2.3과 같이 해상부에 놓인 콘크리트 구조물의 해수 접촉 부위별 표면 염소이온 농도와 해안 지역에서의 표면 염소이온 농도를 규정하고 있다. 이 규정에 따르면 동해안의 경우는 일본의 해안 조건과 동일하다고 볼 수 있지만, 서, 남해안의 경우는 이와 달리 간만대와 비말대가 구분되고, 간만대에서는 동해안에 비해 더 높은 표면 염소이온 농도를 갖게 된다.\n\n12.0 3) content(kg/m 10.08.0\n\ne\n\nd 6.0\n\ni r\n\nlo h\n\nc 4.0\n\nm u\n\nm i\n\nx 2.0\n\na",
+    "blockRange": [
+      293,
+      303
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0107",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향"
+    ],
+    "text": "## M",
+    "blockRange": [
+      304,
+      304
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0108",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "M"
+    ],
+    "text": "0.0 0.0\t1.0\t2.0\t3.0\t4.0\t5.0Elapsed time ( √ years )\n\n그림 2.5 대기부에서의 최대 염화물량 분포(한국콘크리트학회, 2010)",
+    "blockRange": [
+      305,
+      306
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0109",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "M"
+    ],
+    "text": "### Atmospheric zone",
+    "blockRange": [
+      307,
+      307
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0110",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "M",
+      "Atmospheric zone"
+    ],
+    "text": "(R2= 0.68)\n\n그림 2.6 거리(높이)에 따른 염화물량 분포(한국콘크리트학회, 2010)\n\n그러나 실제 표면 염소이온 농도는 일정하다고 보기 어렵다. 만약 해수 중에 침지된 콘크리트라면 빠르게 표면 염소이온 농도가 일정한 값에 도달하겠지만, 해상대기중이나 비말대, 간만대와 같은 지역에서는 상당히 오랜 기간에 걸쳐 표면 부근에 염화물이 축적된다. 그림 2.5와 2.6은 일본에서 해상대기중 환경에 위치한 콘크리트 구조물로부터 분석된 최대 염화물량(표면 염화물량)의 증가 추이와 표면 염화물량을 보여주 고 있다(한국콘크리트학회, 2010).\n\n또한 대부분의 해상대기중, 비말대 및 간만대에서는 표면 부근의 염화물량이 최대값을 나타내지 않고 표면으로부터 일정 깊이 이후에 최대값이 나타나는 형태의 염소이온 농도 프로파일을 나타낸다. 이것은 Fick의 제2법칙에 따라 구한 염소이온 농도 프로파일과는 다른 것이다. 즉 콘크리트 내부가 완전 포화되어 이온 확산에 의해 주로 염소이온이 이동한다고 가정하였으므로 물 속에 용해된 이온이 물의 움직임에 따라 이동되는 현상을 고려하지 않았기 때문이다. 또한 공극수 내 이온 농도에 따라 염화물 구속의 정도가 달라지는 현상도 이러한 염소이온 농도 프로파일에 영향을 미쳤을 것으로 판단된다.\n\n실제 염소이온 프로파일로부터 잔존수명을 예측하고자 할 때 과연 Fick의 제2법칙을 적용하고 표면 염소이온 농도가 일정하다고 가정한 상태에서 구한 식으로 핏팅(fitting)을 통해 확산계수와 표면 염소이온 농도를 추정하고 있다. 이는 상당한 오차를 포함하게 될 가능성이 높을 것으로 판단된다. 따라서 표면 염소이온 농도의 변화를 고려한 예측 모델을 적용하는 것이 바람직하다.\n\n\n![image](image_011.png)\n\n표면 염소이온 농도의 변화를 아래와 같이 시간에 대한 함수로 나타낼 수 있다.\n\n$C_{s}(t)=(t)$\t(2.17)\n\n표면 염소이온 농도 증가 함수에 대해서는 여러 연구자들이 다양한 형태의 함수를 제안한 바 있다. 대표적인 모델로 Uji 등(1990)이 제안한 아래 모델이 있다.\n\n$C_{s}(t)=s\\sqrt{t}$\n\n(2.18)\n\n여기서 $s$는 표면 염소이온 농도 증가 속도(buildup rate)를 나타낸다. 위 식과 같이 표면 염소이온 농도가 시간의 제곱근에 비례한다고 하면 염소이온 침투 예측식은 아래와 같이 나타낼 수 있다(Uji et al. 1990).\n\n$C(x,t)=s\\sqrt{t}^{}_{}exp(-\\frac{x^{2}}{4D_{m}t})-\\frac{x\\sqrt{\\pi}}{2\\sqrt{D_{m}t}}erfc(\\frac{x}{2\\sqrt{D_{m}t}})^{}_{}$\n\n(2.19)\n\n초기 염소이온농도($C_{i}$ )를 고려하면 위 식은 다시 아래와 같이 나타낼 수 있다.\n\n$C(x,t)=(s\\sqrt{t}-Ci)^{}_{}exp(-\\frac{x^{2}}{4D_{m}t})-\\frac{x\\sqrt{\\pi}}{2\\sqrt{D_{m}t}}erfc(\\frac{x}{2\\sqrt{D_{m}t}})^{}_{}+Ci$\n\n(2.20)\n\n다만 여기서 표면 염소이온 농도는 실제 표면에서의 농도를 의미한다고 볼 수 없고, 내부의 염소이온 프로파일과 잘 일치될 때 예측 모델에 의한 겉보기 표면 염소이온 농도라는 점을 유념해야 한다.",
+    "blockRange": [
+      308,
+      325
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0111",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향"
+    ],
+    "text": "## 2.3 부식임계농도",
+    "blockRange": [
+      326,
+      326
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0112",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.3 부식임계농도"
+    ],
+    "text": "잔존수명 예측을 위해서는 부식임계농도를 가정해야 한다. 표 2.4는 연구자별로 부식 임계 염소이온 농도에 관한 연구 결과를 나타낸 것이다. 이 표에서 알 수 있듯이 부식 임계 염소이온 농도는 시험 방법과 임계 염소이온 농도의 정의, 콘크리트 배합비, 시멘트의 C3A량, 광물질 혼화재, 온도 및 양이온의 종류 등에 따라 매우 넓은 범위에 걸쳐 분포하고 있다는 것을 알 수 있다.",
+    "blockRange": [
+      327,
+      327
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0113",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.3 부식임계농도"
+    ],
+    "text": "**표 2.4 임계 염소이온 농도의 연구 결과**\n\n| 실험조건 | 문 헌 | 환 경 | 임계 농도 |  |  | 발청 평가<br>방법 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 실험조건 | 문 헌 | 환 경 | 자유<br>염소이온<br>농도<br>(% wb) | 전염소이온농도<br>(% wb) | [Cl-]/[OH-] | 발청 평가<br>방법 |\n| 인공 세공 용액 | Haussmann (1967) | 용액 |  |  | 0.60 | 전위 변화<br>관찰 및 육안<br>조사 |\n| 인공 세공 용액 | Gouda (1970) | 용액 |  |  | 0.35 | 양극 분극법,<br>전위 변화<br>관찰 및 육안<br>조사 |\n| 모르타르 시편 | Gouda and Halaka (1970) | OPC BFSC |  | 2.42<br>1.21 |  | 양극 분극법 |\n| 염소이온 첨가 배합 | Gouda and Halaka (1970) | OPC BFSC |  | 3.04<br>1.01 |  | 양극 분극법 |\n| 철근의 사전 클리닝을<br>하지 않은 경우 | Gouda and Halaka (1970) | OPC |  | 0.60 |  | 양극 분극법 |\n| 영국 보통 포틀랜드<br>시멘트(OPC)와 스페인<br>고로슬래그<br>시멘트(BFSC)에<br>염소이온 첨가배합 | Andrade and Page (1986) | OPC BFSC |  |  | 0.15-0.69<br>0.12-0.44 | 부식 속도 |\n| 염소이온을 함유한<br>알칼리용액에 철근<br>침지 | Gõni and Andrade (1990) | 용액 |  |  | 0.25-0.8 | 평균 부식<br>속도 |\n| 모르타르 시편에 철근<br>매설 | Alonso et al. (2000) | 모르타르<br>(모르타르<br>+용액) | 0.39-1.16 | 1.24-3.08 | 1.17-3.98<br>0.66-1.45 | 전류 밀도 |\n| 고/저 알칼리량을 갖는<br>모르타르 시편 | Pettersson (1992, 1994,1996) | 모르타르<br>80%RH 100%RH |  | 0.6-1.8<br>0.5-1.7 | 2.5-6.0<br>1.7-2.6<br>1.7-2.6 | 부식 속도 |\n| 콘크리트 슬래브를<br>염소이온농도 10<br>퍼센트 해수에 침지 | Pettersson (1992, 1994,1996) | 콘크리트 |  |  | 1.8-2.9 | 부식 속도 |\n| OPC 모르타르 시편 에<br>외부 염소이온 작용 | Hansson and Sørensen (1988) | 100%RH/ 50%RH |  | 0.6-1.4 |  | 전류 밀도의<br>증가 (정전위<br>시험법) |\n| 콘크리트 시편에 외부<br>염소이온 작용 | Lambert et al. (1991) | 콘크리트 |  |  | > 3.00 | 부식속도 |",
+    "blockRange": [
+      328,
+      328
+    ],
+    "page": 43,
+    "table": {
+      "rows": 14,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0114",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.3 부식임계농도"
+    ],
+    "text": "**표 2.4 임계 염소이온 농도의 연구 결과(계속)**\n\n| 실험조건 | 문 헌 | 환 경 | 임계 농도 |  |  | 발청<br>평가방법 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 실험조건 | 문 헌 | 환 경 | 자유<br>염소이온<br>농도<br>(% wb) | 전염소이온농도<br>(% wb) | [Cl-]/[OH-] | 발청<br>평가방법 |\n| 염소이온 첨가 배합 | Kayyali and Haque (1995) | 콘크리트 |  |  |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고<br>세공 용액<br>추출, 자유<br>염소이온농도<br>산정 |\n| 보통강도 콘크리트 | Kayyali and Haque (1995) | MS | 1.15 |  |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고<br>세공 용액<br>추출, 자유<br>염소이온농도<br>산정 |\n| 고강도 콘크리트 | Kayyali and Haque (1995) | HS | 0.85 |  |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고<br>세공 용액<br>추출, 자유<br>염소이온농도<br>산정 |\n| 고강도<br>콘크리트+혼화재 | Kayyali and Haque (1995) | HSS | 0.80 |  |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고<br>세공 용액<br>추출, 자유<br>염소이온농도<br>산정 |\n| 고강도<br>콘크리트+혼화재+플라<br>이 애쉬 | Kayyali and Haque (1995) | HSSFA | 0.45 |  |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고<br>세공 용액<br>추출, 자유<br>염소이온농도<br>산정 |\n| 서로 다른 C3A량을<br>갖는 콘크리트 시편에<br>염소이온 첨가 배합 후<br>세공 용액 추출 | Hussain et al. (1995) | 콘크리트 |  |  |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고,<br>임계<br>염소이온<br>농도 계산 |\n| C3A량 = 2.43% | Hussain et al. (1995) | 콘크리트 | 0.135 | 0.35 |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고,<br>임계<br>염소이온<br>농도 계산 |\n| C3A량 = 7.59% | Hussain et al. (1995) | 콘크리트 | 0.165 | 0.62 |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고,<br>임계<br>염소이온<br>농도 계산 |\n| C3A량 = 14.00% | Hussain et al. (1995) | 콘크리트 | 0.215 | 1.00 |  | 부식 임계치<br>[Cl-]/[OH-]=<br>0.3으로<br>가정하고,<br>임계<br>염소이온<br>농도 계산 |\n| 서로 다른 C3A량을<br>갖는 시멘트 모르타르에<br>철근 매립 후 5% NaCl<br>용액에 침지, 세공용액<br>추출 | Hussain et al. (1996) | 시멘트<br>모르타르 |  |  |  | Half-cell potential<br>측정 |\n| C3A량 = 2.43% | Hussain et al. (1996) | 시멘트<br>모르타르 | 0.225 |  | 0.61 | Half-cell potential<br>측정 |\n| C3A량 = 7.59% | Hussain et al. (1996) | 시멘트<br>모르타르 | 0.267 |  | 0.61 | Half-cell potential<br>측정 |\n| C3A량 = 14.00% | Hussain et al. (1996) | 시멘트<br>모르타르 | 0.255 |  | 0.61 | Half-cell potential<br>측정 |\n| 염소이온 첨가 또는<br>외부 노출 | Schiessl and Breit (1996) | OPC |  | 0.5-1 |  | 매크로셀<br>전류 |\n| 염소이온 첨가 또는<br>외부 노출 | Schiessl and Breit (1996) | BFSC |  | 1-1.5 |  | 매크로셀<br>전류 |\n| 염소이온 첨가 또는<br>외부 노출 | Schiessl and Breit (1996) | FA |  | 1-1.5 |  | 매크로셀<br>전류 |\n| 콘크리트 각주형<br>시험체를 해양 환경에<br>노출 | Thomas et al. (1990) | 콘크리트 |  | 0.50 |  | 육안<br>조사+질량<br>감소 조사 |\n| 플라이 애쉬를 혼입한<br>철근콘크리트 각주형<br>시험체를 해양환경에<br>노출 | Thomas (1996) | 콘크리트 |  |  |  | 질량 감소<br>조사 |\n| 플라이 애쉬량 = 0% |  |  |  | 0.70 |  |  |\n| 플라이 애쉬량 = 15% |  |  |  | 0.65 |  |  |\n| 플라이 애쉬량 = 30% |  |  |  | 0.50 |  |  |\n| 플라이 애쉬량 = 50% |  |  |  | 0.20 |  |  |",
+    "blockRange": [
+      329,
+      329
+    ],
+    "page": 44,
+    "table": {
+      "rows": 24,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0115",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.3 부식임계농도"
+    ],
+    "text": "**표 2.4 임계 염소이온 농도의 연구 결과(계속)**\n\n| 실험조건 | 문 헌 | 환 경 | 임계 농도 |  |  | 발청<br>평가방법 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 실험조건 | 문 헌 | 환 경 | 자유<br>염소이온<br>농도<br>(% wb) | 전염소이온농도<br>(% wb) | [Cl-]/[OH-] | 발청<br>평가방법 |\n| 염소이온 첨가<br>배합한 콘크리트<br>슬래브를 다양한<br>환경 조건에 노출 | Hope and lp (1987) | OPC |  | 0.097-<br>0.19 |  | 부식 속도,<br>AC<br>임피던스,<br>육안 조사,<br>질량 감소<br>조사 |\n| 각주형 시험체를<br>인공해수에 침지,<br>건습반복 | 배수호 등<br>(2007) | OPC<br>인공해수 |  | 0.29-0.31 |  | Half-cell potential<br>측정 |\n| 원주형(Lollypop)<br>시험체를 인공<br>해수에 침지,<br>전류공급 | 배수호 등<br>(2007) | OPC<br>인공해수 |  | 0.17-0.28 |  | Half-cell potential<br>측정 |\n| 콘크리트 배합 시<br>염소이온 첨가 | 송하원 등<br>(2009) | OPC |  | 1.6 |  | 분극 저항법 |\n| 콘크리트 배합 시<br>염소이온 첨가 | 송하원 등<br>(2009) | 60%GGBS |  | 0.45 |  | 분극 저항법 |\n| 콘크리트 배합 시<br>염소이온 첨가 | 송하원 등<br>(2009) | 30%FA |  | 0.8 |  | 분극 저항법 |\n| 콘크리트 배합 시<br>염소이온 첨가 | 송하원 등<br>(2009) | 10%SF |  | 2.15 |  | 분극 저항법 |\n| 콘크리트 배합 시<br>염소이온 첨가 | 오병환 등<br>(1999) | OPC OPC+FA<br>15-30%<br>OPC+BS30% | 0.11-0.13 | 0.45-0.93 | 0.17-0.26 | Half-cell potential<br>측정 |",
+    "blockRange": [
+      330,
+      330
+    ],
+    "page": 45,
+    "table": {
+      "rows": 10,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0116",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.3 부식임계농도"
+    ],
+    "text": "참고) % wb : 결합재 중량비 퍼센트\n\n콘크리트 단위 부피당 염소이온 중량 = 염소이온 농도(결합재 중량비) × 단위 결합재량\n\n일본의 콘크리트 시방서 시공편(1999)에서는 콘크리트 단위 부피당 염소이온농도로 서 1.2 ㎏/㎥의 값을 적용하고 있고, 우리나라의 KDS 14 20 40(콘크리트구조 내구성 설계기준)(국토교통부, 2021)에서는 임계 염소이온 농도를 단위결합재량의 0.4%로 규정하고 있는데, 이는 단위시멘트량이 300 ㎏/㎥일 때 1.2 ㎏/㎥ 정도가 된다. 이 값은 설계 시 가정하는 값이므로 다소 보수적이라고 판단된다. 따라서, 잔존수명 평가에서는 표 2.5와 같이 2단계의 임계농도를 설정하는 것이 바람직할 것으로 판단된다.",
+    "blockRange": [
+      331,
+      333
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0117",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.3 부식임계농도"
+    ],
+    "text": "**표 2.5 부식임계농도 가정 추천값**\n\n| Level | 염화물량 기준값<br>(결합재 질량 대비 염소이온<br>질량 백분율, %) | 상태 | 대책 |\n| --- | --- | --- | --- |\n| Level I | ≥ 0.4% < 0.8% | 부식발생 가능성이<br>있음 | 잔존수명 내 염화물량 추가<br>측정 및 추적조사 |\n| LEvel II | ≥ 0.8% | 부식발생 가능성이<br>높음 | 부식전위(corrosion<br>potential) 등 전기화학적<br>방법으로 부식발생 가능성을<br>확인하고, 부식 발생이<br>확인되면 파취하여 철근<br>상태 확인 후 보수 시행 |",
+    "blockRange": [
+      334,
+      334
+    ],
+    "page": 46,
+    "table": {
+      "rows": 3,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0118",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 국내외 해양 콘크리트 연구 동향",
+      "2.3 부식임계농도"
+    ],
+    "text": "부식임계농도를 콘크리트 중량에 대한 비율로 나타내려면 아래 식을 이용하여 환산 하여야 한다.\n\n$C_{c}=c_{c}\\frac{B}{\\rho _{c}}$\t(2.21)\n\n여기서 $C_{c}$는 콘크리트 중량의 비율로 나타낸 부식임계농도(%), $c_{c}$는 단위결합재량의 비율로 나타낸 부식임계농도(%)이고, $B$는 콘크리트 단위 부피당 결합재량(단위 결합재량, 단위 kg/m³), $\\rho _{c}$는 굳은 콘크리트의 단위중량(kg/m³)을 나타낸다.\n\n< 공 란 >",
+    "blockRange": [
+      335,
+      338
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0119",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+    "blockRange": [
+      339,
+      339
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0120",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사"
+    ],
+    "text": "<u>작성자 : 김태민, 장봉석, 안태성</u>\n\n< 공 란 >",
+    "blockRange": [
+      340,
+      341
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0121",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사"
+    ],
+    "text": "## 3.1 개요",
+    "blockRange": [
+      342,
+      342
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0122",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.1 개요"
+    ],
+    "text": "본 연구의 1차년도에는 시화조력발전소 구조물 시공시에 만들어 둔 시험체를 활용하여 염소이온침투 프로파일을 조사하였고, 금년도인 2차년도에는 낙동강하굿둑 구조물의 시편을 채취하여 염소이온 침투 프로파일 조사 계획을 수립하였다. 낙동강하굿둑 좌안 구조물을 대상으로 연구를 진행하였고, 대상구조물의 현황을 아래에 정리하였다.\n\n• 사업기간: 1983. 4 \\~ 1987. 11 (5년)\n\n• 사업목적: 염해침입 방지를 통한 생‧공‧농업용수 확보, 교통개선, 지역경제 활성화\n\n• 총사업비: 2,006억원\n\n• 시설개요: 총 연장 510 m (하굿둑 전체길이 2,400 m)\n\n• 하천현황:\n\n- (주수문) B47.5 m ⅹ H9.2 m (6문)\n- (조절 수문) B47.5 m ⅹ H8.3 m (4문)\n- 계획홍수위/홍수량 : EL.3.12 m, 22,300 CMS (200년 빈도)\n- 관리수위: (상류) EL.0.51 m \\~ EL.1.01 m",
+    "blockRange": [
+      343,
+      352
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0123",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.1 개요",
+      "- 관리수위: (상류) EL.0.51 m ~ EL.1.01 m"
+    ],
+    "text": "그림 3.1 낙동강하굿둑 좌안\n\n연구 수행을 위하여 낙동강하굿둑 구조물의 내구성 관련 설계자료를 조사하였다. 준공 시 설계자료와 공사지를 포함해, 정밀안전진단 보고서 등 관련 자료를 다수 확보하여 면밀히 분석하였다. 준공 공사지에 따르면, 낙동강하굿둑의 콘크리트 품질관 리를 위한 네덜란드 전문가 패널 등의 의견이 반영되었고, 그 결과에 따라 해양환경을 고려한 5종 시멘트를 사용한 것으로 나타났다. 낙동강하굿둑 시공 시 사용된 콘크리트 배합 관련 정보는 아래의 표와 같다.\n\n\n![image](image_012.png)",
+    "blockRange": [
+      353,
+      355
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0124",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.1 개요",
+      "- 관리수위: (상류) EL.0.51 m ~ EL.1.01 m"
+    ],
+    "text": "**표 3.1 7일 강도에 의한 배합설계 결과**\n\n| 골재원 | Gmax (㎜) | W/C<br>(%) | S/<br>A<br>(%) | W<br>(㎏/㎥) | C<br>(㎏/㎥) | S<br>(㎏/㎥) | G<br>(㎏/㎥) | 슬럼프<br>(㎜) | 설계기준강도<br>(㎏/㎠) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 밀양<br>남강<br>쇄석 | 40 | 47<br>46<br>49 | 33<br>33<br>36 | 166<br>166<br>184 | 353<br>361<br>376 | 614<br>611<br>645 | 1,284<br>1,253<br>1,278 | 75±10 | 275 |",
+    "blockRange": [
+      356,
+      356
+    ],
+    "page": 51,
+    "table": {
+      "rows": 2,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0125",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.1 개요",
+      "- 관리수위: (상류) EL.0.51 m ~ EL.1.01 m"
+    ],
+    "text": "**표 3.2 28일 강도에 의한 배합설계 결과**\n\n| 골재원 | Gmax (㎜) | W/C<br>(%) | S/<br>A<br>(%) | W<br>(㎏/㎥) | C<br>(㎏/㎥) | S<br>(㎏/㎥) | G<br>(㎏/㎥) | 슬럼프<br>(㎜) | 설계기준강도<br>(㎏/㎠) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 밀양<br>남강<br>쇄석 | 40 | 46<br>46<br>48 | 33<br>33<br>36 | 166<br>166<br>184 | 361<br>361<br>383 | 611<br>611<br>643 | 1,278<br>1,253<br>1,274 | 75±10 | 275 |",
+    "blockRange": [
+      357,
+      357
+    ],
+    "page": 51,
+    "table": {
+      "rows": 2,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0126",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.1 개요",
+      "- 관리수위: (상류) EL.0.51 m ~ EL.1.01 m"
+    ],
+    "text": "내구성에 영향을 주는 콘크리트 배합조건, 피복 두께, 정밀안전진단의 내구성 관련 항목 등에 대한 조사를 수행하였다. 금번 연구를 위해 확보한 주요 자료로는 ‘낙동강하굿둑 준공도면’, ‘낙동강하굿둑 공사지’, ‘제5차 낙동강하굿둑 정밀안전진단 보고서’, ‘낙동강하굿둑 교량확장공사 보고서’등이 있다.\n\n그림 3.2 제5차 낙동강하굿둑 정밀안전진단보고서 관련 내용\n\n\n![image](image_013.png)\n\n\n![image](image_014.png)\n\n\n![image](image_015.png)",
+    "blockRange": [
+      358,
+      362
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0127",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사"
+    ],
+    "text": "## 3.2 낙동강하굿둑 염소이온 침투 프로파일",
+    "blockRange": [
+      363,
+      363
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0128",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일"
+    ],
+    "text": "### 3.2.1 시험체 채취",
+    "blockRange": [
+      364,
+      364
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0129",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일",
+      "3.2.1 시험체 채취"
+    ],
+    "text": "한편, 조사한 내용을 바탕으로 낙동강하굿둑 현장의 콘크리트 코어링을 통한 시험체 확보 방안에 대한 계획을 수립하였다. 비말대와 간만대의 시험체 채취 계획을 세웠고, 염소이온 침투 프로파일 조사분석을 위한 비말대와 간만대의 시험체를 채취하기 위해서는 충분한 작업시간의 확보가 중요하였다. 간만대 채취를 위하여 물때를 고려하여 4.26\\~29, 5.10\\~12, 5.25\\~27 중 2일 이상의 작업 계획을 세웠으며, 현지 사정과 사리에 맞춰 2021년 5월 26일에 K-water 부산권지사의 협조를 얻어 코어채취 (φ100 × 100 mm)를 하였다. 밀물(EL. +1.48 m) 썰물(EL. -1.43 m)을 고려하여 비말대, 간만대의 시험체 채취 부분을 선정하였고 콘크리트 코어링 작업을 하였다.\n\n염소이온 침투 프로파일 분석은 시험체 표면에서 0.5\\~1 cm 간격으로 시료를 채취하여 KS F 2713에서 제시된 콘크리트 및 콘크리트 재료의 염화물 분석시험 방법에 따라 수용성 염화물(water-soluble chloride)과 산-가용성 염화물(acid-soluble chloride)량을 측정하였다.\n\n그림 3.3 낙동강하굿둑 인근 조위표\n\n\n![image](image_016.png)\n\n\n![image](image_017.png)\n\n코어 채취 위치는 낙동강하굿둑 중간부에 위치한 교각 P6(좌측벽)으로 정하였다. 기존 정밀안전진단 및 준공 자료로 파악한 바에 의하면 철근 피복두께는 5\\~7.5 cm로 파악되었고, 철근을 피해 코어링을 작업을하기 위해 철근 탐지기로 철근의 위치를 파악 후 코어링을 작업을 하였다. 작업 여건 상 비말대 4개소, 간만대 3개소의 시험체를 코어채취 장비를 이용하여 채취하였고, 코어 채취 부분은 무수축 조강모르타르를 이용하여 충진하여 마무리 하였다.\n\n그림 3.4 낙동강하굿둑 P6 전경\n\n\n![image](image_018.png)\n\n그림 3.5 낙동강하굿둑 P6(좌측벽) 코아 채취\n\n(a) 비말대\n\n(b) 간만대\n\n그림 3.6 낙동강하굿둑 P6(좌측벽) 채취 코아 시험체\n\n\n![image](image_019.png)\n\n\n![image](image_020.png)\n\n\n![image](image_021.png)\n\n\n![image](image_022.png)\n\n\n![image](image_023.png)\n\n\n![image](image_024.png)",
+    "blockRange": [
+      365,
+      382
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0130",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일"
+    ],
+    "text": "### 3.2.2 시험체 염소이온 침투 프로파일 결과",
+    "blockRange": [
+      383,
+      383
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0131",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일",
+      "3.2.2 시험체 염소이온 침투 프로파일 결과"
+    ],
+    "text": "앞서 채취한 비말대 4개소, 간만대 3개소에 대해 염소이온 침투 프로파일을 측정하였다. 시험체의 0.5 cm 간격으로 8 cm까지 깊이별로 염소이온 침투 프로파일을 조사하였다. 그 결과를 아래의 표에 나타내었다.",
+    "blockRange": [
+      384,
+      384
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0132",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일",
+      "3.2.2 시험체 염소이온 침투 프로파일 결과"
+    ],
+    "text": "**표 3.3 비말대 수용성 염화물 함유량**\n\n| 구분 | 깊이(mm) | 시험체 |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 구분 | 깊이(mm) | 1 | 2 | 3 | 4 |\n| 비말대 | 0\\~5 | 0.025 | 0.028 | 0.091 | 0.042 |\n| 비말대 | 5\\~10 | 0.078 | 0.097 | 0.147 | 0.115 |\n| 비말대 | 10\\~15 | 0.082 | 0.086 | 0.126 | 0.112 |\n| 비말대 | 15\\~20 | 0.082 | 0.085 | 0.118 | 0.114 |\n| 비말대 | 20\\~25 | 0.073 | 0.082 | 0.062 | 0.112 |\n| 비말대 | 25\\~30 | 0.075 | 0.073 | 0.024 | 0.094 |\n| 비말대 | 30\\~35 | 0.064 | 0.072 |  | 0.088 |\n| 비말대 | 35\\~40 | 0.063 | 0.071 |  | 0.087 |\n| 비말대 | 40\\~45 | 0.063 | 0.013 |  | 0.084 |\n| 비말대 | 45\\~50 | 0.057 |  |  | 0.057 |\n| 비말대 | 50\\~55 | 0.055 |  |  | 0.055 |\n| 비말대 | 55\\~60 | 0.031 |  |  | 0.055 |\n| 비말대 | 60\\~65 |  |  |  | 0.052 |\n| 비말대 | 65\\~70 |  |  |  | 0.052 |\n| 비말대 | 70\\~75 |  |  |  | 0.052 |\n| 비말대 | 75\\~80 |  |  |  | 0.049 |",
+    "blockRange": [
+      385,
+      385
+    ],
+    "page": 55,
+    "table": {
+      "rows": 18,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0133",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일",
+      "3.2.2 시험체 염소이온 침투 프로파일 결과"
+    ],
+    "text": "**표 3.4 비말대 산-가용성 염화물 함유량**\n\n| 구분 | 깊이(mm) | 시험체 |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 구분 | 깊이(mm) | 1 | 2 | 3 | 4 |\n| 비말대 | 0\\~5 | 0.023 | 0.026 | 0.082 | 0.046 |\n| 비말대 | 5\\~10 | 0.101 | 0.107 | 0.160 | 0.133 |\n| 비말대 | 10\\~15 | 0.101 | 0.105 | 0.143 | 0.132 |\n| 비말대 | 15\\~20 | 0.097 | 0.100 | 0.141 | 0.122 |\n| 비말대 | 20\\~25 | 0.102 | 0.094 | 0.063 | 0.112 |\n| 비말대 | 25\\~30 | 0.093 | 0.087 | 0.027 | 0.107 |\n| 비말대 | 30\\~35 | 0.083 | 0.083 |  | 0.108 |\n| 비말대 | 35\\~40 | 0.080 | 0.076 |  | 0.105 |\n| 비말대 | 40\\~45 | 0.083 | 0.015 |  | 0.094 |\n| 비말대 | 45\\~50 | 0.077 |  |  | 0.074 |\n| 비말대 | 50\\~55 | 0.079 |  |  | 0.074 |\n| 비말대 | 55\\~60 | 0.032 |  |  | 0.073 |\n| 비말대 | 60\\~65 |  |  |  | 0.069 |\n| 비말대 | 65\\~70 |  |  |  | 0.062 |\n| 비말대 | 70\\~75 |  |  |  | 0.057 |\n| 비말대 | 75\\~80 |  |  |  | 0.054 |",
+    "blockRange": [
+      386,
+      386
+    ],
+    "page": 56,
+    "table": {
+      "rows": 18,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0134",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일",
+      "3.2.2 시험체 염소이온 침투 프로파일 결과"
+    ],
+    "text": "**표 3.5 간만대 수용성 염화물 함유량**\n\n| 구분 | 깊이(mm) | 시험체 |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 구분 | 깊이(mm) | 1 | 2 | 3 | 4 |\n| 비말대 | 0\\~5 | 0.080 | 0.088 | 0.096 |  |\n| 비말대 | 5\\~10 | 0.112 | 0.122 | 0.103 |  |\n| 비말대 | 10\\~15 | 0.108 | 0.095 | 0.082 |  |\n| 비말대 | 15\\~20 | 0.093 | 0.079 | 0.073 |  |\n| 비말대 | 20\\~25 | 0.090 | 0.080 | 0.069 |  |\n| 비말대 | 25\\~30 | 0.086 | 0.072 | 0.060 |  |\n| 비말대 | 30\\~35 | 0.086 | 0.064 |  |  |\n| 비말대 | 35\\~40 | 0.081 | 0.057 |  |  |\n| 비말대 | 40\\~45 | 0.062 | 0.053 |  |  |\n| 비말대 | 45\\~50 | 0.053 | 0.051 |  |  |\n| 비말대 | 50\\~55 |  | 0.046 |  |  |\n| 비말대 | 55\\~60 |  | 0.047 |  |  |\n| 비말대 | 60\\~65 |  | 0.041 |  |  |\n| 비말대 | 65\\~70 |  | 0.032 |  |  |\n| 비말대 | 70\\~75 |  |  |  |  |\n| 비말대 | 75\\~80 |  |  |  |  |",
+    "blockRange": [
+      387,
+      387
+    ],
+    "page": 56,
+    "table": {
+      "rows": 18,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0135",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일",
+      "3.2.2 시험체 염소이온 침투 프로파일 결과"
+    ],
+    "text": "**표 3.6 간만대 산-가용성 염화물 함유량**\n\n| 구분 | 깊이(mm) | 시험체 |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 구분 | 깊이(mm) | 1 | 2 | 3 | 4 |\n| 비말대 | 0\\~5 | 0.083 | 0.094 | 0.109 |  |\n| 비말대 | 5\\~10 | 0.132 | 0.161 | 0.117 |  |\n| 비말대 | 10\\~15 | 0.132 | 0.119 | 0.096 |  |\n| 비말대 | 15\\~20 | 0.110 | 0.098 | 0.088 |  |\n| 비말대 | 20\\~25 | 0.107 | 0.092 | 0.086 |  |\n| 비말대 | 25\\~30 | 0.102 | 0.091 | 0.079 |  |\n| 비말대 | 30\\~35 | 0.101 | 0.087 |  |  |\n| 비말대 | 35\\~40 | 0.094 | 0.080 |  |  |\n| 비말대 | 40\\~45 | 0.074 | 0.068 |  |  |\n| 비말대 | 45\\~50 | 0.070 | 0.066 |  |  |\n| 비말대 | 50\\~55 |  | 0.058 |  |  |\n| 비말대 | 55\\~60 |  | 0.059 |  |  |\n| 비말대 | 60\\~65 |  | 0.047 |  |  |\n| 비말대 | 65\\~70 |  | 0.044 |  |  |\n| 비말대 | 70\\~75 |  |  |  |  |\n| 비말대 | 75\\~80 |  |  |  |  |",
+    "blockRange": [
+      388,
+      388
+    ],
+    "page": 57,
+    "table": {
+      "rows": 18,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0136",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.2 낙동강하굿둑 염소이온 침투 프로파일",
+      "3.2.2 시험체 염소이온 침투 프로파일 결과"
+    ],
+    "text": "비말대와 간만대를 수용성과 산-가용성 염화물 함유량에 대해 분석을 하였다. 분석 결과 비말대의 수용성, 산-가용성 모두 3번 시험체의 분석 결과가 나머지 시험체 분석 결과와 다소 차이가 발생하는 것으로 나타났다.\n\n그림 3.7 비말대 수용성 염화물 함유량\n\n그림 3.8 간만대 수용성 염화물 함유량\n\n\n![image](image_025.png)\n\n\n![image](image_026.png)\n\n그림 3.9 비말대 산-가용성 염화물 함유량\n\n그림 3.10 간만대 산-가용성 염화물 함유량\n\n\n![image](image_027.png)\n\n\n![image](image_028.png)\n\n그림 3.11 비말대 수용성 및 산가용성 염화물 함유량\n\n그림 3.12 간만대 수용성 및 산가용성 염화물 함유량\n\n\n![image](image_029.png)\n\n\n![image](image_030.png)",
+    "blockRange": [
+      389,
+      401
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0137",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사"
+    ],
+    "text": "## 3.3 낙동강하굿둑 내구수명 추정",
+    "blockRange": [
+      402,
+      402
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0138",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.3 낙동강하굿둑 내구수명 추정"
+    ],
+    "text": "### 3.3.1. 염화물량 측정 개요",
+    "blockRange": [
+      403,
+      403
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0139",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.3 낙동강하굿둑 내구수명 추정",
+      "3.3.1. 염화물량 측정 개요"
+    ],
+    "text": "낙동강하굿둑 콘크리트 구조물에서 채취한 코어로부터 염화물량을 측정하였다. 간만대 3개, 비말대 4개의 코어를 채취하였다. 염소이온 침투 프로파일 분석은 시험체 표면에서 0.5\\~1cm 간격으로 시료를 채취하여 KS F 2713에서 제시된 콘크리트 및 콘크리트 재료의 염화물 분석시험 방법에 따라 수용성 염화물(water-soluble chloride)과 산-가용성 염화물(acid-soluble chloride)량을 측정하였다. 시멘트는 5종 시멘트가 사용되었고, 콘크리트 배합비는 아래 표 3.7과 같다.",
+    "blockRange": [
+      404,
+      404
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0140",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.3 낙동강하굿둑 내구수명 추정",
+      "3.3.1. 염화물량 측정 개요"
+    ],
+    "text": "**표 3.7 콘크리트 배합비**\n\n| W/B<br>(%) | S/a<br>(%) | 골재최대치수(mm) | 단위량 (kg/m3) |  |  |  | 감수제<br>(L/m3) |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| W/B<br>(%) | S/a<br>(%) | 골재최대치수(mm) | Water | Cement<br>(5종) | Sand | Gravel | 감수제<br>(L/m3) |\n| 48 | 38 | 40 | 176 | 367 | 663 | 1,111 | 0.3967 |",
+    "blockRange": [
+      405,
+      405
+    ],
+    "page": 61,
+    "table": {
+      "rows": 3,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0141",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.3 낙동강하굿둑 내구수명 추정"
+    ],
+    "text": "### 3.3.2. 염소이온 농도 프로파일 측정",
+    "blockRange": [
+      406,
+      406
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0142",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.3 낙동강하굿둑 내구수명 추정",
+      "3.3.2. 염소이온 농도 프로파일 측정"
+    ],
+    "text": "비말대와 간만대에서의 염소이온 농도 프로파일 측정결과는 아래 그림 3.13\\~그림 3.16과 같다. 그림에서 표면에서부터 5\\~10 mm 위치에서 최댓값을 나타내고 있음을 알 수 있다.\n\n(a) SPL-1 시험체\n\n(b) SPL-2 시험체\n\n그림 3.13 낙동강하굿둑 비말대 콘크리트에서의 산-가용성 염소이온 농도 프로파일\n\n\n![image](image_031.png)\n\n\n![image](image_032.png)\n\n(c) SPL-3 시험체\n\n(d) SPL-4 시험체\n\n그림 3.13 낙동강하굿둑 비말대 콘크리트에서의 산-가용성 염소이온 농도 프로파일(계속)\n\n\n![image](image_033.png)\n\n\n![image](image_034.png)\n\n(a) SPL-1 시험체\n\n(b) SPL-2 시험체\n\n그림 3.14 낙동강하굿둑 비말대 콘크리트에서의 수용성 염소이온 농도 프로파일\n\n\n![image](image_035.png)\n\n\n![image](image_036.png)\n\n(c) SPL-3 시험체\n\n(d) SPL-4 시험체\n\n그림 3.14 낙동강하굿둑 비말대 콘크리트에서의 수용성 염소이온 농도 프로파일(계속)\n\n\n![image](image_037.png)\n\n\n![image](image_038.png)\n\n(a) TD-1 시험체\n\n(b) TD-2 시험체\n\n그림 3.15 낙동강하굿둑 간만대 콘크리트에서의 산-가용성 염소이온 농도 프로파일\n\n\n![image](image_039.png)\n\n\n![image](image_040.png)\n\n그림 3.15 낙동강하굿둑 간만대 콘크리트에서의 산-가용성 염소이온 농도 프로파일(계속)\n\n(c) TD-3 시험체\n\n(a) TD-1 시험체\n\n그림 3.16 낙동강하굿둑 간만대 콘크리트에서의 수용성 염소이온 농도 프로파일\n\n\n![image](image_041.png)\n\n\n![image](image_042.png)\n\n(b) TD-2 시험체\n\n(c) TD-3 시험체\n\n그림 3.16 낙동강하굿둑 간만대 콘크리트에서의 수용성 염소이온 농도 프로파일(계속)\n\n산-가용성 염소이온 농도와 수용성 염소이온 농도를 비교하면 그림 3.17과 같다. 그림에서 수용성 염소이온농도가 산-가용성 염소이온 농도의 약 85% 가량을 차지하는 것을 알 수 있다. C3A 함량이 적은 5종 시멘트를 사용했기 때문에 염소이온 구속 성능이 다소 낮은 것으로 판단된다.\n\n\n![image](image_043.png)\n\n\n![image](image_044.png)\n\n(a) 비말대\n\n(b) 간만대\n\n그림 3.17 수용성 염소이온 농도와 산-가용성 염소이온 농도 관계\n\n\n![image](image_045.png)\n\n\n![image](image_046.png)",
+    "blockRange": [
+      407,
+      449
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0143",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.3 낙동강하굿둑 내구수명 추정"
+    ],
+    "text": "### 3.3.3. 모델 파라미터 결정 및 잔존 내구수명 평가",
+    "blockRange": [
+      450,
+      450
+    ],
+    "page": 70
+  },
+  {
+    "id": "c0144",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.3 낙동강하굿둑 내구수명 추정",
+      "3.3.3. 모델 파라미터 결정 및 잔존 내구수명 평가"
+    ],
+    "text": "식 (2.20)을 적용하여 커브핏팅을 실시한 결과는 그림 3.18에 나타냈다. 그리고 커브핏팅 결과로 얻은 모델 파라미터를 이용하여 잔존 내구수명을 예측한 결과는 그림 3.19과 그림 3.20에 나타냈다. 모델 파라미터 값과 잔존 내구수명 예측한 결과는 표 3.8에 정리하여 제시하였다.\n\n(a) SPL-1 시험체 (b) SPL-2 시험체\n\n(c) SPL-3 시험체 (d) SPL-4 시험체\n\n그림 3.18 모델 파라미터 산정\n\n\n![image](image_047.png)\n\n\n![image](image_048.png)\n\n\n![image](image_049.png)\n\n\n![image](image_050.png)\n\n(a) SPL-1 시험체 (b) SPL-2 시험체\n\n(c) SPL-3 시험체 (d) SPL-4 시험체\n\n그림 3.19 잔존 내구수명 예측(비말대)\n\n\n![image](image_051.png)\n\n\n![image](image_052.png)\n\n\n![image](image_053.png)\n\n\n![image](image_054.png)\n\n(a) TD-1 시험체\n\n(b) TD-2 시험체\n\n그림 3.20 잔존 내구수명 예측(간만대) 표 3.8 모델 파라미터 산정 및 잔존 내구수명 예측결과\n\n\n![image](image_055.png)\n\n\n![image](image_056.png)",
+    "blockRange": [
+      451,
+      470
+    ],
+    "page": 70
+  },
+  {
+    "id": "c0145",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 낙동강하굿둑 염소이온 침투 프로파일 조사",
+      "3.3 낙동강하굿둑 내구수명 추정",
+      "3.3.3. 모델 파라미터 결정 및 잔존 내구수명 평가"
+    ],
+    "text": "| 지역 |  | 표면<br>염소이온<br>농도 증가<br>속도<br>$s$<br>(%/$\\sqrt{y}$) | 평균<br>확산계수 $D$<br>(m²/s) | 재령계수 모델상수 |  |  | 피복<br>두께<br>(㎜) | 부식 임계농도<br>(%, 콘크리트<br>질량비) |  | 잔존 내구수명<br>(년) |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 지역 |  | 표면<br>염소이온<br>농도 증가<br>속도<br>$s$<br>(%/$\\sqrt{y}$) | 평균<br>확산계수 $D$<br>(m²/s) | $m$<br>(-) | $\\alpha$ (-) | $m$′<br>- | 피복<br>두께<br>(㎜) | Level I | Level II | Level I | Level II |\n| 비말대 | SPL-1 | 1.886E-02 | 1.801E-11 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 33.63 | 89.93 |\n| 비말대 | SPL-2 | 2.063E-02 | 6.500E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 47.28 | 109.73 |\n| 비말대 | SPL-3 | 4.924E-02 | 2.118E-13 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 247.18 | 361.93 |\n| 비말대 | SPL-4 | 2.556E-02 | 6.144E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 38.92 | 85.69 |\n| 간만대 | TD-1 | 2.578E-02 | 4.194E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 47.65 | 100.08 |\n| 간만대 | TD-2 | 2.272E-02 | 4.232E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 53.51 | 115.52 |\n| 간만대 | TD-3 | 2.182E-02 | 2.647E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 72.35 | 149.10 |",
+    "blockRange": [
+      471,
+      471
+    ],
+    "page": 73,
+    "table": {
+      "rows": 9,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0146",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제4장 아라뱃길 내구성 설계 자료 조사",
+    "blockRange": [
+      472,
+      472
+    ],
+    "page": 74
+  },
+  {
+    "id": "c0147",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사"
+    ],
+    "text": "<u>작성자 : 김태민, 장봉석</u>\n\n< 공 란 >",
+    "blockRange": [
+      473,
+      474
+    ],
+    "page": 74
+  },
+  {
+    "id": "c0148",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사"
+    ],
+    "text": "## 4.1 개요",
+    "blockRange": [
+      475,
+      475
+    ],
+    "page": 76
+  },
+  {
+    "id": "c0149",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.1 개요"
+    ],
+    "text": "본 장에서는 K-water에서 관리하는 해양콘크리트 구조물 중 하나인 경인아라뱃길 구조물에 대한 설계자료 분석을 통해 아라뱃길의 내구성 설계 유무와 내구수명을 분석해보고자 한다. 경인아라뱃길의 내구성 설계의 목적은 경인운하사업 제1공구 시설 공사”에서 염해의 피해가 클 것으로 예상되는 케이슨, 상치 및 프리캐스트 안벽 콘크리트에 대한 65년 이상의 내구수명 확보대책 수립하는 것으로 설정되었다. 이를 위해, 염분침투실험 및 해석을 통해 최적 콘크리트 배합 및 피복두께를 결정하고. 환경, 재료, 설계 및 시공조건을 고려한 내구성 설계를 통한 내구연한을 산정 하였다.\n\n경인아라뱃길의 내구성 설계에서는 내구성 증진을 위해 아래의 내용을 고려하였다.\n\n◦ 해양 콘크리트 염해저항성 증진방안 검토\n\n- 문헌조사 (1종 방식, 2종 방식 등)\n- 시멘트, 포졸란계 혼화재 및 혼화제 적용성 검토\n\n◦ 해양 콘크리트 배합설계\n\n- 1종 방식을 위한 배합설계 및 실험\n- 고로슬래그 등 혼화재 적용검토\n- 염해방지 최적화 방안 검토\n\n◦ 염해저항성 시험 및 해석\n\n- 염화물 침투시험\n- 염화물 침투시험 결과 및 평가\n- 염화물 침투해석 및 철근 콘크리트의 내구연한 산정\n\n◦ 해양 콘크리트의 내구성 설계\n\n- 해양 콘크리트의 내구성 확보를 위한 영향인자 및 내구지수 산정\n- 내구성 설계 방법에 따른 환경지수 검토\n- 대상구조물의 내구성 평가\n- 해양 콘크리트의 합리적 시공을 위한 재료/시공/유지관리 대책 수립",
+    "blockRange": [
+      476,
+      493
+    ],
+    "page": 76
+  },
+  {
+    "id": "c0150",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.1 개요",
+      "- 해양 콘크리트의 합리적 시공을 위한 재료/시공/유지관리 대책 수립"
+    ],
+    "text": "경인아라뱃길의 내구성 설계를 위한 대상 구조물의 위치는 다음과 같다.\n\n그림 4.1 경인아라뱃길 1공구 위치 및 단면도\n\n\n![image](image_057.png)",
+    "blockRange": [
+      494,
+      496
+    ],
+    "page": 76
+  },
+  {
+    "id": "c0151",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사"
+    ],
+    "text": "## 4.2 아라뱃길 내구성 설계",
+    "blockRange": [
+      497,
+      497
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0152",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계"
+    ],
+    "text": "해양콘크리트 구조물의 내구성 설계를 위해서는 일반적으로 1종 방식법과 1종 방식이외의 염해대책이 세워지며, 이들 내용에 대해 아래 표에 간략히 정리하였다.",
+    "blockRange": [
+      498,
+      498
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0153",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계"
+    ],
+    "text": "**표 4.1 1종 방식방법**\n\n| 구 분 | 내 용 | 비 고 |\n| --- | --- | --- |\n| 염분침투 및<br>중성화감소 | 콘크리트 내부 강재의 부식을 촉진시키는 염소이온의<br>침투 및 중성화를 감소시키는 시멘트 또는 혼화재를<br>사용, 적절한 양생을 하는 방법 | 고로슬래그를<br>혼합하여 수밀성을<br>강화하고 적절한 양생을<br>통하여 중성화 감소 |\n| 혼화제의 사용 | 콘크리트에 발생 가능한 균열을 방지하고 내구성을<br>증대시키기 위해 혼화제를 사용하는 공법 | 구조물의 용도 및,<br>시공과 장소 시기별<br>적절한 혼화제 사용 |\n| 적절한<br>시멘트 사용 | 구조물을 타설하는 시기 및 장소에 적합한 시멘트를<br>사용하여, 균열을 감소시킴으로써 내구성을 증대시키는 공법 | 시험배합과 시험시공을<br>통하여 요구되는 성능을<br>만족하는 고로슬래그<br>적용 |\n| 철근피복 | 충분한 철근피복을 확보하여 부식반응과 물질의 침투지연<br>및 균열 발생을 지연시켜 급속한 부식 진행을 방지하는 방법 | 충분한 철근피복 두께를<br>확보 |\n| 콘크리트의<br>품질 | 적정수준의 강도, 물-시멘트비가 요구됨 | 콘크리트 강도 충분한<br>확보 및 물-시멘트비<br>최소화 |",
+    "blockRange": [
+      499,
+      499
+    ],
+    "page": 77,
+    "table": {
+      "rows": 6,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0154",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계"
+    ],
+    "text": "**표 4.2 1종 방식방법 외의 염해 대책**\n\n| 구 분 | 내 용 | 비 고 |\n| --- | --- | --- |\n| 에폭시수지<br>도장철근 | 내구성이 우수한 도료를 사용하여 도장한 철근을 사용하는 공법으로 분체형 에폭시 도장이 가장 적합한<br>것으로 알려져 있다. | 콘크리트와의<br>부착력에 문제가<br>발생가능 |\n| 전기방식<br>공법 | 강재에 직류전류를 지속적으로 흘려보내 강재전위를<br>제어함으로써 강재의 부식반응을 전기화학적으로 제어하는 것 | 설치가 까다롭고<br>경제성이 떨어진다. |\n| 방식<br>거푸집 | 가혹한 부식 환경 하에서 건설되는 콘크리트 구조물의<br>거푸집 | 거푸집과<br>콘크리트의 경계면의<br>부착성 확보가 요구됨 |\n| 콘크리트 도장 | 콘크리트 표면에 프라이머, 중도 및 상도의 도막으로<br>피막층 형성 | 시공 간편, 박판으로<br>높은 방식 효과를 얻을<br>수 있음 |\n| 무기방청제 | 콘크리트 배합시 무기방청제를 혼합 | 시공은 간편하나 경제적,<br>사용실적 및 효과검증<br>미흡 |",
+    "blockRange": [
+      500,
+      500
+    ],
+    "page": 78,
+    "table": {
+      "rows": 6,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0155",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계"
+    ],
+    "text": "### 4.2.1 염해 저항성 실험",
+    "blockRange": [
+      501,
+      501
+    ],
+    "page": 79
+  },
+  {
+    "id": "c0156",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.1 염해 저항성 실험"
+    ],
+    "text": "경인아라뱃길 콘크리트의 내구특성 파악을 위하여 혼화재 등을 변수로 실험이 수행되었다. 케이슨, 상치콘크리트의 설계강도는 35 MPa 기준, 프리캐스트 안벽 설계강도는 40 MPa 기준으로 설정되었다. 케이슨, 상치 및 프리캐스트 안벽 콘크리트 배합 ID는 35(40)-B0-FA0 (설계강도(35)-고로슬래그(혼입%)-플라이애시(혼입%))이다.",
+    "blockRange": [
+      502,
+      502
+    ],
+    "page": 79
+  },
+  {
+    "id": "c0157",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.1 염해 저항성 실험"
+    ],
+    "text": "**표 4.3 콘크리트 배합표**\n\n| 대상 구조 | 배합 ID | W/B<br>(%) | 단위 재료량 (kg/㎥) |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 대상 구조 | 배합 ID | W/B<br>(%) | Water | Cement | Sand | Gravel | Slag | Fly Ash | 혼화제 |\n| 케이슨,<br>상치콘크리트,<br>프리캐스트<br>안벽 | 35(40)-B0-FA0 | 36 | 155 | 430 | 733 | 970 | 0 | 0 | 적정량 |\n| 케이슨,<br>상치콘크리트,<br>프리캐스트<br>안벽 | 35(40)-B30-FA0 | 36 | 155 | 301 | 733 | 970 | 129 | 0 | 적정량 |\n| 케이슨,<br>상치콘크리트,<br>프리캐스트<br>안벽 | 35(40)-B40-FA10 | 36 | 155 | 215 | 733 | 970 | 172 | 43 | 적정량 |\n| 케이슨,<br>상치콘크리트,<br>프리캐스트<br>안벽 | 35(40)-B50-FA0 | 36 | 155 | 215 | 733 | 970 | 215 | 0 | 적정량 |",
+    "blockRange": [
+      503,
+      503
+    ],
+    "page": 79,
+    "table": {
+      "rows": 6,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0158",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계"
+    ],
+    "text": "### 4.2.2 탄산화 및 염분침투해석",
+    "blockRange": [
+      504,
+      504
+    ],
+    "page": 79
+  },
+  {
+    "id": "c0159",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.2 탄산화 및 염분침투해석"
+    ],
+    "text": "탄산화 해석결과 케이슨 및 상치 콘크리트 모두 소요의 내구연한을 확보하는 것으로 설계되었다.",
+    "blockRange": [
+      505,
+      505
+    ],
+    "page": 79
+  },
+  {
+    "id": "c0160",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.2 탄산화 및 염분침투해석"
+    ],
+    "text": "**표 4.4 탄산화 해석결과**\n\n| 대상 구조 | 검토 배합 ID | 철근부식유발<br>임계깊이<br>ϕk ylim (mm) | 탄산화깊이<br>설계값<br>γp yp (mm) |  | 구조설계 최소<br>피복두께<br>(mm) | 판정 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 대상 구조 | 검토 배합 ID | 철근부식유발<br>임계깊이<br>ϕk ylim (mm) | 65년 | 50년 | 구조설계 최소<br>피복두께<br>(mm) | 판정 |\n| 케이슨<br>상치<br>프리캐스트<br>안벽 | 35(40)-B0-FA0 | 50.6 | - | - | 80 | OK |\n| 케이슨<br>상치<br>프리캐스트<br>안벽 | 35(40)-B30-FA0 | 50.6 | - | - | 80 | OK |\n| 케이슨<br>상치<br>프리캐스트<br>안벽 | 35(40)-B40-FA10 | 50.6 | 12.50 | 10.96 | 80 | OK |\n| 케이슨<br>상치<br>프리캐스트<br>안벽 | 35(40)-B50-FA0 | 50.6 | 5.23 | 4.59 | 80 | OK |",
+    "blockRange": [
+      506,
+      506
+    ],
+    "page": 79,
+    "table": {
+      "rows": 6,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0161",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.2 탄산화 및 염분침투해석"
+    ],
+    "text": "염분침투해석에 따른 내구연한을 분석한 결과는 아래의 표와 같다.",
+    "blockRange": [
+      507,
+      507
+    ],
+    "page": 80
+  },
+  {
+    "id": "c0162",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.2 탄산화 및 염분침투해석"
+    ],
+    "text": "**표 4.5 염분침투 해석결과**\n\n| 배합 ID | 콘크리트 표면<br>염소이온<br>농도(Co)<br>(kg/㎥) | 염소이온<br>확산계수<br>Dd (㎠/year) | 철근부식<br>임계농도도달시간<br>(year) | 철근부식<br>방지를 위한<br>소요두께<br>(mm) | 설계적용<br>콘크리트<br>피복<br>(mm) | 판 정 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 35(40)-B0-FA0 | 13 | 0.309 | 31.8 | 115 | 80 | NG |\n| 35(40)-B30-FA0 | 13 | 0.162 | 60.8 | 83 | 80 | NG |\n| 35(40)-B40-FA10 | 13 | 0.108 | 91.2 | 68 | 80 | OK |\n| 35(40)-B50-FA0 | 13 | 0.131 | 75.2 | 75 | 80 | OK |",
+    "blockRange": [
+      508,
+      508
+    ],
+    "page": 80,
+    "table": {
+      "rows": 5,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0163",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계"
+    ],
+    "text": "### 4.2.3 내구성 설계",
+    "blockRange": [
+      509,
+      509
+    ],
+    "page": 80
+  },
+  {
+    "id": "c0164",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.3 내구성 설계"
+    ],
+    "text": "경인아라뱃길의 내구성 설계는 케이슨, 상치 및 프리캐스트 안벽 콘크리트에 대해 소요의 내구수명 확보를 위한 설계조건을 검토하였다. 아래와 같은 내구성 설계 흐름도에 따라 내구성 설계가 이루어졌다.\n\n시 작\n\n설계내용년수 설정\n\n환경지수 ET 산정\n\n설계조건 설정\n\nNo\n\n기본사양 검토\n\nYes\n\n내구지수 DT 산정\n\nET ≤ DT No Yes\n\n종 료\n\n그림 4.2 내구성 설계 흐름도",
+    "blockRange": [
+      510,
+      521
+    ],
+    "page": 80
+  },
+  {
+    "id": "c0165",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.3 내구성 설계"
+    ],
+    "text": "**표 4.6 환경지수의 산정**\n\n| 항 목 |  | 산정근거 | 환경지수 산정 |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 항 목 |  | 산정근거 | 케이슨, 상치 |  | 프리캐스트<br>안벽 |  |\n| 항 목 |  | 산정근거 | 50년 | 65년 | 50년 | 65년 |\n| 1 | 염해에 대한<br>환경지수 증분치 | 케이슨, 상치 : 간만대, 비말대,<br>해안선부근의 지역에 있고 습도 70%이하,<br>연평균온도 20℃미만<br>프리캐스트 안벽 : 해안으로부터 100m<br>이하의 거리에 있고 습도 70%이하,<br>연평균 온도 20℃미만 | 40 | 47 | 20 | 23 |\n| 2 | 탄산화에 대한<br>환경지수 증분치 | 평균 CO2의 농도가 보통이고, 습도가<br>65∼84% | 15 | 18 | 15 | 18 |\n| 3 | 동해에 대한<br>환경지수 증분치 | 인천지역 일 평균기온이 -5℃이하인 일수<br>: 10∼20일 이하 | 10 | 12 | 10 | 12 |\n| 4 | 황산염 침해에<br>따른 환경지수<br>증분치 | 보통 정도로 황산염 이온에 노출<br>: 150∼1,500 ppm | 5 | 6 | 5 | 6 |\n| 환경지수 증분치합계<br>(기본환경지수 50년 : 85, 65년 : 100) |  |  | 70 | 83 | 100 | 124 |",
+    "blockRange": [
+      522,
+      522
+    ],
+    "page": 81,
+    "table": {
+      "rows": 8,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0166",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.3 내구성 설계"
+    ],
+    "text": "내구연한 환경지수의 계산은 다음과 같다.\n\n- ① 케이슨 및 상치\n\n◦ 50년 환경지수 : 기본환경지수 + 환경지수 증분치 = 85 + 70 = 155\n\n◦ 65년 환경지수 : 기본환경지수 + 환경지수 증분치 = 100 + 83 = 183\n\n- ② 프리캐스트 안벽\n\n◦ 50년 환경지수 : 기본환경지수 + 환경지수 증분치 = 85 + 50 = 135\n\n◦ 65년 환경지수 : 기본환경지수 + 환경지수 증분치 = 100 + 59 = 159 표 4.7 재료분야 내구지수 증분치",
+    "blockRange": [
+      523,
+      529
+    ],
+    "page": 81
+  },
+  {
+    "id": "c0167",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.3 내구성 설계",
+      "◦ 65년 환경지수 : 기본환경지수 + 환경지수 증분치 = 100 + 59 = 159 표 4.7 재료분야 내구지수 증분치"
+    ],
+    "text": "| 항 목 |  | 산전근거 | 케이슨 | 상치 | PC<br>안벽 |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 시멘트 종류 | 보통 포틀랜드 시멘트 | 0 | 0 | 0 |\n| 1 | 시멘트 종류 | 혼합 시멘트 | 10 | 10 | 10 |\n| 2 | 골재 흡수율 | 잔골재 흡수율: 1.0%<br>굵은골재 흡수율 : 0.83% | 2.7 | 2.7 | 2.7 |\n| 3 | 골재 입도 | 잔골재 조립율 : 2.3∼3.1<br>굵은골재 조립율 : 6∼8 | 규격만족 | 0 | 0 |\n| 4 | 혼화재료<br>종류 | 고성능 AE감수제 | 0 | 0 | 0 |\n| 4 | 혼화재료<br>종류 | 플라이 애시, 고로슬래그 적절히 사용 | 10 | 10 | 10 |\n| 5 | 유동성 | 슬럼프 : 15 cm<br>단면최소치수 : 0.5 m<br>타설높이 101/2 m<br>단면의 변단면 유무 : 0<br>(\\* 윗면보다 아랫면이 커서 다짐이<br>불리하다고 예상되는 단면 -5, 그렇지 않은<br>경우 0)<br>재료분리저항제 사용 유무 : 0.06<br>(\\* 재료분리저항제를 충분히 사용한 경우 0,<br>보통의 경우 0.06 사용) | 8 | 8 | 8 |\n| 5 | 재료분리<br>저항성 | 슬럼프 : 15 cm<br>단면최소치수 : 0.5 m<br>타설높이 101/2 m<br>단면의 변단면 유무 : 0<br>(\\* 윗면보다 아랫면이 커서 다짐이<br>불리하다고 예상되는 단면 -5, 그렇지 않은<br>경우 0)<br>재료분리저항제 사용 유무 : 0.06<br>(\\* 재료분리저항제를 충분히 사용한 경우 0,<br>보통의 경우 0.06 사용) | 5 | 5 | 5 |\n| 6 | 물/시멘트비 | 케이슨, 상치, 프리캐스트 안벽 W/B(%) =<br>36% | 19 | 19 | 19 |\n| 7 | 단위수량 | 케이슨, 상치, 프리캐스트 안벽 단위수량 =<br>155 | 2.5 | 2.5 | 2.5 |\n| 8 | 염화물<br>함유량 | 염화물 없음, 5-0.5(10×0)2 = 5 | 5 | 5 | 5 |\n| 9 | 레미콘<br>생산체계 | 자동계량기록장치가 설치되어 있는 경우 | 4 | 4 | 4 |\n| 9 | 레미콘<br>생산체계 | 믹서의 성능이 양호한 믹서를 사용하고 있는<br>경우 | 2 | 2 | 2 |\n| 9 | 레미콘<br>생산체계 | 지붕 등이 있는 양호한 저장시설이<br>확보되어 있는 경우 | 2 | 2 | 2 |\n| 9 | 레미콘<br>생산체계 | 잔골재 표면수량 관리 ±1.0% | 2 | 2 | 2 |\n| 9 | 레미콘<br>생산체계 | 믹서 내에서 충분히 반죽질기가 관리되고<br>있는 경우 | 1 | 1 | 1 |\n| 재료분야 내구지수 증분치 합계 |  |  | 70.2 | 70.2 | 73.2 |",
+    "blockRange": [
+      530,
+      530
+    ],
+    "page": 82,
+    "table": {
+      "rows": 18,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0168",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.3 내구성 설계",
+      "◦ 65년 환경지수 : 기본환경지수 + 환경지수 증분치 = 100 + 59 = 159 표 4.7 재료분야 내구지수 증분치"
+    ],
+    "text": "**표 4.8 설계분야 내구지수 증분치**\n\n| 항 목 |  | 산정근거 | 케이슨 | 상치 | PC<br>안벽 |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 설계주임<br>기술자 수준 | 경험 년 수 : 15년 이상,<br>토목구조분야 특급기술자 | 6 | 6 | 6 |\n| 2 | 순피복두께 | 케이슨, 상치, 프리캐스트 안벽 : 80 mm | 22.5 | 22.5 | 22.5 |\n| 3 | 배근 세부사항 | 철근 단수 : 1단 배근<br>철근 순간격 : 100 mm<br>굵은골재 최대치수 : 25 mm | 10 | 10 | 10 |\n| 3 | 내부진동기가<br>도달하지 않는<br>깊이 | 0 cm | 5 | 5 | 5 |\n| 4 | 가외철근비 | 1%, 25×1=25 ≤ 10 | 10 | 10 | 10 |\n| 5 | 시공이음 | 케이슨, 상치, 프리캐스트 안벽 : 수평이음 | -3 | -3 | -3 |\n| 6 | 수축이음 | 없음 | 0 | 0 | 0 |\n| 7 | 설계도면<br>명시여부 | 정확히 명시되어 있음 | 0 | 0 | 0 |\n| 8 | 온도균열지수 | 1.45 (균열발생을 제한할 경우) | 5.7 | 5.7 | 5.7 |\n| 9 | 허용 균열폭 | 균열폭 / 허용균열폭 = 0.9 | 5.1 | 5.1 | 5.1 |\n| 10 | 거푸집 종류 | 목재거푸집 | 0 | 0 | 0 |\n| 11 | 표면보호재<br>종류 | 표면보호재 미사용 | 0 | 0 | 0 |\n| 설계분야 내구지수 증분치 합계 |  |  | 61.3 | 61.3 | 61.3 |",
+    "blockRange": [
+      531,
+      531
+    ],
+    "page": 83,
+    "table": {
+      "rows": 14,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0169",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.3 내구성 설계",
+      "◦ 65년 환경지수 : 기본환경지수 + 환경지수 증분치 = 100 + 59 = 159 표 4.7 재료분야 내구지수 증분치"
+    ],
+    "text": "**표 4.9 시공분야 내구지수 증분치**\n\n| 항 목 |  | 산정근거 | 케이슨 | 상치 | PC<br>안벽 |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 주임기술자<br>수준정도 | 2등급(시공기술사) | 15 | 15 | 15 |\n| 2 | 콘크리트<br>반입과정 | 배치플랜트의 재료계량기록에 의한 배합현황을<br>현장 도착 즉시 확인하는 경우 | 5 | 5 | 5 |\n| 3 | 운반, 타설,<br>다짐 과정 | 자유낙하높이 : 0 m | 0 | 0 | 0 |\n| 3 | 운반, 타설,<br>다짐 과정 | 타설 속도 20 ㎥/h, 20 - 20 = 0 | 0 | 0 | 0 |\n| 3 | 운반, 타설,<br>다짐 과정 | 내부진동기 | 0 | 0 | 0 |\n| 4 | 표면마무리와<br>양생 | 보통 습윤양생 | 0 | 0 | 0 |\n| 5 | 철근 가공 | 원치수의 정규제품을 사용하는 경우 혹은<br>가공형상을 확인하는 작업을 행한 경우 | 5 | 5 | 5 |\n| 6 | 철근 조립 | 모르터 간격재 사용 | 0 | 0 | 0 |\n| 6 | 철근 조립 | 간격재수 : 5 개/㎡ | 0 | 0 | 0 |\n| 6 | 철근 조립 | 결속선을 덮개보다 안쪽으로 구부림 | 5 | 5 | 5 |\n| 7 | 거푸집공 | 녹방지한 인서트 사용 | 5 | 5 | 5 |\n| 8 | 그라우트공 | 시공 경험자 | 4 | 4 | 4 |\n| 9 | 동바리공 | 케이슨, 상치, 프리캐스트 안벽 : 강재 동바리 | 0 | 0 | 0 |\n| 시공분야 내구지수 증분치 합계 |  |  | 39 | 39 | 39 |",
+    "blockRange": [
+      532,
+      532
+    ],
+    "page": 84,
+    "table": {
+      "rows": 15,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0170",
+    "type": "table",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.2 아라뱃길 내구성 설계",
+      "4.2.3 내구성 설계",
+      "◦ 65년 환경지수 : 기본환경지수 + 환경지수 증분치 = 100 + 59 = 159 표 4.7 재료분야 내구지수 증분치"
+    ],
+    "text": "**표 4.10 내구지수의 산정**\n\n| 항 목 | 케이슨 내구지수 | 상치 내구지수 |\n| --- | --- | --- |\n| 재료분야 내구지수 증분치 | 73.2 | 73.2 |\n| 설계분야 내구지수 증분치 | 61.3 | 61.3 |\n| 시공분야 내구지수 증분치 | 39 | 39 |",
+    "blockRange": [
+      533,
+      533
+    ],
+    "page": 84,
+    "table": {
+      "rows": 4,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0171",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사"
+    ],
+    "text": "## 4.3 아라뱃길 내구수명",
+    "blockRange": [
+      534,
+      534
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0172",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.3 아라뱃길 내구수명"
+    ],
+    "text": "### 4.3.1 내구성 대책",
+    "blockRange": [
+      535,
+      535
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0173",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.3 아라뱃길 내구수명",
+      "4.3.1 내구성 대책"
+    ],
+    "text": "앞서 내구성 설계 흐름도에 따라 내구지수를 분석할 수 있으며, 각 부재에 대해 내구지수를 계산하면 다음과 같다.\n\n◦ 케이슨 안벽 콘크리트 내구지수(DT) = Do+∑∆DT=30+173.5= 203.5",
+    "blockRange": [
+      536,
+      537
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0174",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.3 아라뱃길 내구수명",
+      "4.3.1 내구성 대책",
+      "◦ 케이슨 안벽 콘크리트 내구지수(DT) = Do+∑∆DT=30+173.5= 203.5"
+    ],
+    "text": "내구지수(DT) = 203.5 ≥ 환경지수(ET) = 183",
+    "blockRange": [
+      538,
+      538
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0175",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.3 아라뱃길 내구수명",
+      "4.3.1 내구성 대책"
+    ],
+    "text": "◦ 프리캐스트 안벽 콘크리트 내구지수(DT) = Do+∑∆DT = 30+203.5 = 197.5 내구지수(DT) = 203.5 ≥ 환경지수(ET) = 159",
+    "blockRange": [
+      539,
+      539
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0176",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.3 아라뱃길 내구수명",
+      "4.3.1 내구성 대책",
+      "◦ 프리캐스트 안벽 콘크리트 내구지수(DT) = Do+∑∆DT = 30+203.5 = 197.5 내구지수(DT) = 203.5 ≥ 환경지수(ET) = 159"
+    ],
+    "text": "따라서 케이슨, 상치콘크리트 및 프리캐스트 안벽 콘크리트는 65년간 Maintenance free의 조건을 충족한다. 이를 내구성 설계에 반영하면 다음과 같다.",
+    "blockRange": [
+      540,
+      540
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0177",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.3 아라뱃길 내구수명",
+      "4.3.1 내구성 대책"
+    ],
+    "text": "◦ 케이슨 콘크리트 : 35 MPa (비말대, 내구연한 65년)\n\n▸ 고로슬래그 시멘트 40% + 플라이애쉬 10%, 최소 순 피복두께 80 mm\n\n◦ 상치 콘크리트 : 35 MPa (비말대, 내구연한 65년)\n\n▸ 고로슬래그 시멘트 40% + 플라이애쉬 10%, 최소 순 피복두께 80 mm\n\n◦ 프리캐스트 안벽 콘크리트 : 40 MPa (내구연한 65년)\n\n▸ 고로슬래그 시멘트 40% + 플라이애쉬 10%, 최소 순 피복두께 80 mm",
+    "blockRange": [
+      541,
+      546
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0178",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.3 아라뱃길 내구수명"
+    ],
+    "text": "### 4.3.2 내구수명",
+    "blockRange": [
+      547,
+      547
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0179",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 아라뱃길 내구성 설계 자료 조사",
+      "4.3 아라뱃길 내구수명",
+      "4.3.2 내구수명"
+    ],
+    "text": "본 경인 아라뱃길사업 제1공구 시설공사와 관련된 콘크리트 구조물의 내구성 설계에 대한 문헌조사, 내구성실험 및 해석을 수행 자료를 분석하였으며 도출된 결론은 다음과 같다.\n\n내구성 설계에서 당 현장의 환경조건에서 염분함량은 12,759 ppm 이고, 황산염 농도는 1,400 ppm수준으로 보통 포틀랜드 시멘트만으로는 소요의 내구성을 확보하기 어려울 것으로 판단되어 고로슬래그와 플라이애쉬를 사용하여 염분침투저항성과 수화열 제어 등의 소요내구성을 확보하였다.\n\n아라뱃길 설계에서 적용한 배합인 고로슬래그 40%+플라이애쉬 10%의 경우 모든 위치에서 목표 내구연한인 65년을 만족하고 있으며, 상대적으로 큰 탄산화가 발생될 수 있으나 그 값은 임계치보다 매우 작고, 탄산화에서는 불리하지만 염소이온 침투 및 수화열 제어 측면에서 유리한 것으로 평가되어 상기 배합을 적용하는 것이 타당한 것으로 사료된다.\n\n아라뱃길의 내구성 설계결과 조사대상 콘크리트 구조물은 종합적으로 내구지수(DT) = 203.5 ≥ 환경지수(ET) = 183 (케이슨, 상치), 내구지수(DT) = 203.5 ≥ 환경지수(ET) = 159 (프리캐스트 안벽) 이므로 해당 구조물은 65년간 소요의 내구기간 동안 Maintenance free의 조건을 충족한다. 따라서, 대상구조물은 각각 1종 방식으로도 목표 내구연한 65년을 확보할 수 있는 것으로 나타났다.\n\n< 공 란 >",
+    "blockRange": [
+      548,
+      552
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0180",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제5장 해양구조물의 내구수명 확인 방안",
+    "blockRange": [
+      553,
+      553
+    ],
+    "page": 88
+  },
+  {
+    "id": "c0181",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안"
+    ],
+    "text": "<u>작성자 : 장봉석, 김남룡, 김태민</u>\n\n< 공 란 >",
+    "blockRange": [
+      554,
+      555
+    ],
+    "page": 88
+  },
+  {
+    "id": "c0182",
+    "type": "heading",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안"
+    ],
+    "text": "## 5.1 시화조력 콘크리트 구조물의 추정 내구수명",
+    "blockRange": [
+      556,
+      556
+    ],
+    "page": 90
+  },
+  {
+    "id": "c0183",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.1 시화조력 콘크리트 구조물의 추정 내구수명"
+    ],
+    "text": "1차년도에서는 시화조력발전소의 내구수명을 추정하는 연구를 수행하였다. 당시 시화조력발전소 구조물은 3성분계 시멘트와 고로슬래그 시멘트를 이용하여 2가지 배합을 적용하여 건설되었다. 해양 철근콘크리트 구조물의 시공이 완료되는 시기에 현장 B/P에서 사용되는 배합으로 시험체를 제작하여 시화조력발전소와 동일한 환경을 갖는 인근 해양환경시험장에 설치하였으며, 이 시험체를 이용하여 내구수명을 추정한 바 있다.\n\n시화조력발전소 구조물의 내구수명은 미국콘크리트학회(ACI)에서 개발한 Life-365 프로그램을 이용하여 염소이온 침투해석으로 산정하였다. 이때, 현장에서 직접 측정한 염소이온 확산계수값을 입력값으로 사용하였다.\n\n본 연구에서 시화조력발전소 콘크리트 구조물의 내구수명은 간만대와 침지대에 폭로된 시험체의 표면으로부터 깊이에 따른 염소이온농도 실측 프로파일과 수치해석결과를 비교·검토한 결과, 고로슬래그 시멘트와 저발열 시멘트를 사용한 수문 및 수차구조물이 내구수명 100년 이상을 만족한다는 것으로 나타났다.",
+    "blockRange": [
+      557,
+      559
+    ],
+    "page": 90
+  },
+  {
+    "id": "c0184",
+    "type": "table",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.1 시화조력 콘크리트 구조물의 추정 내구수명"
+    ],
+    "text": "**표 5.1 염소이온 프로파일을 고려한 시화조력 콘크리트 구조물의 추정 내구수명**\n\n| 구 분 | 노출조건 | $C_{0}$ | $C_{lim}$ | $D_{28}$ | m | 추정<br>내구수명<br>(년) | 설계<br>내구수명<br>(년) |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 수문구조물<br>(고로슬래그) | 간만대 | 9.0 | 1.2 | 3.85E-12 | 0.4 | 213.7 | 166.5 |\n| 수문구조물<br>(고로슬래그) | 침지대 | 11.0 | 1.2 | 3.85E-12 | 0.4 | 185.5 | 166.5 |\n| 수차구조물<br>(저발열) | 간만대 | 10.0 | 1.2 | 3.50E-12 | 0.3 | 122.6 | 102.9 |\n| 수차구조물<br>(저발열) | 침지대 | 12.0 | 1.2 | 3.50E-12 | 0.3 | 108.5 | 102.9 |",
+    "blockRange": [
+      560,
+      560
+    ],
+    "page": 90,
+    "table": {
+      "rows": 5,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0185",
+    "type": "heading",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안"
+    ],
+    "text": "## 5.2 낙동강하굿둑 콘크리트 구조물의 추정 내구수명",
+    "blockRange": [
+      561,
+      561
+    ],
+    "page": 91
+  },
+  {
+    "id": "c0186",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.2 낙동강하굿둑 콘크리트 구조물의 추정 내구수명"
+    ],
+    "text": "2차년도인 금년도의 연구에서는 염소이온 농도 프로파일 데이터로부터 표면 염소이온 농도와 확산계수의 변화를 고려한 모델을 적용하여 모델 파라미터를 산정하고 잔존수명을 평가하는 방안을 제시하였다.\n\n염화물 침투 메커니즘은 이온 확산, 수분 이동, 염소이온 구속 등 다양한 작용과 영향인자가 복합된 현상이므로 정확한 메커니즘의 이해와 충분한 검증을 통한 분석기법 확립이 필요해 보인다. 즉, 내구성 설계 및 유지보수를 위한 열화 평가를 위해 실제 현상을 얼마나 정확하게 단순화하느냐가 관건으로 보인다.\n\n실제 낙동강하굿둑 콘크리트 구조물에서 채취한 시험체에서 측정한 염소이온 농도 프로파일에 이 방법을 적용하여 잔존수명을 평가하였다. 이 방법은 해양 환경에 놓인 철근콘크리트구조물의 잔존수명을 보다 합리적으로 평가할 수 있을 것으로 기대된다. 분석 결과, 내구수명 산정 결과 잔존 내구수명은 최소 85년 이상인 것으로 분석되었다.",
+    "blockRange": [
+      562,
+      564
+    ],
+    "page": 91
+  },
+  {
+    "id": "c0187",
+    "type": "table",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.2 낙동강하굿둑 콘크리트 구조물의 추정 내구수명"
+    ],
+    "text": "**표 5.2 모델 파라미터 산정 및 잔존 내구수명 예측결과**\n\n| 지역 |  | 표면<br>염소이온<br>농도 증가<br>속도<br>$s$<br>(%/$\\sqrt{y}$ ) | 평균<br>확산계수 $D$<br>(m²/s) | 재령계수 모델상수 |  |  | 피복두께<br>(㎜) | 부식 임계농도<br>(%, 콘크리트<br>질량비) |  | 잔존 내구수명<br>(년) |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 지역 |  | 표면<br>염소이온<br>농도 증가<br>속도<br>$s$<br>(%/$\\sqrt{y}$ ) | 평균<br>확산계수 $D$<br>(m²/s) | $m$<br>(-) | $\\alpha$ (-) | $m$′<br>- | 피복두께<br>(㎜) | Level I | Level II | Level I | Level II |\n| 비말대 | SPL-1 | 1.886E-02 | 1.801E-11 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 33.63 | 89.93 |\n| 비말대 | SPL-2 | 2.063E-02 | 6.500E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 47.28 | 109.73 |\n| 비말대 | SPL-3 | 4.924E-02 | 2.118E-13 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 247.18 | 361.93 |\n| 비말대 | SPL-4 | 2.556E-02 | 6.144E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 38.92 | 85.69 |\n| 간만대 | TD-1 | 2.578E-02 | 4.194E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 47.65 | 100.08 |\n| 간만대 | TD-2 | 2.272E-02 | 4.232E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 53.51 | 115.52 |\n| 간만대 | TD-3 | 2.182E-02 | 2.647E-12 | 0.2 | 0.303 | 0.354 | 80 | 0.064 | 0.128 | 72.35 | 149.10 |",
+    "blockRange": [
+      565,
+      565
+    ],
+    "page": 91,
+    "table": {
+      "rows": 9,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0188",
+    "type": "heading",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안"
+    ],
+    "text": "## 5.3 해양구조물의 내구수명 확인방안",
+    "blockRange": [
+      566,
+      566
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0189",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안"
+    ],
+    "text": "해양구조물의 내구수명 확인 방안은 실재 해양환경 철근콘크리트구조물에서 코어를 채취하여 염소이온 프로파일의 분석하여 잔존 내구수명을 평가하는 방법이 비용과 신뢰성 측면에서 좋은 방법이다. 그 절차는 아래와 같다.\n\n(1) 모델 가정",
+    "blockRange": [
+      567,
+      568
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0190",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안",
+      "(1) 모델 가정"
+    ],
+    "text": "먼저 적용할 염소이온 침투 예측모델을 설정한다. 앞서 서술한 바와 같이 확산계수와 표면 염소이온 농도의 시간에 따른 변화를 동시에 고려하려 식 (2.20)에 제시한 모델을 적용할 수 있다. 또는 해당 지역의 환경 특성을 고려할 수 있는 다른 검증된 모델을 적용할 수 있다.",
+    "blockRange": [
+      569,
+      569
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0191",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안"
+    ],
+    "text": "(2) 염소이온 침투 프로파일로부터 모델 파라미터 산정",
+    "blockRange": [
+      570,
+      570
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0192",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안",
+      "(2) 염소이온 침투 프로파일로부터 모델 파라미터 산정"
+    ],
+    "text": "염소이온 침투 프로파일 실측 데이터에 대한 커브핏팅(curve fitting)을 통해 모델 파라미터를 산정한다. 식 (2.20)을 적용할 때 모델 파라미터는 아래와 같다.",
+    "blockRange": [
+      571,
+      571
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0193",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안"
+    ],
+    "text": "• 표면 염소이온 농도 증가 속도 $k$\n\n• 평균 확산계수 $D_{m}$",
+    "blockRange": [
+      572,
+      573
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0194",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안",
+      "• 평균 확산계수 $D_{m}$"
+    ],
+    "text": "커브핏팅에 앞서 초기 염소이온농도를 적절히 가정해야 한다. 만약 시공 당시의 굳지 않은 콘크리트 염화물량 측정 데이터가 있다면 그 값을 사용할 수 있겠지만, 만약 시공 당시의 측정 데이터가 없다면 실측 염소이온 침투 프로파일의 데이터를 보고 적당히 가정하거나, 통상의 콘크리트에 포함되는 수준인 0.1 kg/m³ 정도로 가정하는 것이 합리적이라고 판단된다.\n\n커브핏팅을 할 경우에는 모델 파라미터의 초기값의 가정이 중요하다. 초기값을 잘 못 가정하면 해를 얻지 못하거나, 최적치가 아닌 해를 얻게 될 수도 있다. 기왕의 자료를 이용하여 유사한 값으로 가정하는 것이 좋고, 커브핏 결과의 결정계수를 확인하거나, 커브핏으로 구한 곡선이 데이터와 얼마나 잘 일치하는지 확인하고 초기값을 변화시켜가면서 반복적으로 시행해 보는 것이 좋다.",
+    "blockRange": [
+      574,
+      575
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0195",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안"
+    ],
+    "text": "(3) 확산계수의 재령계수 가정",
+    "blockRange": [
+      576,
+      576
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0196",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안",
+      "(3) 확산계수의 재령계수 가정"
+    ],
+    "text": "잔존수명 예측을 위해서는 확산계수의 재령계수를 결정해야 한다. 1-parameter model은 식 (2.9a)와 (2.9b), 2-parameter model은 식 (2.14)를 적용한다. 만약 여러 시점에서 동일 위치에서 측정한 데이터가 있는 경우라면 핏팅을 통해 재령계수의 모델 상수를 결정할 수 있다. 그러나, 여러 시점에서 측정한 데이터가 없다면 문헌에서 제시된 값을 이용하여 가정해야 한다. 1-parameter model은 식 (2.13)을 적용할 수 있다. 2-parameter model의 경우 식 (2.15)와 식 (2.16)을 이용하면 간접적으로 모델 상수를 정할 수 있다.",
+    "blockRange": [
+      577,
+      577
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0197",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안"
+    ],
+    "text": "(4) 부식 임계농도 설정",
+    "blockRange": [
+      578,
+      578
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0198",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안",
+      "(4) 부식 임계농도 설정"
+    ],
+    "text": "잔존수명의 평가를 위해서는 부식 임계농도를 결정해야 한다. 부식 임계농도는 표 2.5와 같이 정할 수 있다.",
+    "blockRange": [
+      579,
+      579
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0199",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안"
+    ],
+    "text": "(5) 잔존수명 예측",
+    "blockRange": [
+      580,
+      580
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0200",
+    "type": "text",
+    "breadcrumb": [
+      "제5장 해양구조물의 내구수명 확인 방안",
+      "5.3 해양구조물의 내구수명 확인방안",
+      "(5) 잔존수명 예측"
+    ],
+    "text": "위에서 가정한 염소이온 침투 예측모델과 염소이온 침투 프로파일로부터 구한 모델 파라미터를 이용하여 잔존수명을 계산한다.\n\n이상 설명한 잔존수명 평가절차를 그림 5.1에 요약하여 나타냈다.\n\n그림 5.1 잔존 내구수명 평가 절차\n\n< 공 란 >\n\n\n![image](image_058.png)",
+    "blockRange": [
+      581,
+      585
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0201",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제6장결론",
+    "blockRange": [
+      586,
+      586
+    ],
+    "page": 94
+  },
+  {
+    "id": "c0202",
+    "type": "text",
+    "breadcrumb": [
+      "제6장결론"
+    ],
+    "text": "<u>작성자 : 장봉석, 김태민</u>\n\n< 공 란 >",
+    "blockRange": [
+      587,
+      588
+    ],
+    "page": 94
+  },
+  {
+    "id": "c0203",
+    "type": "heading",
+    "breadcrumb": [
+      "제6장결론"
+    ],
+    "text": "## 6.1 결론",
+    "blockRange": [
+      589,
+      589
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0204",
+    "type": "text",
+    "breadcrumb": [
+      "제6장결론",
+      "6.1 결론"
+    ],
+    "text": "낙동강하굿둑 구조물의 염소이온 침투 프로파일 조사를 위하여 Pier 6의 좌측면에서 간만대와 비말대 2곳에서 코어를 채취하였다. 채취한 코어에서 표면에서 5 mm 단위로 염소이온 침투프로파일을 조사하고 그 결과를 분석하여 내구수명을 추정하였다. 아라뱃길 구조물은 내구성 설계자료를 조사하여 내구수명을 검토하였다.\n\n본 연구에서 1차년도에서 수행한 시화조력발전소 콘크리트 구조물의 추정 내구수명 산정 방법과 낙동강하굿둑 구조물의 내구수명 추정 방법을 장단점을 검토하여 해양구조물의 내구수명 확인방안을 도출하였다.",
+    "blockRange": [
+      590,
+      591
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0205",
+    "type": "table",
+    "breadcrumb": [
+      "제6장결론",
+      "6.1 결론"
+    ],
+    "text": "**표 6.1 낙동강하굿둑 추정 내구수명**\n\n| 구 분 | $C_{0}$ | $C_{lim}$ | $D_{28}$ | m | 추정<br>내구수명<br>(년) | 설계<br>내구수명<br>(년) |\n| --- | --- | --- | --- | --- | --- | --- |\n| 간만대 | 9.0 | 1.2 | 3.85E-12 | 0.4 | 213.7 | 166.5 |\n| 간만대 | 11.0 | 1.2 | 3.85E-12 | 0.4 | 185.5 | 166.5 |\n| 침지대 | 10.0 | 1.2 | 3.50E-12 | 0.3 | 122.6 | 102.9 |\n| 침지대 | 12.0 | 1.2 | 3.50E-12 | 0.3 | 108.5 | 102.9 |",
+    "blockRange": [
+      592,
+      592
+    ],
+    "page": 96,
+    "table": {
+      "rows": 5,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0206",
+    "type": "heading",
+    "breadcrumb": [
+      "제6장결론"
+    ],
+    "text": "## 6.2 추후 연구",
+    "blockRange": [
+      593,
+      593
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0207",
+    "type": "text",
+    "breadcrumb": [
+      "제6장결론",
+      "6.2 추후 연구"
+    ],
+    "text": "본 연구결과를 바탕으로 향후 시화조력 발번소 구조물의 철근부식으로 인한 보수 필요시 조력발전중지 및 보수보강 비용 지출을 대비하여 ‘시화조력 철근 부식 유지관리 대책 방안 수립 연구’를 수행하는 것이 필요하다.\n\n‘시화조력 철근 부식 유지관리 대책 방안 수립 연구’ 수행을 통하여 예방적 유지관리 방안을 도출하면 보수보강 비용의 1/10\\~1/20 수준에서 유지관리가 가능하며, 현재 ‘약 1억원/일’의 발전매출을 올리는 조력발전을 중지가 없도록 하는 것이 가능하다.\n\n< 공 란 >",
+    "blockRange": [
+      594,
+      596
+    ],
+    "page": 96
+  },
+  {
+    "id": "c0208",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참고문헌",
+    "blockRange": [
+      597,
+      597
+    ],
+    "page": 98
+  },
+  {
+    "id": "c0209",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "1. Alonso. C., Andrade. C., Castellote. M., and Castro. P. (2000) Chloride threshold values to depassivate reinforcing bars embedded in a standardized OPC mortar, Cement and Concrete Research, Vol. 30, No. 7, pp. 1047-1055.\n2. Andrade, C. and Page, C. L. (1986) Pore solution chemistry and corrosion in hydrated cement systems containing chloride salts. A study of cation specific effects, Cement Concrete Research, 21, pp.49-53.\n3. Bamforth, P.B. (1999) The derivation of input data for modelling chloride ingress from eight-year U.K. coastal exposure trials, Magazine of Concrete Research, Vol. 51, No. 2, pp.87-96.\n4. Bentz, E. C. and Thomas, M. D. A. (2001) Manual of Life-365, Computer Program for Predicting the Service Life and Life-Cycle Costs of Reinforced Concrete Exposed to Chlorides.\n5. Clifton, J. R. and Knab, L. I. (1989) Service Life of Concrete. NISTIR 89-4086, National Bureau of Standards, U.S. Department of Commerce.\n6. Costa, A. and Appelon, J. (1999a) Chloride penetration into concrete in marine environment - Part I : Main parameters affecting chloride penetration, Materials and Structures, Vol. 32, May, pp.252-259.\n7. Costa, A. and Appelon, J. (1999b) Chloride penetration into concrete in marine environment - Part II : Prediction of long term chloride penetration, Materials and Structures, Vol. 32, June, pp.354-359.\n8. Gõni, S. and Andrade, C. (1990) Synthetic concrete pore solution chemistry and rebar corrosion rate in the presence of chlorides, Cement Concrete Research, 20, pp.525-539.\n9. Gouda, V. K. (1970) Corrosion and corrosion inhibition of reinforcing steel, I. Immersed in alkaline solutions. Br Corrosion J., 5, pp.198-203.\n10. Gouda, V. K. and Halaka, W. Y. (1970) Corrosion and corrosion inhibition of reinforced steel. II. Embedded in concrete. British Corrosion Journal, 5, Sep. pp.204-208.\n11. Hansson, C. M., and Sorensen, B. (1988) The Threshold Concentration of Chloride in Concrete for Initiation of Reinforcement Corrosion, Corrosion Rates of Steel in Concrete, STP 1065, N. Burke, V. Whiting, and D. Whiting, eds., ASTM International, West Conshohocken, Pa., pp. 3-16.\n12. Haussmann, D.A. (1967) Steel corrosion in concrete. How does it occur?, Journal of Material Protextion, pp.19-23.\n13. Hope, B., and Ip, A. K. C. (1987) Chloride corrosion threshold in concrete, ACI Materials Journal, V. 84, No. 4, July-Aug., pp. 306-314.\n14. Hussain, S. E., Al-Gahtani, A. S. and Rasheeduzzafar (1996) Chloride Threshold for Corrosion of Reinforcement in Concrete, ACI Materials Journal, Vol. 94, No.6, pp. 534-538.\n15. Hussain, S. E., Rasheeduzzafar, S. E., Al-Musallam, A. and Al-Gahtani, A. S. (1995) Factors affecting threshold chloride for reinforcement corrosion in concrete, Cement and Concrete Research, 25, pp.1543-1555.\n16. Kayyali, O. A. and Haque, M. N. (1995) The ratio of Cl-/OH- in chloride contaminated concrete. A most important criterion, Magazine of Concrete Research, 47, pp.235-242.\n17. Lambert, P., Page, C. L. and Vassie, P. R. W. (1991) Investigation of reinforcement corrosion. 2. Electrochemical monitoring of steel in chloride contaminated concrete, Materials and Structures, 24, pp.351-358.\n18. Petterson, K. (1992) Corrosion Threshold Value and Corrosion Rate in Reinforced Concrete, CBI Report 2:92, Stockholm, Sweden.\n19. Petterson, K. (1996) Factors influencing chloride induced corrosion of reinforcement in concrete, In: Durability of Building Materials and Components, C. Sjostrom (Ed.), 1, Chapman & Hall, London, pp.334-341.\n20. Pettersson, K. (1994) Chloride threshold value and the corrosion rate in reinforced concrete, In: Proc. Steel in Concrete, R.N. Swamy (ed.), Academic Press, Sheffield, p.461.\n21. Schiessl, P. and Breit, W. (1996) Local repair measures at concrete struc-tures damaged by reinforcement corrosion, In: Proc. 4th International Symposium on Corrosion of Reinforcement in Concrete Construction, SCI, Cambridge, pp.525-234.\n22. Seatta, A., Scotta, R. and Vitaliani, R. (1993) Analysis of chloride diffusion into partially saturated concrete, ACI Materials Journal, Vol. 90, No. 5, pp. 441-451.\n23. Takewaka, K. and Matstumoto, S. (1988) Quality and Cover Thickness of Concrete Based on the Estimation of Chloride Penetration in Marine Environments. ACI SP 109-17, American Concrete Institute, pp. 381-400.\n24. Tang, L. and Nilsson, L.-O. (1992a) Chloride Diffusivity in High Strength Concrete at Different Ages, Nordic Concrete Research, Publication, vol. 11, pp.162–171.\n25. Thomas, M. (1996) Chloride thresholds in marine concrete, Cement and Concrete Research, Vol. 26, No. 4, pp. 513-519.\n26. Tuutti, K. (1982) Corrosion of Steel in Concrete, CBI, Research Report 4, Stockholm.\n27. Uji, K., Matsuoka, Y., & Maruya, T. (1990) Formulation of an equation for surface chloride content of concrete due to permeation of chloride. Elsevier Applied Science, pp. 258-267.\n28. 국토교통부(2021) KDS 14 20 40 콘크리트구조 내구성 설계기준.\n29. 배수호, 이광명, 김지상, 김영상 (2007) 부식촉진시험에 의한 콘크리트 중 철근의 부식 임계 염화물량 평가. 대한토목학회논문집, 제27권, 제5A호, pp. 771-776.\n30. 송하원, 이창홍, 이근주, 안기용 (2009) 분극저항 측정기법을 이용한 혼합 시멘트 모르타르의 임계 염화물 농도에 대한 연구, 한국콘크리트학회 논문집, 제21권 3호, pp.245-253.\n31. 오병환, 장승엽, 김기현 (1999) 콘크리트 내부염소이온에 의한 철근의 부식특성 및 임계 염소이온농도의 결정 연구, 한국콘크리트학회 논문집, 제11권 3호, pp.193-202.\n32. 일본토목학회(1999) 콘크리트 표준시방서 시공편 – 내구성조사형.\n33. 한국콘크리트학회(2010). KCI-203 실무지침서 - 해양콘크리트의 염해 내구성 설계\n34. 한국콘크리트학회(2021) 콘크리트구조설계기준 해설집, KDS 14 20 40(2021) 콘크리트구조 내구성 설계기준.\n35. 한국수자원공사, “낙동강하구둑 공사지”, 1988.\n36. 장봉석 외, \"염분침투 특성을 고려한 해양 콘크리트 구조물 잔존수명 예측(Ⅰ)\", 한국수자원공사, 2020.",
+    "blockRange": [
+      598,
+      633
+    ],
+    "page": 98
+  },
+  {
+    "id": "c0210",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 실용화추진계획서",
+    "blockRange": [
+      634,
+      634
+    ],
+    "page": 101
+  },
+  {
+    "id": "c0211",
+    "type": "table",
+    "breadcrumb": [
+      "실용화추진계획서"
+    ],
+    "text": "| 구 분<br>(택 1) | 3. 기존 시설물의 개량 또는 대체, 운영방법 개선<br>5. 현안해소 목적 연구성과, 정책수립 등 경영지원 |  |  |  |  |  |  |  |  |  | 실용화<br>계획<br>년도 |  | 2023 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 연구<br>수행 | 연구과제<br>제의부서 | K-water연구원 |  |  | 연구과제<br>제의자(팀장급) |  |  |  |  | 장봉석 |  |  |  |\n| 연구<br>수행 | 연구과제명 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 연구<br>수행 | 연구과제<br>책임자 | 장봉석 |  |  | 연구과제 수행자<br>(참여연구원) |  |  |  |  | 김남룡,김태민,안태성 |  |  |  |\n| 연구<br>수행 | 연구기간 | 2021. 01. \\~ 2021. 12. |  |  |  |  |  |  |  |  |  |  |  |\n| 연구<br>수행 | 예산현황 | 예산액 : 56,388천원 |  |  |  |  |  |  |  |  |  |  |  |\n| 연구<br>수행 | 연구성과물<br>(예정) |  |  |  |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 제 목 | 시화조력발전소 장기 유지관리 방안 |  |  |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 실용화<br>부서 및<br>담당자 | 부서명 | 시화조력관리단 |  |  |  | 담당자 |  | 토목3급 권준호 |  |  |  |  |\n| 실용화<br>추진계획 | 내 용 | - 시화조력발전소 구조물의 장기 유지관리 방안 작성<br>- 적용 : 시화조력발전소 장기 유지관리 업무에 활용<br>- 기대효과 : 부식 발생에 따른 보수비용보다 예방적 유지관리 장기유지관리 방안 적용으로 예산 절감<br>- 실용화 확산계획 :<br>▪시화조력발전소 적용 방안을 낙동강하굿둑, 아라뱃길에도 제안 |  |  |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 추진계획 | 실용화 기간 : |  |  |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 추진계획 | 1/4분기 |  | 2/4분기 |  | 3/4분기 |  | 4/4분기 |  |  |  | 계 |  |\n| 실용화<br>추진계획 | 추진계획 | 20 |  | 20 |  | 60 |  | 0 |  |  |  | 총계100% |  |\n| 실용화<br>추진계획 | 실용화<br>소요예산 | 미배정 |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      635,
+      635
+    ],
+    "page": 101,
+    "table": {
+      "rows": 14,
+      "cols": 14
+    }
+  },
+  {
+    "id": "c0212",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참여연구원현황",
+    "blockRange": [
+      636,
+      636
+    ],
+    "page": 102
+  },
+  {
+    "id": "c0213",
+    "type": "table",
+    "breadcrumb": [
+      "참여연구원현황"
+    ],
+    "text": "| 연구원 | 참여내역 | 비 고 |\n| --- | --- | --- |\n| 장봉석 | ◦연구업무총괄 (연구책임자)<br>◦참여내역<br>-연구총괄<br>-국내외 해양콘크리트 내구성 연<br>구사례 조사 및 염소이온 침투<br>자료 검토<br>-해양 콘크리트 구조물의 내구수명 확인 방안<br>-낙동강하굿둑 염소이온 침투프로파일 조사 및 내구수명 추정 | - K-water연구원<br>물인프라안전연구소<br>- 042-870-7607 |\n| 김남룡 | ◦참여내역<br>-해양 콘크리트 구조물의 내구수명 확인 방안 | - K-water연구원<br>물인프라안전연구소<br>- 042-870-7632 |\n| 김태민 | ◦참여내역<br>-낙동강하굿둑 염소이온 침투프로파일 조사 및 내구수명 추정<br>-해양 콘크리트 구조물의 내구수명 확인 방안 | - K-water연구원<br>물인프라안전연구소<br>- 042-870-7627 |\n| 안태성 | ◦참여내역<br>-염소이온 침투 시험시편 조사 | - K-water연구원<br>물인프라안전연구소<br>- 042-870-7636 |\n| 권준호 | ◦참여내역<br>-현장 시험체 현황 조사 | - 시화조력관리단<br>- 032-890-6525 |\n| 김 신 | ◦참여내역<br>-현장 시험체 현황 조사 | - 시화조력관리단<br>- 032-890-6526 |",
+    "blockRange": [
+      637,
+      637
+    ],
+    "page": 102,
+    "table": {
+      "rows": 7,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0214",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 서지자료",
+    "blockRange": [
+      638,
+      638
+    ],
+    "page": 103
+  },
+  {
+    "id": "c0215",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "| (1) 출판물 고유번호<br>2022-TE-RR-11-194 | (2) 사업분류 |  | (3) 발행일<br>2021. 12. 31. |  |\n| --- | --- | --- | --- | --- |\n| (4) 제목/부제<br>염분침투 특성을 고려한 해양 콘크리트 구조물<br>잔존수명 예측 (Ⅱ) |  |  | (5) 연구기간<br>2021. 01. 01 \\~ 2021. 12. 31 |  |\n| (6) 연구수행기관<br>K-water, 물인프라안전연구소 |  |  | (7) 연구 수행자(소속)<br>장봉석,김남룡, 김태민,안태성<br>(물인프라에너지연구소) 권준호,김신<br>(시화조력관리단) |  |\n| (8) 수행기관 주소<br>대전광역시 유성구 유성대로 1689번길 125 |  |  | (9) 연구의뢰기관 및 주소 |  |\n| (10) 공동 수행기간 |  |  | (11) 계약 또는 인가번호 |  |\n| (12) 초록<br>본 연구 결과는 다음과 같다.<br>낙동강하굿둑 구조물의 염소이온 침투 프로파일 조사를 위하여 Pier 6의<br>좌측면에서 간만대와 비말대 2곳에서 코어를 채취하였다. 채취한 코어에서<br>표면에서 5 mm 단위로 염소이온 침투프로파일을 조사하고 그 결과를<br>분석하여 내구수명을 추정하였다. 아라뱃길 구조물은 내구성 설계자료를<br>조사하여 내구수명을 검토하였다.<br>본 연구에서 1차년도에서 수행한 시화조력발전소 콘크리트 구조물의 추정<br>내구수명 산정 방법과 낙동강하굿둑 구조물의 내구수명 추정 방법을 장단점을<br>검토하여 해양구조물의 내구수명 확인방안을 도출하였다. |  |  |  |  |\n| (13) 키워드<br>내구성, 염소이온, 내구수명, 콘크리트,부식 |  |  |  |  |\n| (14) 사업고유번호 |  |  |  |  |\n| (15) 공개여부<br>예 | (16) 총면수<br>83 | (17) 발행부수 |  | (18) 가격 |",
+    "blockRange": [
+      639,
+      639
+    ],
+    "page": 103,
+    "table": {
+      "rows": 9,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0216",
+    "type": "heading",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "### BIBLIOGRAPHIC DATA SHEET",
+    "blockRange": [
+      640,
+      640
+    ],
+    "page": 104
+  },
+  {
+    "id": "c0217",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| (1) Report ID 2022-TE-RR-11-194 |  | (2) Project Classification |  | (3) Report Date Dec. 31, 2021 |  |\n| --- | --- | --- | --- | --- | --- |\n| (4) Title/Subtitle Residual Life Prediction of Marine Concrete Structures Considering Chloride Penetration Characteristics (Ⅱ) |  |  | (5) Research Period Jan. 1, 2021 \\~ Dec. 31, 2021 |  |  |\n| (6) Performing Organization Water Infrastructure Research Center, K-water |  |  | (7) Author(s) Bong Seok Jang, Nam Ryong Kim, Tae Min Kim, Taeseong An (WIRC), Jun Ho Kwon, Shin Kim (CTPPO) |  |  |\n| (8) Performing Organization Address |  |  | (9) Sponsoring Agency and address |  |  |\n| (10) Co-performing Organization(s) |  |  | (11) Contract or Authorization |  |  |\n| (12) Abstracts The results of the study conducted in this study are as follows. For the investigation of the chloride ion penetration profile of the structure of the Nakdong River estuary, cores were collected from the tidal zone and the splash zone on the left side of Pier 6. The durability life was estimated by examining the chloride ion penetration profile in units of 5 mm from the surface of the collected core and analyzing the results. The durability of the Arab Waterway structure was reviewed by examining the durability design data. this study, a method for determining the durability of offshore structures was derived by examining the pros and cons of the method of estimating the durability of the concrete structure of the Sihwa Tidal Power Plant and the method of estimating the durability of the structure of the Nakdong River estuary conducted in the first year in this study. |  |  |  |  |  |\n| (13) Keyword Durability, Chloride ion, Life time, Concrete, Corrosion |  |  |  |  |  |\n| (14) Project ID |  |  |  |  |  |\n| (15) Security Yes | (16) No. of Pages<br>83 |  | (17) Circulation |  | (18) Price |",
+    "blockRange": [
+      641,
+      641
+    ],
+    "page": 104,
+    "table": {
+      "rows": 9,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0218",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "주의사항\n\n본 보고서의 저작권은 한국수자원공사에 있으므로, 본 자료의 내용을 허가없이 인용, 복사, 전재, 재배포를 할 경우 법적 제재를 받을 수 있습니다.\n\nCopyright ⓒ 2021\n\nby\n\nKorea Water Resources Corporation\n\n발행인 : 한국수자원공사 사장 박재현\n\n발행일 : 2021. 12.\n\n발행처 : 한국수자원공사 K-water연구원 대전광역시 유성구 유성대로 1689번길 125 Tel. (042) 870-7005\n\n한국수자원공사는 친환경 기업윤리 이념을 구현하기 위하여 2002. 3. 12 『환경경영』을 선포하고, 모든 보고서 발간에 『재생용지 및 무코팅 방식』을 사용하고 있습니다.",
+    "blockRange": [
+      642,
+      650
+    ],
+    "page": 105
+  }
+]

@@ -66,7 +66,13 @@ c[1].metric("평균 글자 재현율", f"{done['글자재현율'].mean():.1%}" i
             help="띄어쓰기 차이를 뺀 글자 단위 재현율")
 c[2].metric("OCR 후보 쪽", f"{int(done['글없는쪽'].sum()):,}쪽",
             help="텍스트층 글자가 30자 미만인 쪽 — 스캔·그림 쪽. kordoc --ocr 로 다시 읽을 대상")
-c[3].metric("메타 7항목 모두 추출", f"{int((done['메타항목'] == 7).sum())}건")
+c[3].metric("메타 7항목 모두 추출", f"{int((done['메타항목'] == 7).sum())}건",
+            help="제출문·요약문 규칙 추출(파싱 판정과 별개). 없음/부분은 LLM 단계나 수작업 보완 대상")
+
+st.caption("판정은 kordoc 파싱 품질만 봅니다. 실패 = 변환 오류 · 글꼴 인코딩 깨짐(OCR 필요) · 글자 재현율 60% 미만. "
+           "주의 = 어절 성공률 85% 미만 · 글자 재현율 90% 미만 · 글 없는 쪽 10% 초과 · 사용자정의 기호 1% 초과. "
+           "기준 텍스트(pdftotext)는 반복 머리글·자간 벌린 영문·그래프 축 글자·수식 때문에 실제보다 어절이 많게 잡혀, "
+           "깨끗한 보고서도 어절 성공률이 90%대 초반으로 나올 수 있습니다.")
 
 # ---------------- per-report chart
 st.subheader("보고서별 어절 성공률")
@@ -76,12 +82,25 @@ for s in STATUS_ORDER[:3]:
     fig.add_bar(x=d["번호"], y=d["어절성공률"], name=s, marker_color=STATUS_COLOR[s],
                 customdata=d[["보고서제목", "사유"]].fillna(""),
                 hovertemplate="(%{x:03d}) %{customdata[0]}<br>어절 성공률 %{y:.1%}<br>%{customdata[1]}<extra></extra>")
-for y, label in [(0.93, "주의 93%"), (0.85, "실패 85%")]:
+for y, label in [(0.85, "주의선 85%")]:
     fig.add_hline(y=y, line_dash="dot", line_color="#8A94A6", annotation_text=label, annotation_position="top right")
 fig.update_layout(height=320, margin=dict(l=10, r=10, t=10, b=10), barmode="overlay", bargap=0.15,
-                  yaxis=dict(tickformat=".0%", range=[min(0.8, (done["어절성공률"].min() or 0.8) - 0.02), 1.0]),
+                  yaxis=dict(tickformat=".0%", range=[max(0.0, min(0.8, (done["어절성공률"].min() or 0.8) - 0.02)), 1.0]),
                   xaxis=dict(title="보고서 번호"), legend=dict(orientation="h", y=1.12))
 st.plotly_chart(fig, use_container_width=True)
+
+# ---------------- by organisation type
+st.subheader("소속 구분별 보고서와 판정")
+org = q.assign(소속구분=q["소속구분"].fillna("미확인(제출문 없음)")).groupby(["소속구분", "판정"], observed=True).size().reset_index(name="건수")
+fig2 = go.Figure()
+for s in STATUS_ORDER:
+    d = org[org["판정"] == s]
+    fig2.add_bar(y=d["소속구분"], x=d["건수"], name=s, orientation="h", marker_color=STATUS_COLOR[s])
+fig2.update_layout(height=300, barmode="stack", margin=dict(l=10, r=10, t=10, b=10), legend=dict(orientation="h", y=1.15),
+                   yaxis=dict(categoryorder="total ascending"))
+st.plotly_chart(fig2, use_container_width=True)
+st.caption("수행조직은 제출문 원문 그대로입니다. 옛 연구소 이름(물정책·물순환·스마트워터·유역물관리 등)은 'K-water연구원(기타)'로 두었고, "
+           "조직 개편 대응표를 받으면 data/parsed/org_names.csv 의 대응 연구소 열로 다시 매깁니다.")
 
 # ---------------- table
 st.subheader("보고서별 상세")
@@ -100,22 +119,22 @@ if text:
 
 st.dataframe(
     view[["번호", "보고서제목", "판정", "사유", "어절성공률", "어절실패율", "글자재현율", "추출어절",
-          "쪽수", "글없는쪽", "메타항목", "수행연도", "수행조직", "소속구분", "변환초"]].sort_values("번호"),
+          "쪽수", "글없는쪽", "한글비율", "메타상태", "수행연도", "수행조직", "소속구분", "변환초"]].sort_values("번호"),
     hide_index=True, use_container_width=True, height=420,
     column_config={
         "번호": st.column_config.NumberColumn(format="%03d", width="small"),
         "보고서제목": st.column_config.TextColumn(width="large"),
-        "어절성공률": st.column_config.ProgressColumn(format="%.3f", min_value=0.8, max_value=1.0),
+        "어절성공률": st.column_config.ProgressColumn(format="%.3f", min_value=0.5, max_value=1.0),
+        "한글비율": st.column_config.NumberColumn(format="%.2f", help="한글 / (한글+영문). 0에 가까우면 글꼴 인코딩 깨짐 의심"),
         "어절실패율": st.column_config.NumberColumn(format="%.3f"),
         "글자재현율": st.column_config.NumberColumn(format="%.3f"),
         "추출어절": st.column_config.NumberColumn(format="%d"),
-        "메타항목": st.column_config.NumberColumn(help="제출문·요약문에서 채운 항목 수 / 7"),
+        "메타상태": st.column_config.TextColumn(help="제출문·요약문에서 채운 항목: 완전(7/7) · 부분 n/7 · 없음"),
         "수행연도": st.column_config.NumberColumn(format="%d"),
         "변환초": st.column_config.NumberColumn(help="kordoc Markdown + 청크 변환에 걸린 시간"),
     },
 )
-st.caption(f"{len(view)}건 표시 · 판정 기준: 어절 성공률 < 85% 실패, < 93% 주의 · 글자 재현율 < 95% · "
-           "글 없는 쪽 10% 초과 · 메타 5항목 미만 → 주의")
+st.caption(f"{len(view)}건 표시")
 
 # ---------------- one report
 st.subheader("보고서 메타데이터 보기")

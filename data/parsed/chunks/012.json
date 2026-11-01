@@ -1,0 +1,2782 @@
+[
+  {
+    "id": "c0001",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "K-water연구원\n<u>문헌정보관 간행물 관리번호(신청 후 작성, 선택사항)</u>\nM190087\n완료보고서-Final Report",
+    "blockRange": [
+      0,
+      0
+    ],
+    "page": 1,
+    "table": {
+      "rows": 4,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0002",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "<!-- <table id=\"t2\" /> -->\n| KOREA WATER RESOURCES CORPORATION | E<br>S<br>S<br>와<br>H<br>C<br>T<br>T<br>S<br>를<br>활<br>용<br>한<br>가<br>압<br>장<br>무<br>정<br>전<br>전<br>원<br>공<br>급<br>시<br>스<br>템<br>구<br>축<br>연<br>구 | <!-- <table parent_id=\"t2\" child_id=\"t3\" /> --> Final Report<br>ESS와 HCTTS를<br>활용한 가압장 무정전<br>전원공급시스템 구축<br>연구<br>Development of an uninterruptible power supply system of a pump station using ESS and HCTTS<br>2021. 1 |\n| --- | --- | --- |\n\n<!-- <table id=\"t3\" parent_id=\"t2\" /> -->\n| K-water연구원 |\n| --- |\n| 간행물 관리번호 |\n| M190087 |",
+    "blockRange": [
+      1,
+      1
+    ],
+    "page": 1,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0003",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "![image](image_001.png)\n\n\n![image](image_002.png)",
+    "blockRange": [
+      2,
+      3
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0004",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# ESS와 HCTTS를 활용한 가압장 무정전 전원공급시스템 구축",
+    "blockRange": [
+      4,
+      4
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0005",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구",
+    "blockRange": [
+      5,
+      5
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0006",
+    "type": "heading",
+    "breadcrumb": [
+      "연구"
+    ],
+    "text": "### Development of an uninterruptible power supply system of a pump station using ESS and HCTTS",
+    "blockRange": [
+      6,
+      6
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0007",
+    "type": "text",
+    "breadcrumb": [
+      "연구",
+      "Development of an uninterruptible power supply system of a pump station using ESS and HCTTS"
+    ],
+    "text": "2021 . 1",
+    "blockRange": [
+      7,
+      7
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0008",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제\t출\t문",
+    "blockRange": [
+      8,
+      8
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0009",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "사 장 귀하\n\n이 보고서를 2019 \\~ 2020년도 전남북부권지사에서 수행한 “ESS와 HCTTS를 활용한 가압장 무정전 전원공급시스템 구축 연구”의 최종 연구보고서로 제출합니다.\n\n2021. 1\\. 20",
+    "blockRange": [
+      9,
+      11
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0010",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "2021. 1. 20"
+    ],
+    "text": "연구책임자 : 전남북부권지사 전기3급 박태영\n\n연구수행자 : 전남북부권지사 전기4급 하수지\n\n전남북부권지사 전기4급 이수한\n\n영섬수도지원센터 전기3급 김병각",
+    "blockRange": [
+      12,
+      15
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0011",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "- i -",
+    "blockRange": [
+      16,
+      16
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0012",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구개발결과 활용보고서",
+    "blockRange": [
+      17,
+      17
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0013",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 1.<br>연구<br>총괄 | [간행물 관리번호: ] |  | [과제번호: M190087 ] |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1.<br>연구<br>총괄 | (1)연구과제명 | ESS와 HCTTS를 활용한 가압장 무정전 전원공급시스템 구축 연구 |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 전남북부권지사 | (3)연구 책 임자 | 성명 | 박태영 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 전남북부권지사 | (3)연구 책 임자 | 소속 | 전남북부권지사 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 전남북부권지사 | (3)연구 책 임자 | 전화번호 | 061‒390‒8230 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 전남북부권지사 | (3)연구 책 임자 | E-mail | titonos97@kwa ter.or.kr |\n| 1.<br>연구<br>총괄 | (4)연구기간 | 2019. 1 . \\~ 2020. 7.<br>(총 19개월) | (5)총연구개발비<br>(천원) | 총액 | 295,310 |\n| 1.<br>연구<br>총괄 | (6)협동기관 |  | (5)총연구개발비<br>(천원) | 정부 |  |\n| 1.<br>연구<br>총괄 | (7)참여기업 |  | (5)총연구개발비<br>(천원) | 기업 | 295,310 |\n| 1.<br>연구<br>총괄 | (8)기술분야 | 전력변환기기 | (9)참여 연구원 | 4명/ 19개월 |  |\n| 1.<br>연구<br>총괄 | (10)연구개발목표 |  |  |  |  |\n| 1.<br>연구<br>총괄 | ◦ 가압장 무정전 전원공급시스템 구축<br>: 신기술인 ESS(에너지저장시스템)와 HCTTS(하이브리드 전력제어 동기절환기)를 결합하여 한전 전원의 정전에 무관한 「가압장 무정전 전원공급시스템」<br>K-water 최초 구축 |  |  |  |  |\n| 1.<br>연구<br>총괄 | (11)주요연구내용 |  |  |  |  |\n| 1.<br>연구<br>총괄 | ◦ 무정전시스템 전체 구성도 설계(시작품 제작시 설계)<br>◦ HCTTS를 활용한 이종 전원간 병렬 운전 기능 구현<br>◦ ESS용 양방향 PCS 적용으로 Seamless 기능 구현<br>◦ 단주기용 Carbon Battery 적용으로 화재 방지 및 저비용 시스템 구현<br>◦ PMS 모니터링 시스템 적용으로 시스템 관리 일원화<br>◦ 장성(가) 무정전시스템 시작품 설치후 시운전 및 시스템 최적화 진행 |  |  |  |  |",
+    "blockRange": [
+      18,
+      18
+    ],
+    "page": 4,
+    "table": {
+      "rows": 14,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0014",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 연구개발결과 활용보고서 작성시, 지면이 부족하거나 또는 상기 문항 이외의 성과 활용 사항이 있는 경우 별지를 사용하여 작성해 주시기 바랍니다.\n- ※ 해당사항이 없을 경우 공란으로 비워두시기 바랍니다.\n- ii -",
+    "blockRange": [
+      19,
+      21
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0015",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- ii -"
+    ],
+    "text": "| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (12) 연구결과의 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 기술실용화 |  |  |  |  |  |  |  |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 실용화<br>완료 |  | 실용화<br>추진중 |  |  | 실용화<br>보류(중단) |  | 선행<br>연구 |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 |  |  | ◦ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 2020년 제3차 지식재산권 출원 심의위원회 의결 후 특허출원 진행중<br>(특허법인 이룸리온) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (13) 주요 연구성과 및 기술 개발단계 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | ∘기술명:무정전전원공급시스템<br>∘ 기술특성 : 한전 정전과 무관한 대용량 무정전 전원공급시스템, 신기술인<br>ESS와 HCTTS를 활용한 시스템 구성 |  |  |  |  |  |  |  |  | ∘ 기술의 완성도<br>기초, 탐색연구단계 ( ), 응용연구단계 ( ),<br>개발연구단계 ( )<br>기업화 준비단계 (◦), 상품화 완료단계 ( )<br>∘ 기술 수명주기<br>기술개념 정립기 ( ), 기술 실험기 ( )<br>기술적용 시작기 ( ), 기술적용 성장기 ( )<br>기술적용 성숙기 (◦), 기술적용 쇠퇴기 ( ) |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | (14) 현장적용실적 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  | 공사명 |  |  | 공사기간 |  |  |  | 물량<br>(총물량) |  |  | 발주기관 |  |  | 시공기관 |  |  | R&D<br>참여자 역활 |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  | 무정전시스템<br>시작품 구매 |  |  | 2019.12<br>\\~ 2020.3 |  |  |  | 268백만원 |  |  | K-water |  |  | G&EPS |  |  | 시작품 설계,<br>설치, 시운전 |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 가. 현장명 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 구분 |  | 기 존<br>(A) |  |  | 개 선<br>(B) |  |  | 단위효과<br>(C=A-B) |  |  | 현장<br>총물량 $($(D) |  |  | 향상도<br>$A-B$<br>$X100)$<br>$A$ |  |  | 적용현장<br>총효과<br>(C×D) |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공사비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 유지관리비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 기타비용절감<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 사고율<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 고 용<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공 기<br>(일/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 내구성<br>(年) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      22,
+      22
+    ],
+    "page": 5,
+    "table": {
+      "rows": 20,
+      "cols": 22
+    }
+  },
+  {
+    "id": "c0016",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 개별 공사에 가장 적합한 척도 사용가능 ex) m2, Km\n- ※ 적용 현장이 여러 곳일 경우 위 서식 복사해서 사용\n- iii -",
+    "blockRange": [
+      23,
+      25
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0017",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iii -"
+    ],
+    "text": "| 4.<br>기술적<br>효과 | (15) 기술개발목표 달성도 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 4.<br>기술적<br>효과 | 구분 | 지표명<br>(단위) | 개발전<br>국내수준 |  |  | 당개발사업<br>최종목표치 |  |  |  | 개발결과<br>실제달성치 |  |  |  |  | 현재국내<br>기술수준 |  |  |  |  | 세계 최고<br>기술수준 |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 | seamless 동작 | 5ms 이내<br>전원공급 |  |  | 4ms 이내<br>전원공급 |  |  |  | 4ms 이내<br>전원공급 |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 | 디젤발전기, 인버터 병렬운전 | - |  |  | 전력지령치<br>오차 ±3% |  |  |  | 전력지령치<br>오차 ±3% |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 | 인버터 전압THD | 5% 이하 |  |  | 3% 이하 |  |  |  | 3% 이하 |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 | 인버터 효율 | 97% 이상 |  |  | 97.2% |  |  |  | 97.2% |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (16) 산업재산권 (발명특허‧실용신안‧의장‧s/w ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 | 출원<br>및<br>등록자 |  |  | 출원 |  |  |  |  |  |  |  | 등록 |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 | 출원<br>및<br>등록자 |  |  | 출원일 |  |  | 출원번호 |  |  |  |  | 등록일 |  |  |  | 등록번호 |  |\n| 4.<br>기술적<br>효과 | 발명특허 | 이종 전원을<br>사용하는 무정전<br>시스템 |  | 대한<br>민국 | K-wat er |  |  | (절차<br>진행중) |  |  |  |  |  |  |  | (절차<br>진행중) |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (17) 건설신기술 지정 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  | 출원일 |  |  | 고시일 |  |  | 보호기간 |  |  |  |  | 지정번호 |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (18) 기타 등록 및 지정현황(상품, 서비스 등록, KT 마크 등) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  | 출원일 |  |  |  | 고 시<br>일 |  |  | 보호기간 |  |  |  |  | 기 타 |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (19) 국내외 전문학술지 게재 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 구분 | 논문제목 |  |  |  |  | 학술지명 |  |  |  |  |  |  | 국명 |  |  | 통권, 호 |  |  |  | 년,월 |\n| 5.<br>학술적<br>효과 | SCI<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 일반<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (20) 학술회의 발표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 논문제목 |  |  |  |  |  |  |  | 학술회의 명칭 |  |  |  |  |  | 국 명 |  |  |  | 연도‧호 |  |  |\n| 5.<br>학술적<br>효과 | ESS와 HCTTS를 활용한 무정전<br>전원공급시스템 구축 연구 |  |  |  |  |  |  |  | 대한전기학회<br>(하계학술대회) |  |  |  |  |  |  |  |  |  | 2020년<br>(51회) |  |  |",
+    "blockRange": [
+      26,
+      26
+    ],
+    "page": 6,
+    "table": {
+      "rows": 23,
+      "cols": 22
+    }
+  },
+  {
+    "id": "c0018",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- iv -",
+    "blockRange": [
+      27,
+      27
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0019",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iv -"
+    ],
+    "text": "| 6.<br>공공적<br>효과 | (21) 법․제도 (설계기준, 시방서, 지침) 등에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6.<br>공공적<br>효과 | 구분 | 명칭 및 조항1) |  | 시행일시 |  | 기존내용 |  |  |  | 신규내용 |  |  |\n| 6.<br>공공적<br>효과 | 법 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 규정/지침 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기준 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 시방서 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (22) 정책수립에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 정책명 | 정책추진 실적 |  | 정책추진<br>일시 |  |  | 담당부처․팀 |  |  |  | 기대효과 |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (23) 교육 및 지도에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 구분 | 교육명 | 교육내용 |  | 교육대상 |  |  | 교육시간 | 교육인원 |  |  | 교육회수 |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 현장기술지도 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (24) 사회적 성과 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      28,
+      28
+    ],
+    "page": 7,
+    "table": {
+      "rows": 18,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0020",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- v -",
+    "blockRange": [
+      29,
+      29
+    ],
+    "page": 7
+  },
+  {
+    "id": "c0021",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      30,
+      30
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0022",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 1. 연구제목",
+    "blockRange": [
+      31,
+      31
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0023",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1. 연구제목"
+    ],
+    "text": "ESS와 HCTTS를 활용한 가압장 무정전 전원공급시스템 구축 연구(2차년도)",
+    "blockRange": [
+      32,
+      32
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0024",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 2. 연구기간",
+    "blockRange": [
+      33,
+      33
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0025",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "2. 연구기간"
+    ],
+    "text": "2019. 1. 1 ～ 2020. 7. 31",
+    "blockRange": [
+      34,
+      34
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0026",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 3. 연구목적",
+    "blockRange": [
+      35,
+      35
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0027",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3. 연구목적"
+    ],
+    "text": "가압장 무정전 전원공급시스템 구축\n\n: 신기술인 ESS(에너지저장시스템)와 HCTTS(하이브리드 전력제어 동기절환기)를 결합하여 한전 전원의 정전에 무관한 「가압장 무정전 전원공급시스템」K-water 최초 구축",
+    "blockRange": [
+      36,
+      37
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0028",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4. 연구내용",
+    "blockRange": [
+      38,
+      38
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0029",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "- 가. 무정전시스템 전체 구성도 설계(시작품 제작시 설계)\n- 나. HCTTS를 활용한 이종 전원간 병렬 운전 기능 구현\n- 다. ESS용 양방향 PCS 적용으로 Seamless 기능 구현\n- 라. 단주기용 Carbon Battery 적용으로 화재 방지 및 저비용 시스템 구현\n- 마. PMS 모니터링 시스템 적용으로 시스템 관리 일원화\n- 바. 장성(가) 무정전시스템 시작품 설치후 시운전 및 시스템 최적화 진행",
+    "blockRange": [
+      39,
+      44
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0030",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 5. 연구결과",
+    "blockRange": [
+      45,
+      45
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0031",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- 가. 무정전시스템 시작품 설계 및 장성(가) 설치․운영\n- 나. HCTTS를 활용한 이종 전원간 병렬 운전이 가능하며, ESS용 양방향 PCS 적용하여 4ms 전원공급 실현으로 정전없는 Seamless 기능 구현\n- 다. Carbon 배터리 적용으로 Li-ion 배터리 사용시 발생할 수 있는 화재 예방하였으며, 단주기용 적용으로 용량 최적화로 저비용 시스템 구현\n- 라. 장성(가) 무정전시스템 시작품 설치후 시운전 및 시스템 최적화 진행 완료\n\n- vi -",
+    "blockRange": [
+      46,
+      50
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0032",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# S U M M A R Y",
+    "blockRange": [
+      51,
+      51
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0033",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "1. Project Title/Subtitle",
+    "blockRange": [
+      52,
+      52
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0034",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1. Project Title/Subtitle"
+    ],
+    "text": "Development of an uninterruptible power supply system of a pump station using ESS and HCTTS",
+    "blockRange": [
+      53,
+      53
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0035",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "2. Research Period",
+    "blockRange": [
+      54,
+      54
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0036",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "2. Research Period"
+    ],
+    "text": "2019. 1. 1 ～ 2020. 7. 31",
+    "blockRange": [
+      55,
+      55
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0037",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "3. Objective of Research",
+    "blockRange": [
+      56,
+      56
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0038",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "3. Objective of Research"
+    ],
+    "text": "Construction of an uninterruptible power system for a pump station",
+    "blockRange": [
+      57,
+      57
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0039",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "4. Content, Scope and Method of Research",
+    "blockRange": [
+      58,
+      58
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0040",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "4. Content, Scope and Method of Research"
+    ],
+    "text": "(1). Design of the overall configuration of the uninterruptible system (designed for prototype production)\n\n(2). Implementation of parallel operation function between different power sources using HCTTS\n\n(3). Implementation of seamless function by applying bidirectional PCS for ESS\n\n(4). Implementation of Fire prevention and low cost system by applying carbon battery for short cycle\n\n(5). Unified system management by applying PMS monitoring system\n\n(6). Trial operation and system optimization after installing the prototype of the uninterruptible system on Jangseong(pump station)",
+    "blockRange": [
+      59,
+      64
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0041",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "5. Research Result",
+    "blockRange": [
+      65,
+      65
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0042",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "5. Research Result"
+    ],
+    "text": "(1). Prototype design of the Uninterruptible system and operation after installation of Jangseong(pump station)\n\n(2). Parallel operation between different power sources using HCTTS is possible, and seamless function without power outage is implemented by realizing 4ms power supply by applying bidirectional PCS for ESS\n\n(3). A carbon battery is applied to prevent fire that may occur when using a Li-ion battery, and a low-cost system is implemented by optimizing capacity by applying a short cycle application.\n\n(4). Completion of trial operation and system optimization after installing the uninterruptible system prototype on Jangseong(pump station)",
+    "blockRange": [
+      66,
+      69
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0043",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- vii -\n\n6. Conclusion",
+    "blockRange": [
+      70,
+      71
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "6. Conclusion"
+    ],
+    "text": "We have the uninterruptible power supply system independent of KEPCO power outages. In addition, by realizing a continuous water supply, clean tap water can be provided to citizens.",
+    "blockRange": [
+      72,
+      72
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0045",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- viii -",
+    "blockRange": [
+      73,
+      73
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0046",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목\t차",
+    "blockRange": [
+      74,
+      74
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0047",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "제 출 문 ······························································································ ⅰ 요 약 문 ······························································································ ⅵ 목 차 ······························································································ ⅸ 표 목 차 ······························································································ ⅹ 그림목차 ······························································································ ⅹ\n\n제 1 장 서 론 \t 1\n\n1.1 연구목적 및 배경 \t 1\n\n1.1.1 연구목적 및 배경 \t 1\n\n1.2 연구내용 및 범위 \t 1\n\n1.2.1 최종목표 및 상세 \t 1\n\n1.2.2 연도별 목표 및 내용 \t 1\n\n1.3 연구수행 방법 \t 2\n\n1.3.1 기술개발 제품 활용 시스템 구현 \t 2\n\n1.3.2 시작품 품질확보 방안 \t 2\n\n1.3.3 산학 협력을 통한 문제 해결 \t 2\n\n제 2 장 본 론 \t 3\n\n2.1 연구개발 목표 및 연구 내용 \t 3\n\n2.1.1 최종 목표 \t 3\n\n2.1.2 연구개발 내용 \t 3\n\n2.1.3 정량적 성능 목표 \t 3\n\n2.2 무정전 시스템의 전체 구성 \t 3\n\n2.3 시스템의 각 구성 요소 \t 4\n\n2.3.1 H-CTTS \t 4\n\n2.3.2 ESS용 양방향 PCS \t 8\n\n2.3.3 단주기용 Carbon Battery \t 13\n\n- ix -",
+    "blockRange": [
+      75,
+      96
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0048",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차",
+      "- ix -"
+    ],
+    "text": "2.3.4 PMS 모니터링 프로그램 \t 14\n\n2.4 무정전 시스템의 운용 및 제어 \t 18\n\n2.4.1 무정전 시스템 동작 시퀀스 \t 18\n\n2.5 현장 시운전 실험 결과 \t 21\n\n2.5.1 인버터 출력 개선을 위한 인덕터 최적화 및 1차 시운전 \t 21\n\n2.5.2 H-CTTS 연계 PCS 무 정전 시험 및 부하 분담 시험 \t 24\n\n2.5.3 추가 개선 내용 및 개선 후 2차 현장 시운전 결과 \t 26\n\n2.5.4 유도기용 구동 인버터가 없는 경우 모의 테스트 \t 29\n\n제 3 장 결 론 \t 31\n\n3.1 연구 결과 \t 31\n\n3.1.1 연구목표 달성 여부 \t 31\n\n3.2 개발기술의 파급효과 \t 32\n\n3.2.1 기술적 파급효과 \t 32\n\n3.2.2 경제적 파급효과 및 시장경쟁력 \t 32\n\n3.2.3 특별 추진성과 \t 33",
+    "blockRange": [
+      97,
+      111
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0049",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표\t목\t차",
+    "blockRange": [
+      112,
+      112
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0050",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차"
+    ],
+    "text": "표 1.1 연도별 연구개발 목표 및 내용 \t 1\n\n표 2.1 연구과제 정량적 성능 목표 \t 3\n\n표 3.1 연구목표 추진실적 \t 31\n\n표 3.2 무정전시스템 동작 성능목표 \t 31",
+    "blockRange": [
+      113,
+      116
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0051",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그\t림\t목\t차",
+    "blockRange": [
+      117,
+      117
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0052",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "그림 2.1 ESS와 HCTTS를 활용한 가압장 무정전 전원공급시스템 구성도 \t 4\n\n그림 2.2 HCTTS 전면 외형도 \t 5\n\n- x -",
+    "blockRange": [
+      118,
+      120
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0053",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- x -"
+    ],
+    "text": "그림 2.3 HCTTS 전장 도면 \t 6\n\n그림 2.4 계통 측에 연결된 발전기의 등가 회로 \t 6\n\n그림 2.5 HCTTS의 유·무효 전력 제어 개념 \t 8\n\n그림 2.6 500kW PCS의 전체 외형도 및 내부 장치 정보 \t 9\n\n그림 2.7 500kW PCS의 일반 사양 \t 9\n\n그림 2.8 2상 동기좌표계 모델의 블록도 \t 11\n\n그림 2.9 계통 연계 시스템과 계통의 전력 흐름 \t 12\n\n그림 2.10 무정전 시스템 적용 배터리 외형도 \t 14\n\n그림 2.11 Carbon Battery 사양 \t 14\n\n그림 2.12 장성 가압장에 설치된 PMS Main 화면 \t 15\n\n그림 2.13 자동 운전 시 flow chart \t 16\n\n그림 2.14 배터리 모니터링 화면 \t 17\n\n그림 2.15 PCS 화면(좌), 비상발전기 화면(우) \t 17\n\n그림 2.16 한전 상태 화면(좌), 이력 화면(우) \t 18\n\n그림 2.17 MODE-0,4 한전 정상 상태 \t 18\n\n그림 2.18 MODE-1 한전 정전 – PCS 동작 \t 19\n\n그림 2.19 MODE-2 비상발전기 동기화 동작 \t 19\n\n그림 2.20 MODE-3 PCS-비상발전기 병렬운전 \t 20\n\n그림 2.21 인버터의 전장 도면 \t 21\n\n그림 2.22 한전 전압 AHF 투입 시와 차단 시 THD 비교 \t 21\n\n그림 2.23 AHF 투입 시 한전과 발전기 전원 THD 비교 \t 22\n\n그림 2.24 L3 유,무에 따른 대기 운전 시 전압 측정 시험 \t 22\n\n그림 2.25 L3 유,무에 따른 PCS 충전 시 THD 비교 \t 22\n\n그림 2.26 L1B : 140uH 일 때 과도 특성 \t 23\n\n그림 2.27 L1B : 70uH 일 때 과도 특성 \t 23\n\n그림 2.28 정전 발생에서 복전 시까지 무정전 시스템 동작 시퀀스 \t 24\n\n그림 2.29 PCS seamless 동작 시 과도 상태 파형 \t 25\n\n그림 2.30 비상발전기 투입 파형 \t 25\n\n그림 2.31 복전 후 HCTTS 절체 시 파형 \t 26\n\n그림 2.32 기존 In-loop 전류제어기를 포함하는 전압 제어기 \t 26\n\n그림 2.33 변경된 전압 제어기만 적용된 제어기 구조 \t 27\n\n그림 2.34 250kW 부하 급변 시험시 출력 전압 변동율 \t 27\n\n그림 2.35 AHF 투입, 차단 시 전압 전류 THD 비교 \t 28\n\n그림 2.36 AHF 투입, 차단 시 한전 전압, 전류 파형 \t 28",
+    "blockRange": [
+      121,
+      154
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0054",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xi -",
+    "blockRange": [
+      155,
+      155
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0055",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xi -"
+    ],
+    "text": "그림 2.37 2차 장성가압장 현장 테스트 결과 파형 \t 29\n\n그림 2.38 2차 모의 테스트를 위한 인버터 및 비선형 부하 장치 \t 29\n\n그림 2.39 200kVA R-L 부하 테스트 파형 \t 30\n\n그림 3.1 정전 발생(4회) 현황 및 용수공급실적 \t 32",
+    "blockRange": [
+      156,
+      159
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0056",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xii -",
+    "blockRange": [
+      160,
+      160
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0057",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제1장 서론",
+    "blockRange": [
+      161,
+      161
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0058",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론"
+    ],
+    "text": "## 1.1 연구목적 및 배경",
+    "blockRange": [
+      162,
+      162
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0059",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구목적 및 배경"
+    ],
+    "text": "### 1.1.1 연구목적 및 배경",
+    "blockRange": [
+      163,
+      163
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0060",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구목적 및 배경",
+      "1.1.1 연구목적 및 배경"
+    ],
+    "text": "기후변화, 지구온난화 등에 따른 물부족으로 광역상수도 용수공급량이 최대치를 경신함에 따라 용수공급 안정성을 확보하기 위한 「무정전 전원공급시스템」을 구축하여 한전 정전시에도 끊김없는 용수공급은 물론 수충격에 취약한 GRP(유리섬유복합관) 관로를 보호하여 수도사고를 미연에 방지하고자 한다.\n\n무정전 사업장 구현을 위해 한전 전원을 기존 1회선에서 2회선으로 이중화 할시 막대한 비용이 소요되나 무정전 전원공급시스템 적용시 현재의 비상발전기를 활용하여 저비용으로 정전없는 사업장을 구현함으로써 K-water 수도사업장 전원공급의 새로운 패러다임 제시한다.",
+    "blockRange": [
+      164,
+      165
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0061",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론"
+    ],
+    "text": "## 1.2 연구내용 및 범위",
+    "blockRange": [
+      166,
+      166
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0062",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "### 1.2.1 최종목표 및 상세",
+    "blockRange": [
+      167,
+      167
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0063",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 최종목표 및 상세"
+    ],
+    "text": "- 가. 최종목표",
+    "blockRange": [
+      168,
+      168
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0064",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 최종목표 및 상세",
+      "가. 최종목표"
+    ],
+    "text": "가압장 무정전 전원공급시스템 구축",
+    "blockRange": [
+      169,
+      169
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0065",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 최종목표 및 상세"
+    ],
+    "text": "- 나. 상세목표",
+    "blockRange": [
+      170,
+      170
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0066",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.1 최종목표 및 상세",
+      "나. 상세목표"
+    ],
+    "text": "신기술인 ESS(에너지저장시스템)와 HCTTS(하이브리드 전력제어 동기절환기)를 결합하여 한전 전원의 정전에 무관한 「가압장 무정전 전원공급시스템」K-water 최초 구축",
+    "blockRange": [
+      171,
+      171
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0067",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "### 1.2.2 연도별 목표 및 내용",
+    "blockRange": [
+      172,
+      172
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0068",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 연도별 목표 및 내용"
+    ],
+    "text": "**표 1.1 연도별 연구개발 목표 및 내용**\n\n| 구분 | 연구개발 목표 | 연구개발 내용 | 연구개발 범위 |\n| --- | --- | --- | --- |\n| 1차년도<br>(2019) | ㅇ 무정전 전원공급시스템 제작 및 설치 | ㅇ ESS, HCTTS, PCS 등을 결합하여 운영중인 가압장의 무정전 전력<br>공급시스템 설계 및 시작품 제작<br>ㅇ BMS와 EMS 등 에너지관리<br>S/W를 활용한 최적의 무정전 전원<br>관리 구현 | ㅇ 시작품 설계 및<br>제작 |\n| 2차년도<br>(2020) | ㅇ 무정전 전원공급시스템 효과 검증, 표준화 모델 개발 및 특허<br>출원 | ㅇ 무정전시스템 가압장 설치·운영<br>ㅇ 무정전시스템 성능 및 효과 검증<br>ㅇ 무정전시스템 표준화 모델 개발<br>및 특허 출원 | ㅇ 시작품 설치 및<br>효과검증<br>ㅇ 표준화 모델 개발 및 특허 출원 |",
+    "blockRange": [
+      173,
+      173
+    ],
+    "page": 15,
+    "table": {
+      "rows": 3,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0069",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구내용 및 범위",
+      "1.2.2 연도별 목표 및 내용"
+    ],
+    "text": "※ 용어 : ESS(에너지저장시스템), HCTTS(하이브리드 전력제어 동기절환기), PCS(전력변환장치), BMS(Battery Management System), EMS(Energy Management System)",
+    "blockRange": [
+      174,
+      174
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0070",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론"
+    ],
+    "text": "## 1.3 연구수행 방법",
+    "blockRange": [
+      175,
+      175
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0071",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법"
+    ],
+    "text": "### 1.3.1 기술개발 제품 활용 시스템 구현",
+    "blockRange": [
+      176,
+      176
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0072",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.1 기술개발 제품 활용 시스템 구현"
+    ],
+    "text": "가. 무정전 전원공급시스템 구성기기인 HCTTS의 개발현황\n\n(1) 본 연구의 핵심기술인 HCTTS를 자체개발(국산화)한 기업은 현재 구매조건부 신제품개발사업을 K-water와 진행하여 19년 6월에 개발을 완료하였으며 해당 제품과 기술력을 바탕으로 연구개발 목표 달성이 가능하다.\n\n(2) 개발사업 추진경과",
+    "blockRange": [
+      177,
+      179
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0073",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.1 기술개발 제품 활용 시스템 구현",
+      "(2) 개발사업 추진경과"
+    ],
+    "text": "∙ 2016.12.30.\\~ : 구매조건부 신제품개발사업 과제 선정 및 제품 개발\n\n∙ 2018.07.02. : 테스트베드 선정 후 협약 체결\n\n∙ 2018.09.17. : 로드뱅크를 통한 현장 테스트 시작\n\n∙ 2018.10.12.\\~15. : ATS 철거 및 HCTTS 설치후 정수장 구내부하 대상으로 테스트 시작\n\n∙ \\~ 2018.11.15. : 주1\\~2회 실제 정전상황 부여하여 테스트 실시, 병렬운전 테스트 실시\n\n∙ \\~2019.06.30. : 과제 완료",
+    "blockRange": [
+      180,
+      185
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0074",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법"
+    ],
+    "text": "### 1.3.2 시작품 품질확보 방안",
+    "blockRange": [
+      186,
+      186
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0075",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.2 시작품 품질확보 방안"
+    ],
+    "text": "시작품 품질 및 신뢰성 확보를 위한 시작품 제작 검토위원회 심의를 거칠 예정이며, 연구 시설의 활용성, 예산의 효율적․합리적 집행을 담보한다.",
+    "blockRange": [
+      187,
+      187
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0076",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법"
+    ],
+    "text": "### 1.3.3 산학 협력을 통한 문제 해결",
+    "blockRange": [
+      188,
+      188
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0077",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.3 연구수행 방법",
+      "1.3.3 산학 협력을 통한 문제 해결"
+    ],
+    "text": "동 기업은 전남대학교와 산학 협력 관계로 시스템 구축시 완성도 제고 및 기술적 문제 발생시 신속한 해결이 가능하다.",
+    "blockRange": [
+      189,
+      189
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0078",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제2장 본론",
+    "blockRange": [
+      190,
+      190
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0079",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## 2.1 연구개발 목표 및 연구 내용",
+    "blockRange": [
+      191,
+      191
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0080",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 연구개발 목표 및 연구 내용"
+    ],
+    "text": "### 2.1.1 최종 목표",
+    "blockRange": [
+      192,
+      192
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0081",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 연구개발 목표 및 연구 내용",
+      "2.1.1 최종 목표"
+    ],
+    "text": "신기술인 ESS(에너지저장시스템)와 HCTTS(하이브리드 전력제어 동기절환기)를 결합하여 무정전 전원공급시스템을 구축하고 표준화 모델 개발 및 특허 출원",
+    "blockRange": [
+      193,
+      193
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0082",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 연구개발 목표 및 연구 내용"
+    ],
+    "text": "### 2.1.2 연구개발 내용",
+    "blockRange": [
+      194,
+      194
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0083",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 연구개발 목표 및 연구 내용",
+      "2.1.2 연구개발 내용"
+    ],
+    "text": "- 가. 무정전 전원공급시스템 구축\n- 현장 특성 반영한 시스템 설계\n- ESS, HCTTS, PCS를 결합하여 가압장의 무정전 전원공급시스템 구축\n- BMS와 EMS 등 에너지관리 S/W를 활용한 최적의 무정전 전원관리 구현\n- 나. 설계 및 표준화 모델 개발\n- 상용화 위한 표준화 모델 개발\n- 상용화 위한 특허 출원",
+    "blockRange": [
+      195,
+      201
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0084",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 연구개발 목표 및 연구 내용"
+    ],
+    "text": "### 2.1.3 정량적 성능 목표",
+    "blockRange": [
+      202,
+      202
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0085",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.1 연구개발 목표 및 연구 내용",
+      "2.1.3 정량적 성능 목표"
+    ],
+    "text": "**표 2.1 연구과제 정량적 성능 목표**\n\n| 번호 | 평가항목 | 기존기술<br>성능 | 제안기술<br>성능목표 | 검증방법 | 목표근거 |\n| --- | --- | --- | --- | --- | --- |\n| ① | Seamless 동작 | 5ms이내<br>전원 공급 | 4m이내<br>전원 공급 | 공인기관<br>참조시험 | 목표근거/<br>평가방법 참조 |\n| ② | 디젤발전기, 인버터 병렬<br>운전 | - | 전력지령치<br>오차 ±3% | 공인기관<br>참조시험 | 목표근거/<br>평가방법 참조 |\n| ③ | 인버터 전압 THD | 5% 이하 | 3% 이하 | 공인기관<br>참조시험 | 목표근거/<br>평가방법 참조 |\n| ④ | 인버터 효율 | 97%이상 | 97.2% | 공인기관<br>참조시험 | 목표근거/<br>평가방법 참조 |",
+    "blockRange": [
+      203,
+      203
+    ],
+    "page": 17,
+    "table": {
+      "rows": 5,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0086",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## 2.2 무정전 시스템의 전체 구성",
+    "blockRange": [
+      204,
+      204
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0087",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.2 무정전 시스템의 전체 구성"
+    ],
+    "text": "본 연구과제에서 제안하는 무정전 전원공급시스템은 크게 HCTTS, 단주기용 ESS, EMS로 구성되어 있다. HCTTS는 계통과 발전기 또는 계통과 인버터 간 무정전 전력 절체가 기능이 있으며 특히, 발전기의 가변 전압 및 가변 주파수 제어(VVVF)가 가능하여 이종 전원과 병렬 운전이 가능하다. 500kW급 HCTTS 제품의 구성은 전력 무정전 절체 동작 및 상위 Touch LCD, AVR, Governor 제어용 Main Controller가 내장되어 있다. 단주기용 ESS는 500kW급 양방향 PCS와 250kWh 단주기용 Carbon Battery로 되어 있다. 500kW 양방향 PCS는 정전 발생 시 정전 검출 시점부터 정상 전력 공급까지 4ms로 동작하는 Sealess 기능이 있다. 기존 UPS(Uninterruptible Power Supply)의 경우 상시 전력 공급이 PCS가 공급하는 구조이다. 이 방식은 정전이 아닌 경우에도 PCS가 가동되기 때 문에 전력 손실이 발생하는 단점이 있다.\n\n그림 2.1 ESS와 HCTTS를 활용한 가압장 무정전 전원공급시스템 구성도\n\n이를 보완하는 기술이 seamless 기능이다. seamless는 평상시 PCS 정지(Idle mode) 또는 배터리 충전 동작 중에 정전을 인식하면 한전측 전력을 차단, 분리하고 부하측에 4ms 이내 전력을 정상 공급하는 기능이다. PMS는 하위 장치는 ESS용 PCS, BMS, HCTTS와 통신하며 상위는 RCS와 연동하여 원격으로 제어 및 모니터링이 가능한 장비이다.",
+    "blockRange": [
+      205,
+      207
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0088",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## 2.3 시스템의 각 구성 요소",
+    "blockRange": [
+      208,
+      208
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0089",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소"
+    ],
+    "text": "### 2.3.1 HCTTS",
+    "blockRange": [
+      209,
+      209
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0090",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.1 HCTTS"
+    ],
+    "text": "- 가. HCTTS의 특징",
+    "blockRange": [
+      210,
+      210
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0091",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.1 HCTTS",
+      "가. HCTTS의 특징"
+    ],
+    "text": "비상 발전기가 설치될 경우 한전과 비상발전기 양 전원간의 절체를 위한 절체형 스위치가 내장된 장비가 필요하다. 기존 장비의 경우 ATS(Auto Transfer Switch)와 CTTS(Close Transition Transfer Switch)가 대표 적이다. ATS의 경우 개폐기가 A점접 B점접 구조로 되어 있어 A(계통 측)에서 B(발전기 측) 또는 B에서 A로 절체할 때 순간적으로 부하측에 단전이 발생하는 단점이 있다. CTTS의 경우 2개의 개폐스위치(ACB 또는 VCB)를 가지고 있다. 발전기측 전원을 부하에 투입할 경우 한전측 전압을 감시하고 있다가 전압의 크기와 위상차가 설정된 오차 범위 이내로 들어오면 발전기측 ACB 투입 후 수 십ms 후 발전기측 ACB를 차단하여 전원을 절체하는 방식이다. 이 CTTS의 경우에도 발전기 전압 및 주파수를 제어하지 않기 때문에 동기화 되는 시점까지 상당한 시간이 걸리며 계통 전압이 안 좋을 경우 절체 실패로 까지 이어진다. 또한, 오차 범위내에 발전기 측 ACB를 투입하기 때문에 투입 시 부하 측 전압은 sag나 swell이 심하게 발생하여 전력의 품질도 안 좋은 경우가 많다. HCTTS(Hybrid-CTTS)의 경우 발전기의 Governor와 AVR의 직접 제어 하여 계통 전압의 크기 및 위상을 빠른 시간 내에 동기화하여 투입할 수 있다. 동기화 시 전압 크기 및 위상차 오차가 기존 CTTS 보다 작기 때문에 절환 시 부하 측 전압의 sag나 swell은 거의 발생하지 않는다. 그리고 뒷 장에 소개할 HCTTS의 전력 제어에서 알 수 있드시 단순 절체 뿐만 아니라 계통 또는 인버터와 같은 다른 전원과의 병렬 운전이 가능하여 무정전 시스템과 같은 복잡한 구조의 시스템에서 정전 및 복전의 과도 상태에서 중요한 역할을 하게 된다.\n\n\n![image](image_003.png)\n\n그림 2.2 HCTTS 전면 외형도\n\nHCTTS 본체에서 메인제어 보드연결을 위한 전장 도면이며, HCTTS 본체에서 자동/수 동모드 절환을 위한 계통측 및 발전기측 배선도를 나타내고 있다. 본 도면은 기존 CTTS 배선도를 참고하여 설계하였다.\n\n\n![image](image_004.png)\n\n(a) 계통 측\t(b) 발전기 측 그림 2.3 HCTTS 전장 도면",
+    "blockRange": [
+      211,
+      216
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0092",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.1 HCTTS"
+    ],
+    "text": "- 나. HCTTS의 이종 전원 간 병렬 운전 기능",
+    "blockRange": [
+      217,
+      217
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0093",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.1 HCTTS",
+      "나. HCTTS의 이종 전원 간 병렬 운전 기능"
+    ],
+    "text": "계통 측에 연결되어 병렬 운전하는 발전기는 계통 출력단 또는 인버터 측 전압 크기와 주파수를 측정하여 유·무효 전력 제어가 가능하다. 제어 전력량은 PCC단에 연계된 발전기 등가회로를 통해서 유도 될 수 있다.\n\n그림 2.4 계통 측에 연결된 발전기의 등가 회로\n\n\n![image](image_005.png)\n\n\n![image](image_006.png)\n\n\n![image](image_007.png)\n\n\n![image](image_008.png)\n\n여기서, ∠는 발전기 출력 전압,  는 발전기 출력 전류, ∠는 선로 임피던스, 그리\n고 ∠  은 PCC 전압을 나타낸다. 이때 발전기에서 선로 임피던스를 통해 PCC 단에\n흐르는 전류 는 다음과 같이 유도된다.\n ∠   ∠    \n ∠   ∠     ∠     \n   \n cos  cos     sin  sin  \n (식1)\t\t\t\t\n위의 식을 통해서 복소 전력을 구하게 되면 식2, 식3과 같이 표현된다.\n \n  ∙      \n(식2)     \n  ∙ cos    cos      sin    sin    (식3)\n   \n    \n cos  cos     sin  sin  \n \t \t \t \n그리고 식3에 의해 표현된 복소 전력은 식4와 같이 유효전력과 무효전력으로 표현된다.\n  \n   cos   cos    (식4)\n  \n   sin    sin  \n이때 일반적으로 선로 임피던스의 성분은 대부분 유도성 X 성분이 저항성 R 성분 보다\n매우 크다고 가정되기 때문에 (  ≫  ), 저항성 성분은 무시한다. ( ≈ ). 또한 인버터와\nPCC단의 전력각 는 작기 때문에, sin ≈  cos ≈ 로 정의 할 수 있다. 따라서 유도성 성\n분이 지배적인 선로 임피던스의 경우 유효전력과 무효전력은 식5와 같이 간단하게 표현\n할 수 있다.\n \n ≈   (식5)\n   \n ≈ \n식5를 보면 유효전력은 PCC단(계통 또는 인버터)과 발전기측의 위상차()의 크기에 의\n해서 결정되고 무효 전력은 전압차의 크기에 의해서 결정된다. 아래 그림은 지금까지 도\n출한 식을 바탕으로 발전기의 병렬 운전에 대한 개념을 표현한 것이다. 이종 전력간의 유\n효전력제어를 위해서는 위상차() 즉, 주파수를 제어를 해야한다. 이는 발전기의\nGovernor를 제어하여 rpm을 변경 가능해야 한다. 무효전력을 제어하기 위해서는 발전기\n- 7 -\n\n의 AVR를 제어하여 전압의 크기가 변경 가능해야 한다. HCTTS는 AVR과 Governor를 제어하여 이종 전원 간의 병렬 운전이 가능하다.\n\n그림 2.5 HCTTS의 유·무효 전력 제어 개념",
+    "blockRange": [
+      218,
+      226
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0094",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소"
+    ],
+    "text": "### 2.3.2 ESS용 양방향 PCS",
+    "blockRange": [
+      227,
+      227
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0095",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.2 ESS용 양방향 PCS"
+    ],
+    "text": "- 가. PCS 사양",
+    "blockRange": [
+      228,
+      228
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0096",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.2 ESS용 양방향 PCS",
+      "가. PCS 사양"
+    ],
+    "text": "PCS는 크게 DC Input Pannel, 전력변환부(Module 1\\~4), AC LOAD, AC 상용전원 Pannel로 구성된다. DC Input 사양은 최저 550V \\~ 최대 850V까지 동작 전압 범위를 가지며 초충, 메인 MC, fuse, SPD 등으로 구성된다. 전력변환부의 경우 4-leg 방식(출력단 3상4선식)으로 독립형으로 사용할 때 불평형 부하 시 안정적인 전력 공급에 유리하다. 각 leg 당 하나의 Power stack로 되어 있으며 100% 불평등 부하 시 ±1%이내 전압 불평형률을 가진다. AC LOAD Pannel에는 L-C 출력 필터(Reactor와 Capacitor)부와 3상 트랜스포머로 구성된다. 3상 트랜스포머의 경우 AC Line에 dc 전류 유입을 방지하며 계통 또는 부하 간 절연을 통해 안정적인 전력 공급이 가능하다. AC 상용전원 Pannel은 AC Main 차단기와 Static switch 및 바이패스 switch로 구성되어 있다. static switch의 경우 계통 정전 시 4ms 이내 계통 분리 및 PCS 전력 공급을 위해 필요하다. MC나 ACB와 같은 기 계식 개폐기는 Contact 부의 접점을 분리하는데 최소 수십ms 이상의 시간이 필요하다. 따라서 static switch와 같은 전자개폐기를 이용하여 수십 us 이내 계통과 분리가 가능한 개폐기가 반드시 필요하다.\n\n\n![image](image_009.png)\n\n그림 2.6 500kW PCS의 전체 외형도 및 내부 장치 정보\n\n그림 2.7 500kW PCS의 일반 사양",
+    "blockRange": [
+      229,
+      232
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0097",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.2 ESS용 양방향 PCS"
+    ],
+    "text": "- 나. PCS 제어 알고리즘\n\n(1) 3상 인버터 제어 알고리즘",
+    "blockRange": [
+      233,
+      234
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0098",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.2 ESS용 양방향 PCS",
+      "(1) 3상 인버터 제어 알고리즘"
+    ],
+    "text": "주 스위칭 소자의 저항을 무시하고 3상 전압 평형으로 가정하면 3상 PWM 컨버터에 관한 입출력 전압 전류 관계는 다음과 같이 수학적으로 모델링된다.\n\n$C\\frac{du_{dc}}{dt}=_{k}\\sum _{=1}ikdk-idc$$3$\n\n$L\\frac{di_{k}}{dt}+Rik=ek-udc(dk-\\frac{1}{3}_{n}\\sum ^{3}_{=1}dn)k=1,2,3$\n\n(식6)\n\n(식7)\n\n\n![image](image_010.png)\n\n\n![image](image_011.png)\n\n\n![image](image_012.png)\n\n$_{k}\\sum _{=1}ek=_{k}\\sum _{=1}ik=0$$3$\t$3$\n\n(식8)\n\n여기에서 $k$ : 3상 전원을 위한 인덱스 = {1, 2, 3}\n\n$d_{k}$ : $k$상의 스위칭 함수\n\n$i_{k}$ : $k$상 선전류\n\n$e_{k}$ : $k$상 상전압\n\n$u_{dc}$ : 직류 링크 전압\n\n$i_{dc}$ : 출력 전류\n\n$R,L$ : 인터페이스 인덕터의 저항과 인덕턴스\n\n(식6)에서 (식7)까지의 전압 전류 관계식을 동기좌표계로 변환하기 위해서는 먼저 3상 좌표계를 고정좌표계로 바꾸어야 하며 그 변환식은 다음과 같다.\n\n$x_{q}=\\frac{1}{3}(2x_{1}-x_{2}-x_{3})$\n\n$x_{d}=\\frac{1}{\\sqrt{3}}(x_{3}-x_{2})$\n\n여기에서 $x_{1}$ ∈ $\\{e_{1},i_{1},d_{1}\\}$, 1= d,q : 고정 좌표계 변수\n\n$x_{k}$ ∈ $\\{e_{k},i_{k},d_{k}\\}$, k = 1, 2, 3 : 3상 좌표계 변수\n\n(식9)\n\n(식10)\n\n(식9), (식10)의 고정좌표계 변수는 (식11), (식12)를 사용하여 동기 좌표계 변수로 변환된다.\n\n$x_{qd}=x_{q}-jx_{d}$\n\n$x^{e}qd=xqde^{-j\\theta},\\theta =\\int \\omega dt,2\\pi f$\n\n여기에서 $x_{qd}$ : 고정 좌표계 변수의 벡터\n\n$x^{e}_{qd}$ : 동기 좌표계 변수의 벡터 f : 전원 주파수 (일정)\n\n(식11)에서 (식12)를 적용하면 2상 동기좌표계의 모델이 얻어진다.\n\n(식11)\n\n(식12)\n\n$C\\frac{du_{dc}}{dt}=\\frac{3}{2}(i^{e}_{q}d^{e}_{q}+i^{e}_{d}d^{e}_{d})-i_{dc}$\n\n(식13)\n\n$L\\frac{di^{e}_{q}}{dt}=e^{e}_{q}-u_{dc}d_{q}^{e}-\\omega Li_{d}^{e}-Ri_{q}^{e}$\n\n$L\\frac{di^{e}_{d}}{dt}=e^{e}_{d}-u_{dc}d_{d}^{e}-\\omega Li_{q}^{e}-Ri_{d}^{e}$\n\n(식14)\n\n(식15)\n\n그림 2.8 2상 동기좌표계 모델의 블록도\n\n(식13)에서 (식15)까지의 2상 동기좌표계 모델의 블럭도는 동기좌표계 모델의 블록도와 같이 나타낼 수 있다. 여기에서 전원전압이 각주파수 ω를 가진 평형 3상 정현파 전압이 라면 e1을 기준 각으로 3상 전원전압을 다음과 같이 표현할 수 있다.\n\n$e_{1}=Esin\\omega t$\n\n$e_{e}2_{3}=_{=}E_{E}s_{s}i_{i}n_{n}(_{(}\\omega _{\\omega}t_{t}-_{+}\\frac{2\\pi}{23_{3}\\pi})_{)}$\n\n(식16)\n\nd-q 동기좌표계에서는 다음과 같이 표현된다.",
+    "blockRange": [
+      235,
+      278
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0099",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.2 ESS용 양방향 PCS",
+      "(1) 3상 인버터 제어 알고리즘"
+    ],
+    "text": "| $e^{e}_{d}=0$ $e^{e}_{q}=E$ | (식17) |\n| --- | --- |\n| 따라서 인터페이스 인덕터의 저항을 무시하면 (식16), (식17)는 다음과 같이 표현된다. |  |\n| $0=L\\frac{di^{e}_{d}}{dt}-\\omega Li^{e}_{q}+V_{d}^{e}$ | (식18) |\n| $E=L\\frac{di^{e}_{d}}{dt}+\\omega Li^{e}_{q}+V_{d}^{e}$ |  |",
+    "blockRange": [
+      279,
+      279
+    ],
+    "page": 25,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0100",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.2 ESS용 양방향 PCS",
+      "(1) 3상 인버터 제어 알고리즘"
+    ],
+    "text": "![image](image_013.png)",
+    "blockRange": [
+      280,
+      280
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0101",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.2 ESS용 양방향 PCS"
+    ],
+    "text": "(2) 단독운전방지(Anti-Islanding) 알고리즘",
+    "blockRange": [
+      281,
+      281
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0102",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.2 ESS용 양방향 PCS",
+      "(2) 단독운전방지(Anti-Islanding) 알고리즘"
+    ],
+    "text": "계통에 연계되어 있는 상태에서 계통 측에 정전이 발생한 경우, 부하전력이 파워컨디셔너의 출력전력과 같은 경우 파워컨디셔너의 출력전압, 주파수는 변하지 않고, 전압, 주파수 계전기에서는 정전을 검출할 수 없다. 그 때문에 계속해서 태양광 발전시스템에서 계통에 전력이 공급될 가능성이 있다. 이와 같은 운전 상태를 단독운전이라고 한다. 단독운전이 발생하면 전력회사의 배전망이 끊어져 있는 배전선에 태양광 발전 시스템에서 전력이 공급되며, 보수 점검자에게 위험을 미칠 우려가 있으며 재송전시에 장애가 발생할 우려가 있다 또한 사고 점의 피해 확대 및 수용가 기기손상의 염려가 있다. 이 때문에 태양광 발전 시스템의 운전을 정지할 필요가 있으나, 단독운전 상태에서는 전압계전기(UVR: Under Voltage Relay, OVR: Over Voltage Relay), 주파수 계전기(UFR: Under Frequency Relay, OFR: Over Frequency Relay)에서는 보호되지 않는다. 그림 2.22는 태양광 발전 시스템과 계통간의 전력에 대한 흐름을 나타내고 있다. 전체 시스템은 태양광 발전 시스템, 수용가측 그리고 개폐기(퓨즈, 개폐로 차단기 등)로 구성되어 있다. 노드(node) a는 태양광용 인버터와 계통간의 연결점인 PCC(Point of Common Coupling, PCC)을 나타낸다.\n\n(식19)과 (식20)은 계통 전압원을 가진 시스템에서 RLC부하에 의해 소비 되어질 유효전력과 무효전력을 나타낸다.\n\n$P_{load}=\\frac{V_{a}^{2}}{R}$\n\n(식19)\n\n그림 2.9 계통 연계 시스템과 계통의 전력 흐름\n\n$_{Qload=Va}2^{}_{\\frac{1}{\\omega L}-\\omega C}^{}_{}$\n\n(식20)\n\n단독 운전 검출 방법은 PCC단에서 이상 주파수와 전압 변동을 관측하고 유효전력과 무효전력에 대한 정의 식 (식21), (식22)로 나타낼수 있다.\n\n$P=P_{load}-P_{PV}$\n\n$Q=Q_{load}-Q_{PV}$\n\n(식21)\n\n(식22)\n\n\n![image](image_014.png)\n\n인버터 출력전류가 PCC단의 전압과 동일 위상을 지닐 때 무효전력 $Q$는 영이 되고 $Q_{PV}=Q_{load}$ 로 정의된다. $P_{PV}=0$은 계통과 연결이 끊어질 때 태양광용 인버터에서 공급되는 유효전력에 대한 부하가 필요로 하는 유효전력과 일치됨으로써 나타난다. 또한, $Q_{PV}=P_{PV}$ 은 계통가 연결이 끊어졌을 때 부하가 요구하는 total 전력과 태양광에서 공급되는 전체전력량이 같음을 알수 있다. 또한, $P\\ne 0$은 PCC단의 크기가 변경됨을 나타내며, $Q\\ne 0$은 PCC단의 위상변화에 상응하는 주파수변화를 표현한다. $P\\ne 0$, $Q\\ne 0$은 계통이 차단되었을 때 부하에서 요구되는 전체전력량과 태양광에서 공급되는 전체 전력량이 다르다. 따라서 인버터에서는 $P_{PV}$, $Q_{PV}$ 변화를 관측하여 단독 운전 시 주파수나 전압의 변화를 계측한다. 그 대책으로서 단독운전 방지 기능이 설치되며, 안 전하게 정지되도록 되어 있다. 파워컨디셔너에서는 수동적 방식과 능동적 방식의 이종류의 단독운전 방지기능이 내장되어 있다. 수동적 방식이란 연계운전에서 단독운전으로 이 행했을 때의 전압파형이나 위상 등의 변화를 포착하여 단독운전을 검출하는 것이며, 능동적 방식이란 항상 파워컨디셔너에서 변동요인을 부여하고, 연계 운전시에는 그 변동요인이 출력에 나타나지 않고 단독 운전시에만 나타나도록 해서 이상을 검출하는 것이다. 일반적으로 수동적인 방법에서는 감도를 높이면 오동작하게 되므로, 설정을 느슨하게 하고 능동적 방법으로 보완하는 것이 바람직하다. 하지만 단독운전이 검출되기 힘든 범위 즉, DZ(Non Detection Zone)가 존재하게 된다. 이 영역에서도 단독운전을 신속하게 검출하는 방법이 존재한다. 주파수와 전압은 인버터의 규격이나 특이한 범위를 벗어나게 되면 인버터 보호기능 동작에 의해 차단되는데, 계통 전압에 대한 허용범위는 계통주파수의 오차범위는 59.3 \\~ 60.5[Hz]로, 정격실효치 값에서는 88% \\~ 110%, IEEE Std. 929-2000에서 규정하고 있다.",
+    "blockRange": [
+      282,
+      295
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0103",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소"
+    ],
+    "text": "### 2.3.3 단주기용 Carbon Battery",
+    "blockRange": [
+      296,
+      296
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0104",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.3 단주기용 Carbon Battery"
+    ],
+    "text": "ESS의 단주기와 장주기를 구분하는 기준은 배터리 사용 시간에 의해 결정된다. 30분이상 배터리를 사용할 경우 장주기용 ESS, 그 이하일 경우는 단주기용 ESS라고 한다. 본 과제에는 리튬 계열 배터리 대신 Carbon 배터리를 사용하였다. 리튬 계열 배터리의 경우 충방전 횟수, C-rate등이 우수하나 최근 cell-balancing 이나 사용 온도 문제등으로 화제 발생이 빈번하여 신뢰성에 문제가 발생하였다. 무정전 시스템에 적용하는 단주기 ESS의 경우 요구하는 충방전 횟수가 많지 않으며 별도의 냉난방이 되는 배터리 room을 적용하기엔 부담이 된다. 또한 carbon 배터리의 경우 높은 c-rate가 가능하여 고속 충방전이 가능하다. Carbon battery의 장점은 아래와 같이 정리할 수 있다.\n\n- 12V 배터리 기준, DOD(depth of discharge) 50%에서 충방전 횟수(싸이클 횟수)가 3,000 여회, DOD 80%에서 충방전 횟수 1000 여회\n\n- 국내 생산 제품은 DOD 50%에서 충방전 횟수가 약 1000 회 미만\n\n- Partial State of Charge(PSoC)하에서 배터리 황산화현상 최소화로 수명 및 사이클 횟수 연장. 배터리 내 황산화 현상은 AGM 배터리 성능 및 수명관련 주요 문제점 중 하나임\n\n- 배터리의 충방전 운용 온도 범위가 넓음 : -23 도 \\~ 60 도\n\n- 열전도율이 높은 카본물질이 배터리 내 함유되어 있어, 고온 환경에서도 운용 가능\n\n- 저온에서도 방전이 잘됨. 영하 20 도에서 카본배터리는 배터리 용량의 66% 방전 가",
+    "blockRange": [
+      297,
+      303
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0105",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.3 단주기용 Carbon Battery",
+      "- 저온에서도 방전이 잘됨. 영하 20 도에서 카본배터리는 배터리 용량의 66% 방전 가"
+    ],
+    "text": "능. 기존 AGM 배터리는 약 50% 방전 가능",
+    "blockRange": [
+      304,
+      304
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0106",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.3 단주기용 Carbon Battery"
+    ],
+    "text": "- 고속 충전 가능 : C&D 카본 배터리는 기존 AGM 배터리보다 300%이상 높은 전류로 충전 가능. 이에 따라 충전시간이 50% 정도 단축되며 특히 ESS 시스템에 적용시 큰장점임.",
+    "blockRange": [
+      305,
+      305
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0107",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.3 단주기용 Carbon Battery",
+      "- 고속 충전 가능 : C&D 카본 배터리는 기존 AGM 배터리보다 300%이상 높은 전류로 충전 가능. 이에 따라 충전시간이 50% 정도 단축되며 특히 ESS 시스템에 적용시 큰장점임."
+    ],
+    "text": "그림 2.10 무정전 시스템 적용 배터리 외형도\n\n그림 2.11 Carbon Battery 사양",
+    "blockRange": [
+      306,
+      307
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0108",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소"
+    ],
+    "text": "### 2.3.4 PMS 모니터링 프로그램",
+    "blockRange": [
+      308,
+      308
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0109",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.4 PMS 모니터링 프로그램"
+    ],
+    "text": "PMS(Power Management System)는 하위 HCTTS, PCS, BMS와 통신하며 상위는 RCS와 통신 연결이 되어 있다. 그 구성은 일반 PC에서 구동하는 방식으로, 랙케이스 안에 PC본체, 모니터, 키보드, 마우스, 통신 랜 허브, UPS 시스템 등으로 구성되어 있습니다. 각 전력장치와의 통신을 위해 허브와 각 장치에서 오는 랜 케이블로 연결되어 집니다.\n\n\n![image](image_015.png)\n\n\n![image](image_016.png)\n\n\n![image](image_017.png)\n\n가. Main(메인) 화면\n\n(1) 기능",
+    "blockRange": [
+      309,
+      314
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0110",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.4 PMS 모니터링 프로그램",
+      "(1) 기능"
+    ],
+    "text": "메인 화면은 발전기, PCS, 배터리, 한전, 부하의 현재 발전 및 방전되는 순시 전력량의 표시 및 CTTS와 발전기의 위상차를 그래프로 표시하며, 전력의 흐름은 굵은 선으로 표시된 선의 색으로(활성화 :녹색, 비활성화 : 회색)구분이 가능하며, 접점의 On/Off상태의 확인 과 발전모드를 수동 및 자동상태로 전환하여 선택할 수 있습니다.\n\n그림 2.12 장성 가압장에 설치된 PMS Main 화면",
+    "blockRange": [
+      315,
+      316
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0111",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.3 시스템의 각 구성 요소",
+      "2.3.4 PMS 모니터링 프로그램"
+    ],
+    "text": "(2) 모드 변경",
+    "blockRange": [
+      317,
+      317
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0112",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## ① 자동 및 수동의 선택",
+    "blockRange": [
+      318,
+      318
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0113",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "① 자동 및 수동의 선택"
+    ],
+    "text": "자동 혹은 수동 버튼의 선택 시 위와 같은 질의창이 뜨며 “예”를 클릭시에만 적용되며, “아니오” 시에는 이전 모드가 유지됩니다. 수동선택 시 PCS 수동 운전 조작 및 Power Sharing들의 버튼이 활성화되며 수동으로 조작할 수 있는 상태가 됩니다. 자동선택 시 모든 시퀀스는 정해진 방식으로 작동되며 수동으로 조작할 수 없게 비활성화 됩니다.",
+    "blockRange": [
+      319,
+      319
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0114",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## ② 자동 모드 선택 시(정상운전 시)",
+    "blockRange": [
+      320,
+      320
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0115",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "② 자동 모드 선택 시(정상운전 시)"
+    ],
+    "text": "자동모드 시 PMS는 한전의 정전 감시를 하며, 정전 시 발전기의 가동 및 발전기 ACB의 연결 확인 후 PCS를 대기 상태까지 변경하는 시퀀스로 이루어져 있습니다.\n\n- 전체 시퀀스",
+    "blockRange": [
+      321,
+      322
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0116",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "② 자동 모드 선택 시(정상운전 시)",
+      "- 전체 시퀀스"
+    ],
+    "text": "정전 감지 > 발전기 가동 및 발전기 ACB 작동완료 확인 > 60초대기 > PCS 정지 명령 > PCS 대기 명령\n\n\n![image](image_018.png)\n\n그림 2.13 자동 운전 시 flow chart",
+    "blockRange": [
+      323,
+      325
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0117",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## ③ 수동 모드 선택 시(사용자 임의 작동 시)",
+    "blockRange": [
+      326,
+      326
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0118",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "③ 수동 모드 선택 시(사용자 임의 작동 시)"
+    ],
+    "text": "수동모드는 PCS의 수동 조작과 발전기와의 병렬 운전을 할 수 있습니다.\n\n- 대기 : 다른 동작을 시작할 수 있는 기본 상태\n- 충전 : 배터리의 충전을 시작. 자동모드와는 다르게 충전전압을 PMS에서는 모니터링하지 않으며, 일정 충전이 완료되면 대기상태로 충전을 정지할 수 있다.\n- 정지 : 아무런 동작을 할 수 없는 정지 상태. 자동 동작 중 정지 상태인 경우에는 정전이 되어도 PCS의 독립운전을 할 수 없는 상태이므로 주의가 필요합니다.\n- 전송 : 방전시작 전 배터리 방전비율을 지정하여 방전량을 설정할 수 있다.\n- 방전 시작 : 발전기의 발전 동작 중 병렬 운전\n- 방전중지 : 대기 명령과 동일한 명령\n- 나. Battery 화면",
+    "blockRange": [
+      327,
+      334
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0119",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "③ 수동 모드 선택 시(사용자 임의 작동 시)",
+      "나. Battery 화면"
+    ],
+    "text": "현재 배터리의 상태를 확인 가능하다. 실제 배터리는 총 2그룹의 병렬 연결로 이루어져 있으며, 한 그룹은 58개의 직렬로 배터리가 연결되어 있습니다.",
+    "blockRange": [
+      335,
+      335
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0120",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "③ 수동 모드 선택 시(사용자 임의 작동 시)"
+    ],
+    "text": "- 전체 배터리 시스템의 평균 SOC, 전압, 전류, 온도, 충/방전 상태, 알람을 확인\n- 각 그룹(1,2)의 최소, 최대 전압을 확인\n- 각 그룹의 개별 셀배터리 58개의 전압 및 알람 상태를 확인",
+    "blockRange": [
+      336,
+      338
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0121",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "③ 수동 모드 선택 시(사용자 임의 작동 시)",
+      "- 각 그룹의 개별 셀배터리 58개의 전압 및 알람 상태를 확인"
+    ],
+    "text": "(저전압 알람 시 파란색, 고전압 알람 시 붉은색으로 각 셀에 표시합니다.)\n\n\n![image](image_019.png)\n\n그림 2.14 배터리 모니터링 화면",
+    "blockRange": [
+      339,
+      341
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0122",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "③ 수동 모드 선택 시(사용자 임의 작동 시)"
+    ],
+    "text": "- 다. PCS와 비상 발전기 화면\n  - ① PCS 표시\n\n- PCS가 계측한 데이터를 표시\n\n- 현재 PCS가 계측한 계통, 배터리, 부하의 전압, 전류, 주파수, 전력량 및 알람 Trip 정보를 표시\n\n- 알람 및 상태 데이터는 정상상태일때는 녹색이며, 비정상상태는 적색으로 표시\n\n- ② 비상 발전기 표시\n\n- HCTTS 보드가 계측한 발전기 데이터가 터치 LCD프로그램을 통해 전송된 데이터를 표시\n\n- 현재 발전기의 전압 전류, 전력, 주파수, 전력량, 알람 상태를 표시\n\n- 알람 및 상태는 정상상태일때는 녹색이며, 비정상상태는 적색으로 표시",
+    "blockRange": [
+      342,
+      349
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0123",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "③ 수동 모드 선택 시(사용자 임의 작동 시)",
+      "- 알람 및 상태는 정상상태일때는 녹색이며, 비정상상태는 적색으로 표시"
+    ],
+    "text": "그림 2.15 PCS 화면(좌), 비상발전기 화면(우)\n\n\n![image](image_020.png)\n\n\n![image](image_021.png)\n\n\n![image](image_022.png)",
+    "blockRange": [
+      350,
+      353
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0124",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "③ 수동 모드 선택 시(사용자 임의 작동 시)"
+    ],
+    "text": "- 라. 한전 상태와 이력 화면\n  - ① 한전 상태 표시\n\n- HCTTS 보드가 계측한 계통데이터를 터치 LCD프로그램을 통해 전송된 데이터를 표시\n\n- 계통의 전압, 전류, 전력, 주파수, 전력량 및 알람, 상태 데이터를 표시\n\n- 알람 및 상태데이터는 정상 상태 일때는 녹색이며, 비정상상태는 적색으로 표시\n\n- ② 이력 화면 표시\n\n- 동작의 시간의 순서대로 중요 동작 이력들을 표시\n\n- 과거 동작이력을 일/월/년으로 조회가 가능\n\n- 프로그램 시작 및 종료를 표시. 통신의 연결 및 끊김을 표시\n\n- 수동 및 자동 동작의 선택을 표시. 수동 동작 시 PCS의 명령 선택을 표시\n\n- 자동동작 시 계통, 발전기, PCS의 동작 상태를 표시. 고장화면의 알람 상태 정보를 표시",
+    "blockRange": [
+      354,
+      363
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0125",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "③ 수동 모드 선택 시(사용자 임의 작동 시)",
+      "- 자동동작 시 계통, 발전기, PCS의 동작 상태를 표시. 고장화면의 알람 상태 정보를 표시"
+    ],
+    "text": "그림 2.16 한전 상태 화면(좌), 이력 화면(우)",
+    "blockRange": [
+      364,
+      364
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0126",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## 2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스",
+    "blockRange": [
+      365,
+      365
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0127",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스"
+    ],
+    "text": "- 가. 한전 정상 상태",
+    "blockRange": [
+      366,
+      366
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0128",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스",
+      "가. 한전 정상 상태"
+    ],
+    "text": "그림 2.17 MODE-0,4 한전 정상 상태\n\n\n![image](image_023.png)\n\n\n![image](image_024.png)\n\n\n![image](image_025.png)\n\n계통이 정상 상태 일 때 시스템의 동작 상태이다. 부하에 전력은 HCTTS의 GRID-ACB -> STS을 통해서 부하에 전력을 공급한다. ESS용 PCS는 배터리가 설정 전압 이하이면 충전 모드로 동작하며 상시 Anti-Islanding 알고리즘에 의해 계통의 정전 상태를 체크하고 있다. 동일하게 HCTTS도 계통의 정전 상태를 감시하여 비상발전기 동작 여부를 제어한다. MODE-4에서는 HCTTS가 한전 복전을 인식하고 한전측에 전압과 위상 동기화 제어를 시작한다. 한전 측과 동기화가 완료 되면 GRID-ACB를 투입하고 비상 발전기측은 Power를 derating 동작을 한 후 정지하게 된다.",
+    "blockRange": [
+      367,
+      371
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0129",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스"
+    ],
+    "text": "- 나. 정전 발생 – seamless 동작",
+    "blockRange": [
+      372,
+      372
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0130",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스",
+      "나. 정전 발생 – seamless 동작"
+    ],
+    "text": "그림 2.18 MODE-1 한전 정전 – PCS 동작\n\n계통 정전이 발생하게 되면 PCS에서 우선 정전을 인식하여 STS(Static Transfer Switch)를 off하여 한전과 분리를 한다. seamless 제어에 의해 독립 모드로 부하에 전력을 공급한다. 과도기 상태에서 PCS의 동특성 성능에 의해서 전력 품질이 결정된다. 이때 HCTTS도 정전을 인식하여 GRID-ACB 차단기를 OFF 하여 계통과 분리 동작을 하고 비상발전기 동작 명령을 한다. Mode-2 구간에서는 비상발전기가 정상 전압을 출력할 때까지 PCS가 전력을 담당한다. 운전 시간은 대략 5분 이내이다.",
+    "blockRange": [
+      373,
+      374
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0131",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스"
+    ],
+    "text": "- 다. 비상발전기 동기화 동작",
+    "blockRange": [
+      375,
+      375
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0132",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스",
+      "다. 비상발전기 동기화 동작"
+    ],
+    "text": "그림 2.19 MODE-2 비상발전기 동기화 동작\n\n\n![image](image_026.png)\n\n\n![image](image_027.png)\n\n비상발전기는 기동 후 인버터와 전압 및 주파수 동기화 동작을 한다. HCTTS는 AVR 및 Governor 제어를 통해 발전기측 ACB가 투입 될 때 영전력 절체가 가능하도록 한다. 기존 ESS + 비상발전기 구성의 무정전 시스템의 경우 발전기 투입 시 PCS가 전압 제어에서 전류 제어로 모드 변경하여 비상 발전기가 병렬로 투입 된다. 이 방식은 PCS의 동특성이 우수하여 CV -> CC 모드로 전환 시 제어가 잘되어야지만 절체 투입 시 fualt가 발생하지 않는다. 또한 발전기 마다 전기적 시정수가 다르기 때문에 설치 시운전 시 PI 값을 수정하기가 어려운 단점이 있다.",
+    "blockRange": [
+      376,
+      379
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0133",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스"
+    ],
+    "text": "- 라. 비상 발전기 동기화 동작",
+    "blockRange": [
+      380,
+      380
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0134",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.4 무정전 시스템의 운용 및 제어 2.4.1 무정전 시스템 동작 시퀀스",
+      "라. 비상 발전기 동기화 동작"
+    ],
+    "text": "그림 2.20 MODE-3 PCS-비상발전기 병렬운전\n\n비상발전기측 ACB가 투입되면 PCS와 비상발전기는 병렬 운전을 시작한다. 비상발전기의 경우 정격 용량에 50%이상의 부하가 급변하게 되면 출력전압이 변동되고 심할 경우 발전기 fault가 발생하게 된다. 이러한 문제를 보완하기 위해 발전기 투입 시 영전력에서 전력이 부담되도록 soft-start 동작을 하게 된다. 앞서 언급했드시 PCS가 독립 운전 모드로 계속 동작하고 부하 분담을 위한 Power 제어는 HCTTS에서 수행하는 점이 차별화된 동작이다. MODE-3 구간에서는 비상발전기 측으로 부하 전력을 서서히 증가 시킬 수 도 있고 부하 상태 및 배터리 용량에 따라서 병렬 운전으로 지속적으로 부하에 전력 공급이 가능하다.\n\n\n![image](image_028.png)",
+    "blockRange": [
+      381,
+      383
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0135",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## 2.5 현장 시운전 실험 결과",
+    "blockRange": [
+      384,
+      384
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0136",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.5 현장 시운전 실험 결과"
+    ],
+    "text": "### 2.5.1 인버터 출력 개선을 위한 인덕터 최적화 및 1차 시운전",
+    "blockRange": [
+      385,
+      385
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0137",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.5 현장 시운전 실험 결과",
+      "2.5.1 인버터 출력 개선을 위한 인덕터 최적화 및 1차 시운전"
+    ],
+    "text": "그림 2.21 인버터의 전장 도면\n\nBATT V이 입력단 DC 전압 계측 지점, INV V가 PCS 출력 전압 계측 지점, LOAD V, LOAD A가 부하측 전압 전류 계측 지점이다. L1B는 인버터 L-C 필터단의 리액터이고 L3는 출력단 EMI Filter용 인덕터이다. 현장 시운전을 하면서 정상 상태 전압, 전류 THD 개선과 과도 상태에서 출력 전압 개선을 위해 L1B, L3, 제어기등을 변경하여 최적화 시험을 수행하였다.\n\n- 가. AHF(Active Harmonic Filter, 능동형 고조파 필터) 확인",
+    "blockRange": [
+      386,
+      388
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0138",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.5 현장 시운전 실험 결과",
+      "2.5.1 인버터 출력 개선을 위한 인덕터 최적화 및 1차 시운전",
+      "가. AHF(Active Harmonic Filter, 능동형 고조파 필터) 확인"
+    ],
+    "text": "AHF 장비 투입 시 계통, 인버터, 발전기 동작 시 전압 고조파가 더 크게 발생하는 부분에 대해서 L3 제거(Bypass 모드) 시와 L3 적용 시를 비교하여 분석하였다.\n\n그림 2.22 한전 전압 AHF 투입 시와 차단 시 THD 비교\n\n\n![image](image_029.png)\n\n\n![image](image_030.png)\n\n그림 2.23 AHF 투입 시 한전과 발전기 전원 THD 비교\n\nTHD 분석 장비 결과에서 보면 AHF 사용 시 한전 전압 THD는 3.5%이고 미 사용시 약 2%로 AHD 사용 시 THD는 약 175% 정도 상승한다. 한전과 발전기를 비교하면 발전기 동작시 THD는 16% 까지 증가하여 AHF 동작에 다소 문제가 있음을 확인하였다. 이를 AHF와 인버터 출력단 EMI 필터부의 L3와 공진 현상 문제인지 확인하기 위해 다음 시험을 진행하였다.\n\n그림 2.24 L3 유,무에 따른 대기 운전 시 전압 측정 시험\n\nL3(167uH) EMI 필터를 거쳐서 부하에 전력을 공급하는 경우와 Bypass 스위치를 연결하여 L3를 거치지 않고 부하에 전력을 공급하는 경우를 비교한 결과 L3를 거쳐서 전류가 흐르는 경우가 전압, 전류 THD가 더 안 좋았다. L3와 AHF간 영향을 확인하기 위해 인버터 충전 동작 시 파형을 비교해 보았다.\n\n그림 2.25 L3 유,무에 따른 PCS 충전 시 THD 비교\n\n\n![image](image_031.png)\n\n\n![image](image_032.png)\n\n\n![image](image_033.png)\n\n\n![image](image_034.png)\n\nPCS 충전 동작 시 L3 적용 유무에 대한 결과도 Bypass 조건 일 때 전압, 전류 THD가 약간 개선된 결과였다. AHF 설치 상태나 사용 설정은 추후 확인하기로 하고 과도 상태 특성에 대한 현장 분석을 진행하였다.",
+    "blockRange": [
+      389,
+      402
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0139",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "2.5 현장 시운전 실험 결과",
+      "2.5.1 인버터 출력 개선을 위한 인덕터 최적화 및 1차 시운전"
+    ],
+    "text": "- 나. L1B : 140uH 적용",
+    "blockRange": [
+      403,
+      403
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0140",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론"
+    ],
+    "text": "## 그림 2.26 L1B : 140uH 일 때 과도 특성",
+    "blockRange": [
+      404,
+      404
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0141",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성"
+    ],
+    "text": "과도 상태 개선을 위해서 인버터 L-C filter부에서 L1B값을 140uH로 적용 했을 때 계통, 인버터, Load측 전압 전류를 계측하였다. 송수 펌프 2대, 약 170kW 부하 조건으로 시험을 진행하였다. 정전 감지 시간은 목표치인 4ms 이내지만 PCS 독립 운전 시 최저전압이 100Vp-p로 rms로 변환하면 약 70.72Vrms이다. 유도기 구동용 인버터의 에너지 버퍼링 모드는 사용하지 않았고 PUMP 측에서는 trip이 발생하였다.\n\n- 다. L1B : 70uH 적용",
+    "blockRange": [
+      405,
+      406
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0142",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "다. L1B : 70uH 적용"
+    ],
+    "text": "그림 2.27 L1B : 70uH 일 때 과도 특성\n\nL1B : 70uH로 변경하여 과도 상태 동작을 확인 하였다. 동일 조건(Pump 2대 가동)시\n\nL1B : 140uH와 비교하면 정전 감지 시간은 기존 4ms에서 2ms로 감소하였다. PCS 최저 전압은 Vp-p로 259V, 실효치로 183.1Vrms로 최저 전압도 약 110Vrms, 258%로 크게 개선되었다. 유도기용 인버터는 에너지 버퍼링 설정을 110% \\~ 130%로 설정하였고 Pump trip은 발생하지 않았다.\n\n\n![image](image_035.png)\n\n\n![image](image_036.png)",
+    "blockRange": [
+      407,
+      411
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0143",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성"
+    ],
+    "text": "### 2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험",
+    "blockRange": [
+      412,
+      412
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0144",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험"
+    ],
+    "text": "그림 2.28 정전 발생에서 복전 시까지 무정전 시스템 동작 시퀀스\n\nAHF OFF, L3 제거, L1B : 70uH 적용, 부하는 펌프 2대 약 170kW, 유도기용 인버터 에너지 버퍼링 110% 설정 조건으로 무정전 시스템 전체 동작 테스트를 시행하였다. 각 모드별 과도 상태를 오실론스코프로 확대하여 파형 분석을 하였다.\n\n- 가. 계통 정전 \\~ PCS 투입(seamless 동작) 모드",
+    "blockRange": [
+      413,
+      415
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0145",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험",
+      "가. 계통 정전 ~ PCS 투입(seamless 동작) 모드"
+    ],
+    "text": "정전은 2ms 이내 검출하여 PCS 출력 전압은 바로 발생됨을 알 수 있다. PCS 단독 과도 상태에서 최저 전압은 260Vp-p, 183Vrms 이다. 정상 상태 상전압 220Vrms 와 비교하면 약 17% 전압 강하가 발생하였고 3주기 이후에 정상 상태 전압으로 된다. PCS 동작 시점 반주기 동안 에너지 버퍼링 모드가 발생하였고 Pump trip 및 소내 전원 정전 없이 독립 모드로 정상적으로 전력을 공급하였다.\n\n\n![image](image_037.png)\n\n그림 2.29 PCS seamless 동작 시 과도 상태 파형",
+    "blockRange": [
+      416,
+      418
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0146",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험"
+    ],
+    "text": "- 나. 비상 발전기 투입",
+    "blockRange": [
+      419,
+      419
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0147",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험",
+      "나. 비상 발전기 투입"
+    ],
+    "text": "비상 발전기가 PCS 전압, 위상과 동기화를 한 후 투입 된 시점 이후 과도 상태 파형이다. PCS는 약 3.5 cycle 동안 병렬 운전을 하다가 대기 상태로 변경된다. Pump 부하 및 소내 부하의 정전없이 PCS에서 비상 발전기로 절체에 성공하였다.\n\n그림 2.30 비상발전기 투입 파형",
+    "blockRange": [
+      420,
+      421
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0148",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험"
+    ],
+    "text": "- 다. 비상 발전기 + PCS 병렬 운전",
+    "blockRange": [
+      422,
+      422
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0149",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험",
+      "다. 비상 발전기 + PCS 병렬 운전"
+    ],
+    "text": "비상 발전기 운전 중 PCS는 대기 상태에서 방전 모드로 변경하여 PCS와 비상 발전기의 병렬 운전 동작을 확인하였다. PCS의 방전지령치는 전체 부하 중 20%로 상위 PMS에서 지령 받아 동작을 하였다. 과도 상태 파형에서 알 수 있드시 PCS 병렬 운전 투입 시 부하측 전압에 sag 또는 swell 없이 안정적으로 병렬 운전이 됨을 확인하였으며 인버터 동작 시 전압 THD는 개선됨을 알 수 있다.\n\n\n![image](image_038.png)\n\n\n![image](image_039.png)",
+    "blockRange": [
+      423,
+      425
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0150",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험"
+    ],
+    "text": "- 라. 한전 복전",
+    "blockRange": [
+      426,
+      426
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0151",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.2 HCTTS 연계 PCS 무 정전 시험 및 부하 분담 시험",
+      "라. 한전 복전"
+    ],
+    "text": "비상 발전기로 전력을 공급하는 중에 한전측을 복전했을 때 과도 상태를 확인하였다.\n\n복전이 되면 HCTTS는 한전측 전압과 크기와 위상을 동기화 한다. 동기화 완료 후 계통 측 ACB를 투입하여 한전과 병렬 운전 후 비상 발전기 측 ACB를 차단하고 발전기를 정지하여 복전을 종료한다. 오실론스코프 파형에서 확인할 수 있드시 절체시 부하측 전압에 sag나 swell은 발생하지 않음을 알 수 있다.\n\n그림 2.31 복전 후 HCTTS 절체 시 파형",
+    "blockRange": [
+      427,
+      429
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0152",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성"
+    ],
+    "text": "### 2.5.3 추가 개선 내용 및 개선 후 2차 현장 시운전 결과",
+    "blockRange": [
+      430,
+      430
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0153",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.3 추가 개선 내용 및 개선 후 2차 현장 시운전 결과"
+    ],
+    "text": "- 가. PCS In-Loop 제어기 변경",
+    "blockRange": [
+      431,
+      431
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0154",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.3 추가 개선 내용 및 개선 후 2차 현장 시운전 결과",
+      "가. PCS In-Loop 제어기 변경"
+    ],
+    "text": "그림 2.32 기존 In-loop 전류제어기를 포함하는 전압 제어기\n\n\n![image](image_040.png)\n\n\n![image](image_041.png)\n\n3상 좌표 변환 후 3상 전압은 D축과 Q축 직류 성분의 2개의 좌표로 변환 된다. D축은 출력 상전압 peak 값에 대한 항이며 Q축은 전압 위상에 대한 항이다. Out-loop 제어기의 입력은 D축은 311이며 Q축은 0이며 제어기 출력은 PCS D축 Q축에 대한 전류 지령치가 된다. In-loop 제어기의 출력에 상전압 220V에 해당하는 값을 feedforward 항으로 더한 값을 3상 좌표역변환을 하게 되면 R, S, T 출력 전압에 대한 값으로 나온다. 이 값을 SVM(Space Vector Modulation)을 하게 되면 각 arm의 pwm 제어값이 된다. 이와 같은 이중 제어기 구조는 과도 상태에서 전류와 전압의 overshoot 현상이 없는 안정적인 양상을 보이지만 2개의 제어기에 의한 지연이 발생하기 때문에 동특성의 속응성은 떨어지게 된다.\n\n그림 2.33 변경된 전압 제어기만 적용된 제어기 구조\n\n앞서 언급한 것과 같이 전류제어기를 포함하는 이중 제어기는 속응성이 상대적으로 약한 문제가 있기 때문에 전압제어기만 가지는 제어기를 적용하였다. 전류제어기가 없어진 부분을 제외하고는 위에서 설명한 제어구조와 동일하다. 변경된 제어기를 적용하여 공장에서 250kW 부하 급변 시험을 하였다. 시험 결과는 아래 파형과 같이 출력 전압의 강하는 거의 발생하지 않음을 확인하였다.\n\n그림 2.34 250kW 부하 급변 시험시 출력 전압 변동율\n\n\n![image](image_042.png)\n\n\n![image](image_043.png)",
+    "blockRange": [
+      432,
+      440
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0155",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.3 추가 개선 내용 및 개선 후 2차 현장 시운전 결과"
+    ],
+    "text": "- 나. AHF 문제점 보완 후 투입 유무에 따른 THD 비교",
+    "blockRange": [
+      441,
+      441
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0156",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.3 추가 개선 내용 및 개선 후 2차 현장 시운전 결과",
+      "나. AHF 문제점 보완 후 투입 유무에 따른 THD 비교"
+    ],
+    "text": "PCS 설치 시 AHF 장비의 전류 전압 센싱에 오류가 있음을 확인하였다. AHF 장비의 센싱부를 재결선한 후 투입, 차단 시 전압, 전류 THD를 확인하였다.\n\n그림 2.35 AHF 투입, 차단 시 전압 전류 THD 비교\n\n전압 THD의 경우 차단 시 6%, 투입 후 4.5%로 약 33% 개선되었으며 전류 THD의 경우 차단 시 30%, 투입 후 7.5%로 400%정도 개선되었다.\n\n그림 2.36 AHF 투입, 차단 시 한전 전압, 전류 파형",
+    "blockRange": [
+      442,
+      445
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0157",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.3 추가 개선 내용 및 개선 후 2차 현장 시운전 결과"
+    ],
+    "text": "- 다. 무정전 절체 시험",
+    "blockRange": [
+      446,
+      446
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0158",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.3 추가 개선 내용 및 개선 후 2차 현장 시운전 결과",
+      "다. 무정전 절체 시험"
+    ],
+    "text": "AHF 정상 동작, L1B : 70uH, L3 : 167uH, 전압 제어기 변경 적용하여 2차 현장 시운전 테스트를 진행하였다. 정전 검출 및 PCS 동작 까지는 2ms 이내 완료 되었다. PCS 독립 운전 과도 상태에서 최저 전압은 269Vp-p, 190Vrms 이며 정격 상전압 기준으로 순간 전압 강하는 13.7%로 기준치 이내에 들어오며 2 cycle 만에 정격 전압으로 장상 상태로 진입하였다. 정전 후 seamless 동작, 비상 발전기 soft 투입, PCS-비상 발전기 병렬 운전, 복전 후 HCTTS에서 한전으로 절체까지 수 회 이상 반복하여 전체 동작 중에 정전 없이 안정적으로 동작하였다.\n\n\n![image](image_044.png)\n\n\n![image](image_045.png)\n\n그림 2.37 2차 장성가압장 현장 테스트 결과 파형",
+    "blockRange": [
+      447,
+      450
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0159",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성"
+    ],
+    "text": "### 2.5.4 유도기용 구동 인버터가 없는 경우 모의 테스트",
+    "blockRange": [
+      451,
+      451
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0160",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 본론",
+      "그림 2.26 L1B : 140uH 일 때 과도 특성",
+      "2.5.4 유도기용 구동 인버터가 없는 경우 모의 테스트"
+    ],
+    "text": "장성 가압장의 경우 펌프용 유도기 구동 인버터가 설치가 되어 있다. 다른 사이트의 경우 인버터 없이 리액터 기동 방식등을 적용하여 3상 전원이 펌프용 유도기 전원에 직결되어 있다. 유도기의 경우 slip 값에 의해서 R-L 임피던스 값이 달라진다. 통상 유도기가 정상 상태 운전을 하면 slip 값은 3 \\~ 5% 범위에서 운전하게 된다. 이 때, R-L 부하의 역률은 0.8정도가 된다. 공장에서 비선형 부하 및 PCS를 설치하여 R-L 부하 PF 0.8 조건일 때 seamless 동작 테스트를 진행하였다.\n\n과도 상태에서 정전 감지 시간, 전압 강하 등을 분석하여 인버터가 없는 직입 기동하는 펌프용 유도기 부하에서도 무정전 시스템이 정상 동작하는지를 확인하였다.\n\n그림 2.38 2차 모의 테스트를 위한 인버터 및 비선형 부하 장치\n\n\n![image](image_046.png)\n\n\n![image](image_047.png)\n\n200kVA R-L 0.8 비선형 부하로 실험 조건을 두고 무정전 시험을 반복하였다. 시험 결과는 정전 감지 시간은 2ms 이내 이며 정상 전압 출력 까지 4ms 이내로 정상 범위 이내로 우수하였다. 과도 상태에서 전압 강하 최소 값도 270Vp-p, 190.9Vrms로 전압 강하율은 정상값에 –13.2%였다. 펌프용 유도기 부하와 유사하게 모의하여 시험한 결과는 연구과제목표치 보다 높게 나왔다. 장성가압장에 테스트한 결과와 비교해 유추해 보면 인버터가 없는 펌프용 유도기 부하에서도 무정전 동작이 fault 없이 정상 동작함을 유추할 수 있다.\n\n그림 2.39 200kVA R-L 부하 테스트 파형\n\n\n![image](image_048.png)\n\n\n![image](image_049.png)",
+    "blockRange": [
+      452,
+      460
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0161",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제3장 결론",
+    "blockRange": [
+      461,
+      461
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0162",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 결론"
+    ],
+    "text": "## 3.1 연구 결과",
+    "blockRange": [
+      462,
+      462
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0163",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.1 연구 결과"
+    ],
+    "text": "### 3.1.1 연구목표 달성 여부",
+    "blockRange": [
+      463,
+      463
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0164",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.1 연구 결과",
+      "3.1.1 연구목표 달성 여부"
+    ],
+    "text": "**표 3.1 연구목표 추진실적**\n\n| 연구목표(연구계획서) | 추진실적 | 달성도<br>(%) |\n| --- | --- | --- |\n| [정량적목표]<br>◦(핵심지표) 특허 출원, 상용화<br>◦(선택지표) 논문 게재 | [정량적목표]<br>◦(핵심지표) 특허출원심의 통과 및 출원<br>진행중, 상용화 완료(시작품 설계․설치․운영)<br>◦(선택지표) 대한전기학회 논문게재 1건 | 100% |\n| [정성적목표]<br>◦가압장 무정전 전원공급시스템 구축<br>- 신기술인 ESS(에너지저장시스템)와<br>HCTTS(동기절환기)를 결합하여 한전 정전에 무관한 전원공급시스템<br>K-water 최초 구축<br>◦한전1회선 수전사업장의 새로운 전원<br>공급 패러다임 제시<br>◦중소기업 기술력 향상 및 풀산업플랫폼 구축 | [정성적목표]<br>◦가압장 무정전 전원공급시스템 성공적<br>구축 완료<br>- ESS, HCTTS, 비상발전기를 결합하여<br>무정전 구현<br>- 적은 비용으로 365일 24시간 무정전<br>사업장 구현<br>◦한전1회선 수전사업장의 새로운 전원<br>공급 패러다임 제시<br>- 한전 1회선 공급 사업장을 대상으로<br>전원 안정화 사업 추진 가능, 표준<br>모델 정립<br>◦HCTTS를 개발한 우수 중소기업의 기<br>술력을 활용하여 물산업플랫폼 생태계<br>구축 및 신성장동력 확보 기여 | 100% |",
+    "blockRange": [
+      464,
+      464
+    ],
+    "page": 45,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0165",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.1 연구 결과",
+      "3.1.1 연구목표 달성 여부"
+    ],
+    "text": "**표 3.2 무정전시스템 동작 성능목표**\n\n| 번호 | 평가항목 | 기존기술<br>성능 | 제안기술<br>성능목표 | 검증방법 | 성능검증 결과 |\n| --- | --- | --- | --- | --- | --- |\n| ① | Seamless 동작 | 5ms이내<br>전원 공급 | 4m이내<br>전원 공급 | 공인기관<br>참조시험 | 4ms 이내 공급 |\n| ② | 디젤발전기, PCS<br>병렬 운전 | - | 전력지령치<br>오차 ±3% | 공인기관<br>참조시험 | 오차 ±3% 이내 |\n| ③ | PCS 전압 THD | 5% 이하 | 3% 이하 | 공인기관<br>참조시험 | 3% 이하 |\n| ④ | PCS 효율 | 97%이상 | 97.2% | 공인기관<br>참조시험 | 97.4% |",
+    "blockRange": [
+      465,
+      465
+    ],
+    "page": 45,
+    "table": {
+      "rows": 5,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0166",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 결론"
+    ],
+    "text": "## 3.2 개발기술의 파급효과",
+    "blockRange": [
+      466,
+      466
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0167",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과"
+    ],
+    "text": "### 3.2.1 기술적 파급효과",
+    "blockRange": [
+      467,
+      467
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0168",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.1 기술적 파급효과"
+    ],
+    "text": "- 가. K-water 수도사업장 전원공급의 새로운 패러다임 제시",
+    "blockRange": [
+      468,
+      468
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0169",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.1 기술적 파급효과",
+      "가. K-water 수도사업장 전원공급의 새로운 패러다임 제시"
+    ],
+    "text": "신기술인 ESS와 HCTTS를 결합하여 수도사업장 무정전을 실현하고, 1회선 수전 사업장의 정전 제로화를 통해 끊김없는 용수공급능력을 확보하였다.",
+    "blockRange": [
+      469,
+      469
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0170",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.1 기술적 파급효과"
+    ],
+    "text": "- 나. K-water 수도사업장 부하특성에 맞는 동력용 전원공급시스템 구축",
+    "blockRange": [
+      470,
+      470
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0171",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.1 기술적 파급효과",
+      "나. K-water 수도사업장 부하특성에 맞는 동력용 전원공급시스템 구축"
+    ],
+    "text": "펌프․모터 부하 특성상 모터 기동시 단시간동안 전원공급 신뢰성을 확보하기 위한 전기적 내량이 필요하며, 이 특성에 맞는 시스템 구축기술을 확보하였다.",
+    "blockRange": [
+      471,
+      471
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0172",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.1 기술적 파급효과"
+    ],
+    "text": "- 다. 전력제어기술을 활용한 이종 전원간 병렬운전 및 전력 분담 가능",
+    "blockRange": [
+      472,
+      472
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0173",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.1 기술적 파급효과",
+      "다. 전력제어기술을 활용한 이종 전원간 병렬운전 및 전력 분담 가능"
+    ],
+    "text": "한전과 비상발전기, ESS와 비상발전기, UPS와 비상발전기 등 이종 전원간 절체 및 병렬운전 시 부하에 끊김없는 전력 공급이 가능하다.",
+    "blockRange": [
+      473,
+      473
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0174",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과"
+    ],
+    "text": "### 3.2.2 경제적 파급효과 및 시장경쟁력",
+    "blockRange": [
+      474,
+      474
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0175",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.2 경제적 파급효과 및 시장경쟁력"
+    ],
+    "text": "- 가. 최소비용으로 무정전 사업장 구축",
+    "blockRange": [
+      475,
+      475
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0176",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.2 경제적 파급효과 및 시장경쟁력",
+      "가. 최소비용으로 무정전 사업장 구축"
+    ],
+    "text": "무정전 구현을 위해 한전 전원 1회선 사업장을 2회선으로 이중화 할시 막대한 비용(사업장별 1,000백만원 내외)이 소요되나 무정전 전원공급시스템 적용시 기존 비상발전기 전원을 이용하여 상대적으로 적은 비용(약 1/3수준, 270백만원)으로 정전없는 사업장 구현 가능하다.",
+    "blockRange": [
+      476,
+      476
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0177",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.2 경제적 파급효과 및 시장경쟁력"
+    ],
+    "text": "- 나. 정전으로 인한 수도사업장 및 관로 사고 등 이차피해 Zero화 실현",
+    "blockRange": [
+      477,
+      477
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0178",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.2 경제적 파급효과 및 시장경쟁력",
+      "나. 정전으로 인한 수도사업장 및 관로 사고 등 이차피해 Zero화 실현"
+    ],
+    "text": "태풍(‘20년 9호태풍)으로 인한 다수의 정전 발생시 중단없는 전력공급으로 수충격에 의한 펌프장 누수사고나 관로파손 사고가 미발생하였다.\n\n그림 3.1 정전 발생(4회) 현황 및 용수공급실적",
+    "blockRange": [
+      478,
+      479
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0179",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.2 경제적 파급효과 및 시장경쟁력"
+    ],
+    "text": "- 다. 국가기반시설 및 병원 등 정전으로 인한 피해가 큰 시설에 적용 가능",
+    "blockRange": [
+      480,
+      480
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0180",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.2 경제적 파급효과 및 시장경쟁력",
+      "다. 국가기반시설 및 병원 등 정전으로 인한 피해가 큰 시설에 적용 가능"
+    ],
+    "text": "K-water 1회선 수도사업장(취수장, 가압장, 정수장 등 약43개소), 농어촌공사, 지방자치 단체, 병원, 공장 등에 적용함으로써 정전으로 인한 손실을 최소화 할 수 있다.\n\n\n![image](image_050.png)",
+    "blockRange": [
+      481,
+      482
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0181",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과"
+    ],
+    "text": "### 3.2.3 특별 추진성과",
+    "blockRange": [
+      483,
+      483
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0182",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.3 특별 추진성과"
+    ],
+    "text": "가. ESS로 인한 화재 안정성 확보",
+    "blockRange": [
+      484,
+      484
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0183",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 결론",
+      "3.2 개발기술의 파급효과",
+      "3.2.3 특별 추진성과",
+      "가. ESS로 인한 화재 안정성 확보"
+    ],
+    "text": "기존 리튬이온 배터리로 인한 시스템 안정성 저해 요인(최근 ESS 시스템의 화재 발생)을 제거하기 위해 화재에 안전하고 성능이 우수한 Carbon 배터리를 채용함으로써 무정전 시스템의 안정성 및 신뢰성을 확보하였다.",
+    "blockRange": [
+      485,
+      485
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0184",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참고문헌",
+    "blockRange": [
+      486,
+      486
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0185",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "1. 한국수자원공사, 대한민국이 마시는 건강한 물 K-water가 알려주는 건강한 수돗 물 Q&A, 2016.\n2. 한국수자원공사, 수도설비 및 사업장 운영관리 업무 기준, 2019.\n3. Etxeberria A., Vechiu I., Camblong H., Vinassa J.M., \"Hybrid Energy Storage Systems for renewable Energy Sources Integration in microgrids: A review,\" IPEC, 2010 Conference Proceedings, pp.532-537, 27-29 Oct. 2010.\n4. 강병욱, 채희석, 한운기, 임현성, 권승옥, “CTTS의 비동기 절체 시 조속기 제어를 통한 과도 개선에 관한 연구”, 한국조명전기설비학회, 2015, pp. 47\\~52.\n5. 김병각, “저압발전기로 고압펌프 가동을 위한 낮은 돌입전류형 역승압시스템에 관한 연구”, 전남대학교 대학원, 박사학위 논문, 2020.\n6. 산업자원부고시, “전력 계통 신뢰도 및 전기 품질유지기준”, 2012. 12. 7\n7. Hu, Linyan , Xin, Yong, Xiang, An. “Automatic voltage regulator of harmonic excited generator based on variable parameter pid control”, Automation of electric power systems 2003, pp 89 \\~ 91.\n8. Li, Weilin , Zhang, Xiaobin , Li, Huimin, “DEVELOPMENT OF AUTOMATIC VOLTAGE REGULATOR OF SYNCHRONOUS GENERATOR BASED ON PLC”, POWERCON, 2010, pp. 1\\~6\n9. 이형묵, 양지훈, 이정환, 박성미, 박성준. “소프트 절환이 가능한 계통 연계형 CTTS 시스템 구성에 관한 연구”, 한국산업융합학회, 2018.12 p361 \\~ 368.\n10. Asama, Masayoshi , Ukai, Hiroyuki , Sone, Mototaka , Nakamura, Koichi. “DSP-BASED H∞ CONTROLLED DIGITAL AUTOMATIC VOLTAGE REGULATOR FOR USE ON ENGINE GENERATOR”, IFAC symposia series, 2002, pp.283\\~288.\n11. 양지훈, “Generator operation algorithm for stable grid connection and transfer by new high precision measuring method” 전남대학교 대학원, 박사학위 논문, 2019.\n12. 임현성, “Development of Closed Transition Transfer Switch controller using Adaptive Grid Tracking Algorithm”, 전북대학교 일반대학원, 2019.\n13. 이상중, “터빈-발전기 Governor Droop의 그래프와 비례식을 통한 특성 고찰”, 한국조명전기설비학회,, 2013, p33\\~38.\n14. Meng Xin, Liu Jinjun, Liu Zeng, “A Generalized Droop Control for Grid-Supporting Inverter Based on Comparison Between Traditional Droop Control and Virtual Synchronous Generator Control”, IEEE transactions on power electronics, 2019, pp.5416\\~5438.\n15. 이정환, ESS 복합 운용을 통한 전력품질 개선과 무정전 시스템에 관한 연구, 전남대학교 대학원, 박사 학위 논문, 2018.",
+    "blockRange": [
+      487,
+      501
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0186",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 실용화추진계획서",
+    "blockRange": [
+      502,
+      502
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0187",
+    "type": "table",
+    "breadcrumb": [
+      "실용화추진계획서"
+    ],
+    "text": "| 과제번호 | M190087 | 구 분 | 신규 시설·설비·시스템(방법)·프로그램 등의 개발 |  |  |  |  |  |  | 년도 | 2020 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 연구수행 | 연구과제명 | ESS와 HCTTS를 활용한 가압장 무정전 전원공급시스템<br>구축 연구 |  |  |  |  |  |  |  |  |  |\n| 연구수행 | 연구수행자 | 전기3급 박태영 외 3명 |  |  |  |  |  |  |  |  |  |\n| 연구수행 | 연구기간 | 2019 . 1. \\~ 2020 . 7. |  |  |  |  |  |  |  |  |  |\n| 연구수행 | 예산현황 | 91% 집행 |  |  | 집행액: 295,310천원 |  |  | 예산액: 269,872천원 |  |  |  |\n| 연구수행 | 연구결과 | ▪가압장 무정전 전원공급시스템 성공적 구축 완료<br>▪한전1회선 수전사업장의 새로운 전원공급 패러다임 제시 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 제 목 | ESS와 HCTTS를 활용한 가압장 무정전 전원공급시스템<br>특허출원 및 표준화 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 수행자 | 전기3급 박태영 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 적용대상<br>부서 및 담당자 | 전남북부권지사 전기3급 박태영 |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 내 용 | 연구과제 수행 결과를 토대로 시스템에 대한 특허를 출<br>원함으로써 기술적 안정성을 확보하고 전사적 확대 구축의 기반을 마련하고자 함. 또한 기술 검증후(특허출원<br>완료) 설계기준에 반영하고자 함. |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 추진계획 | 2020년도 제3차 지식재산권 출원 심의위원회 통과후 특허출원 진행중(특허법인 이룸리온) |  |  |  |  |  |  |  |  |  |\n| 실용화<br>추진계획 | 추진계획 | 1/4분기 |  | 2/4분기 |  | 3/4분기 | 4/4분기 |  | 계 |  |  |\n| 실용화<br>추진계획 | 추진계획 |  |  |  |  | 50 | 50 |  | 100% |  |  |\n| 실용화<br>추진계획 | 소요예산 | - 천원 |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      503,
+      503
+    ],
+    "page": 50,
+    "table": {
+      "rows": 14,
+      "cols": 12
+    }
+  },
+  {
+    "id": "c0188",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참여연구원현황",
+    "blockRange": [
+      504,
+      504
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0189",
+    "type": "table",
+    "breadcrumb": [
+      "참여연구원현황"
+    ],
+    "text": "| 연구원 | 참여내역 | 비 고 |\n| --- | --- | --- |\n| 박태영 | ◦연구업무총괄 (연구책임자)<br>◦참여분야 : 시스템 구축 및 검증<br>관련 연구 총괄 책임 | - '19.1 ～ '20.7<br>- 전남북부권지사<br>관리부<br>- 061-390-8230 |\n| 하수지 | ◦연구업무 (참여연구원)<br>◦참여분야 : 시스템 구축 및 효과<br>분석/검증 | - '19.1 ～ '20.7<br>- 전남북부권지사<br>관리부<br>- 061-390-8231 |\n| 이수한 | ◦연구업무 (참여연구원)<br>◦참여분야 : 시스템 구축 및 효과<br>분석/검증 | - '19.1 ～ '20.7<br>- 전남북부권지사<br>관리부<br>- 061-390-8232 |\n| 김병각 | ◦연구업무 (참여연구원)<br>◦참여분야 : 성능 분석 결과 및 효과 검증 | - '19.1 ～ '20.7<br>- 영섬수도지원센터 수도시설안전부<br>- 062-370-1359 |",
+    "blockRange": [
+      505,
+      505
+    ],
+    "page": 51,
+    "table": {
+      "rows": 5,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0190",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 서지자료",
+    "blockRange": [
+      506,
+      506
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0191",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "| (1) 출판물 고유번호 | (2) 사업분류 |  | (3) 발행일 |  |\n| --- | --- | --- | --- | --- |\n| (4) 제목/부제 |  |  | (5) 연구기간 |  |\n| (6) 연구수행기관<br>한국수자원공사, K-water연구원 연구소명 |  |  | (7) 연구 수행자(소속) |  |\n| (8) 수행기관 주소 |  |  | (9) 연구의뢰기관 및 주소 |  |\n| (10) 공동 수행기간 |  |  | (11) 계약 또는 인가번호 |  |\n| (12) 초록 |  |  |  |  |\n| (13) 키-워드 |  |  |  |  |\n| (14) 사업고유번호 |  |  |  |  |\n| (15) 공개여부<br>예/아니오 | (16) 총면수<br>XXX | (17) 발행부수<br>XXX |  | (18) 가격 |",
+    "blockRange": [
+      507,
+      507
+    ],
+    "page": 52,
+    "table": {
+      "rows": 9,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0192",
+    "type": "heading",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "### BIBLIOGRAPHIC DATA SHEET",
+    "blockRange": [
+      508,
+      508
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0193",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| (1) Report ID |  | (2) Project Classification |  |  | (3) Report Date Dec. 31, 2007 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (4) Title/Subtitle |  |  |  | (5) Research Period Jan. 1, 2007 \\~ Dec. 31, 2007 |  |  |\n| (6) Performing Organization Center Name, KIWE, K-water |  |  |  | (7) Author(s) Kil Dong Hong |  |  |\n| (8) Performing Organization Address |  |  |  | (9) Sponsoring Agency and address |  |  |\n| (10) Co-performing Organization(s) |  |  |  | (11) Contract or Authorization |  |  |\n| (12) Abstracts |  |  |  |  |  |  |\n| (13) Keyword |  |  |  |  |  |  |\n| (14) Project ID |  |  |  |  |  |  |\n| (15) Security Yes/No | (16) No. of Pages XXX |  | (17) Circulation XXX |  |  | (18) Price |",
+    "blockRange": [
+      509,
+      509
+    ],
+    "page": 53,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0194",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "주의사항\n\n본 보고서의 저작권은 한국수자원공사에 있으므로, 본 자료의 내용을 허가없이 인용, 복사, 전재, 재배포를 할 경우 법적 제재를 받을 수 있습니다.\n\nCopyright ⓒ 2021\n\nby\n\nKorea Water Resources Corporation\n\n발행인 : 한국수자원공사 사장 박 재 현 발행일 : 2021 . 1.\n\n발행처 : 한국수자원공사 K-water연구원 대전직할시 유성구 왕골고갯길 49 Tel. (042) 870-OOOO\n\n한국수자원공사는 친환경 기업윤리 이념을 구현하기 위하여 2021. 1. 00 『환경경영』을 선포하고, 모든 보고서 발간에 『재생용지 및 무코팅 방식』을 사용하고 있습니다.",
+    "blockRange": [
+      510,
+      517
+    ],
+    "page": 54
+  }
+]
