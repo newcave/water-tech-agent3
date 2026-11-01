@@ -11,7 +11,7 @@ import json
 from pathlib import Path
 
 import pandas as pd
-import plotly.graph_objects as go
+import altair as alt
 import streamlit as st
 
 DATA = Path(__file__).parent / "data" / "parsed"
@@ -76,29 +76,40 @@ st.caption("판정은 kordoc 파싱 품질만 봅니다. 실패 = 변환 오류 
 
 # ---------------- per-report chart
 st.subheader("보고서별 어절 성공률")
-fig = go.Figure()
-for s in STATUS_ORDER[:3]:
-    d = q[q["판정"] == s]
-    fig.add_bar(x=d["번호"], y=d["어절성공률"], name=s, marker_color=STATUS_COLOR[s], width=0.8,
-                customdata=d[["보고서제목", "사유"]].fillna(""),
-                hovertemplate="(%{x:03d}) %{customdata[0]}<br>어절 성공률 %{y:.1%}<br>%{customdata[1]}<extra></extra>")
-for y, label in [(0.85, "주의선 85%")]:
-    fig.add_hline(y=y, line_dash="dot", line_color="#8A94A6", annotation_text=label, annotation_position="top right")
-fig.update_layout(height=320, margin=dict(l=10, r=10, t=10, b=10), barmode="overlay", bargap=0.15,
-                  yaxis=dict(tickformat=".0%", range=[max(0.0, min(0.8, (done["어절성공률"].min() or 0.8) - 0.02)), 1.0]),
-                  xaxis=dict(title="보고서 번호"), legend=dict(orientation="h", y=1.12))
-st.plotly_chart(fig, use_container_width=True)
+status_scale = alt.Scale(domain=STATUS_ORDER, range=[STATUS_COLOR[s] for s in STATUS_ORDER])
+y_min = max(0.0, min(0.8, (done["어절성공률"].min() if len(done) else 0.8) - 0.02))
+bars = (
+    alt.Chart(done.assign(판정=done["판정"].astype(str), 사유=done["사유"].fillna("")))
+    .mark_bar(size=5, clip=True)
+    .encode(
+        x=alt.X("번호:Q", title="보고서 번호", scale=alt.Scale(domain=[0, int(q["번호"].max()) + 1], nice=False)),
+        y=alt.Y("어절성공률:Q", title="어절 성공률", axis=alt.Axis(format="%"), scale=alt.Scale(domain=[y_min, 1.0])),
+        color=alt.Color("판정:N", scale=status_scale, legend=alt.Legend(orient="top", title=None)),
+        tooltip=[alt.Tooltip("번호:Q", format="03d"), "보고서제목:N", alt.Tooltip("어절성공률:Q", format=".1%"),
+                 alt.Tooltip("글자재현율:Q", format=".1%"), "판정:N", "사유:N"],
+    )
+)
+rule = alt.Chart(pd.DataFrame({"y": [0.85]})).mark_rule(strokeDash=[4, 4], color="#8A94A6").encode(y="y:Q")
+st.altair_chart((bars + rule).properties(height=320), use_container_width=True)
+st.caption("점선 = 주의선 85%")
 
 # ---------------- by organisation type
 st.subheader("소속 구분별 보고서와 판정")
-org = q.assign(소속구분=q["소속구분"].fillna("미확인(제출문 없음)")).groupby(["소속구분", "판정"], observed=True).size().reset_index(name="건수")
-fig2 = go.Figure()
-for s in STATUS_ORDER:
-    d = org[org["판정"] == s]
-    fig2.add_bar(y=d["소속구분"], x=d["건수"], name=s, orientation="h", marker_color=STATUS_COLOR[s])
-fig2.update_layout(height=300, barmode="stack", margin=dict(l=10, r=10, t=10, b=10), legend=dict(orientation="h", y=1.15),
-                   yaxis=dict(categoryorder="total ascending"))
-st.plotly_chart(fig2, use_container_width=True)
+org = (q.assign(소속구분=q["소속구분"].fillna("미확인(제출문 없음)"), 판정=q["판정"].astype(str))
+       .groupby(["소속구분", "판정"]).size().reset_index(name="건수"))
+org_chart = (
+    alt.Chart(org)
+    .mark_bar()
+    .encode(
+        y=alt.Y("소속구분:N", title=None, sort="-x", axis=alt.Axis(labelLimit=240, labelOverlap=False)),
+        x=alt.X("sum(건수):Q", title="보고서 수"),
+        color=alt.Color("판정:N", scale=status_scale, legend=alt.Legend(orient="top", title=None)),
+        order=alt.Order("판정:N"),
+        tooltip=["소속구분:N", "판정:N", "건수:Q"],
+    )
+    .properties(height=34 * org["소속구분"].nunique())
+)
+st.altair_chart(org_chart, use_container_width=True)
 st.caption("수행조직은 제출문 원문 그대로입니다. 옛 연구소 이름(물정책·물순환·스마트워터·유역물관리 등)은 'K-water연구원(기타)'로 두었고, "
            "조직 개편 대응표를 받으면 data/parsed/org_names.csv 의 대응 연구소 열로 다시 매깁니다.")
 
