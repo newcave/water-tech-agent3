@@ -1,0 +1,1962 @@
+[
+ {
+  "cid": "SWIS",
+  "name": "스마트워터시티·스마트미터(AMI) 데이터",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 15,
+  "n_inst": 5,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-03",
+   "INST-04",
+   "INST-05"
+  ],
+  "main_inst": "INST-03",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 2,
+   "INST-02": 5,
+   "INST-03": 5,
+   "INST-04": 1,
+   "INST-05": 2
+  },
+  "docs": [
+   5,
+   23,
+   26,
+   27,
+   60,
+   71,
+   75,
+   80,
+   81,
+   82,
+   85,
+   92,
+   96,
+   99,
+   127
+  ]
+ },
+ {
+  "cid": "WAMIS",
+  "name": "국가수자원관리종합정보시스템",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 33,
+  "n_inst": 4,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-03",
+   "INST-05"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 3,
+   "INST-02": 28,
+   "INST-03": 1,
+   "INST-05": 1
+  },
+  "docs": [
+   1,
+   10,
+   26,
+   28,
+   29,
+   37,
+   39,
+   44,
+   45,
+   47,
+   48,
+   49,
+   51,
+   53,
+   58,
+   69,
+   70,
+   86,
+   92,
+   94,
+   96,
+   98,
+   104,
+   111,
+   119,
+   124,
+   130,
+   131,
+   132,
+   138,
+   142,
+   144,
+   147
+  ]
+ },
+ {
+  "cid": "FIELD_WQ_SURVEY",
+  "name": "현장 수질조사(실측)",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 23,
+  "n_inst": 4,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-03",
+   "INST-04"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 2,
+   "INST-02": 17,
+   "INST-03": 3,
+   "INST-04": 1
+  },
+  "docs": [
+   6,
+   24,
+   30,
+   31,
+   34,
+   38,
+   40,
+   52,
+   55,
+   62,
+   72,
+   73,
+   79,
+   83,
+   86,
+   88,
+   100,
+   104,
+   111,
+   118,
+   122,
+   125,
+   135
+  ]
+ },
+ {
+  "cid": "DIGITAL_TWIN",
+  "name": "디지털트윈",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 14,
+  "n_inst": 4,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-03",
+   "INST-05"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-01": 2,
+   "INST-02": 8,
+   "INST-03": 2,
+   "INST-05": 1
+  },
+  "docs": [
+   4,
+   11,
+   20,
+   23,
+   60,
+   61,
+   67,
+   75,
+   81,
+   86,
+   99,
+   117,
+   118,
+   124
+  ]
+ },
+ {
+  "cid": "ANN",
+  "name": "ANN / MLP (인공신경망)",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 14,
+  "n_inst": 4,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-03",
+   "INST-04"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-01": 2,
+   "INST-02": 10,
+   "INST-03": 1,
+   "INST-04": 1
+  },
+  "docs": [
+   10,
+   23,
+   26,
+   41,
+   81,
+   86,
+   89,
+   95,
+   96,
+   117,
+   118,
+   119,
+   130,
+   132
+  ]
+ },
+ {
+  "cid": "CNN",
+  "name": "CNN (합성곱신경망)",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 11,
+  "n_inst": 4,
+  "institutes": [
+   "INST-02",
+   "INST-03",
+   "INST-05",
+   "INST-07"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-02": 8,
+   "INST-03": 1,
+   "INST-05": 1,
+   "INST-07": 1
+  },
+  "docs": [
+   16,
+   18,
+   20,
+   21,
+   41,
+   60,
+   75,
+   86,
+   96,
+   117,
+   119
+  ]
+ },
+ {
+  "cid": "SCADA",
+  "name": "수도 SCADA 운영데이터",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 9,
+  "n_inst": 4,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-03",
+   "INST-05"
+  ],
+  "main_inst": "INST-01",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 4,
+   "INST-02": 2,
+   "INST-03": 2,
+   "INST-05": 1
+  },
+  "docs": [
+   15,
+   22,
+   23,
+   67,
+   75,
+   108,
+   120,
+   127,
+   132
+  ]
+ },
+ {
+  "cid": "WATERNET",
+  "name": "water-NET (K-water 수도 통합운영)",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 6,
+  "n_inst": 4,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-03",
+   "INST-05"
+  ],
+  "main_inst": "INST-03",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 1,
+   "INST-02": 1,
+   "INST-03": 2,
+   "INST-05": 1
+  },
+  "docs": [
+   5,
+   23,
+   60,
+   68,
+   81,
+   101
+  ]
+ },
+ {
+  "cid": "EPANET",
+  "name": "EPANET (상수관망 수리)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 6,
+  "n_inst": 4,
+  "institutes": [
+   "INST-01",
+   "INST-03",
+   "INST-04",
+   "INST-05"
+  ],
+  "main_inst": "INST-03",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 1,
+   "INST-03": 3,
+   "INST-04": 1,
+   "INST-05": 1
+  },
+  "docs": [
+   5,
+   23,
+   60,
+   81,
+   133,
+   136
+  ]
+ },
+ {
+  "cid": "OPTIM",
+  "name": "최적화 (GA·PSO·LP)",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 5,
+  "n_inst": 4,
+  "institutes": [
+   "INST-02",
+   "INST-03",
+   "INST-04",
+   "INST-05"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 2,
+   "INST-03": 1,
+   "INST-04": 1,
+   "INST-05": 1
+  },
+  "docs": [
+   22,
+   41,
+   59,
+   85,
+   96
+  ]
+ },
+ {
+  "cid": "RIVER_BASIC_PLAN",
+  "name": "하천기본계획 보고서(문헌자료)",
+  "kind": "data",
+  "avail": "restricted",
+  "n_docs": 20,
+  "n_inst": 3,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-05"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 2,
+   "INST-02": 17,
+   "INST-05": 1
+  },
+  "docs": [
+   31,
+   37,
+   38,
+   40,
+   43,
+   44,
+   45,
+   53,
+   65,
+   73,
+   89,
+   91,
+   98,
+   104,
+   111,
+   122,
+   124,
+   132,
+   138,
+   142
+  ]
+ },
+ {
+  "cid": "KMA_AWS",
+  "name": "기상청 방재기상관측",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 13,
+  "n_inst": 3,
+  "institutes": [
+   "INST-02",
+   "INST-04",
+   "INST-07"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 11,
+   "INST-04": 1,
+   "INST-07": 1
+  },
+  "docs": [
+   18,
+   27,
+   38,
+   53,
+   69,
+   86,
+   95,
+   98,
+   118,
+   124,
+   132,
+   138,
+   145
+  ]
+ },
+ {
+  "cid": "LSTM",
+  "name": "LSTM / GRU (순환신경망)",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 11,
+  "n_inst": 3,
+  "institutes": [
+   "INST-02",
+   "INST-03",
+   "INST-05"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-02": 9,
+   "INST-03": 1,
+   "INST-05": 1
+  },
+  "docs": [
+   10,
+   11,
+   16,
+   20,
+   21,
+   41,
+   60,
+   70,
+   86,
+   89,
+   118
+  ]
+ },
+ {
+  "cid": "KOSIS",
+  "name": "국가통계포털",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 8,
+  "n_inst": 3,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-03"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 2,
+   "INST-02": 5,
+   "INST-03": 1
+  },
+  "docs": [
+   32,
+   57,
+   58,
+   62,
+   65,
+   81,
+   82,
+   141
+  ]
+ },
+ {
+  "cid": "RWIS",
+  "name": "실시간수도정보시스템",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 5,
+  "n_inst": 3,
+  "institutes": [
+   "INST-02",
+   "INST-03",
+   "INST-05"
+  ],
+  "main_inst": "INST-03",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 1,
+   "INST-03": 2,
+   "INST-05": 1
+  },
+  "docs": [
+   5,
+   23,
+   68,
+   93,
+   101
+  ]
+ },
+ {
+  "cid": "TRANSFORMER",
+  "name": "Transformer (어텐션)",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 5,
+  "n_inst": 3,
+  "institutes": [
+   "INST-02",
+   "INST-05",
+   "INST-07"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-02": 3,
+   "INST-05": 1,
+   "INST-07": 1
+  },
+  "docs": [
+   11,
+   12,
+   18,
+   86,
+   117
+  ]
+ },
+ {
+  "cid": "ARIMA",
+  "name": "ARIMA (시계열)",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 5,
+  "n_inst": 3,
+  "institutes": [
+   "INST-01",
+   "INST-02",
+   "INST-05"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 1,
+   "INST-02": 3,
+   "INST-05": 1
+  },
+  "docs": [
+   68,
+   81,
+   89,
+   108,
+   121
+  ]
+ },
+ {
+  "cid": "CFD",
+  "name": "CFD (전산유체: FLOW-3D·Fluent 등)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 4,
+  "n_inst": 3,
+  "institutes": [
+   "INST-03",
+   "INST-04",
+   "INST-05"
+  ],
+  "main_inst": "INST-05",
+  "provider": null,
+  "inst_docs": {
+   "INST-03": 1,
+   "INST-04": 1,
+   "INST-05": 2
+  },
+  "docs": [
+   14,
+   60,
+   80,
+   88
+  ]
+ },
+ {
+  "cid": "MONTE_CARLO",
+  "name": "몬테카를로 모의",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 4,
+  "n_inst": 3,
+  "institutes": [
+   "INST-02",
+   "INST-04",
+   "INST-05"
+  ],
+  "main_inst": "INST-04",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 1,
+   "INST-04": 2,
+   "INST-05": 1
+  },
+  "docs": [
+   37,
+   59,
+   109,
+   133
+  ]
+ },
+ {
+  "cid": "WEIS",
+  "name": "물환경정보시스템",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 25,
+  "n_inst": 2,
+  "institutes": [
+   "INST-01",
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 3,
+   "INST-02": 22
+  },
+  "docs": [
+   2,
+   10,
+   30,
+   31,
+   32,
+   38,
+   45,
+   48,
+   49,
+   51,
+   53,
+   58,
+   65,
+   73,
+   86,
+   96,
+   98,
+   107,
+   111,
+   115,
+   117,
+   119,
+   124,
+   130,
+   143
+  ]
+ },
+ {
+  "cid": "BIO_MONITORING_NET",
+  "name": "생물측정망 조사자료",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 11,
+  "n_inst": 2,
+  "institutes": [
+   "INST-01",
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 1,
+   "INST-02": 10
+  },
+  "docs": [
+   35,
+   38,
+   44,
+   58,
+   73,
+   97,
+   98,
+   124,
+   137,
+   141,
+   143
+  ]
+ },
+ {
+  "cid": "MyWater",
+  "name": "물정보포털",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 10,
+  "n_inst": 2,
+  "institutes": [
+   "INST-01",
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 1,
+   "INST-02": 9
+  },
+  "docs": [
+   1,
+   6,
+   10,
+   45,
+   51,
+   69,
+   115,
+   124,
+   131,
+   132
+  ]
+ },
+ {
+  "cid": "KMA_ASOS",
+  "name": "기상청 종관기상관측",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 10,
+  "n_inst": 2,
+  "institutes": [
+   "INST-02",
+   "INST-05"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 9,
+   "INST-05": 1
+  },
+  "docs": [
+   1,
+   27,
+   38,
+   69,
+   86,
+   90,
+   118,
+   124,
+   138,
+   145
+  ]
+ },
+ {
+  "cid": "RCM_SSP",
+  "name": "기후변화 시나리오 (SSP/RCP·GCM)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 10,
+  "n_inst": 2,
+  "institutes": [
+   "INST-01",
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 1,
+   "INST-02": 9
+  },
+  "docs": [
+   1,
+   10,
+   16,
+   29,
+   56,
+   57,
+   64,
+   69,
+   84,
+   143
+  ]
+ },
+ {
+  "cid": "EFDC",
+  "name": "EFDC (3차원 수리·수질)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 10,
+  "n_inst": 2,
+  "institutes": [
+   "INST-01",
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 2,
+   "INST-02": 8
+  },
+  "docs": [
+   37,
+   45,
+   53,
+   86,
+   89,
+   96,
+   98,
+   117,
+   138,
+   144
+  ]
+ },
+ {
+  "cid": "MODFLOW",
+  "name": "MODFLOW (지하수 흐름)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 8,
+  "n_inst": 2,
+  "institutes": [
+   "INST-01",
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 2,
+   "INST-02": 6
+  },
+  "docs": [
+   13,
+   63,
+   94,
+   111,
+   119,
+   134,
+   146,
+   147
+  ]
+ },
+ {
+  "cid": "SWMM",
+  "name": "SWMM (도시 유출·관거)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 7,
+  "n_inst": 2,
+  "institutes": [
+   "INST-02",
+   "INST-05"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 6,
+   "INST-05": 1
+  },
+  "docs": [
+   1,
+   37,
+   44,
+   58,
+   60,
+   132,
+   138
+  ]
+ },
+ {
+  "cid": "BAYES",
+  "name": "베이지안 추론",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 6,
+  "n_inst": 2,
+  "institutes": [
+   "INST-02",
+   "INST-07"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 5,
+   "INST-07": 1
+  },
+  "docs": [
+   18,
+   35,
+   37,
+   69,
+   86,
+   89
+  ]
+ },
+ {
+  "cid": "WEAP",
+  "name": "WEAP (물수급 계획)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 6,
+  "n_inst": 2,
+  "institutes": [
+   "INST-02",
+   "INST-03"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 5,
+   "INST-03": 1
+  },
+  "docs": [
+   26,
+   69,
+   89,
+   124,
+   131,
+   140
+  ]
+ },
+ {
+  "cid": "GIMS",
+  "name": "국가지하수정보센터",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 6,
+  "n_inst": 2,
+  "institutes": [
+   "INST-02",
+   "INST-03"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 5,
+   "INST-03": 1
+  },
+  "docs": [
+   58,
+   82,
+   94,
+   104,
+   124,
+   131
+  ]
+ },
+ {
+  "cid": "LLM",
+  "name": "LLM / 생성형 AI",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 5,
+  "n_inst": 2,
+  "institutes": [
+   "INST-02",
+   "INST-07"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-02": 4,
+   "INST-07": 1
+  },
+  "docs": [
+   10,
+   11,
+   18,
+   86,
+   117
+  ]
+ },
+ {
+  "cid": "GBM",
+  "name": "XGBoost / LightGBM / GBM",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 5,
+  "n_inst": 2,
+  "institutes": [
+   "INST-01",
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-01": 1,
+   "INST-02": 4
+  },
+  "docs": [
+   26,
+   86,
+   96,
+   117,
+   130
+  ]
+ },
+ {
+  "cid": "KRM",
+  "name": "전사적 리스크관리 시스템",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 3,
+  "n_inst": 2,
+  "institutes": [
+   "INST-02",
+   "INST-03"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 2,
+   "INST-03": 1
+  },
+  "docs": [
+   22,
+   64,
+   107
+  ]
+ },
+ {
+  "cid": "PINN",
+  "name": "PINN (물리기반 신경망)",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 2,
+  "n_inst": 2,
+  "institutes": [
+   "INST-02",
+   "INST-05"
+  ],
+  "main_inst": "INST-05",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-02": 1,
+   "INST-05": 1
+  },
+  "docs": [
+   60,
+   86
+  ]
+ },
+ {
+  "cid": "SWAT",
+  "name": "SWAT (유역 수문·수질)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 19,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 19
+  },
+  "docs": [
+   1,
+   29,
+   37,
+   44,
+   49,
+   51,
+   62,
+   69,
+   89,
+   98,
+   115,
+   117,
+   118,
+   119,
+   124,
+   134,
+   138,
+   146,
+   147
+  ]
+ },
+ {
+  "cid": "HSPF",
+  "name": "HSPF (유역 수문·수질)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 19,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 19
+  },
+  "docs": [
+   1,
+   10,
+   29,
+   37,
+   38,
+   44,
+   48,
+   49,
+   51,
+   53,
+   64,
+   86,
+   89,
+   96,
+   98,
+   111,
+   115,
+   119,
+   138
+  ]
+ },
+ {
+  "cid": "FLOW_MEASUREMENT",
+  "name": "현장 유량측정(실측)",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 17,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 17
+  },
+  "docs": [
+   26,
+   32,
+   37,
+   38,
+   48,
+   49,
+   51,
+   53,
+   62,
+   68,
+   78,
+   89,
+   96,
+   124,
+   132,
+   146,
+   147
+  ]
+ },
+ {
+  "cid": "DAM_OPS",
+  "name": "댐 운영자료(유입·방류·저수위)",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 12,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 12
+  },
+  "docs": [
+   11,
+   34,
+   37,
+   41,
+   49,
+   53,
+   86,
+   89,
+   94,
+   98,
+   119,
+   121
+  ]
+ },
+ {
+  "cid": "RF",
+  "name": "Random Forest",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 10,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-02": 10
+  },
+  "docs": [
+   10,
+   21,
+   26,
+   30,
+   86,
+   96,
+   117,
+   118,
+   119,
+   143
+  ]
+ },
+ {
+  "cid": "CE_QUAL_W2",
+  "name": "CE-QUAL-W2 (저수지 수질)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 10,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 10
+  },
+  "docs": [
+   37,
+   51,
+   53,
+   64,
+   86,
+   98,
+   115,
+   117,
+   138,
+   143
+  ]
+ },
+ {
+  "cid": "SVM",
+  "name": "SVM / SVR",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 9,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-02": 9
+  },
+  "docs": [
+   21,
+   41,
+   68,
+   78,
+   86,
+   96,
+   117,
+   118,
+   119
+  ]
+ },
+ {
+  "cid": "Sentinel",
+  "name": "Sentinel 위성영상",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 8,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-06",
+  "inst_docs": {
+   "INST-02": 8
+  },
+  "docs": [
+   16,
+   21,
+   37,
+   86,
+   96,
+   117,
+   118,
+   119
+  ]
+ },
+ {
+  "cid": "AEM3D",
+  "name": "AEM3D (3차원 수질)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 8,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 8
+  },
+  "docs": [
+   48,
+   49,
+   51,
+   86,
+   98,
+   117,
+   138,
+   143
+  ]
+ },
+ {
+  "cid": "PRMS",
+  "name": "PRMS (유역 수문)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 7,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 7
+  },
+  "docs": [
+   1,
+   37,
+   89,
+   119,
+   134,
+   146,
+   147
+  ]
+ },
+ {
+  "cid": "MODIS",
+  "name": "MODIS 위성영상",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 6,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-06",
+  "inst_docs": {
+   "INST-02": 6
+  },
+  "docs": [
+   16,
+   21,
+   26,
+   96,
+   117,
+   118
+  ]
+ },
+ {
+  "cid": "Landsat",
+  "name": "Landsat 위성영상",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 6,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-06",
+  "inst_docs": {
+   "INST-02": 6
+  },
+  "docs": [
+   16,
+   21,
+   96,
+   118,
+   119,
+   142
+  ]
+ },
+ {
+  "cid": "KDRUM",
+  "name": "K-DRUM (분포형 유출)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 5,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 5
+  },
+  "docs": [
+   1,
+   89,
+   119,
+   124,
+   134
+  ]
+ },
+ {
+  "cid": "TANK",
+  "name": "TANK 모형 (강우-유출)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 5,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 5
+  },
+  "docs": [
+   29,
+   89,
+   96,
+   124,
+   131
+  ]
+ },
+ {
+  "cid": "QUAL2",
+  "name": "QUAL2E/QUAL2K (하천 수질)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 5,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 5
+  },
+  "docs": [
+   37,
+   49,
+   98,
+   119,
+   138
+  ]
+ },
+ {
+  "cid": "COSFIM",
+  "name": "COSFIM (댐 홍수 운영)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 4,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 4
+  },
+  "docs": [
+   11,
+   41,
+   47,
+   145
+  ]
+ },
+ {
+  "cid": "KOMPSAT",
+  "name": "아리랑위성 영상",
+  "kind": "data",
+  "avail": "restricted",
+  "n_docs": 4,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-06",
+  "inst_docs": {
+   "INST-02": 4
+  },
+  "docs": [
+   21,
+   96,
+   118,
+   119
+  ]
+ },
+ {
+  "cid": "VWORLD",
+  "name": "브이월드 공간정보",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 4,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 4
+  },
+  "docs": [
+   27,
+   57,
+   62,
+   142
+  ]
+ },
+ {
+  "cid": "HEC_RESSIM",
+  "name": "HEC-ResSim (저수지 운영)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 4,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 4
+  },
+  "docs": [
+   29,
+   41,
+   47,
+   119
+  ]
+ },
+ {
+  "cid": "HEC_RAS",
+  "name": "HEC-RAS (하천 수리)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 4,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 4
+  },
+  "docs": [
+   31,
+   41,
+   89,
+   132
+  ]
+ },
+ {
+  "cid": "WASP",
+  "name": "WASP (수질)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 4,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 4
+  },
+  "docs": [
+   37,
+   53,
+   96,
+   138
+  ]
+ },
+ {
+  "cid": "MODSIM",
+  "name": "MODSIM / KModSim (물배분)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 4,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 4
+  },
+  "docs": [
+   69,
+   89,
+   98,
+   131
+  ]
+ },
+ {
+  "cid": "HEC_HMS",
+  "name": "HEC-HMS (강우-유출)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 3,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 3
+  },
+  "docs": [
+   1,
+   119,
+   132
+  ]
+ },
+ {
+  "cid": "SSARR",
+  "name": "SSARR (하천 유출)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 3,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 3
+  },
+  "docs": [
+   1,
+   37,
+   111
+  ]
+ },
+ {
+  "cid": "HDAPS",
+  "name": "수문자료관리시스템",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 3,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 3
+  },
+  "docs": [
+   37,
+   68,
+   124
+  ]
+ },
+ {
+  "cid": "MIKE",
+  "name": "MIKE 계열 (DHI)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 3,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 3
+  },
+  "docs": [
+   89,
+   146,
+   147
+  ]
+ },
+ {
+  "cid": "FEFLOW",
+  "name": "FEFLOW (지하수)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 3,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 3
+  },
+  "docs": [
+   94,
+   146,
+   147
+  ]
+ },
+ {
+  "cid": "STORAGE_FN",
+  "name": "저류함수법 (홍수 유출)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 2,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 2
+  },
+  "docs": [
+   89,
+   145
+  ]
+ },
+ {
+  "cid": "RL",
+  "name": "강화학습",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-07",
+  "inst_docs": {
+   "INST-02": 1
+  },
+  "docs": [
+   11
+  ]
+ },
+ {
+  "cid": "IWATER",
+  "name": "i-water (스마트 물관리 플랫폼)",
+  "kind": "data",
+  "avail": "internal_only",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-03"
+  ],
+  "main_inst": "INST-03",
+  "provider": null,
+  "inst_docs": {
+   "INST-03": 1
+  },
+  "docs": [
+   23
+  ]
+ },
+ {
+  "cid": "VIC",
+  "name": "VIC (대규모 수문)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 1
+  },
+  "docs": [
+   118
+  ]
+ },
+ {
+  "cid": "KRIGING",
+  "name": "크리깅 (공간 보간)",
+  "kind": "method",
+  "avail": "open",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 1
+  },
+  "docs": [
+   118
+  ]
+ },
+ {
+  "cid": "KMA_RADAR",
+  "name": "기상레이더 강우자료",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": "INST-06",
+  "inst_docs": {
+   "INST-02": 1
+  },
+  "docs": [
+   132
+  ]
+ },
+ {
+  "cid": "NDMS",
+  "name": "국가재난관리정보시스템",
+  "kind": "data",
+  "avail": "restricted",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 1
+  },
+  "docs": [
+   132
+  ]
+ },
+ {
+  "cid": "INFOWORKS",
+  "name": "InfoWorks (관망·도시홍수)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 1
+  },
+  "docs": [
+   132
+  ]
+ },
+ {
+  "cid": "KHOA",
+  "name": "국립해양조사원 조위자료",
+  "kind": "data",
+  "avail": "open",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-01"
+  ],
+  "main_inst": "INST-01",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 1
+  },
+  "docs": [
+   144
+  ]
+ },
+ {
+  "cid": "DELFT3D",
+  "name": "Delft3D (수리·수질·지형)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-01"
+  ],
+  "main_inst": "INST-01",
+  "provider": null,
+  "inst_docs": {
+   "INST-01": 1
+  },
+  "docs": [
+   144
+  ]
+ },
+ {
+  "cid": "GR4J",
+  "name": "GR4J (개념적 유출)",
+  "kind": "model",
+  "avail": "open",
+  "n_docs": 1,
+  "n_inst": 1,
+  "institutes": [
+   "INST-02"
+  ],
+  "main_inst": "INST-02",
+  "provider": null,
+  "inst_docs": {
+   "INST-02": 1
+  },
+  "docs": [
+   145
+  ]
+ }
+]

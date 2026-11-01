@@ -42,6 +42,109 @@ q, meta, info = load()
 q["어절실패율"] = 1 - q["어절성공률"]
 q["판정"] = pd.Categorical(q["판정"], STATUS_ORDER, ordered=True)
 
+ASSETS = Path(__file__).parent / "data" / "assets"
+INST_NAME = {"INST-01": "경영연구소", "INST-02": "수자원환경연구소", "INST-03": "상하수도연구소",
+             "INST-04": "물인프라안전연구소", "INST-05": "물에너지연구소", "INST-06": "수자원위성연구소",
+             "INST-07": "AI연구소"}
+KIND_KO = {"data": "데이터", "model": "모델", "method": "방법"}
+page = st.sidebar.radio("화면", ["파싱 관제", "연구소 협업 지도"], index=0)
+
+
+def inst_label(c):
+    return f"{c} {INST_NAME.get(c, '')}".strip() if isinstance(c, str) and c and c != "미정" else "미정"
+
+
+@st.cache_data(ttl=300)
+def load_assets():
+    ri = pd.read_csv(ASSETS / "report_inst.csv", encoding="utf-8-sig")
+    shared = json.loads((ASSETS / "shared_assets.json").read_text(encoding="utf-8"))
+    edges = json.loads((ASSETS / "edges.json").read_text(encoding="utf-8"))
+    return ri, shared, edges
+
+
+if page == "연구소 협업 지도":
+    if not (ASSETS / "report_inst.csv").exists():
+        st.error("data/assets 가 없습니다. pipeline/classify_inst.py → asset_map.py 를 먼저 실행하세요.")
+        st.stop()
+    ri, shared, edges = load_assets()
+    st.title("연구소 협업 지도")
+    st.caption("연구소 배정은 water-tech-agent 연구소 라벨 점수(vendor/water_tech_agent, 키워드·분야 친화도)와 같은 기준 · "
+               "데이터·모델·방법은 자산 사전(data/assets/asset_gazetteer.json)으로 보고서 전문에서 찾음(2회 이상 언급) · LLM 없음")
+    lab = ri[ri["배정근거"] == "수행조직"]
+    agree = (lab["추정_1순위"] == lab["연구소_배정"]).mean() if len(lab) else float("nan")
+    multi = [s for s in shared if s["n_inst"] >= 2]
+    c = st.columns(5)
+    c[0].metric("연구소 배정", f"{int(ri['연구소_배정'].notna().sum())}건",
+                help="수행조직이 연구소를 밝힌 보고서는 그 연구소, 나머지는 키워드 적합도 1순위")
+    c[1].metric("수행조직 기준", f"{len(lab)}건")
+    c[2].metric("키워드 추정 일치율", f"{agree:.0%}", help="수행조직이 연구소를 밝힌 보고서에서 키워드 추정 1순위가 맞은 비율")
+    c[3].metric("찾은 자산", f"{len(shared)}종", help="보고서 2회 이상 언급된 데이터·모델·방법")
+    c[4].metric("2개 이상 연구소가 쓰는 자산", f"{len(multi)}종")
+
+    st.subheader("연구소별 보고서")
+    by = ri.assign(연구소=ri["연구소_배정"].map(inst_label)).groupby(["연구소", "배정근거"]).size().reset_index(name="건수")
+    st.altair_chart(alt.Chart(by).mark_bar().encode(
+        y=alt.Y("연구소:N", title=None, sort="-x", axis=alt.Axis(labelLimit=240, labelOverlap=False)),
+        x=alt.X("sum(건수):Q", title="보고서 수"),
+        color=alt.Color("배정근거:N", legend=alt.Legend(orient="top", title=None),
+                        scale=alt.Scale(domain=["수행조직", "키워드추정", "미정(적합도 낮음)", "미변환"],
+                                        range=["#22C3E6", "#4F7DF3", "#8A94A6", "#4A5263"])),
+        tooltip=["연구소:N", "배정근거:N", "건수:Q"]).properties(height=34 * by["연구소"].nunique()),
+        use_container_width=True)
+
+    st.subheader("연구소 사이 공유 자산 수")
+    if edges:
+        e = pd.DataFrame(edges)
+        e = pd.concat([e, e.rename(columns={"src": "dst", "dst": "src"})])
+        e["a"], e["b"] = e["src"].map(inst_label), e["dst"].map(inst_label)
+        base = alt.Chart(e).encode(x=alt.X("a:N", title=None, axis=alt.Axis(labelAngle=-30, labelLimit=160, labelOverlap=False)),
+                                   y=alt.Y("b:N", title=None, axis=alt.Axis(labelLimit=160, labelOverlap=False)))
+        st.altair_chart((base.mark_rect().encode(color=alt.Color("w:Q", title="공유 자산", scale=alt.Scale(scheme="teals")),
+                                                 tooltip=["a:N", "b:N", alt.Tooltip("w:Q", title="공유 자산 수")])
+                         + base.mark_text(fontSize=12).encode(text="w:Q")).properties(height=320),
+                        use_container_width=True)
+        st.caption("칸 숫자 = 두 연구소 보고서가 함께 쓰는 데이터·모델·방법 종류 수 (water-tech-agent edges.json 과 같은 꼴)")
+
+    st.subheader("같이 쓰는 자산 — 공동관리·협업 후보")
+    sd = pd.DataFrame(multi)
+    if len(sd):
+        sd["종류"] = sd["kind"].map(KIND_KO)
+        sd["연구소별 보고서"] = sd["inst_docs"].apply(lambda d: " · ".join(f"{INST_NAME.get(k, k)[:-3] or k} {v}" for k, v in d.items()))
+        sd["주 사용"] = sd["main_inst"].map(inst_label)
+        sd["공급 가능"] = sd["provider"].map(lambda x: inst_label(x) if isinstance(x, str) else "")
+        kpick = st.multiselect("종류", list(KIND_KO.values()), default=list(KIND_KO.values()))
+        st.dataframe(sd[sd["종류"].isin(kpick)][["종류", "name", "avail", "n_docs", "n_inst", "연구소별 보고서", "주 사용", "공급 가능"]]
+                     .rename(columns={"name": "자산", "avail": "접근성", "n_docs": "보고서", "n_inst": "연구소"}),
+                     hide_index=True, use_container_width=True, height=380)
+        st.caption("접근성 internal_only = K-water 내부 자료 → 여러 연구소가 쓰면 공동관리 1순위")
+
+    st.subheader("넘길 수 있는 자산 — 수단 연구소(위성·AI)가 공급·지원할 후보")
+    pv = pd.DataFrame([s for s in shared if s.get("provider")])
+    if len(pv):
+        pv["공급 연구소"] = pv["provider"].map(inst_label)
+        pv["쓰는 연구소"] = pv["institutes"].apply(lambda L: ", ".join(INST_NAME.get(i, i) for i in L if i != None))
+        st.dataframe(pv[["공급 연구소", "name", "n_docs", "쓰는 연구소"]].rename(columns={"name": "자산", "n_docs": "보고서"})
+                     .sort_values(["공급 연구소", "보고서"], ascending=[True, False]), hide_index=True, use_container_width=True)
+    sc = ri[ri["공유후보"].fillna("") != ""]
+    st.caption(f"보고서 단위 공유 후보(연구소 라벨 점수의 share 규칙): {len(sc)}건 — 아래 표의 '공유후보' 열")
+
+    st.subheader("보고서별 연구소 배정")
+    f1, f2 = st.columns(2)
+    ipick = f1.multiselect("연구소", sorted(ri["연구소_배정"].dropna().unique()), format_func=inst_label, placeholder="전체")
+    wpick = f2.multiselect("배정 근거", sorted(ri["배정근거"].dropna().unique()), placeholder="전체")
+    v = ri.copy()
+    v["연구소_배정"] = v["연구소_배정"].fillna("미정")
+    if ipick:
+        v = v[v["연구소_배정"].isin(ipick)]
+    if wpick:
+        v = v[v["배정근거"].isin(wpick)]
+    st.dataframe(v[["번호", "보고서제목", "연구소_배정", "배정근거", "추정_1순위", "추정_적합도", "분야명", "공유후보", "이관제안",
+                    "맞은키워드", "수행조직"]], hide_index=True, use_container_width=True, height=420,
+                 column_config={"번호": st.column_config.NumberColumn(format="%03d", width="small"),
+                                "보고서제목": st.column_config.TextColumn(width="large"),
+                                "추정_적합도": st.column_config.NumberColumn(format="%.2f")})
+    st.stop()
+
 # ---------------- header
 st.title("ALIO 보고서 파싱 관제")
 st.caption(
