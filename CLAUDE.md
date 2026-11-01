@@ -39,7 +39,9 @@ data/parsed/run_log.tsv       번호 · md 종료코드 · chunks 종료코드 �
 data/parsed/run_info.json     마지막 실행의 kordoc 버전·옵션·원본 커밋
 data/parsed/org_names.csv     수행조직 원문 목록 — '대응_연구소코드' 열을 채우면 extract_meta.py 가 소속구분을 그 값으로 다시 매김
 data/parsed/agents/alio_kordoc_parser.json   실행 상태 (water-tech-agent 관제센터 에이전트 상태 형식)
-app.py                        파싱 관제 화면 (Streamlit)
+app.py                        파싱 관제 화면 (Streamlit) — 사이드바: 파싱 관제 / 연구소 협업 지도
+pages/1_연구소_배당_판정.py      사람이 보고서별 연구소를 다시 판정하는 화면 → data/assets/inst_overrides.csv
+pipeline/inst_overrides.py    판정 파일 읽기·병합·GitHub 저장 (판정 화면·asset_map·협업 지도 공용)
 ```
 
 ## 실행
@@ -100,6 +102,11 @@ streamlit run app.py          # 사이드바: 파싱 관제 / 연구소 협업 �
   2607alioreport 사전의 "현장조사·현지조사" 별칭은 61건에 걸려 수질 특정 별칭만 남겼다(`ALIAS_OVERRIDE`).
 - 1차 결과: 자산 72종 사용, 2개 이상 연구소가 쓰는 자산 34종, 연구소 연결 14쌍. 위성 영상(Sentinel·MODIS·Landsat·KOMPSAT)은
   INST-02 보고서에서만 쓰여 INST-06 공급 후보, 딥러닝·디지털트윈은 INST-01~05 에 퍼져 INST-07 지원 후보(`provider` 열).
+- **사람 판정이 우선**: `data/assets/inst_overrides.csv`(번호·판정_연구소[INST-0n|OUT]·공유_연구소·확인·메모·판정자·판정시각).
+  `report_inst.csv` 는 기계 배정만 담고, 판정은 읽는 쪽(`asset_map.py`, 협업 지도)이 `inst_overrides.apply()` 로 덮는다.
+  판정 화면 저장: Streamlit Secrets `GITHUB_TOKEN`(Contents 쓰기)이 있으면 main 에 이 파일 하나만 바로 커밋(번호 단위 병합),
+  `JUDGE_PASSCODE` 가 있으면 암호를 맞춰야 저장. 없으면 CSV 내려받기 → 같은 경로에 올린다. 판정 뒤 공유 자산·연결 수는
+  `python pipeline/asset_map.py` 를 다시 돌려야 바뀐다. 판정이 쌓이면 키워드 추정 일치율을 판정 기준으로 다시 잰다.
 - 한계: 사전에 없는 자산은 못 찾는다, '사용'과 '언급'을 가르지 못한다(참고문헌 언급도 2회면 사용). 다음 LLM 단계에서 요약문으로 보강.
 
 ## 다음 단계 메모
