@@ -79,7 +79,7 @@ st.subheader("보고서별 어절 성공률")
 fig = go.Figure()
 for s in STATUS_ORDER[:3]:
     d = q[q["판정"] == s]
-    fig.add_bar(x=d["번호"], y=d["어절성공률"], name=s, marker_color=STATUS_COLOR[s],
+    fig.add_bar(x=d["번호"], y=d["어절성공률"], name=s, marker_color=STATUS_COLOR[s], width=0.8,
                 customdata=d[["보고서제목", "사유"]].fillna(""),
                 hovertemplate="(%{x:03d}) %{customdata[0]}<br>어절 성공률 %{y:.1%}<br>%{customdata[1]}<extra></extra>")
 for y, label in [(0.85, "주의선 85%")]:
