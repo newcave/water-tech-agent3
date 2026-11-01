@@ -1,0 +1,4123 @@
+[
+  {
+    "id": "c0001",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "<!-- <table id=\"t1\" /> -->\n| KOREA WATER RESOURCES CORPORATION | 낙<br>동<br>강<br>권<br>역<br>녹<br>조<br>관<br>리<br>최<br>적<br>화<br>방<br>안<br>연<br>구<br>(2<br>단<br>계) | R-CR-414-2090 <!-- <table parent_id=\"t1\" child_id=\"t2\" /> --> Final Report<br>낙동강 권역<br>녹조관리 최적화<br>방안 연구(2단계)<br>Development of Integrated Platform on the Control and Management of harmful algal blooms in Nakdong River Basin<br>2023. 1. |\n| --- | --- | --- |\n\n<!-- <table id=\"t2\" parent_id=\"t1\" /> -->\n| K-water연구원 |\n| --- |\n| 2022-W |\n| G21073 |",
+    "blockRange": [
+      0,
+      0
+    ],
+    "page": 1,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0002",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "![image](image_001.png)\n\n\n![image](image_002.png)",
+    "blockRange": [
+      1,
+      2
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0003",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 낙동강 권역 녹조관리 최적화 방안 연구(2단계)",
+    "blockRange": [
+      3,
+      3
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0004",
+    "type": "heading",
+    "breadcrumb": [
+      "낙동강 권역 녹조관리 최적화 방안 연구(2단계)"
+    ],
+    "text": "### Development of Integrated Platform on the Control and Management of harmful",
+    "blockRange": [
+      4,
+      4
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0005",
+    "type": "text",
+    "breadcrumb": [
+      "낙동강 권역 녹조관리 최적화 방안 연구(2단계)",
+      "Development of Integrated Platform on the Control and Management of harmful"
+    ],
+    "text": "algal blooms in Nakdong River Basin\n\n2023. 1.",
+    "blockRange": [
+      5,
+      6
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0006",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제\t출\t문",
+    "blockRange": [
+      7,
+      7
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0007",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "사 장 귀하\n\n이 보고서를 2022 년도 물환경처에서 수행한 “낙동강 권역 녹조관리 최적화 방안 연구(2단계)”의 연구보고서로 제출합니다.\n\n2023. 1\\. 30.",
+    "blockRange": [
+      8,
+      10
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0008",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "2023. 1. 30."
+    ],
+    "text": "연구책임자 : 물환경처 수석 위원 이희숙\n\n연구수행자 : 물환경처 책임 위원 이승재\n\n선임 연구원 최정규\n\n선임 위원 윤석제\n\n선임 위원 박연정\n\n위촉 연구원 진덕현\n\n겸직연구원 : K-water연구원 수석연구원 이영주",
+    "blockRange": [
+      11,
+      17
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0009",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "- i -",
+    "blockRange": [
+      18,
+      18
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0010",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구개발결과 활용보고서",
+    "blockRange": [
+      19,
+      19
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0011",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 1.<br>연구<br>총괄 | [간행물 관리번호: 2022-WR-CR-414-2090] |  | [과제번호:G21073] |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1.<br>연구<br>총괄 | (1)연구과제명 | 낙동강 권역 녹조관리 최적화 방안 연구(2단계) |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 물환경처 | (3)연구 책 임자 | 성명 | 이희숙 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 물환경처 | (3)연구 책 임자 | 소속 | 물환경처 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 물환경처 | (3)연구 책 임자 | 전화번호 |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 | 물환경처 | (3)연구 책 임자 | E-mail |  |\n| 1.<br>연구<br>총괄 | (4)연구기간 | 2022. 1 . \\~ 2022. 12.<br>(총 12 개월) | (5) 총연구개발비<br>(천원) | 총액 | 130,000(천원) |\n| 1.<br>연구<br>총괄 | (6)협동기관 |  | (5) 총연구개발비<br>(천원) | 정부 | 130,000(천원) |\n| 1.<br>연구<br>총괄 | (7)참여기업 |  | (5) 총연구개발비<br>(천원) | 기업 |  |\n| 1.<br>연구<br>총괄 | (8)기술분야 |  | (9)참여 연구원 | 7 명/ 1년 |  |\n| 1.<br>연구<br>총괄 | (10)연구개발목표 |  |  |  |  |\n| 1.<br>연구<br>총괄 | □ 플랫폼 효율평가시스템 개선 및 기업 보유기술 효율 검증 지원 방안 마련 |  |  |  |  |\n| 1.<br>연구<br>총괄 | (11)주요연구내용 |  |  |  |  |\n| 1.<br>연구<br>총괄 | □ 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련<br>- 녹조제어 통합플랫폼의 제어 기술 투입 의사결정시스템 고도화 지원<br>- 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시<br>□ 테스트베드를 통한 녹조관리 효율평가 체계 구축<br>- K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용<br>□ 기업 보유기술 효율 검증 지원 방안 마련<br>- 중소기업이 보유한 녹조 저감 기술 발굴 및 지원 방안 마련 |  |  |  |  |",
+    "blockRange": [
+      20,
+      20
+    ],
+    "page": 4,
+    "table": {
+      "rows": 14,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0012",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 연구개발결과 활용보고서 작성시, 지면이 부족하거나 또는 상기 문항 이외의 성과 활용 사항이 있는 경우 별지를 사용하여 작성해 주시기 바랍니다.\n- ※ 해당사항이 없을 경우 공란으로 비워두시기 바랍니다.\n- ii -",
+    "blockRange": [
+      21,
+      23
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0013",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- ii -"
+    ],
+    "text": "| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (12) 연구결과의 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 기술실용화 |  |  |  |  |  |  |  |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 실용화<br>완료 |  | 실용화<br>추진중 |  |  | 실용화<br>보류<br>(중단) |  | 선행<br>연구 |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 기타를 선택한 경우 구체적 활용실적 기재... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (13) 주요 연구성과 및 기술 개발단계 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | ∘기술명:<br>∘기술특성 : |  |  |  |  |  |  |  |  | ∘기술의 완성도<br>기초, 탐색연구단계 ( ), 응용연구단계 ( ),<br>개발연구단계 ( )<br>기업화 준비단계 ( ), 상품화 완료단계 ( )<br>∘기술 수명주기<br>기술개념 정립기 ( ), 기술 실험기 ( )<br>기술적용 시작기 ( ), 기술적용 성장기 ( )<br>기술적용 성숙기 ( ), 기술적용 쇠퇴기 ( ) |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | (14) 현장적용실적 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  | 공사명 |  |  | 공사기간 |  |  |  | 물량<br>(총물량) |  |  | 발주기관 |  |  | 시공기관 |  |  | R&D<br>참여자 역활 |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 가. 현장명 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 구분 |  | 기 존<br>(A) |  |  | 개 선<br>(B) |  |  | 단위효과<br>(C=A-B) |  |  | 현장<br>총물량<br>(D) |  |  | 향상도<br>$(A-BX100)$ $A$ |  |  | 적용현장<br>총효과<br>(C×D) |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공사비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 유지관리비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 기타비용절감<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 사고율<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 고 용<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공 기<br>(일/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 내구성<br>(年) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      24,
+      24
+    ],
+    "page": 5,
+    "table": {
+      "rows": 20,
+      "cols": 22
+    }
+  },
+  {
+    "id": "c0014",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 개별 공사에 가장 적합한 척도 사용가능 ex) m2, Km\n- ※ 적용 현장이 여러 곳일 경우 위 서식 복사해서 사용\n- iii -",
+    "blockRange": [
+      25,
+      27
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0015",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iii -"
+    ],
+    "text": "| 4.<br>기술적<br>효과 | (15) 기술개발목표 달성도 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 4.<br>기술적<br>효과 | 구분 | 지표명<br>(단위) | 개발전<br>국내수준 |  | 당개발사업<br>최종목표치 |  |  |  |  |  | 개발결과<br>실제달성치 |  |  |  |  | 현재국내<br>기술수준 |  |  |  |  |  | 세계 최고<br>기술수준 |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (16) 산업재산권 (발명특허‧실용신안‧의장‧s/w ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 |  | 출원 및<br>등록자 |  |  | 출원 |  |  |  |  |  |  |  |  | 등록 |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 |  | 출원 및<br>등록자 |  |  | 출원일 |  |  | 출원번호 |  |  |  |  |  | 등록일 |  |  |  |  | 등록번호 |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (17) 건설신기술 지정 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  |  | 출원일 |  |  | 고시일 |  |  | 보호기간 |  |  |  |  |  | 지정번호 |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (18) 기타 등록 및 지정현황(상품, 서비스 등록, KT 마크 등) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  |  | 출원일 |  |  |  | 고시일 |  |  | 보호기간 |  |  |  |  |  | 기 타 |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (19) 국내외 전문학술지 게재 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 구분 | 논문제목 |  |  |  |  |  | 학술지명 |  |  |  |  |  |  | 국명 |  |  |  | 통권, 호 |  |  |  |  | 년,월 |\n| 5.<br>학술적<br>효과 | SCI<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 일반<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (20) 학술회의 발표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 논문제목 |  |  |  |  |  |  |  |  | 학술회의 명칭 |  |  |  |  |  |  | 국 명 |  |  |  | 연도‧호 |  |  |  |\n| 5.<br>학술적<br>효과 | Establishment of an algal platform for the management of algal blooming areas |  |  |  |  |  |  |  |  | 국제하천호수학회<br>제36차<br>국제학술대회<br>(36th Congress of the International Society of Limnology) |  |  |  |  |  |  |  |  |  |  | 2022 |  |  |  |",
+    "blockRange": [
+      28,
+      28
+    ],
+    "page": 6,
+    "table": {
+      "rows": 22,
+      "cols": 25
+    }
+  },
+  {
+    "id": "c0016",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- iv -",
+    "blockRange": [
+      29,
+      29
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0017",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iv -"
+    ],
+    "text": "| 6.<br>공공적<br>효과 | (21) 법ㆍ제도 (설계기준, 시방서, 지침) 등에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6.<br>공공적<br>효과 | 구분 | 명칭 및 조항1) |  | 시행일시 |  | 기존내용 |  |  |  | 신규내용 |  |  |\n| 6.<br>공공적<br>효과 | 법 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 규정/지침 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기준 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 시방서 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (22) 정책수립에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 정책명 | 정책추진 실적 |  | 정책추진<br>일시 |  |  | 담당부처ㆍ팀 |  |  |  | 기대효과 |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (23) 교육 및 지도에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 구분 | 교육명 | 교육내용 |  | 교육대상 |  |  | 교육시간 | 교육인원 |  |  | 교육회수 |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 현장기술지도 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (24) 사회적 성과 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      30,
+      30
+    ],
+    "page": 7,
+    "table": {
+      "rows": 18,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0018",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- v -",
+    "blockRange": [
+      31,
+      31
+    ],
+    "page": 7
+  },
+  {
+    "id": "c0019",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      32,
+      32
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0020",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 1. 연구제목",
+    "blockRange": [
+      33,
+      33
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0021",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1. 연구제목"
+    ],
+    "text": "낙동강권역 녹조관리 최적화 방안 연구(2단계)",
+    "blockRange": [
+      34,
+      34
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0022",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 2. 연구기간",
+    "blockRange": [
+      35,
+      35
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0023",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "2. 연구기간"
+    ],
+    "text": "2022. 1. 1 ～ 2022. 12. 31.",
+    "blockRange": [
+      36,
+      36
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0024",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 3. 연구목적",
+    "blockRange": [
+      37,
+      37
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0025",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3. 연구목적"
+    ],
+    "text": "전체 수계의 녹조관리 연구에서 벗어나 지역적 특성에 맞는 맞춤형 조치를 위한 통합 녹조제어 플랫폼 구축 및 고도화로 연구 성과의 활용성 확대 및 성능의 극대화",
+    "blockRange": [
+      38,
+      38
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0026",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4. 연구내용",
+    "blockRange": [
+      39,
+      39
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0027",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "- 가. 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련\n\n- 녹조제어 통합플랫폼의 제어 기술 투입 의사결정시스템 고도화 지원\n\n- 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시\n\n- 나. 테스트베드를 통한 녹조관리 효율평가 체계 구축\n\n- K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용\n\n- 다. 기업 보유기술 효율 검증 지원 방안 마련\n\n- 중소기업이 보유한 녹조 저감 기술 발굴 및 지원 방안 마련",
+    "blockRange": [
+      40,
+      46
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0028",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 5. 연구결과",
+    "blockRange": [
+      47,
+      47
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0029",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- 가. 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련\n\n- 녹조제어 통합플랫폼의 제어 기술 투입 의사결정시스템 고도화 지원",
+    "blockRange": [
+      48,
+      49
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0030",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과",
+      "- 녹조제어 통합플랫폼의 제어 기술 투입 의사결정시스템 고도화 지원"
+    ],
+    "text": ": 플랫폼 내에 가동 중인 결과 데이터 및 장치를 활용하여 의사결정시스템 구축 및 UI 개선",
+    "blockRange": [
+      50,
+      50
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0031",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+    "blockRange": [
+      51,
+      51
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0032",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과",
+      "- 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시"
+    ],
+    "text": ": 기존 의사결정시스템 이외의 지점 선정, 기술 선정 등의 프로세스 추가 및 녹조 기술 선정 방법 제시를 통한 수요자 중심의 방법 제시",
+    "blockRange": [
+      52,
+      52
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0033",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- vi -\n\n- 나. 테스트베드를 통한 녹조관리 효율평가 체계 구축\n\n- 응집제, 인제거물질 및 수질정화블럭에 대해 실증 시설을 활용하여 평가 실시\n\n- 녹조 제거 장치(녹조 퇴치밭) 평가를 통해 영양염 및 조류의 효율평가를 실시하였으며, 운영방안 제시\n\n- 다. 기업 보유기술 효율 검증 지원 방안 마련\n\n- 센서 비교를 통해 IoT 기술의 현장 적용 가능성 확인\n\n- 기술 융합 통한 사업성 제고가 가능하도록 기술 개발\\~현장 적용까지 물산업 육성지원\n\n- vii -",
+    "blockRange": [
+      53,
+      60
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0034",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# S U M M A R Y",
+    "blockRange": [
+      61,
+      61
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0035",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "1. Project Title/Subtitle",
+    "blockRange": [
+      62,
+      62
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0036",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1. Project Title/Subtitle"
+    ],
+    "text": "Development of Integrated Platform on the Control and Management of harmful algal blooms in Nakdong River Basin",
+    "blockRange": [
+      63,
+      63
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0037",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "2. Research Period",
+    "blockRange": [
+      64,
+      64
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0038",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "2. Research Period"
+    ],
+    "text": "2022. 1. 1 ∼ 2022. 12. 31",
+    "blockRange": [
+      65,
+      65
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0039",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "3. Objective of Research",
+    "blockRange": [
+      66,
+      66
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0040",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "3. Objective of Research"
+    ],
+    "text": "Expanding the utilization of research results performance by building and advancing and an integrated algae blooms control platform for customized measures that fit the regional characteristics, moving away from total HABs management research",
+    "blockRange": [
+      67,
+      67
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0041",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "4. Content, Scope and Method of Research\n\n(1) Nakdong River algae control platform supplementation and expansion plan preparation\n\n- Control technology injection of integrated platform for algae control Decision-making system advancement support\n\n- Establishment of HABs management area in perspective of costomer and proposal of algae management plan\n\n(2) Establishment of algal bloom management efficiency evaluation system through Test-Bed\n\n- Field application of algae related control technology through provision of K-water Test-Bed\n\n(3) Preparation of measures to support efficiency verification of companies with core technologies\n\n- Discovery of HABs control technologies possessed by SMEs(Small and medium enterprise) and preparation of support plans\n\n5. Research Result\n\n(1) Nakdong River algae control platform supplementation and expansion plan preparation\n\n- Control technology injection of integrated platform for algae control Decision-making\n\n- viii -",
+    "blockRange": [
+      68,
+      79
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0042",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "- viii -"
+    ],
+    "text": "system advancement support\n\n: Establishment of decision-making system and UI improvement by utilizing data operated in the platform",
+    "blockRange": [
+      80,
+      81
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0043",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- Establishment of HABs management area in perspective of costomer and proposal of algae management plan",
+    "blockRange": [
+      82,
+      82
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "- Establishment of HABs management area in perspective of costomer and proposal of algae management plan"
+    ],
+    "text": ": Suggest additional methods of processes such as selection of branches and algae control technology prior to operation of the decision-making system wanted by the consumer",
+    "blockRange": [
+      83,
+      83
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0045",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "(2) Establishment of algal bloom management efficiency evaluation system through Test-Bed\n\n- Performance evaluation of HABs control materials(coagulant, phosphorus removal material and water purification block) through the use of demonstration facilities\n\n- Efficiency evaluation of nutrients and algae concentrations was conducted through evaluation of algae removal equipment (algae barrier boom), and operation plan was proposed\n\n(3) Preparation of measures to support efficiency verification of companies with core technologies\n\n- Check the field applicability of IoT technology through sensor comparison\n\n- Support for nurturing the water industry from technology development to field application to improve business feasibility through technological convergence\n\n- ix -",
+    "blockRange": [
+      84,
+      90
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0046",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목\t차",
+    "blockRange": [
+      91,
+      91
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0047",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "제 출 문 ······························································································ ⅰ 요 약 문 ······························································································ ⅵ 목 차 ······························································································ ⅹ 표 목 차 ······························································································ ⅺ 그림목차 ······························································································ ⅻ\n\n제 1 장 서 론 \t 1\n\n1.1 연구 배경 \t 1\n\n1.1.1 국내·외 녹조 관리 \t 1\n\n1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성 \t 3\n\n1.1.3 녹조 관리 기술 평가 사례 \t 9\n\n1.1.4 녹조 관리 기술 유형 분석 \t 13\n\n1.1.5 기술평가체계의 절차 \t 16\n\n1.2 연구내용 및 범위 \t 17\n\n제 2 장 재료 및 방법 \t 18\n\n2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 \t 18\n\n2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원 \t 18\n\n2.1.2 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시 \t 20\n\n2.2 테스트베드를 통한 녹조관리 효율평가 체계 구축 \t 20\n\n2.3 기업 보유기술 효율 검증 지원 방안 마련 \t 22\n\n2.3.1 물산업 중소기업 지원 사업 \t 22\n\n2.3.2 보유기술의 현장적용성 평가 \t 25\n\n2.3.3 물환경관련 기업-기술 매칭을 통한 중소기업 보유 기술 지원방안 마련 · 27\n\n제 3 장 연구 결과 \t 28\n\n3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 \t 28\n\n3.1.1 낙동강 녹조제어 플랫폼 보완 \t 28\n\n3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원 \t 31 3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시 \t 35\n\n- x -",
+    "blockRange": [
+      92,
+      114
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0048",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차",
+      "- x -"
+    ],
+    "text": "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축 \t 45\n\n3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용 \t 45\n\n3.3 기업 보유기술 효율 검증 지원 방안 마련 \t 46\n\n3.3.1 보유기술의 현장적용성 평가 \t 46\n\n3.3.2 물환경관련 기업-기술 매칭을 통한 중소기업 보유 기술 지원방안 마련 · 48\n\n제 4 장 결 론 \t 49\n\n참고문헌 \t 51",
+    "blockRange": [
+      115,
+      121
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0049",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표\t목\t차",
+    "blockRange": [
+      122,
+      122
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0050",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차"
+    ],
+    "text": "표 1. 1. 세계보건기구(WHO) 남조류 관리기준(Chorus & Welker, 2021) \t 2\n\n표 1. 2. 호주 국립보건의료연구위원회(NHMRC) 남조류 관리기준 \t 3\n\n표 1. 3. 녹조관리기술 소개(1단계) \t 6\n\n표 1. 4. 녹조제어기술 소개 \t 6\n\n표 1. 5. 녹조 모니터링 기술 소개 \t 8\n\n표 1. 6. 비점오염원 저감 기술 소개 \t 9\n\n표 1. 7. 변규덕 외(2016)에 의한 녹조기술의 평가 사례 \t 10\n\n표 1. 8. 녹조관리기술의 주요 유형 분류 \t 14\n\n표 1. 9. 연도별 연구목표 및 내용 \t 17\n\n표 2. 1. 예측 모델 데이터 구성 \t 18\n\n표 2. 2. 실증 단지 및 상·하류 조류 경보제 지점 \t 19\n\n표 2. 3. 플랫폼 내 의사결정 활용 데이터 \t 19\n\n표 2. 4. 낙동강(해평) 조류경보제 발령일수 및 1달 전·후 일시 \t 19\n\n표 2. 5. 테스트베드 운영 조건 \t 21\n\n표 2. 6. 물산업 중소기업 지원사업 제도 및 내용 \t 22\n\n표 2. 7. 전문인력 지원사업 내용 \t 25\n\n표 2. 8. 무인선박 및 에코봇 현장 적용 \t 26\n\n표 2. 9. 물환경관리 사업 활용 가능한 기업 및 기술 \t 27\n\n표 3. 1. 플랫폼 내 시각화 한계점 및 개선방향 \t 28\n\n표 3. 2. 해평과 칠곡보 지점의 유해남조류 세포수와 센서 값(클로로필-a 및 피코시아닌) 비교 31 표 3. 3. 유해남조류 세포수와 피코시아닌 센서 값의 기준값 설정 \t 32\n\n표 3. 4. 관계 기관 알림 메일 예시 \t 33\n\n- xi -",
+    "blockRange": [
+      123,
+      144
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0051",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차",
+      "- xi -"
+    ],
+    "text": "표 3. 5. 지점 선정의 평가 항목 \t 35\n\n표 3. 6. 기술 평가의 세부 항목 \t 41\n\n표 3. 7. 녹조 기술 선정(경제성 평가) \t 43\n\n표 3. 8. 관계 기관 알림 예시 \t 44\n\n표 3. 9. 녹조 제어 물질별 효율 평가 결과 \t 45\n\n표 3. 10. 녹조퇴치밭 총인 분석 결과 \t 45\n\n표 3. 11. 센서 탑재 무인정화 로봇 운영 계획 \t 46\n\n표 3. 12. 단파장(피코시아닌 센서) 및 다파장(남조류 Chl-a) 센서 측정 결과(D댐) ··· 47 표 3. 13. 녹조대응 및 모니터링 전송 기술 연계 2개 기업 매칭 \t 48",
+    "blockRange": [
+      145,
+      152
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0052",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그\t림\t목\t차",
+    "blockRange": [
+      153,
+      153
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0053",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "그림 1. 1. 녹조제어 통합 플랫폼 구성도 \t 4\n\n그림 1. 2. 녹조제어 통합 플랫폼(상황판) \t 4\n\n그림 1. 3. 녹조제어 통합 플랫폼(세부 구성 내용) \t 5\n\n그림 1. 4. KAIA 외(2018)에서 제시한 Neo-Act 기술의 처리효율(기술적 평가) 예시 ··· 11 그림 1. 5. KAIA 외(2018)에서 제시한 PLATUS 기술의 경제성 자료 예시 \t 12\n\n그림 1. 6. 한국환경공단(2012)에서 제시한 천연수질개선제를 이용한 응집부상 기술의\n\n처리성능 자료 \t 12\n\n그림 1. 7. 한국환경공단(2012)에서 제시한 오존 마이크로버블 기술의 경제성 자료 \t 13 그림 1. 8. 현장맞춤형 녹조관리기술 선정을 위한 평가체계(안) \t 14\n\n그림 2. 1. 서화천 실증시설 \t 20\n\n그림 2. 2. 녹조 퇴치밭 현장사진 \t 21\n\n그림 2. 3. 기술예고제 구성 \t 23\n\n그림 2. 4. K-테스트베드 프로세스 \t 23\n\n그림 2. 5. K-테스트베드 참여기관 \t 24\n\n그림 2. 6. K-테스트베드 운영절차 \t 24\n\n그림 2. 7. 센서를 활용한 수질 평가 \t 26\n\n그림 3. 1. 관리시스템 메인 구성 개선 전·후 UI \t 29\n\n그림 3. 2. 경보단계별 의사결정체계 수립 \t 29\n\n그림 3. 3. 비점오염원 DB 구축 \t 30\n\n그림 3. 4. 센서 데이터 연동 및 표출 \t 30\n\n그림 3. 5. 기상 정보 및 예측 결과 표출 \t 31\n\n그림 3. 6. 센서값에 따른 모니터링 및 대응 프로세스 \t 32\n\n그림 3. 7. 예측 결과에 따른 모니터링 및 대응 프로세스 \t 33\n\n- xii -",
+    "blockRange": [
+      154,
+      175
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0054",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xii -"
+    ],
+    "text": "그림 3. 8. 수요자 중심의 녹조 모니터링 및 대응 의사결정 프로세스 \t 35\n\n그림 3. 9. 모니터링/예측 및 제어기술 프로세스 \t 36\n\n그림 3. 10. 녹조 기술 선정(기술적 평가) \t 36\n\n그림 3. 11. 녹조 기술 평가 시스템 개요 \t 39\n\n그림 3. 12. 녹조관리 평가 (기술현황, 기술관리) \t 39\n\n그림 3. 13. 녹조관리 평가 (평가관리) \t 41\n\n그림 3. 14. 녹조관리 평가 (사용자관리) \t 42\n\n그림 3. 15. 녹조 모니터링 및 대응 프로세스 예시(센서 기반) \t 43\n\n그림 3. 16. 녹조 모니터링 및 대응 프로세스 예시(예측 기반) \t 44\n\n그림 3. 17. 녹조 퇴치밭 조류생물량(피코시아닌 및 클로로필-a) 수심별 농도 분포 · 46",
+    "blockRange": [
+      176,
+      185
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0055",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xiii -",
+    "blockRange": [
+      186,
+      186
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0056",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제1장 서론",
+    "blockRange": [
+      187,
+      187
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0057",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론"
+    ],
+    "text": "## 1.1 연구 배경",
+    "blockRange": [
+      188,
+      188
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0058",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경"
+    ],
+    "text": "### 1.1.1 국내·외 녹조 관리",
+    "blockRange": [
+      189,
+      189
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0059",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리"
+    ],
+    "text": "- 가. 국내",
+    "blockRange": [
+      190,
+      190
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0060",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리",
+      "가. 국내"
+    ],
+    "text": "국내 녹조관리는 「물환경보전법」에 의해 ‘공공수역관리자’ 등이 수행해야 할 조치 의무로 규정되어 있다. 「물환경보전법」 제21조의5에 따르면 ‘공공수역관리자’, ‘관계 중앙행정기관’, 그리고 하천·호소 등을 수원으로 하는 취수시설 또는 정수시설의 관리자에게 명할 수 있다.\n\n여기서 ‘공공수역관리자’란 (1) “수면관리자”와 (2) 「하천법」제8조에 따른 “하천관리청” 및 (3) 특별자치시장ㆍ특별자치도지사ㆍ시장ㆍ군수ㆍ구청장을 말하는데(「물환경보전법」 제19조의2\n\n제1항), 물환경보전법 시행령에 따라 환경부장관은 법 제29조3에 따라 조류(藻類)의 발생 등으로 인한 피해를 예방하기 위하여 다음 각 호의 조치를 요청하거나 명할 수 있다.",
+    "blockRange": [
+      191,
+      193
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0061",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리"
+    ],
+    "text": "1. 댐, 보 또는 저수지 등의 방류조치\n  1. 2\\. 조류제거시설의 설치, 조류제거물질의 살포 등 조류제거를 위한 조치\n  1. 3\\. 취수장ㆍ정수장의 조류 유입의 차단조치 또는 정수처리 강화 조치\n  1. 4\\. 방류수 수질 개선을 위한 처리 강화 등 조류의 발생을 예방하기 위한 조치",
+    "blockRange": [
+      194,
+      194
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0062",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리",
+      "1. 댐, 보 또는 저수지 등의 방류조치"
+    ],
+    "text": "물환경보전법 시행령 제28조(수질오염경보)에 따라 조류경보제가 시행되고 있으며, 1998년 팔당, 대청, 충주 및 주암호 주요 4개 호소에 대하여 시작한 이후 현재까지 전국 29개 하천 및 호소를 대상으로 운영하고 있다. 녹조 발생시 조류가 대량 증식하는 경우 일부 남조류에 의한 독성물질 및 냄새 등이 발생하므로 남조류 발생 현황을 파악하고 관계기관에 통보 및 추진체계를 구축함으로써 피해를 최소화하고자 하는데 목적이 있다.\n\n국내의 녹조 관리기준은 물환경보전법 시행령 [별표 3] 수질오염경보의 종류별 경보단계 및 그 단계별 발령 해제기준(제28조제3항 관련)에 따르며, Microcystis, Anabaena, Aphanizomenon 및 Oscillatoria 속 세포수의 합에 의한다. 조류경보와 친수활동 구간의 발령 해제 기준은 다음과 같다.\n\n상수원 구간에서는 2회 연속 채취 시 남조류 세포수가 1,000 cells/mL(관심), 10,000 cells/mL(경계) 및 1,000,000 cells/mL(조류 대발생) 이상일 때 발령이 되며, 2회 연속 1,000 cells/mL 미만인 경우 발령이 해제된다. 친수활동 구간에서는 2회 연속 채취 시 남조류 세포수가 20,000 cells/mL(관심) 및 100,000 cells/mL(경계) 이상일 때 발령이 되며, 2회 연속 20,000 cells/mL 미만인 경우 발령이 해제된다.\n\n단계 발령 시 단계별 조치사항이 있으며, 이에 따라 모니터링 강화 및 친수활동 자제, 조류 제거조치 및 홍보 등을 취하게 된다.",
+    "blockRange": [
+      195,
+      198
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0063",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리"
+    ],
+    "text": "- 나. 국외",
+    "blockRange": [
+      199,
+      199
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0064",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리",
+      "나. 국외"
+    ],
+    "text": "국외에서도 국가별로 조류경보 발령기준이 제시되어 있다. 세계보건기구(WHO), 호주 (NHMRC), 뉴질랜드, 프랑스, 캐나다 등 여러 국가에서 기준(남조류 세포수 또는 독소 등)을 정하여 남조류를 관리하고 있다. 특히, 먹는 물의 경우 Microcystins, Nodularin, Cylindrospermopsin, Saxitoxinss 및 Anatoxin-a에 대한 기준 값이 나라별로 항목 및 값이 상이하게 존재한다.\n\n세계보건기구(WHO)의 경우 먹는 물, 상수원수, 친수용수로 구분하여 관리하고 있으며, 먹는 물 기준의 경우 2021년 이후 장기와 단기로 나뉘어 관리되고 있다 (표 1.1).",
+    "blockRange": [
+      200,
+      201
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0065",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리",
+      "나. 국외"
+    ],
+    "text": "**표 1.1. 세계보건기구(WHO) 남조류 관리기준(Chorus & Welker, 2021)**\n\n| 구분 | 단계 | 관리기준 |  |\n| --- | --- | --- | --- |\n| 먹는물 | - | 장기(단계1) | MCs\\*(1 μg/L), 생체량(0.3 mm3/L), Chl-a(1 μg/L) |\n| 먹는물 | - | 단기(단계2) | MCs(12 μg/L), 생체량(4 mm3/L), Chl-a(12 μg/L) |\n| 상수<br>원수 | 주의 | 투명도<2m 또는 남조류 (10 군체 혹은 50 사상체/mL) |  |\n| 상수<br>원수 | 경계1 | 남조류 우점시 생체량(0.3 mm3/L) 또는 Chl-a(1 μg/L)<br><독소 분석이 가능한 상황일시><br>MCs 1 μg/L 또는 CYNs 0.7 μg/L 또는 ATXs 3 μg/L 또는 STXs 0.3 μg/L |  |\n| 상수<br>원수 | 경계2 | 남조류 우점시 생체량(4 mm3/L) 또는 Chl-a(12 μg/L)<br><독소 분석이 가능한 상황일시><br>MCs 12 μg/L 또는 CYNs 3 μg/L 또는 ATXs 30 μg/L 또는 STXs 3 μg/L |  |\n| 친수<br>용수 | 주의 | 투명도 1\\~2 m<br>남조류 우점시 생체량(1\\~4 mm3/L) 또는 Chl-a(3\\~12 μg/L) |  |\n| 친수<br>용수 | 경계1 | 투명도 0.5\\~1 m<br>남조류 우점시 생체량(4\\~8 mm3/L) 또는 Chl-a(12\\~24 μg/L) |  |\n| 친수<br>용수 | 경계2 | 투명도 0.5\\~1 m<br>스컴 발생 시 MCs 24 μg/L 또는 CYNs 6 μg/L 또는 ATXs 60 μg/L 또는 STXs 30 μg/L |  |",
+    "blockRange": [
+      202,
+      202
+    ],
+    "page": 17,
+    "table": {
+      "rows": 9,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0066",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리",
+      "나. 국외"
+    ],
+    "text": "\\* MCs: Microcystins, CYNs: Cylindrospermopsins, ATXs: Anatoxins, STXs: Saxitoxins\n\n호주 국립보건의료연구위원회(NHMRC)의 경우도 세계보건기구와 동일하게 먹는물, 상수원수 및 친수용수로 나뉘어 관리되고 있으며, 상수원수는 4단계로 구성되어 있고 친수용수는 3단계로 구성되어 있다 (표 1.2). 친수용수의 경우 우점종이 독성인지 미독성인지에 따라 기준 값에 차이를 두어 관리를 수행하며, 각 단계에 맞게 행동 반경이 제시되어 있다.",
+    "blockRange": [
+      203,
+      204
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0067",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리",
+      "나. 국외"
+    ],
+    "text": "**표 1.2. 호주 국립보건의료연구위원회(NHMRC) 남조류 관리기준**\n\n| 구분 | 단계 | 관리기준 |\n| --- | --- | --- |\n| 먹는물 | - | MCs 1.3 μg/L(LR 등가값) |\n| 상수<br>원수 | 감지단계 | Microcystis aeruginosa 500 cells/mL 이상-2,000 cells/mL 미만<br>총 남조류 생체량 0.05 mm3/L이상 0.2 mm3/L 미만 |\n| 상수<br>원수 | 단계1<br>(Alert Level 1) | Microcystis aeruginosa 2,000 cells/mL 이상-6,500 cells/mL 미만<br>총 남조류 생체량 0.2 mm3/L이상 0.6 mm3/L 미만 |\n| 상수<br>원수 | 단계2<br>(Alert Level 2) | Microcystis aeruginosa 6,500 cells/mL 이상<br>총 남조류 생체량 0.6 mm3/L 이상 |\n| 상수<br>원수 | 단계3<br>(Alert Level 3) | Microcystis aeruginosa 65,000 cells/mL 이상<br>총 남조류 생체량 6 mm3/L 이상 |\n| 친수<br>용수 | 감시 단계<br>(Green level) | Microcystis aeruginosa 500 cells/mL 이상-5,000 cells/mL 미만<br>총 남조류 생체량 0.04 mm3/L 초과 0.4 mm3/L 미만 |\n| 친수<br>용수 | 경보 단계<br>(Amber level) | Microcystis aeruginosa 5,000 cells/mL 이상-50,000 cells/mL 미만<br>독소 생성 남조류 우점시 0.4≤총 남조류 생체량〈6 mm3/L<br>독소 미생성 남조류 우점시 0.4≤총 남조류 생체량〈10 mm3/L |\n| 친수<br>용수 | 조치 단계<br>(Red level) | Level 1: ≥10 μg/L total MCs 혹은 ≥50,000 cells/mL 독성 Microcystis<br>aeruginosa 혹은 우점종이 독소 생산 남조류 총 생체량 ≥4 mm3/L<br>Level 2: 우점종이 독소 미생산 남조류 총 생체량 ≥10 mm3/L 혹은<br>지속적 스컴 관찰시 |",
+    "blockRange": [
+      205,
+      205
+    ],
+    "page": 18,
+    "table": {
+      "rows": 9,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0068",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리",
+      "나. 국외"
+    ],
+    "text": "\\* MCs: Microcystins, CYNs: Cylindrospermopsins, ATXs: Anatoxins, STXs: Saxitoxins",
+    "blockRange": [
+      206,
+      206
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0069",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.1 국내·외 녹조 관리"
+    ],
+    "text": "※ (출처) 먹는물: NHMRC(2011), 상수원수: Newcombe et al.(2010), 친수용수: NHMRC(2008)",
+    "blockRange": [
+      207,
+      207
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0070",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경"
+    ],
+    "text": "### 1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+    "blockRange": [
+      208,
+      208
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0071",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성"
+    ],
+    "text": "낙동강 녹조 관리를 위해 1단계 사업에서 구축된 낙동강 녹조제어 통합 플랫폼은 녹조 지역 상시 모니터링, 발생 지역에 대한 제어 관리 및 녹조 데이터 분석 및 예측을 하는데 목적이 있다. 구성은 데이터 수집/저장, 데이터 가공/융합, 시각화 및 사용자/관리자 포털 등을 중심으로 구성되었다 (그림 1.1). 또한, 지속적인 운영, 향후 운영시 경상북도 내 소재 기업 및 인력의 적극 활용 따른 데이터 적재, 분석 및 시각화 화면 추가 등의 H/W 증설 등의 이슈에 효과적으로 대응하기 위해 클라우드 환경을 적극적으로 활용해 시스템 구축하였다.\n\n데이터 수집은 GUI 기반으로 업무를 설계, 구현하고 현재 실시간으로 측정되는 데이터를 모니터링 할 수 있게 하였다. 또한 진행 이력이 조회되어 각 단계에서의 데이터 상태 확인이 가능하도록 하였다. 그에 따라 데이터 처리 현황 추적이 가능하고 추가 업무 개발이 용이하도록 구현되었다. 센서 데이터(고정형 센서 및 이동형 센서 데이터 수집), 외부 데이터(환경부 수질데이터, 유동인구 등)의 수집하였다. 또한 오염원, 녹조 데이터 분석 및 예측을 통해 가공한 데이터를 활용할 수 있도록 구성하였다.\n\n그림 1.1. 녹조제어 통합 플랫폼 구성도\n\n데이터 저장, 처리는 No SQL, 파일시스템, RDB 등 데이터 종류에 맞는 저장소를 이용하여 효율 극대화를 추구하였다. 또한 데이터 변환 처리시 airflow를 사용하여 GUI 기반관리를 하도록 하였으며, 복잡성 있는 업무의 자동화 및 Job 이력 관리를 통해 각 실행 별진행 상태를 확인 할 수 있게 하였다.\n\n모니터링 및 일반관리에서는 대시보드 기능을 갖춘 Grafana 및 Prometheus를 사용하고, 여러 서버에 있는 솔루션의 일괄적인 가동/정지 기능 탑재하였다 (그림 1.2.). 이를 통해 연관성 처리를 통하여 실수를 줄이는 운영이 가능도록 하였다.\n\n1. 단계알림, 2. 조류관련 정보 3. 기상정보, 4. 유동인구, 5. 오염원정보, 6. 유동인구 분포 및 위치도 표시,\n\n7. 센서 측정값, 8. 데이터 스케쥴 수동 조정, 9. 이전화면 및 전체화면모드 변경",
+    "blockRange": [
+      209,
+      215
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0072",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "7. 센서 측정값, 8. 데이터 스케쥴 수동 조정, 9. 이전화면 및 전체화면모드 변경"
+    ],
+    "text": "그림 1.2. 녹조제어 통합 플랫폼(상황판)\n\n\n![image](image_003.png)\n\n\n![image](image_004.png)\n\n세부적으로는 오염원 정보, 센서측정데이터, 지점별 수질 데이터, 지점별 조류 데이터, 유동인구 데이터, 기상데이터, 녹조 예측 데이터, 녹조 기술 소개, 녹조 관리 평가 등으로 구성되어 있다 (그림 1.3).\n\n오염원 정보 센서측정데이터\n\n지점별 조류 데이터 유동인구 데이터\n\n기상 데이터 녹조 예측 데이터\n\n녹조관리기술 소개 녹조관리 평가\n\n그림 1.3. 녹조제어 통합 플랫폼(세부 구성 내용)\n\n이 중 녹조관리기술 소개 페이지에서는 각 협동 기관별 보유 요소 기술로 낙동강 실증 단지에서 실증연구를 진행하였거나 , 1단계 연구에서 개발된 기술로 구성되어 있다. 녹조 제어 기술 6개, 모니터링 기술 2건 및 비점오염원 저감 기술 3건이 해당된다(표 1.3).\n\n\n![image](image_005.png)\n\n\n![image](image_006.png)\n\n\n![image](image_007.png)\n\n\n![image](image_008.png)\n\n\n![image](image_009.png)\n\n\n![image](image_010.png)\n\n\n![image](image_011.png)\n\n\n![image](image_012.png)",
+    "blockRange": [
+      216,
+      233
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0073",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "7. 센서 측정값, 8. 데이터 스케쥴 수동 조정, 9. 이전화면 및 전체화면모드 변경"
+    ],
+    "text": "**표 1.3. 녹조관리기술 소개(1단계)**\n\n| 구분 | 적용시기 | 기술명 | 적용지역 |\n| --- | --- | --- | --- |\n| 녹조<br>제어 | 사전 | 선외와류형 물순환장치 | 하천본류(취수원) |\n| 녹조<br>제어 | 사전 | 제트스트리머 | 하천 본류·지류 합류부 |\n| 녹조<br>제어 | 사전 | 침지형 물순환장치 | 하천 지류 |\n| 녹조<br>제어 | 사전 | 육상형(차량탑재용) 녹조제거시스템 | 하천 수변지역 |\n| 녹조<br>제어 | 사후 | 녹조제거선_수상형 녹조제어 기술 | 하천 본류 |\n| 녹조<br>제어 | 사후 | 정수장 유입조류 전처리 시스템 | 취수장 |\n| 녹조 모니터링 |  | USV 기반 이동형 모니터링시스템 | 하천 본류 |\n| 녹조 모니터링 |  | 고정형 모니텅링 시스템 | 하천 본류 |\n| 오염원 관리 |  | 비점오염원 제어기술(여과시스템) | 하천 지류 |\n| 오염원 관리 |  | 바이오차-복합나노흡착소재 | 하천 지류 |\n| 오염원 관리 |  | 키토산 복합체(천연고분자흡착 여재) | 하천 지류 |",
+    "blockRange": [
+      234,
+      234
+    ],
+    "page": 21,
+    "table": {
+      "rows": 12,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0074",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성"
+    ],
+    "text": "- 가. 녹조 제어 기술",
+    "blockRange": [
+      235,
+      235
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0075",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "가. 녹조 제어 기술"
+    ],
+    "text": "녹조 제어 기술은 6개로 사전 4개, 사후 2개로 구성되어 있다 (표 1.4). 사전 기술로는 선회와류형 물순환장치는 터블러 상부 토출 및 포기기능을 통한 정체수역에서 발생하는 녹조 현상을 사전 예방하는 기술로 전층에서 혼합된 혼합수의 상부 유입으로 성층을 파괴하면서 수온 및 용존 산소 등 수중 미세조류의 성장 조건 제어한다. 제트스트리머는 수류 확산장치와 초음파를 이용한 녹조 사전예방 기술로 하천 등 정체수역의 성층 파괴 및 빈산소화 방지를 통해 녹조현상 발생을 사전에 예방한다.",
+    "blockRange": [
+      236,
+      236
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0076",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "가. 녹조 제어 기술"
+    ],
+    "text": "**표 1.4. 녹조제어기술 소개**\n\n| 기술명 | 공정별 |  |  |  | 적용지역 |  |  |  | 처리원리 |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 기술명 | 물리 | 화학 | 생물 | 융·복합 | 지류<br>유입 | 점오염<br>유입 | 만곡<br>정체구 | 상수<br>취수장 | 성층<br>파괴 | 조류<br>제거 | 오염원<br>차단 | 모니터링 |\n| 선회와류형<br>물순환장치 | ● |  |  | ◍ | ◍ |  | ● | ◍ | ● |  |  |  |\n| 제트스트리머 | ● |  |  | ◍ | ◍ |  | ● |  |  | ● |  |  |\n| 침지형<br>물순환장치 | ● |  |  |  | ● |  | ◍ |  | ● |  |  |  |\n| 육상형<br>(차량탑재용)<br>녹조제거시스템 | ● | ● |  |  | ◍ |  | ● |  |  | ● |  |  |\n| 녹조제거선\\_<br>수상형<br>녹조제어 기술 | ● | ● |  | ◍ |  |  | ● |  |  | ● |  |  |\n| 정수장 유입조류<br>전처리 시스템 | ● | ● |  |  |  |  | ◍ | ● |  | ● |  |  |",
+    "blockRange": [
+      237,
+      237
+    ],
+    "page": 21,
+    "table": {
+      "rows": 8,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0077",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성"
+    ],
+    "text": "● : 최적, ◍ : 가능",
+    "blockRange": [
+      238,
+      238
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0078",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "● : 최적, ◍ : 가능"
+    ],
+    "text": "**표 1.4. 녹조제어기술 종류_계속**\n\n|  |  |\n| --- | --- |\n| 선회와류형 물순환장치 | 제트스트리머 |\n|  |  |\n| 침지형 물순환장치 | 육상형 (차량탑재용) 녹조제거시스템 |\n|  |  |\n| 녹조제거선\\_ 수상형 녹조제어 기술 | 정수장 유입조류 전처리 시스템 |",
+    "blockRange": [
+      239,
+      239
+    ],
+    "page": 22,
+    "table": {
+      "rows": 6,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0079",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "● : 최적, ◍ : 가능"
+    ],
+    "text": "침지형 물순환장치는 수평형 정류장치를 이용, 수체를 지속적으로 유동시켜 정체수역을 해소를 통한 하천 저부 혐기화 방지 , 영양물질 용출 억제로 쾌적한 수환경 조성하고, 육상형(차량탑재용) 녹조제거 시스템은 MB Chamber 고속충돌방식으로 기포조제와 공기를 이용하여 미세기포를 발생을 이용한 부상분리 처리기술이다. 사후기술은 초고속 미세기포 발생시스템(유도전자 촉매 모듈)을 탑재한 선박으로 하천, 호수, 댐 등 수계에서 발생하는 조류를 신속하면서도 효과적으로 제거하고, 넓은 면적을 이동할 수 있는 수상형 녹조 제어 시스템(녹조 제거선)과 정수장, 호소, 하천, 등의 미생물 및 조류와 영양염류를 동시에 제거하는 기술로 발생된 조류와 정수장으로 유입된 조류를 수 초 내에 응집하여 1분 이내에 조류를 분리하는 초고속 조류 제거(90%) 기술인 정수장 유입조류 전처리시스템을 활용하였다.\n\n\n![image](image_013.png)\n\n\n![image](image_014.png)\n\n\n![image](image_015.png)\n\n\n![image](image_016.png)\n\n\n![image](image_017.png)\n\n\n![image](image_018.png)",
+    "blockRange": [
+      240,
+      246
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0080",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성"
+    ],
+    "text": "- 나. 녹조 모니터링 기술",
+    "blockRange": [
+      247,
+      247
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0081",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "나. 녹조 모니터링 기술"
+    ],
+    "text": "녹조 모니터링 기술은 2개로 사전 4개, 사후 2개로 구성되어 있다 (표 1.5). 두 기술은 모두 IoT 통신을 활용한 기술로 이동형은 USV 기반 자율 운항 시스템을 통한 광역 조밀형 녹조 데이터 수집 및 실시간 전송(IoT 센터 네트워크 기술)이 가능하며, 고정형은 점단위 실시간 녹조 데이터 수집이 가능하며, LoRa 기반 저전력 장거리 무선통신 기술을 이용한 IoT 통신 단말 및 IoT 게이트웨이를 활용한다.",
+    "blockRange": [
+      248,
+      248
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0082",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "나. 녹조 모니터링 기술"
+    ],
+    "text": "**표 1.5. 녹조 모니터링 기술 소개**\n\n| 기술명 | 공정별 |  |  |  | 적용지역 |  |  |  | 처리원리 |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 기술명 | 물리 | 화학 | 생물 | 융·복합 | 지류<br>유입 | 점오염<br>유입 | 만곡<br>정체구 | 상수<br>취수장 | 성층<br>파괴 | 조류<br>제거 | 오염원<br>차단 | 모니터링 |\n| 이동형모니터링<br>시스템 |  |  |  | ● | ● | ◍ | ● | ◍ |  |  |  | ● |\n| 고정형모니터링<br>시스템 |  |  |  | ● | ● | ◍ | ● | ◍ |  |  |  | ● |",
+    "blockRange": [
+      249,
+      249
+    ],
+    "page": 23,
+    "table": {
+      "rows": 4,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0083",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성"
+    ],
+    "text": "● : 최적, ◍ : 가능",
+    "blockRange": [
+      250,
+      250
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0084",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "● : 최적, ◍ : 가능"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 이동형 모니터링 시스템 | 고정형 모니터링 시스템 |",
+    "blockRange": [
+      251,
+      251
+    ],
+    "page": 23,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0085",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성"
+    ],
+    "text": "- 다. 비점오염원 저감 기술",
+    "blockRange": [
+      252,
+      252
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0086",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "다. 비점오염원 저감 기술"
+    ],
+    "text": "본 기술은 조류를 간접적으로 제어하는 기술로 3가지로 분류된다 (표 1.6). 비점오염원 제어 기술은 인공습지의 조성 면적을 50%로 저감하며 유입되는 오염원인 부유물질 90% 이상, 인 80% 이상 제거 할 수 있는 옴니라이트와 팽창질석을 이용하여 유입 및 용출되는 인의 여과 및 흡착 처리를 할 수 있는 여과 시스템이다. 그리고 비점오염원 내 존재하는 비소, 크롬 등의 중금속 동시 제어가 가능하며 인공습지의 효율향상을 위한 바이오차-복합나노흡착소재와 하수 및 비점오염원내 존재하는 인산염의 효율적 처리를 위한 흡착 여재로 키토산 수지를 활용한 천연고분자 기반 키토산 복합체이다.\n\n\n![image](image_019.png)\n\n\n![image](image_020.png)",
+    "blockRange": [
+      253,
+      255
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0087",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "다. 비점오염원 저감 기술"
+    ],
+    "text": "**표 1.6. 비점오염원 저감 기술 소개**\n\n| 기술명 | 공정별 |  |  |  | 적용지역 |  |  |  | 처리원리 |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 기술명 | 물리 | 화학 | 생물 | 융·복합 | 지류<br>유입 | 점오염<br>유입 | 만곡<br>정체구 | 상수<br>취수장 | 성층<br>파괴 | 조류<br>제거 | 오염원<br>차단 | 모니터링 |\n| 비점오염원<br>제어기술 | ● |  | ● | ◍ | ◍ | ● |  |  |  |  | ● |  |\n| 바이오차-복합<br>나노흡착소재 |  | ● | ◍ |  | ● | ◍ | ◍ |  |  |  | ● |  |\n| 키토산 복합체<br>(천연고분자흡착 여재) |  | ● | ◍ |  | ● | ◍ | ◍ |  |  |  | ● |  |",
+    "blockRange": [
+      256,
+      256
+    ],
+    "page": 24,
+    "table": {
+      "rows": 5,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0088",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성"
+    ],
+    "text": "● : 최적, ◍ : 가능",
+    "blockRange": [
+      257,
+      257
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0089",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.2 낙동강 녹조제어 플랫폼 소개 및 구성",
+      "● : 최적, ◍ : 가능"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 비점오염원 제어기술 | 바이오차-복합나노흡착소재 |\n|  |  |\n| 키토산 복합체 (천연고분자흡착 여재) |  |",
+    "blockRange": [
+      258,
+      258
+    ],
+    "page": 24,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0090",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경"
+    ],
+    "text": "### 1.1.3 녹조 관리 기술 평가 사례",
+    "blockRange": [
+      259,
+      259
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0091",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.3 녹조 관리 기술 평가 사례"
+    ],
+    "text": "녹조 관리 기술 관련 문헌에서는 기술의 저감효과, 비용, 운용 용이성 등의 기준으로 녹조 기술 평가하기 위해 자료를 수집·제시하거나 평가를 시도하였다. 국내 하천과 호소에 실제 적용된 상용화된 28개 조류저감기술을 대상으로 경제성, 현장 적용성, 효과 지속성, 수생태 안전성의 카테고리로 평가지표를 적용하여 실시하였다 (표 1.7).\n\n공법 원리별 분류시 물리적 32.2%, 화학적 25%, 생물학적 21.4% 및 복합처리 공법이 21.4%이었다. 발생현장에 적합한 맞춤형 조류저감기술 도입 및 파일럿(Pilot) 규모의 효율 검증을 통해 최종 도입이 필요함을 제안하였다.\n\n\n![image](image_021.png)\n\n\n![image](image_022.png)\n\n\n![image](image_023.png)",
+    "blockRange": [
+      260,
+      264
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0092",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.3 녹조 관리 기술 평가 사례"
+    ],
+    "text": "**표 1.7. 변규덕 외(2016)에 의한 녹조기술의 평가 사례**\n\n| 연번 | 기술명 | 경제성 | 현장<br>적용성 | 효과<br>지속성 | 수생태<br>안전성 |\n| --- | --- | --- | --- | --- | --- |\n| 1 | Mixed microbial culture | ◐ | ● | ◐ | ● |\n| 2 | Mixed bacteria culture attached on clay | ◐ | ● | ◐ | ● |\n| 3 | Mixed microbial culture in titanium balls | ○ | ◐ | ◐ | ● |\n| 4 | Zeolite coagulant with attached microbial culture | ● | ● | ◐ | ● |\n| 5 | Biomanipulation with zooplankton | ◐ | ◐ | ○ | ● |\n| 6 | Naphthoquinone product | ○ | ○ | ◐ | ◐ |\n| 7 | Natural coagulant with additional minerals | ● | ● | ◐ | ● |\n| 8 | Bentonite coagulant with additional minerals | ● | ◐ | ◐ | ● |\n| 9 | Natural floating coagulant | ● | ◐ | ● | ● |\n| 10 | Algae harvesting ship with filtration | ● | ◐ | ● | ◐ |\n| 11 | Algae harvesting ship with dissolved air flotation | ● | ◐ | ● | ◐ |\n| 12 | Dissolved air flotation device with skimming | ◐ | ○ | ○ | ◐ |\n| 13 | Microbubble device | ◐ | ○ | ○ | ◐ |\n| 14 | Microbubble device with ozone | ◐ | ○ | ○ | ◐ |\n| 15 | Microbubble device with coagulant & harvesting | ● | ○ | ● | ◐ |\n| 16 | Water circulation ship | ◐ | ● | ○ | ● |\n| 17 | Water circulation device with spraying | ◐ | ● | ◐ | ◐ |\n| 18 | Water circulation device with impeller | ● | ◐ | ◐ | ● |\n| 19 | Water density current generator | ◐ | ◐ | ◐ | ● |\n| 20 | Surface water circulation device | ● | ● | ◐ | ◐ |\n| 21 | Floating artificial wetlands | ◐ | ◐ | ◐ | ● |\n| 22 | Artificial wetlands | ◐ | ◐ | ◐ | ● |\n| 23 | Pressurized filtration | ◐ | ◐ | ○ | ◐ |\n| 24 | Disk filtration with coagulants | ◐ | ○ | ◐ | ◐ |\n| 25 | Mobile ultrasonic device | ◐ | ○ | ○ | ○ |\n| 26 | Fixed ultrasonic device | ○ | ○ | ○ | ○ |\n| 27 | Photodegradation device with adsorbents | ◐ | ◐ | ◐ | ◐ |\n| 28 | Plasma device | ○ | ○ | ○ | ○ |",
+    "blockRange": [
+      265,
+      265
+    ],
+    "page": 25,
+    "table": {
+      "rows": 29,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0093",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.3 녹조 관리 기술 평가 사례"
+    ],
+    "text": "주: ○: 나쁨(poor), ◐: 보통(fair), ●: 좋음(good)\n\nKAIA 외(2018)는 평가의 토대가 되는 기술별 처리효율, 경제성, 현장적용 사례 등의 분석 자료를 제시하였고, 본 연구과제의 기술 조사에서도 본 자료를 기반으로 작성하였다. 모든 기술에 대한 일관된 자료가 정리되지는 않았으나, 가능한 현장 실제 운영 자료를 바탕으로 제어 기술의 처리효율과 비용 관련 자료(상호 비교를 할 수 있도록 표준화된 방식)를 제시하였다. 처리 효율은 기술에 따라 다르게 제시 되었으며, 공정별 검증의 경우 주요 공정 효율을 제시하였다 (그림 1.4).\n\n그림 1.4. KAIA 외(2018)에서 제시한 Neo-Act 기술의 처리효율(기술적 평가) 예시\n\n경제성 자료는 표준조건 하에서의 모든 기술에 대해서 제시되진 않았으나, 시설비, 운영비 등을 제시하고, 처리용량과 비교하여 처리단가를 산정하고자 노력하였다. 예를 들어 PLATUS 기술의 경우 총 시설비, 일 운영비용(인건비, 전력비, 여과재, 여재교체 비용 합산한 것이 일 운영비)을 처리용량(ton/day)으로 나누어 실 처리단가(원/㎥)를 제시하였다 (그림 1.5).\n\n\n![image](image_024.png)\n\n\n![image](image_025.png)\n\n그림 1.5. KAIA 외(2018)에서 제시한 PLATUS 기술의 경제성 자료 예시\n\n한국환경공단에서는 조류저감기술 15종에 대하여 기술별 처리성능과 경제성 분석 등을 실시하였다. 처리 성능은 대부분 원수와 처리수의 처리효율(%)로 제시하였으나, 모든 조건이 표준화 되지는 않았으며, 기술별 특성에 따라 다양한 항목의 평가가 실시되었다 (그림 1.6).\n\n그림 1.6. 한국환경공단(2012)에서 제시한 천연수질개선제를 이용한 응집부상 기술의 처리성능 자료\n\n경제성 분석은 기술간 비교에 활용 할 수 있도록 용량 제시 및 조건, 장비 사양 및 산출 근거를 제시하였으며, 처리 단가는 제시하지 않았다 (그림 1.7).\n\n\n![image](image_026.png)\n\n\n![image](image_027.png)\n\n그림 1.7. 한국환경공단(2012)에서 제시한 오존 마이크로버블 기술의 경제성 자료",
+    "blockRange": [
+      266,
+      278
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0094",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경"
+    ],
+    "text": "### 1.1.4 녹조 관리 기술 유형 분석",
+    "blockRange": [
+      279,
+      279
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0095",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.4 녹조 관리 기술 유형 분석"
+    ],
+    "text": "녹조 관리 기술에 대한 분석은 공법별, 유속별, 적용시점/유속별, 현장 유형별 등으로 나뉘었다. 일반적으로 공법별로 물리적, 화학적, 생물학적, 복합처리공법 등으로 나누는 것이 일반적이며, KAIA(2018) 및 주진철 등(2018)에서는 지류유입부, 점오염원 유입부, 만곡/정체수역, 구조물 부근, 취수장으로 카테고리를 나누어 의사결정 프로토콜을 제시하였다 (표 1.8).\n\n\n![image](image_028.png)",
+    "blockRange": [
+      280,
+      281
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0096",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.4 녹조 관리 기술 유형 분석"
+    ],
+    "text": "**표 1.8. 녹조관리기술의 주요 유형 분류**\n\n| 구분 | 내용 |\n| --- | --- |\n| 공법별 | 물리적, 화학적, 생물학적, 복합처리공법 등 |\n| 유속별 | 호소, 저수지, 소형하천 등 정체수역, 비교적 유속이 빠른 대형하천 등 |\n| 적용시점/용도별 | 사전예방 단계, 발생초기 단계, 대량발생·회수(사후방재) 단계 등 |\n| 현장유형별 | 지류 유입부, 점오염원 유입부, 만곡·정체구역, 구조물 앞 정체부, 상수원 취수장 등 |",
+    "blockRange": [
+      282,
+      282
+    ],
+    "page": 29,
+    "table": {
+      "rows": 5,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0097",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.4 녹조 관리 기술 유형 분석"
+    ],
+    "text": "낙동강 권역 녹조관리 최적화 방안 연구(1단계) 연구시, 현장 맞춤형 기술선정 평가체계(안)을 마련하였으며, 녹조관리기술 활용자(수면관리자, 지자체 등) 관점에서 주어진 현장 및 상황에 가장 적절한 기술을 선정하도록 3단계로 구성된 평가체계(안)을 제시하였다 (그림 1.8).\n\n그림 1.8. 현장맞춤형 녹조관리기술 선정을 위한 평가체계(안)\n\n1단계로 녹조관리기술을 활용하고자 하는 대상 수역에 따라 현장 특성을 검토하고 기술 활용의 용도 등을 결정한다. 사전예방/초기대응/대발생 이후의 사후처리 목적인지, 대상 수역이 정체 혹은 흐름(어느 정도 유속이 존재) 구간인지, 지형 조건에 따른 제약이 없는지 등에 따라 검토할 수 있다. 2단계는 기술목록에서 현장, 용도에 적합한 기술유형을 선택하고 제약조건(지형\n\n등), 안전성 등을 고려하여 현장과 용도에 적합한 기술유형을 선택한다. 3단계에서는 효과성, 경제성 등을 고려하여 해당 현장에 맞는 최적의 기술을 선정한다.\n\n\n![image](image_029.png)\n\n녹조관리를 위한 기술 중 조류제거물질은 등록된 물질만 활용가능하며, 조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침(환경부예규 제697호, 2021. 12. 27.)에 따라 조류제거물질 등록 및 사용이 가능하다.\n\n조류제거물질을 등록하기 위해서는 다음과 같은 자료가 제시되어야 한다.\n\n1. 조류제거물질의 종류, 주요 구성성분, 화학성분, 명칭, 성상 등\n2. 조류제거 효율 및 생태독성평가",
+    "blockRange": [
+      283,
+      291
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0098",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.4 녹조 관리 기술 유형 분석",
+      "2. 조류제거 효율 및 생태독성평가"
+    ],
+    "text": "조류제거효율은 투여 후 240분 이내 제거효율이 나타나는 물질과 이후 제거효율이 나타나는 물질을 나누어 구분 할 수 있다. 240분 이내 제거효율이 나타나는 물질은 혼합 후 120분 및 240분 반응시료의 조류세포수를 계수하여 초기 조류세포수와의 효율을 산출하고 생태독성평가는 조류제거효율평가 시료와 동일한 조건으로 제조한 반응시료를 100% 시험원수로 하여 물벼룩 및 발광박테리아에 대한 급성독성시험(수질오염공정시험기준, 환경부)과 경제협력개발기구(OECD) 담수어류 시험법의 급성독성시험을 실시하여 결과를 산출한다.\n\n240분 초과되어 제거효율이 나타나는 조류제거물질의 경우 「화학물질의 시험방법에 관한 규정」이나 경제협력개발기구(OECD)의 시험지침을 준용하는 등 담수조류와 관련된 신뢰성 있는 시험방법에 따른 결과서를 제출하여야 한다. 그리고 24시간, 48시간 및 72시간의 조류생장저해율, 생태독성 결과(물벼룩과 발광박테리아, 담수어류 생태독성)를 구한다.\n\n그리고 조류제거물질 평가 기준표를 산정하여, 평가 기준에 의한 평가 후 각 항목을 합산점수(60점 만점)와 조류제거물질 전문가자문회의 검토서 평균 점수(40점 만점)를 합산하여 80점 이상이면 합격, 미만이면 불합격으로 산정(미흡판정으로 0점을 받은 항목이 있을 경우 합산점수가 80점 이상이라도 불합격 처리)한다. 생태독성의 경우에는 생태독성 각 평가항목(3개)에서 독성값(TU)은 모두 \"0\" 이어야 하며, 조류제거물질 자체 생태독성 각 평가항목(3개)에서 NOEC는 모두 기준 사용농도보다 같거나 높아야 한다.\n\n등록된 조류제거물질은 사용전에 사용승인 신청을 하고 승인을 받아야 한다. 다음과 같은 사항을 고려하여야 한다.",
+    "blockRange": [
+      292,
+      295
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0099",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.4 녹조 관리 기술 유형 분석"
+    ],
+    "text": "1. 조류제거물질 등록 여부\n2. 사용농도 또는 사용량의 적절성\n3. 사용기간과 주기의 적절성\n4. 이 밖에 수질 및 수생태계 영향",
+    "blockRange": [
+      296,
+      299
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0100",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.4 녹조 관리 기술 유형 분석",
+      "4. 이 밖에 수질 및 수생태계 영향"
+    ],
+    "text": "조류제거물질 사용 후 수질 및 수생태계에 미치는 영향을 조사하고, 조류제거물질 사용 끝난 날로부터 30일 이내에 조류제거물질 사후 영향 조사 보고서를 총괄기관에 제출 해야한다. 이때 생태독성 평가(물벼룩, 발광박테리아, 어류급성 및 (해당시) 단각류 상대평균 생존율(%))와 수질 (10개), 환경노출농도 분석 및 생물상(어류폐사유무)를 제출하여야 한다.",
+    "blockRange": [
+      300,
+      300
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0101",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경"
+    ],
+    "text": "### 1.1.5 기술평가체계의 절차",
+    "blockRange": [
+      301,
+      301
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0102",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.5 기술평가체계의 절차"
+    ],
+    "text": "가. 환경신기술인증·기술검증",
+    "blockRange": [
+      302,
+      302
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0103",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.1 연구 배경",
+      "1.1.5 기술평가체계의 절차",
+      "가. 환경신기술인증·기술검증"
+    ],
+    "text": "국가가 우수한 환경기술을 평가 및 인증하고 판로를 지원해주는 제도로 기업의 기술개발 및 보급을 촉진하고 환경산업 육성에 기여할 수 있다. ｢환경기술 및 환경산업 지원법｣(법률 제 18469호, 2021. 9. 24.) 제7조(신기술인증과 기술검증) 및 ｢신기술인증․기술검증의 평가절차 등에 관한 규정｣(환경부고시 제2019-238호, 2019. 12. 20.일부개정)에 근거하여 평가한다. 신기술인증서·검증서 발급 등 수행, 신기술인증·기술검증 평가, 심의위원회 구성·운영 등은 한국환경산업기술원에서 수행한다.\n\n신기술인증 서류심사에서는 기술명, 기술 개요, 신기술 범위의 적합성 등을 포함하며, 신기술인증의 신규성 및 우수성을 평가하는 기준은 다음과 같다.\n\n신규성은 신규·진보성, 차별성, 기존기술과의 유사성, 자립도 및 파급성 항목으로 구성되어 있다. 신규·진보성은 배점 30점으로 국내에서 최초로 개발된 기술이거나 기존 기술을 소화‧개량한 정도이며, 차별성(30)은 기존 기술에 대한 처리공정‧원리 등의 차별성을 기준으로 점수를 구성한다. 기존기술과의 유사성은 20점이며, 자립도는 10점으로 기술개발 참여 및 자체기술 투입 정도를 기준으로 한다. 파급성은 환경산업전반에 대한 적용가능성의 높고 낮음을 기준으로 10점으로 하여 전체 100점으로 평가한다.\n\n우수성은 기술성능 50점(효율성 25점, 완성도 10점, 중요도 10점 및 발전성 5점) 및 현장적용성 50점(기존기술 대비 경제성 30점, 안전성 10점 및 유지관리 편의성 10점)으로 하여 100점으로 구성한다. 기술 성능은 기존 기술과 비교하여 기술의 효율성, 완성도, 중요도, 발전성 등이 검증‧제시되어야 하며, 기술의 적용에 따른 2차 오염물질의 영향이 기존보다 악화되지 않고, 긍정적 효과를 가져와야 한다. 또한 현장적용성은 기존 기술과 비교하여 경제성, 안전성, 유지관리 편의성이 있고, 현장에 적극 보급할 가치가 있다는 것이 객관적 자료로 검증‧제시되어야 한다.\n\n평가 절차는 한국환경산업기술원에서 신기술인증, 기술검증 등을 수행하며, 서류심사, 현장조사, 현장평가계획 심의, 현장평가, 종합평가 및 평가결과 보고 후 기술검증보고서 발행을 담당하며, 환경부는 신기술인증서, 기술검증서 발급·공고를 담당한다.\n\n세부 절차는 한국환경산업기술원에서 접수 → 신청서 검토 → 홈페이지 공고 → 평가등록비 납부 통보 → 심사 → 현장조사 → 서류심사(2차심사) → 현장평가계획 심의 → 현장평가 → 종합평가 → 평가결과 보고 → 기술검증 보고서 발행 등의 절차로 진행된다. 평가결과 보고시 환경부에서는 신기술인증서·기술검증서 발급 등을 수행한다.\n\n\n![image](image_030.png)\n\n\n![image](image_031.png)\n\n\n![image](image_032.png)\n\n\n![image](image_033.png)\n\n\n![image](image_034.png)\n\n\n![image](image_035.png)",
+    "blockRange": [
+      303,
+      314
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0104",
+    "type": "heading",
+    "breadcrumb": [
+      "제1장 서론"
+    ],
+    "text": "## 1.2 연구 내용 및 범위",
+    "blockRange": [
+      315,
+      315
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0105",
+    "type": "text",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구 내용 및 범위"
+    ],
+    "text": "본 연구의 연구목표는, 낙동강 녹조제어 통합 플랫폼 구축을 통한 녹조로부터 국민의 물복지 실현 기여하는 것에 있다. 타 기관과의 협업을 통해 환경공학, 토목공학, 하천공학, 정보통신 등 기술 융합을 통한 녹조제어 통합 플랫폼 마련하고자 한다. 이를 위해서 K-water에서는 1단계에서 수행한 플랫폼을 바탕으로 낙동강 녹조제어 플랫폼 보완 및 확대방안을 마련하고자 하였으며, 테스트베드를 통한 녹조관리 효율평가 체계 구축 및 기업 보유기술 효율 검증 지원 방안 마련을 추진하고자 하였다.\n\n본 연구는 1년간 진행되며, 연도별 연구목표 및 연구개발 내용은 다음과 같다 (표 1.9).",
+    "blockRange": [
+      316,
+      317
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0106",
+    "type": "table",
+    "breadcrumb": [
+      "제1장 서론",
+      "1.2 연구 내용 및 범위"
+    ],
+    "text": "**표 1.9. 연도별 연구목표 및 내용**\n\n| 구분 | 연구개발 목표 | 연구개발 내용 | 연구개발 범위 |\n| --- | --- | --- | --- |\n| 1차년도<br>(2022) | ㅇ플랫폼 효율평가시스템 개선 및<br>기업 보유기술 효율<br>검증 지원 방안 마련 | ㅇ낙동강 녹조제어 플랫폼 보완<br>및 확대방안 마련<br>ㅇ테스트베드를 통한 녹조관리<br>효율평가 체계 구축<br>ㅇ기업 보유기술 효율 검증 지원<br>방안 마련 | ㅇ신기술 발굴 및 평가<br>ㅇ플랫폼 보완 및 홍보 |",
+    "blockRange": [
+      318,
+      318
+    ],
+    "page": 32,
+    "table": {
+      "rows": 2,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0107",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제2장 재료 및 방법",
+    "blockRange": [
+      319,
+      319
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0108",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법"
+    ],
+    "text": "### 2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원",
+    "blockRange": [
+      320,
+      320
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0109",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원"
+    ],
+    "text": "1단계에서 개발된 녹조제어 통합플랫폼에 대한 검토 및 시스템 관련 연구진 회의를 통해 보완 사항을 파악하였다. 첫 번째로 플랫폼 사용 대상의 명확화를 위해 관리자, 연구자로 축소를 하고 그에 따른 편의성을 개선하였다. 대시보드를 불필요 정보를 개선하여 시인성을 향상시키고 중점 관리지점(구미보, 해평취수장, 칠곡보) 중심의 유역관리를 중심으로 구성하였다.\n\n데이터 수집은 실시간 측정 자료와 외부 데이터 자료가 있었으며, 외부 데이터의 경우 유동인구 데이터를 제외하였다. 녹조관리 평가 부분도 관리자, 연구자로 축소함에 따라 보완시 제외하였다.\n\n녹조예측의 경우 수치 모델에서 빅데이터 연계 예측 예보 기술로 변경하여 보완하였다. 목표변수는 유해남조류 세포수로 설정하였으며, 구미\\~대구 지역 낙동강 본류 내 6개 지점(구미보, 해평, 칠곡보, 강정고령, 강정고령보, 달성보)에 대한 분석을 실시하였다. 데이터는 2012년 1월부터 2022년까지의 데이터를 분석하였다. 데이터 구성은 다음과 같다 (표 2.1).",
+    "blockRange": [
+      321,
+      323
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0110",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원"
+    ],
+    "text": "**표 2.1. 예측 모델 데이터 구성**\n\n| 구분 | 항목 |\n| --- | --- |\n| 녹조 수질 지표 | 유해남조류 세포수, Chl-a 농도 등 |\n| 수질 자료 | 수온, pH, 용존산소, 총인/질소, 유량 등 |\n| 기상 자료 | 기온, 습도, 운량, 강수량, 일사량 등 |\n| 유량-유속 자료 | 과거(\\~2019년) 유량 및 유속 측정 자료 |\n| 유량 자료 | 일별 유량 |\n| 기타 자료 | 토지특성, 수치 표고 모델, 인구 특성 등 |",
+    "blockRange": [
+      324,
+      324
+    ],
+    "page": 33,
+    "table": {
+      "rows": 7,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0111",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원"
+    ],
+    "text": "의사결정시스템의 경우에는 1단계에서 제시된 수질 분석에 의한 의사결정에서 플랫폼 내 활용할 수 있는 센서 및 예측 데이터를 활용하여 구성하였다. 녹조제어 시스템의 센서값 설정을 위해 해당 실증단지의 분석을 실시하였다.\n\n- 가. 조사 개요",
+    "blockRange": [
+      325,
+      326
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0112",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원",
+      "가. 조사 개요"
+    ],
+    "text": "구미 실증단지는 상류 약 14km 지점으로 상류에는 낙동강(해평), 하류에는 칠곡보가 위치하고 있다. 매주 유해남조류 세포수 값이 해평(상·중·하 혼합 시료) 및 칠곡보(표층 시료)에서 취득되고 있으므로 본 자료와 세부 센서 항목 중 상관성이 높은 값을 활용하여 분석을 실시하였다 (표 2.2).",
+    "blockRange": [
+      327,
+      327
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0113",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원",
+      "가. 조사 개요"
+    ],
+    "text": "**표 2.2. 실증 단지 및 상·하류 조류 경보제 지점**\n\n| 구분 | 칠곡보 대비 상대 위치 | 채수 지점 | 조류 경보제 |  |\n| --- | --- | --- | --- | --- |\n| 낙동강 (해평) | 상류 22km | 경상북도 구미시<br>해평면(숭선대교) | 조류 경보제 |  |\n| 구미 실증단지 | 상류 약 14km | 경상북도 구미시<br>비산동 584일원 | - |  |\n| 칠곡보 | 상류 500m | 경상북도 칠곡군<br>석적읍 중지리 | 조류 관찰 지점 |  |",
+    "blockRange": [
+      328,
+      328
+    ],
+    "page": 34,
+    "table": {
+      "rows": 4,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0114",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원"
+    ],
+    "text": "- 나. 분석 항목 및 시기",
+    "blockRange": [
+      329,
+      329
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0115",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원",
+      "나. 분석 항목 및 시기"
+    ],
+    "text": "낙동강 녹조제어 플랫폼에 취득되는 자료를 활용하여 실증단지 의사결정 프로세스를 마련하고자 하였다. 플랫폼에 취득되는 자료는 센서 실시간/면단위 모니터링 및 데이터 기반 녹조예측 값이며, 측정항목은 수온(Temp.), 전기전도도(EC), 수소이온농도(pH), 용존 산소(DO), 클로로필-a(Chl-a), 피코시아닌(Phycocyanin) 및 탁도(Turb.)이다 (표 2.3).",
+    "blockRange": [
+      330,
+      330
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0116",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원",
+      "나. 분석 항목 및 시기"
+    ],
+    "text": "**표 2.3. 플랫폼 내 의사결정 활용 데이터**\n\n| 구분 | 세부 항목 |\n| --- | --- |\n| 센서 실시간/면단위 모니터링 | 수온(Temp.), 전기전도도(EC), 수소이온농도(pH), 용존 산소(DO),<br>클로로필-a(Chl-a), 피코시아닌(Phycocyanin), 탁도(Turb.) |\n| 녹조 예측 | 유해 남조류 세포수 |",
+    "blockRange": [
+      331,
+      331
+    ],
+    "page": 34,
+    "table": {
+      "rows": 3,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0117",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원",
+      "나. 분석 항목 및 시기"
+    ],
+    "text": "센서 실시간 모니터링 데이터는 ’21. 2. 1.\\~‘22. 9. 6.까지의 취득 데이터 중 낙동강(해평) 조류 경보제 일수 포함 1달 전·후의 데이터를 활용하여 기준값을 설정하였다(표 2.4). 최종적으로 활용한 데이터는 ’21. 8. 16\\~‘21. 11. 5., ’22. 5. 16.\\~ ‘22. 9. 6.로 총 194개 였고, 동일 기간 중 조류경보제 세포수 값이 낙동강(해평) n=31, 칠곡보 n=25개로 조사되었다. 조류경보제 데이터 중 유해남조류 세포수를 활용하여 측정되는 센서 항목 중 가장 상관관계가 높은 항목 설정 및 기준값을 설정(해당 값들은 자연로그 변환)하였다.",
+    "blockRange": [
+      332,
+      332
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0118",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원",
+      "나. 분석 항목 및 시기"
+    ],
+    "text": "**표 2.4. 낙동강(해평) 조류경보제 발령일수 및 1달 전·후 일시**\n\n|  |  | 조류경보제 발령일 |  | 조류경보제 발령일 1달 전·후 |  |\n| --- | --- | --- | --- | --- | --- |\n| 낙동강<br>(해평) | 관심 | 2021-09-16 | 2021-10-06 | 2021-08-16 | 2021-11-05 |\n| 낙동강<br>(해평) | 관심 | 2022-06-16 | 2022-07-20 | 2022-05-16 | 2022-08-19 |\n| 낙동강<br>(해평) | 관심 | 2022-08-16 | 2022-09-07 | 2022-07-16 | 2022-10-07 |\n| 낙동강<br>(해평) | 관심 | 2022-09-22 | 2022-10-12 | 2022-08-22 | 2022-11-13 |\n| 낙동강<br>(해평) | 경계 | 2022-07-21 | 2022-08-15 | 2022-06-21 | 2022-09-15 |",
+    "blockRange": [
+      333,
+      333
+    ],
+    "page": 34,
+    "table": {
+      "rows": 6,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0119",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련 2.1.1 녹조제어 통합플랫폼 보완 및 의사결정 고도화 지원",
+      "나. 분석 항목 및 시기"
+    ],
+    "text": "![image](image_036.png)",
+    "blockRange": [
+      334,
+      334
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0120",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법"
+    ],
+    "text": "### 2.1.2 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+    "blockRange": [
+      335,
+      335
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0121",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.1.2 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시"
+    ],
+    "text": "플랫폼 보완을 통해 축소된 관리자, 연구자 범위에서 확대하여 지자체 등 수요자 중심의 구역 설정 및 관리 방안을 제시하고자 하였다. 지점 선정, 기술 선정 등의 추가 기준을 마련하고, 센서 값 설정 및 예측 결과를 얻기 위한 항목들을 제시하였다. 또한 1단계에서 제시된 녹조 기술 평가 시스템을 제시하여 종합적으로 검토할 수 있도록 하였다.\n\n프로세스는 지점 선정 → 모니터링/예측 자료 취합 및 기준 값 설정 → 기술적, 경제성 평가를 통한 실현 가능한 녹조 기술 선정 → 실행 및 결과 보고의 순서로 고려하였다.\n\n녹조 제어 기술의 경우 기존에 조사된 “현장적용 녹조제어기술 편람(안) (2018)” 의 기술을 기반으로 카테고리 하여 제시하였다. 세부 내용은 수온, 남조류 모니터링 최대 세포수를 기준으로 선정하여 사전예방/사후처리로 나뉘고 상수원/농업·레크레이션/그외지점-경관 등으로 나누어 기술을 나열하였다.",
+    "blockRange": [
+      336,
+      338
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0122",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법"
+    ],
+    "text": "## 2.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+    "blockRange": [
+      339,
+      339
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0123",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.2 테스트베드를 통한 녹조관리 효율평가 체계 구축"
+    ],
+    "text": "- 가. 조사 개요",
+    "blockRange": [
+      340,
+      340
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0124",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "가. 조사 개요"
+    ],
+    "text": "물질형 녹조 제어기술의 효율평가를 위해 대청호 상류 서화천 일원의 실증 시설에서 평가를 실시하였다 (그림 2.1). 대상 물질은 조류 및 부유물을 응집·침전으로 제거하는 기술, 광물질이 수체내 인과 결합하여 인농도를 감소하는 기술 및 천연광물질을 활용하여 영양염류나 중금속 용출을 억제하는 기술을 검증하였다. ‘22년 3월 14일 \\~ 4월 7일까지 주 2회 실험을 수행하였다.\n\n그림 2.1. 서화천 실증시설\n\n운영 조건은 수조 크기(소형/중형), 수온(11℃, 23℃), 유속(0.02 m/s, 0.20 m/s) 및 살포량 조절(30 mL/L, 250 mg/L 및 15 g/L) 을 각 물질에 맞게 수행하였으며, 세부 사항은 다음과 같다 (표 2.5).\n\n\n![image](image_037.png)\n\n\n![image](image_038.png)",
+    "blockRange": [
+      341,
+      345
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0125",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "가. 조사 개요"
+    ],
+    "text": "**표 2.5. 테스트베드 운영 조건**\n\n| 구분 | 운영조건 |  |  |  |\n| --- | --- | --- | --- | --- |\n| 구분 | 수조 크기 | 수온 | 유속 | 살포량 |\n| 응집제 | 소형 | 23℃ | 0.20 m/s | 30mL/L |\n| 응집제 | 중형 | 11℃ | 0.02 m/s | 30mL/L |\n| 인제거물질 | 소형 | 23℃ | 0.02 m/s | 250mg/L |\n| 인제거물질 | 중형 | 11℃ | 0.02 m/s | 250mg/L |\n| 수질정화 블럭 | 소형 | 23℃ | 0.20 m/s | 15g/L |\n| 수질정화 블럭 | 중형 | 11℃ | 0.02 m/s | 15g/L |",
+    "blockRange": [
+      346,
+      346
+    ],
+    "page": 36,
+    "table": {
+      "rows": 8,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0126",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "가. 조사 개요"
+    ],
+    "text": "장치형 녹조 제어기술의 평가는 녹조 퇴치밭을 설치하여 녹조 과성장을 통해 질소, 인 영양물질을 녹조 먹이로 섭취 시켜 중하류 구간의 녹조 생성을 저감하고자 하였다. 이를 분석하기 위해 조류차단막 및 오탁 방지막을 설치하였다 (그림 2.2). 9월 및 10월 각 1회 차단막의 효율 평가 분석을 실시하였다.\n\n그림 2.2. 녹조 퇴치밭 현장사진",
+    "blockRange": [
+      347,
+      348
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0127",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.2 테스트베드를 통한 녹조관리 효율평가 체계 구축"
+    ],
+    "text": "- 나. 평가 항목",
+    "blockRange": [
+      349,
+      349
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0128",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "나. 평가 항목"
+    ],
+    "text": "측정항목은 총인 (T-P) 및 조류세포수였으며, 분석 방법은 수질오염공정시험기준에 따라 분석을 실시하였다.",
+    "blockRange": [
+      350,
+      350
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0129",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법"
+    ],
+    "text": "## ① 총인 (T-P, ES 04362.1c)",
+    "blockRange": [
+      351,
+      351
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0130",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "① 총인 (T-P, ES 04362.1c)"
+    ],
+    "text": ": 시료 50 mL를 분해병에 넣은 후 전처리 시약과 알칼리성 과황산칼륨용액 (4%) 10 mL를 넣고 마개를 닫은 후 섞어 고압증기멸균기에 넣어 가열하였다. 약 120 ℃가 될 때부터 30분간 가열분해를 계속하고 분해병을 꺼내 냉각하였다. 전처리한 시료 25 mL에 몰리브덴산암모늄·아스코빈산 혼합용액 2 mL를 넣어 흔들어 섞은 다음 20\\~40 ℃에서 15분간 방치하였다. 710 nm 에서 흡광도를 측정한 후 총인 농도를 산출하였다.",
+    "blockRange": [
+      352,
+      352
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0131",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법"
+    ],
+    "text": "## ② 식물성플랑크톤-현미경계수법 (ES 04705.1b)",
+    "blockRange": [
+      353,
+      353
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0132",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "② 식물성플랑크톤-현미경계수법 (ES 04705.1b)"
+    ],
+    "text": ": 조류의 세포수를 검경하기 위해 메스실린더에 시료를 넣고 루골용액(Lugol’s Solution)을 첨가하여 24시간 이상 침강하였다. 농축된 시료는 SR(Sedgewick-Rafter) chamber로 검경하고 세포수를 환산하여 계산하였다.\n\n\n![image](image_039.png)\n\n\n![image](image_040.png)",
+    "blockRange": [
+      354,
+      356
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0133",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법"
+    ],
+    "text": "## 2.3 기업 보유기술 효율 검증 지원 방안 마련",
+    "blockRange": [
+      357,
+      357
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0134",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련"
+    ],
+    "text": "### 2.3.1 물산업 중소기업 지원 사업",
+    "blockRange": [
+      358,
+      358
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0135",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업"
+    ],
+    "text": "K-water에서는 물분야 중소·벤처기업 혁신성장 지원을 위해 성장단계별 다양한 지원제도 운영하고 있다. 전략지원, 공동기술개발, 판로지원, 사업화·성장지원에 따라 나뉘어지며 제도명과 지원내용은 다음과 같다 (표 2.6).",
+    "blockRange": [
+      359,
+      359
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0136",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업"
+    ],
+    "text": "**표 2.6. 물산업 중소기업 지원사업 제도 및 내용**\n\n| 구분 | 제도명 |  | 지원내용 |\n| --- | --- | --- | --- |\n| 전략지원 | 기술예고제 |  | 수요기반 기술예고품목 사전예고 |\n| 공동<br>기술<br>개발 | 구매<br>조건부 | 공동투자형<br>기술개발 | 과제규모 최대 3년, 30.4억원 이내<br>(성공 시 수의계약 3년 자격 부여) |\n| 공동<br>기술<br>개발 | 구매<br>조건부 | 구매연계형<br>신제품개발 | 과제규모 최대 2년, 7.7억원 이내<br>(성공 시 수의계약 3년 자격 부여) |\n| 기술<br>육성 | 성과공유제 |  | 성과검증 및 판로지원<br>(성공 시 수의계약 2년 자격 부여) |\n| 판로<br>지원 | 테스트베드<br>(기술성능확인 포함) |  | 성능검증 및 적용실적 확보 지원 |\n| 판로<br>지원 | 물산업 우수제품<br>지정제도 |  | 지명경쟁자격 부여 및 등록품목 구매<br>(舊 K-water 물산업 기자재 공급자 등록제도) |\n| 판로<br>지원 | 혁신제품<br>시범구매사업 |  | 혁신제품의 초기 판로확보 및 성능검증 |\n| 사업화<br>·<br>성장<br>지원 | 기술개발제품<br>시범구매제도 |  | 중소기업 기술개발제품 인증서 발급을 통한 초기 판로지원 |\n| 사업화<br>·<br>성장<br>지원 | K-water<br>등록신기술 |  | 신기술사용 협약체결 및 홍보 지원 |\n| 사업화<br>·<br>성장<br>지원 | 우수기술 운영확인 |  | 기술홍보 및 판로확대 지원(舊 K-water Global Partner 인증브랜드) |\n| 사업화<br>·<br>성장<br>지원 | 기술이전 |  | 지식재산권 이전 및 사업화 지원 |\n| 사업화<br>·<br>성장<br>지원 | 전문인력 지원사업 |  | 임금피크제 활용, 전문인력 지원 |\n| 사업화<br>·<br>성장<br>지원 | 글로벌 혁신성장<br>지원사업 |  | 국내·외 기술 및 시장정보 조사, 사업화 컨설팅 지원 |\n| 사업화<br>·<br>성장<br>지원 | 혁신기술 성능검증<br>컨설팅 지원사업 |  | 기술개발과제 성능검증<br>목표 적정성 등 컨설팅 지원(KTL) |",
+    "blockRange": [
+      360,
+      360
+    ],
+    "page": 37,
+    "table": {
+      "rows": 15,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0137",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업"
+    ],
+    "text": "- 가. 기술예고제(전략기술) 개요 및 구성",
+    "blockRange": [
+      361,
+      361
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0138",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업",
+      "가. 기술예고제(전략기술) 개요 및 구성"
+    ],
+    "text": "기술예고제는 물산업 수요자가 필요한 기술을 사전에 공지하여 공급자(중소기업, 스타트업, 예비창업자 등)가 기술개발을 통해 사업화를 조기 추진할 수 있도록 지원함으로써 사업화 성공을 강화하는 제도로 K-water 경영·기술전력 분야와 연계한 4개 분야, 91개 품목으로 구성되어 있다(그림 2.3).",
+    "blockRange": [
+      362,
+      362
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0139",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업",
+      "가. 기술예고제(전략기술) 개요 및 구성"
+    ],
+    "text": "<!-- <table id=\"t25\" /> -->\n|  | <!-- <table parent_id=\"t25\" child_id=\"t26\" /> --> |\n| --- | --- |\n\n<!-- <table id=\"t26\" parent_id=\"t25\" /> -->\n| 구 분 | 합 계 | 물안심<br>(수자원) | 물나눔<br>(수도) | 물융합<br>(신재생E·물순환) | 물혁신<br>(안전·<br>기술혁신) |\n| --- | --- | --- | --- | --- | --- |\n| 기술예고품목 | 91 | 27 | 49 | 11 | 4 |",
+    "blockRange": [
+      363,
+      363
+    ],
+    "page": 38,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0140",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업",
+      "가. 기술예고제(전략기술) 개요 및 구성"
+    ],
+    "text": "그림 2.3. 기술예고제 구성",
+    "blockRange": [
+      364,
+      364
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0141",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업"
+    ],
+    "text": "- 나. K-테스트베드 운영 현황 및 절차",
+    "blockRange": [
+      365,
+      365
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0142",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업",
+      "나. K-테스트베드 운영 현황 및 절차"
+    ],
+    "text": "K-테스트베드는 중소·벤처기업의 신기술·시제품의 실증을 위해 공공기관의 실증인프라를 제공하고, 판로확대까지 연계하는 국가통합플랫폼이다. ‘22년 K-테스트베드 정식 플랫폼 론칭 및 통합운영을 하였으며, 기업이 희망하는 공공기관과 매칭되어, 공공기간의 실증인프라와 전문 인력의 지원을 통해 연구·개발 지원 또는 기술·제품의 단순실증 및 성능확인 시행을 수행한다.\n\n실증결과가 우수한 제품은 혁신조달 패스트트랙을 적극 연계하여 수의계약·구매면책 등 조달시장 진입 지원을 담당하며, 해외 추가실증 및 판로를 개척할 수 있게 지원한다.\n\n운영기관은 K-water이며, 프로세스는 다음과 같다 (그림 2.4). 개발 기술·제품과 적합한 실증인프라 정보를 사전에 파악하고 K-테스트베드 참여기업 공모를 지원한다. 61개 공공 및 민간 참여기관별로 자체 평가를 실시하고 계약체결 및 실증을 지원한다 (그림 2.5). 평가 이후 성능확인서 발급 등의 종합평가를 실시하고 우수기업 조달시장 진입을 지원한다.\n\n그림 2.4. K-테스트베드 프로세스\n\n공공 및 민간 참여기관별 K-테스트베드 실증인프라로 총 860개가 있으며, 한국수자원공사가 361개로 가장 많고 한국환경공단(123개), 국토안전관리원(39개), 한국세라믹기술원(35개) 순으로 인프라를 보유하고 있다. 시설그룹별로는 경공업, 공공건축, 보건휴식종교, 운송교통, 자원공급, 주거 및 상업, 환경처리시설 7개의 대그룹으로 나뉘어져 있어 다양한 분야의 검증이 가능하다.\n\n\n![image](image_041.png)\n\n\n![image](image_042.png)\n\n운영절차는 연구·개발(R&D), 단순실증 및 기술·제품성능확인 분야로 나뉘어진다.\n\n그림 2.5. K-테스트베드 참여기관\n\n연구·개발(R&D)은 기업이 제안하는 혁신기술 연구·개발 과제를 K-테스트베드 참여기관의 인프라를 활용하여 연구·개발 시행하며, 과제수요조사-과제신청/선정-연구개발-성과활용의 단계로 운영된다 (그림 2.6). 단순실증은 참여기업이 K-테스트베드 지원 실증 인프라를 활용하여 자체적으로 기술 및 제품의 실·검증 시행하며, 기술·제품성능확인은 참여기업이 K-테스트베드 지원 인프라를 활용하여 자체 실증 진행 후 해당 참여기관의 평가를 통해 기술·제품의 성능을 확인하고 확인서를 발급한다. 운영절차는 단순실증/기술·제품성능확인이 전·후 단계별로 운영된다. 단순실증은 운영계약 이후에 실증이 종료되면 자체평가·검토를 수행하고 이후에 기술·제품성능확인 단계에서 현장평가를 수행한 후 기술성능확인서 발급 및 판로지원, 성과홍보의 단계로 수행된다.\n\n그림 2.6. K-테스트베드 운영절차\n\n\n![image](image_043.png)\n\n\n![image](image_044.png)",
+    "blockRange": [
+      366,
+      378
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0143",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업"
+    ],
+    "text": "- 다. 구매조건부 신제품개발사업(공동투자형·구매연계형) 개요 및 유형",
+    "blockRange": [
+      379,
+      379
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0144",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "2.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "2.3.1 물산업 중소기업 지원 사업",
+      "다. 구매조건부 신제품개발사업(공동투자형·구매연계형) 개요 및 유형"
+    ],
+    "text": "구매·투자 수요가 있는 기술개발제품에 대하여 신제품 또는 국산화 개발을 수행하는 중소기 업에 개발에 소요되는 자금의 일부를 지원하는 제도로 자유응모(기업제안) 및 지정공모(K-water 사내직원제안)으로 유형이 구분되어 있다.",
+    "blockRange": [
+      380,
+      380
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0145",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법"
+    ],
+    "text": "## 라. 성과공유제 개요 및 지원내용",
+    "blockRange": [
+      381,
+      381
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0146",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용"
+    ],
+    "text": "성과공유제는 K-water와 중소기업 간 공동의 혁신활동으로 기자재의 원가절감, 품질향상을 도모하고 그 결과로 나타난 성과를 상호공유하는 제도로 현장 Test-bed 제공 및 성과공유제품 판로확보(수의계약 2년)를 지원한다.\n\n- 마. K-water 등록신기술 및 우수기술 운영확인제도 개요",
+    "blockRange": [
+      382,
+      383
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0147",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "마. K-water 등록신기술 및 우수기술 운영확인제도 개요"
+    ],
+    "text": "K-water 등록신기술 제도는 국가 신기술(NET) 중 K-water 적용성이 높은 신기술을 선별하여 채택·등록함으로써 정부의 신기술 활성화 정책에 부응하고 물산업 진흥 및 중소기업의 판로확대를 지원하며, 우수기술 운영확인제도는 K-water 시설에서 일정기간 이상 적용된 기술(제\n\n품)에 대하여 소정의 평가절차를 거친 우수기술에 대한 운영확인서를 발급함으로써 기술(제품)의 인지도를 제고하여 판로 확대를 지원한다.",
+    "blockRange": [
+      384,
+      385
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0148",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용"
+    ],
+    "text": "- 바. 기술이전 및 전문인력 지원사업 개요",
+    "blockRange": [
+      386,
+      386
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0149",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "바. 기술이전 및 전문인력 지원사업 개요"
+    ],
+    "text": "기술이전은 특허 등 K-water 지식재산권을 이전하여 사업화 Seed 제공 및 사업화 지원하며 기술료 수익을 활용한 기술이전기업 성능인증비용 지원 및 국제발명전시회 출품 등 사업화 유망기술의 해외판로 개척을 지원한다. 전문인력 지원사업은 정부 중소기업 지원제도 참여기업과 임금피크제도를 활용한 전문인력 間 매칭(1:1 또는 1: 多)을 통해 수요 맞춤형 기술개발 지원하며 2단계로 구분하여 지원한다 (표 2.7).",
+    "blockRange": [
+      387,
+      387
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0150",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "바. 기술이전 및 전문인력 지원사업 개요"
+    ],
+    "text": "**표 2.7. 전문인력 지원사업 내용**\n\n| 단계 | 지원내용 |\n| --- | --- |\n| 1단계 | ◦ 전문인력 활용, 기술개발 등 사업화 자문(출장 또는 파견 최소 3개월↑)<br>\\* 참여 전문인력은 컨설팅비 지원 제외, 그 외 경비(출장비 등)만 지원 |\n| 2단계 | ◦ 상호 동의하에 전문인력을 직접 고용(최대 12개월)하여 기술개발 및 사업화 완료<br>단계까지 연구원으로 활용(소속 공공기관 퇴직 전제)<br>\\* 기업의 경영 부담 완화를 위해 최대 12개월간 상생격려금 지원(48백만원/기업당 한도) |",
+    "blockRange": [
+      388,
+      388
+    ],
+    "page": 40,
+    "table": {
+      "rows": 3,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0151",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용"
+    ],
+    "text": "### 2.3.2 보유기술의 현장적용성 평가",
+    "blockRange": [
+      389,
+      389
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0152",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "2.3.2 보유기술의 현장적용성 평가"
+    ],
+    "text": "- 가. 조사 개요",
+    "blockRange": [
+      390,
+      390
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0153",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "2.3.2 보유기술의 현장적용성 평가",
+      "가. 조사 개요"
+    ],
+    "text": "공동 기관 혹은 기업에서 개발한 기술 중 기술성숙도가 TRL6 단계(대표적인 모델 또는 시제품이 유사 운용 환경에서 시험하는 단계) 이상의 기술에 대해 현장적용성을 검토하였다. 센서 탑재 무인 선박 (USV), 센서탑재 수질 정화 로봇 (에코봇) 등 현장 시범 적용을 통해 기술 운영체계 효율성 제고하고자 하였다. 무인선박은 6회(5. 17., 6. 2., 6. 17., 6. 28., 7. 19. 및 9. 28.) 측정하였고 에코봇은 1일 1회 측정하였다. 무인선박은 서화천 부소담악 녹조저감설비 인근 0.2 Km2, 센서탑재 수질 정화 로봇은 서화천 부소담악 \\~ 녹조 퇴치밭 하류 지점에 0.4 Km2를 측정하였다 (표 2.8).",
+    "blockRange": [
+      391,
+      391
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0154",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "2.3.2 보유기술의 현장적용성 평가",
+      "가. 조사 개요"
+    ],
+    "text": "**표 2.8. 무인선박 및 에코봇 현장 적용**\n\n| 무인선박(USV) | 센서탑재 수질 정화 로봇 |\n| --- | --- |\n| ◦ 서화천 부소담악 녹조저감설비 인근<br>\\* 1회 모니터링 면적 : 0.2 km2 | ◦ 서화천 부소담악 \\~ 녹조 퇴치밭 하류<br>\\* 1회 모니터링 면적 : 0.4 km2 |",
+    "blockRange": [
+      392,
+      392
+    ],
+    "page": 41,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0155",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "2.3.2 보유기술의 현장적용성 평가"
+    ],
+    "text": "- 나. 평가 항목",
+    "blockRange": [
+      393,
+      393
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0156",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "2.3.2 보유기술의 현장적용성 평가",
+      "나. 평가 항목"
+    ],
+    "text": "운영시 측정항목은 수온, pH, 용존산소 (DO), 전기전도도 (EC), 탁도, 클로로필-a(Chl-a) 및 피코시아닌(Phycocyanin)이었으며, 현장에서 다항목수질측정기 (YSI 社 및 만타 社)를 사용하여 측정하였다 (그림 2.7).\n\n<센서 탑재 무인 선박 운항 시험> <센서탑재 수질 정화 로봇 운영>\n\n그림 2.7. 센서를 활용한 수질 평가\n\n또한 무인선박 (USV)은 특정 파장범위에서 형광광도를 측정하는 수중형 연속조류측정기를 활용하여 전체 조류 및 조류강별 농도를 측정함으로써(Torch) 조류 분포 변화를 조사하였다. 또한 위치 정보 및 수심 정보도 함께 수집하였다.\n\n면단위 측정 데이터의 시각화를 위해 Surfer 19 프로그램을 활용하여 지점간 농도를 산출하고 이미지를 얻은 위, 이후 google map을 활용하여 지도 위에 Surfer 결과물을 병합하여 지점별 측정값을 면단위로 제시하였다.\n\n\n![image](image_045.png)\n\n\n![image](image_046.png)\n\n\n![image](image_047.png)\n\n\n![image](image_048.png)",
+    "blockRange": [
+      394,
+      402
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0157",
+    "type": "heading",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용"
+    ],
+    "text": "### 2.3.3 물환경관련 기업-기술 매칭을 통한 중소기업 보유 기술 지원방안 마련",
+    "blockRange": [
+      403,
+      403
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0158",
+    "type": "text",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "2.3.3 물환경관련 기업-기술 매칭을 통한 중소기업 보유 기술 지원방안 마련"
+    ],
+    "text": "본 연구에서는 중소기업이 보유한 녹조저감 기술을 발굴하기 위해 환경관련 산업대전 및 설명회 등을 참여하여 원천기술과의 연결을 지속적으로 추진하였다. 기업 및 기술 현황에 대해 조사한 결과 K-water 협력기업은 IoT, A.I., 스마트시티 등 물환경 관련 분야 143개, ETRI 기술은 S/W, IT융합, 반도체 등 전자통신 관련 신기술 875건이었다. 이 중에서 물환경관리 사업에 활용 가능한 기업 및 기술을 우선 선정하고 보유 기술 지원 방안을 마련하고자 하였다 (표 2.9).",
+    "blockRange": [
+      404,
+      404
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0159",
+    "type": "table",
+    "breadcrumb": [
+      "제2장 재료 및 방법",
+      "라. 성과공유제 개요 및 지원내용",
+      "2.3.3 물환경관련 기업-기술 매칭을 통한 중소기업 보유 기술 지원방안 마련"
+    ],
+    "text": "**표 2.9. 물환경관리 사업 활용 가능한 기업 및 기술**\n\n| 구분 | 분야 | 건수 | 주요 사업 및 핵심기술 | 기타 기술 |\n| --- | --- | --- | --- | --- |\n| 기업 | IoT | 3 | 스마트 수질분석 시스템 | 지능형센서, A.I. |\n| 기업 | A.I. | 2 | A.I.기반 수질정화 솔루션 | 지능형센서, 로봇 |\n| 기업 | 기타 | 5 | 드론 활용 모니터링 시스템 | 수질모니터링 |\n| 기술 | S/W | 4 | 초소형 운영체제 및 SW플랫폼 | - |\n| 기술 | IT융합 | 2 | 무인이동체 이용 수질데이터 수집 | - |\n| 기술 | 기타 | 4 | 초분광 데이터 획득 및 분석 | - |",
+    "blockRange": [
+      405,
+      405
+    ],
+    "page": 42,
+    "table": {
+      "rows": 7,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0160",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제3장 연구 결과",
+    "blockRange": [
+      406,
+      406
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0161",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과"
+    ],
+    "text": "## 3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+    "blockRange": [
+      407,
+      407
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0162",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련"
+    ],
+    "text": "(수행자 : 이희숙, 이영주, 박연정, 위촉연구원)",
+    "blockRange": [
+      408,
+      408
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0163",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련"
+    ],
+    "text": "### 3.1.1 낙동강 녹조제어 플랫폼 보완",
+    "blockRange": [
+      409,
+      409
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0164",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완"
+    ],
+    "text": "주관기관에서는 의사결정 적용 및 데이터 수집/정제/시각화 개선 및 운영 시스템 보완을 통해 통합 플랫폼 시스템 구조를 개선하였다. 플랫폼 점검 및 기동 현황을 확인하여, 오류에 대한 수정을 완료하였으며, 물환경정보시스템-수질측정망, 수질자동측정망 및 기상청 운영 결과에 대한 OpenAPI 추가 연계를 완료하였다.\n\n데이터 시각화 개선 필요에 따라 선제적 수질관리를 위한 시스템 구축, 조류경보 단계별 기술투입 의사결정 체계 확립, 예측모델 활용성 개선 및 사용 범위의 선택과 집중을 실시하였다 (표 3.1).\n\n표 3.1. 플랫폼 내 시각화 한계점 및 개선방향\n\n한계점 ≫ 개선방향\n\n통합 시스템의 차별성 부족 선제적 수질관리를 위한 시스템 구축\n\n- 유역 수질 데이터 모니터링 수준 - 조류경보 발생이후 대응 체계(수동적) - 조류 예측결과 중심 선제적 대응 시스템 구축",
+    "blockRange": [
+      410,
+      415
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0165",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 유역 수질 데이터 모니터링 수준 - 조류경보 발생이후 대응 체계(수동적) - 조류 예측결과 중심 선제적 대응 시스템 구축"
+    ],
+    "text": "관리기술 의사결정 체계 미확립 조류경보 단계별 기술투입 의사결정 체계 확립",
+    "blockRange": [
+      416,
+      416
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0166",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완"
+    ],
+    "text": "- 녹조관리기술 검증 완료 - 관리기술 투입에 대한 의사결정 체계 부재 - 조류경보 단계별 관리기술 의사결정 체계 수립",
+    "blockRange": [
+      417,
+      417
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0167",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 녹조관리기술 검증 완료 - 관리기술 투입에 대한 의사결정 체계 부재 - 조류경보 단계별 관리기술 의사결정 체계 수립"
+    ],
+    "text": "예측모델 활용성 부족 예측모델 활용성 개선",
+    "blockRange": [
+      418,
+      418
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0168",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완"
+    ],
+    "text": "- 예측알고리즘 입력 데이터(수작업) - 예측알고리즘의 신뢰성(빅데이터 활용 미흡) - 알고리즘의 경량화 필요 - 2012년\\~2021년 과저 수질/기상 빅데이터 활용 - 빅데이터 정보수집 API 연계(자동화) - 특정 측정소 중심 녹조 예측 - 예측시스템의 경량화",
+    "blockRange": [
+      419,
+      419
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0169",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 예측알고리즘 입력 데이터(수작업) - 예측알고리즘의 신뢰성(빅데이터 활용 미흡) - 알고리즘의 경량화 필요 - 2012년~2021년 과저 수질/기상 빅데이터 활용 - 빅데이터 정보수집 API 연계(자동화) - 특정 측정소 중심 녹조 예측 - 예측시스템의 경량화"
+    ],
+    "text": "사용 대상의 모호성 사용 범위 선택과 집중",
+    "blockRange": [
+      420,
+      420
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0170",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완"
+    ],
+    "text": "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등",
+    "blockRange": [
+      421,
+      421
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0171",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등"
+    ],
+    "text": "이를 위해 관리시스템(메인)은 조류예측 결과 중심의 관리시스템을 구축, 중점 관리지점(구미보, 해평 취수장 및 칠곡보) 중심 유역관리 및 시인성 향상을 위해 불필요한 정보를 개선하였다 (그림 3.1). 또한 조류 예측결과 기반 경보단계별 의사결정체계를 수립하여 세부사항을 팝업으로 안내할 수 있도록 하였다 (그림 3.2).",
+    "blockRange": [
+      422,
+      422
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0172",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등"
+    ],
+    "text": "| <개선 전> | <개선 후> |\n| --- | --- |\n|  |  |\n\n**그림 3.1. 관리시스템 메인 구성 개선 전·후 UI**",
+    "blockRange": [
+      423,
+      423
+    ],
+    "page": 44,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0173",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등"
+    ],
+    "text": "그림 3.2. 경보단계별 의사결정체계 수립\n\n비점오염원 시스템은 낙동강 중·상류지역(경북권) 비점오염원 데이터를 신규로 추가하고 T/B 지역 비점 오염원 측량 DB를 보완하였다 (그림 3.3).\n\n\n![image](image_049.png)\n\n\n![image](image_050.png)",
+    "blockRange": [
+      424,
+      427
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0174",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등"
+    ],
+    "text": "| <신규> | <기존DB활용 보완> |\n| --- | --- |\n|  |  |\n\n**그림 3.3. 비점오염원 DB 구축**",
+    "blockRange": [
+      428,
+      428
+    ],
+    "page": 45,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0175",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등"
+    ],
+    "text": "수질데이터는 실시간 수집 센서 데이터와 14개소 측정소 데이터에 대해 API 연동을 완료 하였다 (그림 3.4). 이를 통해 예측모델 신뢰도 향상 및 집중관리지역(우심지역) 관리정책 수립에 활용할 수 있다.",
+    "blockRange": [
+      429,
+      429
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0176",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등"
+    ],
+    "text": "| <센서 데이터> | <기존DB활용 보완> |\n| --- | --- |\n|  |  |\n\n**그림 3.4. 센서 데이터 연동 및 표출**",
+    "blockRange": [
+      430,
+      430
+    ],
+    "page": 45,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0177",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등"
+    ],
+    "text": "또한 조류 예측 알고리즘 활용을 위한 기상데이터를 수집하고 이를 통해 예측을 실시 하였다 (그림 3.5). 데이터 탐색 및 전처리를 수행하였다. 조류데이터 1주 간격(유해남조류 세포수, 로그변환 세포수, 수온, 수소이온농도, 용존산소량, 클로로필a 농도 및 로그변환 클로로필a 농도), 수질측정망데이터 1주 간격(총인, 질소 등), 기상 데이터 1시간 간격(태양 적위, 기압, 기온, 운량, 습도, 강수량, 적설량, 일사량, 일조시간 등), 유량/유속 1일 간격 등으로 변수 컬럼을 설정하고 전처리를 수행하였다. 이후 예측 모델은 선형회귀모델을 기본으로 하고, 라쏘/릿지 등 규제모형, 의사결정나무, 랜덤포레스트/부스팅 등 앙상블 모형 등을 다양하게 적용하고 예측 모델별 성능을 비교하였다. 모델간 성능 차이가 크지 않았지만 랜덤포레스트 모델의 성능이 가장 높았다. 예측된 구미보, 해평, 칠곡보, 강정고령, 강정고령보, 달성보 6개 지점에 대해 유해남조류 세포수 값을 예측 하여 의사결정시스템과 연계하였다.\n\n\n![image](image_051.png)\n\n\n![image](image_052.png)\n\n\n![image](image_053.png)\n\n\n![image](image_054.png)",
+    "blockRange": [
+      431,
+      435
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0178",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.1 낙동강 녹조제어 플랫폼 보완",
+      "- 관리자, 연구자, 기업체, 일반인 대상 서비스 검토 - 시스템 데이터의 시인성 저하, UI 개선 필요 - 시스템 사용범위를 관리자, 연구자로 축소 - 사용자 시스템 편의성 개선 등"
+    ],
+    "text": "| <기상정보> | <녹조예측> |\n| --- | --- |\n|  |  |\n\n**그림 3.5. 기상 정보 및 예측 결과 표출**",
+    "blockRange": [
+      436,
+      436
+    ],
+    "page": 46,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0179",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련"
+    ],
+    "text": "### 3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원",
+    "blockRange": [
+      437,
+      437
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0180",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원"
+    ],
+    "text": "낙동강 녹조제어 통합 플랫폼에 연계되어 있는 센서 실시간/면단위 모니터링 및 녹조 예측 데이터에 기반한 의사 결정 시스템 보완하였다.\n\n- 가. 지점 선정",
+    "blockRange": [
+      438,
+      439
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0181",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원",
+      "가. 지점 선정"
+    ],
+    "text": "지점은 1단계에서 선정된 구미 실증단지로 선정하였다. ‘21년부터 고정형 센서가 설치되어 운영 중에 있으며, 이를 중심으로 조류세포수 값을 취득할 수 있는 조류경보제 지점인 낙동강 (해평) 지점 및 조류관찰지점 칠곡보 상류 500m 지점과 비교 분석 하였다.\n\n유해남조류 세포수, 센서 값(클로로필-a 및 피코시아닌)의 자연로그를 취한 값을 통한 비교에서 해평에 비해 칠곡보 피코시아닌 값과의 상관성이 높게 나왔다 (표 3.2). 이는 해평의 조류경보제 채수 기준은 상·중·하 혼합이고, 칠곡보는 조류관찰지점이므로 표층 채수를 실시한다. 하지만 센서는 표층에서 측정 중이므로 상관성이 높은 것으로 보인다. 그러므로 칠곡보의 유해남조류 값을 기준으로 하여 실증지점의 센서 값을 선정하였다.",
+    "blockRange": [
+      440,
+      441
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0182",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원",
+      "가. 지점 선정"
+    ],
+    "text": "**표 3.2. 해평과 칠곡보 지점의 유해남조류 세포수와 센서 값(클로로필-a 및 피코시아닌) 비교**\n\n| 구분 | 클로로필-a vs. 유해남조류 세포수 | 피코시아닌 vs. 유해남조류 세포수 |\n| --- | --- | --- |\n| 해평<br>(n=31) |  |  |\n| 칠곡보<br>(n=25) |  |  |",
+    "blockRange": [
+      442,
+      442
+    ],
+    "page": 46,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0183",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원",
+      "가. 지점 선정"
+    ],
+    "text": "![image](image_055.png)\n\n\n![image](image_056.png)\n\n\n![image](image_057.png)\n\n\n![image](image_058.png)\n\n\n![image](image_059.png)\n\n\n![image](image_060.png)",
+    "blockRange": [
+      443,
+      448
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0184",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원"
+    ],
+    "text": "- 나. 기준 센서 값 설정",
+    "blockRange": [
+      449,
+      449
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0185",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원",
+      "나. 기준 센서 값 설정"
+    ],
+    "text": "칠곡보의 클로로필-a 센서의 값과 피코시아닌 센서의 값을 비교한 결과 ln 클로로필 a 값은 유효하지 않았고, ln 피코시아닌 값과 유해남조류 세포수와의 비교 값은 R=0.551(p<0.01)로 높았다. 그러므로 피코사아닌 센서 값을 활용하였다. 칠곡보에서 모니터링 된 유해남조류 세포수 범위는 해당 기간동안 (n=25) 0 cells/mL \\~ 127,406 cells/mL (’22. 6. 20.) 이었으며, 평균 7,290 cells/mL로 관찰되었다. 대발생 기준 값인 1,000,000 cells/mL 값은 측정되지 않았으므로, 해당 기준 값에서 제외하였다. 500 cells/mL, 1,000 cells/mL, 5,000 cells/mL 이하 및 이상으로 나누었으며 1,000 cells/mL, 5,000 cells/mL 이하 및 이상의 값들을 활용하여 1단계\\~3단계 기준 값으로 설정하였다. 최대값 중 센서에서 측정된 피코시아닌 값을 설정하고 20%의 여유율을 두고 값을 선정하였다 (표 3.3).",
+    "blockRange": [
+      450,
+      450
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0186",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원",
+      "나. 기준 센서 값 설정"
+    ],
+    "text": "**표 3.3. 유해남조류 세포수와 피코시아닌 센서 값의 기준값 설정**\n\n| 구분 | 피코시아닌 센서 (μg/L) |  |  | 유해 남조류 세포수 (cells/mL) |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 구분 | 최대값 | 20% 여유율 | 기준값 | 최대값 | 20% 여유율 | 기준값 |\n| 1단계 | 0.6 | 0.5 | 0.5 | 925 | 740 | 800 |\n| 2단계 | 1.1 | 0.9 | 0.9 | 4,701 | 3,761 | 4,000 |\n| 3단계 | 1.8 | 1.4 | 1.4 | 127,406 | 101,925 | 100,000 |",
+    "blockRange": [
+      451,
+      451
+    ],
+    "page": 47,
+    "table": {
+      "rows": 5,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0187",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원",
+      "나. 기준 센서 값 설정"
+    ],
+    "text": "이 외에도 운영에 있어 결정해야 할 사항들은 연구진 회의를 통해 최종 선정하였다. 피코시아닌 센서 값은 5분 단위로 측정되고 있으므로, 오전 10시 및 오후 2시 데이터의 연속 2번 데이터의 값을 활용하기로 하였다. 또한 대응 단계의 투입 장치는 1단계에서 보유 중이었던 선회 와류식 물순환장치, 육상형 녹조 제거 장치 및 조류 제거선(소금쟁이 등)을 활용하였다. 조류 제거선(소금쟁이 등)은 대발생 단계에 해당되므로 센서를 활용한 제어 장치는 선회 와류식 물순환장치, 육상형 녹조 제거 장치가 가동 되도록 하였으며, 100,000 cells/mL에 해당되는 피코시아닌 센서 1.4 μg/L가 측정될 때에는 예측값과 별개로 즉시 투입되도록 하였다. 또한 해당 농도에서는 이동식 센서 면단위 모니터링을 수행하도록 조치하였다. 이 모니터링 자료는 이후 높게 분포하는 일부 영역의 저감 조치가 필요할 때 활용할 수 있도록 1.4 μg/L 이상 농도에 대한 GPS 좌표 제공하도록 하였다 (그림 3.6).\n\n그림 3.6. 센서값에 따른 모니터링 및 대응 프로세스",
+    "blockRange": [
+      452,
+      453
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0188",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원"
+    ],
+    "text": "- 다. 예측 값에 따른 대응 프로세스 설정",
+    "blockRange": [
+      454,
+      454
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0189",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+      "3.1.2 녹조제어 통합플랫폼의 제어기술 투입 의사결정시스템 고도화 지원",
+      "다. 예측 값에 따른 대응 프로세스 설정"
+    ],
+    "text": "예측 모델은 공동 수행 연구기관인 한국건설기술연구원(KICT)에서 수행하였으며, 해평, 구미보 및 칠곡보 지점 예측 결과를 조류경보제 기준 관심(1,000 cells/mL), 경계(10,000 cells/mL) 및 대발생(1,000,000 cells/mL)에 따라 대응하도록 하였다 (그림 3.7).\n\n\n![image](image_061.png)\n\n예측 남조류 세포수 값이 1,000,000 cells/mL 일 때, 센서 면단위 모니터링을 통한 GPS 지점 다운로드할 수 있도록 하며, 해당 투입 장치는 선회 와류식 물순환장치, 육상형 녹조 제거 장치 및 조류 제거선(소금쟁이 등)로 하였다. 운영은 시작시점부터 지속적으로 수행하며, 해제 시 모든 녹조 제어 장치들이 중지되었다.\n\n그림 3.7. 예측 결과에 따른 모니터링 및 대응 프로세스",
+    "blockRange": [
+      455,
+      458
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0190",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과"
+    ],
+    "text": "## 라. 관계 기관 알림 제공",
+    "blockRange": [
+      459,
+      459
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0191",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공"
+    ],
+    "text": "기준 센서 값 및 예측 값에 따라 단계가 설정이 되면, 알림을 제공하였다. 또한 시스템에 업로드 되는 데이터 이상 시 알림을 제공(ex. 전기전도도 10 μS/cm, 용존산소 2 mg/L 이하 등)하고 추후 대응이 완료되었을 때 가동 중지에 대한 알림도 제공하였다.\n\n시스템에 업로드 되는 알림 예시는 다음과 같다 (표 3.4).",
+    "blockRange": [
+      460,
+      461
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0192",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공"
+    ],
+    "text": "**표 3.4. 관계 기관 알림 메일 및 조치 사항 예시**\n\n| 구분 | 메일 내용 및 조치 사항 |\n| --- | --- |\n| 센서<br>데이터<br>측정 | - (메일 내용) 경상북도 낙동강 녹조제어 통합 플랫폼 관련입니다. 실증지역에<br>실시간으로 수집되어 있는 피코시아닌농도 값이 2회 연속 1.4 μg/L 이상 측정됨에<br>따라 이동형 무인 선박을 활용하여 센서 면단위 모니터링을 수행해 주시기<br>바랍니다. 또한, 보유하고 있는 선회 와류식물순환장치, 육상형 녹조제거 장치<br>가동을 시작하여 주시기 바랍니다. 감사합니다. |\n| 발령 시<br>\\_관심 | - (메일 내용) 경상북도 낙동강 녹조제어 통합 플랫폼 관련입니다. 플랫폼 내 남조류 세포수<br>예측 결과가 \\*\\* (예측되는 결과값 입력) cells/mL로 관심(1,000 cells/mL) 수준입니다.<br>다음과 같은 사항에 대한 조치를 취해 주시고 조류에 따른 피해를 최소화하기 위해<br>최선의 노력을 다해주시기 바랍니다.<br>√ (수면관리자) 취수구와 조류가 심한 지역에 대한 차단막설치 등 조류 제거 조치 실시<br>√ (취수장ㆍ정수장관리자) 정수 처리 강화(활성탄 처리, 오존 처리)<br>√ (지자체) 주변오염원(가축분뇨배출시설, 환경기초시설, 폐수배출업소 등) 에 대한 지도ㆍ단속<br>- (가동장치) 선회와류식물순환장치 가동 |",
+    "blockRange": [
+      462,
+      462
+    ],
+    "page": 48,
+    "table": {
+      "rows": 3,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0193",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공"
+    ],
+    "text": "![image](image_062.png)",
+    "blockRange": [
+      463,
+      463
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0194",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공"
+    ],
+    "text": "**표 3.4. 관계 기관 알림 메일 및 조치 사항 예시_계속**\n\n| 구분 | 메일 내용 및 조치 사항 |\n| --- | --- |\n| 발령 시<br>\\_경계 | - (메일 내용) 경상북도 낙동강 녹조제어 통합 플랫폼 관련입니다.<br>플랫폼 내 남조류세포수예측 결과가 \\*\\*(예측되는 결과값 입력) cells/mL로 경계<br>(10,000 cells/mL) 수준입니다. 다음과 같은 사항에 대한 조치를 취해 주시고 조류에<br>따른 피해를 최소화하기 위해 최선의 노력을 다해주시고, 대발생 발생에 대비하여<br>녹조제거선(조류먹는소금쟁이) 이동에 대한 검토를 부탁드립니다.<br>√ (수면관리자) 취수구와 조류가 심한 지역에 대한 차단막설치 등 조류 제거 조치 실시<br>√ (취수장ㆍ정수장관리자)<br>1) 조류증식 수심 이하로 취수구이동<br>2) 정수 처리 강화(활성탄 처리, 오존 처리)<br>3) 정수의 독소분석 실시<br>√ (지자체)<br>1) 주변오염원(가축분뇨배출시설, 환경기초시설, 폐수배출업소 등)에 대한 지도ㆍ단속강화<br>2) 낚시ㆍ수상스키ㆍ수영등 친수활동, 어패류 어획ㆍ식용, 가축 방목 등의 자제<br>권고 및 이에 대한 공지(현수막 설치 등)<br>- (조치사항) 정수장유입 조류 전처리시스템 가동 및 조류세포수 분석 실시(필요시) |\n| 발령 시<br>\\_대발생 | - (메일 내용)경상북도 낙동강 녹조제어 통합 플랫폼 관련입니다.<br>플랫폼 내 남조류세포수예측 결과가 \\*\\* (예측되는 결과값 입력) cells/mL로 대발생<br>(1,000,000 cells/mL) 수준입니다. 다음과 같은 사항에 대한 조치를 취해 주시고<br>조류에 따른 피해를 최소화하기 위해 최선의 노력을 다해주시기 바랍니다.<br>√ (수면관리자)<br>1) 취수구와 조류가 심한 지역에 대한 차단막설치 등 조류 제거 조치 실시<br>2) 황토 등 조류제거물질 살포, 조류 제거선등을 이용한 조류 제거 조치 실시<br>√ (취수장ㆍ정수장관리자)<br>1) 조류증식 수심 이하로 취수구이동 -(지자체)<br>2) 정수 처리 강화(활성탄 처리, 오존 처리)<br>3) 정수의 독소분석 실시<br>√ (지자체)<br>1) 주변오염원(가축분뇨배출시설, 환경기초시설, 폐수배출업소 등)에 대한 지속적인 단속 강화 |\n| 해제 시 | - (메일 내용) 경상북도 낙동강 녹조제어 통합 플랫폼 관련입니다.<br>플랫폼 내 남조류세포수예측 결과가 \\*\\*(예측되는 결과값 입력) cells/mL로<br>관심(1,000 cells/mL) 이하로 내려감에 따라 선회 와류식물순환장치, 육상형<br>녹조제거 장치 종료를 요청드리오니, 업무에 참고해 주시기 바랍니다. |",
+    "blockRange": [
+      464,
+      464
+    ],
+    "page": 49,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0195",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공"
+    ],
+    "text": "### 3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+    "blockRange": [
+      465,
+      465
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0196",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시"
+    ],
+    "text": "낙동강 녹조제어 통합 플랫폼에 연계되어 있는 센서 실시간/면단위 모니터링 및 녹조 예측 데이터에 기반한 의사 결정 시스템은 현재 실증 단지에 구축되어 있는 측정 센서 및 대응 설비를 활용하였으나, 지자체 등의 수요자 중심으로 활용하고자 할 때는 지점 선정, 기술 선정 등의 추가적인 프로세스가 필요하다.\n\n이를 해결하기 위해 신규 지점 선정 시 지점선정, 모니터링 및 예측, 녹조 기술 선정 단계를 제시하였다. 전체적인 개요는 다음과 같다 (그림 3.8).\n\n그림 3.8. 수요자 중심의 녹조 모니터링 및 대응 의사결정 프로세스\n\n- 가. 지점 선정",
+    "blockRange": [
+      466,
+      469
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0197",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "가. 지점 선정"
+    ],
+    "text": "관리하고자 하는 지점이 선정되어 있지 않거나, 여러 지점 중 우선적으로 관리해야 할 지점을 선정해야 하는 경우에는 우선순위 평가를 통해 지점 선정을 수행할 수 있다. 지점 선정 점수는 상수원수, 친수활동, 과거 조류세포수, 발생양상건수, 언론보도 및 상류 오염원에 따른 세부 배점을 부여하고(총 합계 100점) 최고점을 얻은 지점 순으로 선정할 수 있을 것으로 보인다 (표 3.5).",
+    "blockRange": [
+      470,
+      470
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0198",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "가. 지점 선정"
+    ],
+    "text": "**표 3.5. 지점 선정의 평가 항목**\n\n| 평가항목 (만점) | 심사 기준 | 배점 |\n| --- | --- | --- |\n| 상수원수 지점(20) | ◦ 조류경보제 지점<br>◦ 조류경보제 지점은 아니나 상수원수 지점<br>◦그외지점 | 20<br>15<br>5 |\n| 친수활동 지점(15) | ◦ 물놀이, 레크레이션 활동 有<br>◦ 물놀이, 레크레이션 활동 無 | 15<br>0 |\n| 조류 세포수_과거(20) | ◦ 최대값 10,000 cells/mL5회 이상<br>◦ 최대값 10,000 cells/mL1회 이상 | 20<br>5 |\n| 발생 양상 건수_현재(20) | ◦ 스컴 사진 有<br>◦ 스컴은 없으나 녹조 발생 사진 有 | 20<br>5 |\n| 언론보도(15) | ◦ 당해 언론보도 건수 有<br>◦ 당해 언론보도 건수 無 | 15<br>0 |\n| 상류 오염원(10) | ◦ 축사 등 상류 오염원 有<br>◦ 축사 등 상류 오염원 有 | 10<br>0 |\n| 합계 |  | 100 |",
+    "blockRange": [
+      471,
+      471
+    ],
+    "page": 50,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0199",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "가. 지점 선정"
+    ],
+    "text": "![image](image_063.png)",
+    "blockRange": [
+      472,
+      472
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0200",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시"
+    ],
+    "text": "- 나. 모니터링 및 예측 자료 취합 및 기준값 설정",
+    "blockRange": [
+      473,
+      473
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0201",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "나. 모니터링 및 예측 자료 취합 및 기준값 설정"
+    ],
+    "text": "지역마다 우점종 및 조류 분포가 다르고 그에 따른 센서에 측정되는 값이 다르므로 플랫폼에 실시간으로 데이터를 취득하고 이를 바탕으로 기준값이 선정해야 한다.\n\n1년 차와 2년 차로 크게 구분하면 1년 차에는 모니터링 영역에서는 고정 센서 설치 및 모니터링이 필요하며, 유해남조류 데이터 취득이 필요하다 (그림 3.9). 조류경보제 등의 취득할 수 있는 지점이 없다면 직접 현미경 계수를 통해 남조류 종의 파악 및 세포수 취득이 필수적이다. 그리고 예측값의 입력 인자로 활용되는 데이터가 있다면 그 자료를 대체할 수 있지만 없다면모델에 필요한 입력 데이터를 취득할 수 있는 방안을 마련해야 한다. 또한, 투입 제어 기술을 선정하고 준비해야 할 것이다. 2년 차 때는 취득된 모니터링 자료를 활용하여 기준값 및 예측 모델 값과의 검증이 필요하다. 5월 이전에 모든 준비가 완료된다면 2년 차 이후 부터는 플랫폼을 실제로 활용할 수 있을 것으로 보인다.\n\n그림 3.9. 모니터링/예측 및 제어기술 프로세스",
+    "blockRange": [
+      474,
+      476
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0202",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시"
+    ],
+    "text": "- 다. 녹조 기술 선정",
+    "blockRange": [
+      477,
+      477
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0203",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "실증 지역에는 기 활용적인 기술이 있었으나, 대부분 녹조 기술 선정을 해야 할 필요가 있다. 기술적 평가 및 경제성 평가를 통해 실현 가능한 녹조 기술을 선정하는 것이 필요하다.\n\n기술적 평가는 다음과 같은 프로세스에 따른다 (그림 3.10). 수온, 남조류 모니터링 최대 세포수를 기준으로 선정하여 사전예방/사후처리로 나뉘고 상수원/농업·레크레이션/그외지점-경관 등으로 나누어 기술을 나열하였다. 그리고 녹조 관리 기술 평가 시스템을 활용하여 신기술을 얻고 녹조 평가 전문가에게 평가를 요청하여 기술을 선정할 수 있다.\n\n그림 3.10. 녹조 기술 선정(기술적 평가)\n\n\n![image](image_064.png)\n\n\n![image](image_065.png)",
+    "blockRange": [
+      478,
+      482
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0204",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "| 사전 | 흐름 | 상수원 | - 수중 폭기<br>- 물순환장치<br>- 인공습지, 인공식물섬<br>- 조류차단막 |\n| --- | --- | --- | --- |\n| 사전 | 흐름 | 농업, 레크레이션 | - 수중 폭기<br>- 물순환장치<br>- 초음파<br>- 인저해제(Phoslock)<br>- 인공습지, 인공식물섬<br>- 조류차단막 |\n| 사전 | 흐름 | 그 외 지점(경관 등) | - 수중 폭기<br>- 물순환장치<br>- 초음파<br>- 인저해제(Phoslock)<br>- 인공습지, 인공식물섬<br>- 조류차단막 |\n| 사전 | 정체 | 상수원 | - 수중 폭기<br>- 물순환장치<br>- 미세기포(마이크로버블)<br>- 인공습지, 인공식물섬<br>- 조류차단막 |\n| 사전 | 정체 | 농업, 레크레이션 | - 초음파<br>- 수중 폭기<br>- 물순환장치<br>- 미세기포(마이크로버블)<br>- 인저해제(Phoslock)<br>- 인공습지, 인공식물섬<br>- 조류차단막 |\n| 사전 | 정체 | 그 외 지점(경관 등) | - 초음파<br>- 수중 폭기<br>- 물순환장치<br>- 미세기포(마이크로버블)<br>- 인저해제(Phoslock)<br>- 인공습지, 인공식물섬<br>- 조류차단막 |",
+    "blockRange": [
+      483,
+      483
+    ],
+    "page": 52,
+    "table": {
+      "rows": 6,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0205",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "그림 3.10. 녹조 기술 선정(기술적 평가)\\_계속",
+    "blockRange": [
+      484,
+      484
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0206",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "| 사후 | 흐름 | 상수원 | - 가압필터 여과기<br>- 조류제거선 |\n| --- | --- | --- | --- |\n| 사후 | 흐름 | 농업, 레크레이션 | - 가압필터 여과기<br>- 오존 발생기<br>- 수중 폭기<br>- 약품응집 섬유 디스크필터<br>- 플라즈마, 산화성 물질 수처리 시스템<br>- 조류제거선 |\n| 사후 | 흐름 | 그 외 지점(경관 등) | - 가압필터 여과기<br>- 오존 발생기<br>- 수중 폭기<br>- 약품응집 섬유 디스크필터<br>- 플라즈마, 산화성 물질 수처리 시스템<br>- 약품, UV 수질정화장치<br>- 조류제거선<br>- 현장부상분리공법(응집제)<br>- 현장가압부상 이동식 녹조제거선(약품O) |\n| 사후 | 정체 | 상수원 | - 가압필터 여과기<br>- 조류제거선 |\n| 사후 | 정체 | 농업, 레크레이션 | - 가압필터 여과기<br>- 오존 발생기<br>- 수중 폭기<br>- 약품응집 섬유 디스크필터<br>- 플라즈마, 산화성 물질 수처리 시스템<br>- 조류제거선 |\n| 사후 | 정체 | 그 외 지점(경관 등) | - 가압필터 여과기<br>- 오존 발생기<br>- 수중 폭기<br>- 약품응집 섬유 디스크필터<br>- 플라즈마, 산화성 물질 수처리 시스템<br>- 약품, UV 수질정화장치<br>- 조류제거선<br>- Water-Health(M-119)<br>- 현장부상분리공법(응집제)<br>- 현장가압부상 이동식 녹조제거선(약품O) |",
+    "blockRange": [
+      485,
+      485
+    ],
+    "page": 53,
+    "table": {
+      "rows": 6,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0207",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "그림 3.10. 녹조 기술 선정(기술적 평가)\\_계속 녹조 기술 평가 시스템은 1단계에서 개발한 것으로 수요자가 원하는 몇 가지 기술에 대해, 관리하고자 하는 지점에 대한 정보를 우선 제공한다. 평가위원은 제출한 배경 지식을 바탕으로 우선 사용할 수 있는 기술에 대한 선정에 도움을 준다 (그림 3.11).\n\n그림 3.11. 녹조 기술 평가 시스템 개요\n\n시스템 구성은 기술현황(메인 화면), 기술관리(기술목록/기술관리), 평가관리(평가요청목록/ 평가위원 배정 및 평가 목록), 결과관리로 되어 있다 (그림 3.12).",
+    "blockRange": [
+      486,
+      488
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0208",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "기술현황\n\n**그림 3.12. 녹조관리 평가 (기술현황, 기술관리)**",
+    "blockRange": [
+      489,
+      489
+    ],
+    "page": 54,
+    "table": {
+      "rows": 2,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0209",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "![image](image_066.png)\n\n\n![image](image_067.png)\n\n기술목록은 기술명, 기술개요(제목), 기술유형(적용유형/목적), 필터링조건(흐름구간, 적용 수심, 수체의 안전성, 제거효율, 지속성 및 용이성) 및 업체명 등으로 구성되어 있다.\n\n시스템에 직접 입력 할 수도 있고, 붙임 파일을 활용하여 기술에 대한 자세한 내용(효율 평가\n\n등)을 작성 할 수도 있다.",
+    "blockRange": [
+      490,
+      494
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0210",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "기술관리(기술목록)\n기술관리(기술상세)\n\n**그림 3.12. 녹조관리 평가 (기술현황, 기술관리)\\_계속**",
+    "blockRange": [
+      495,
+      495
+    ],
+    "page": 55,
+    "table": {
+      "rows": 4,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0211",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "관리자는 각 기술에 대한 평가(기술성, 효과성, 경제성, 현장적용성 및 기술의 발전성)를 실시할 평가위원을 배정한다. 평가 항목은 다음과 같다 (표 3.6).\n\n\n![image](image_068.png)\n\n\n![image](image_069.png)",
+    "blockRange": [
+      496,
+      498
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0212",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "**표 3.6. 기술 평가의 세부 항목**\n\n| 구분 | 세부 설명 |\n| --- | --- |\n| 기술성 | 실현가능성. 파급효과, 혁신성/기술인증 여부/ 평가를 위한 검증<br>가능성, 기존 기술과의 차별성, 녹조저감 원리의 명확성 |\n| 효과성 | 저감 효과의 공간적 범위, 저감 효과의 시간적 지속성, 기존<br>기술과의 차별성, 저감 효과의 정도(효율, 세포수 등) |\n| 경제성 | 국산 구매가능 여부, 기술검증비, 운영 및 유지관리비, 설치비 |\n| 현장적용성 | 환경 안전성, 편의성, 설치여건 |\n| 기술의 발전성 | 세부모듈 추가(확장) 가능성, 규모증설 가능성, 기술개선 가능성 |",
+    "blockRange": [
+      499,
+      499
+    ],
+    "page": 56,
+    "table": {
+      "rows": 6,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0213",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "이후 각 기술에 대해 평가위원이 제출한 자료를 종합 분석하여 수요자에게 기술에 대한 점수를 부여함으로써 우선순위를 선정 할 수 있다 (그림 3.13). 또한 사용자별로 권한의 설정을 다르게 부여하여 사용자별로 목적에 따른 활용이 가능하도록 구성하였다 (그림 3.14).",
+    "blockRange": [
+      500,
+      500
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0214",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "평가관리(평가요청목록)\n\n**그림 3.13. 녹조관리 평가 (평가관리)**",
+    "blockRange": [
+      501,
+      501
+    ],
+    "page": 56,
+    "table": {
+      "rows": 2,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0215",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "![image](image_070.png)",
+    "blockRange": [
+      502,
+      502
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0216",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "평가관리(평가요청목록)",
+    "blockRange": [
+      503,
+      503
+    ],
+    "page": 57,
+    "table": {
+      "rows": 2,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0217",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "그림 3.13. 녹조관리 평가 (평가관리)\\_계속",
+    "blockRange": [
+      504,
+      504
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0218",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "사용자관리(목록)\n\n**그림 3.14. 녹조관리 평가 (사용자관리)**",
+    "blockRange": [
+      505,
+      505
+    ],
+    "page": 57,
+    "table": {
+      "rows": 2,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0219",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "![image](image_071.png)\n\n\n![image](image_072.png)\n\n경제성 평가는 기기, 약품 구매비용, 설치비 및 공사비 등의 설치할 때의 총 시설비, 일 운영 시 인건비, 전력비 등의 비용, 실 처리 단가, 기타(수선보수비, 이전비, 소모품비, 폐액처리비용 및 운영비) 등을 포함하여 산정한다 (표 3.7). 경제성 평가를 통해 해당 수요처의 가용 예산 대비 가동 대수, 운영 기기의 종류가 선정될 수 있을 것이다.",
+    "blockRange": [
+      506,
+      508
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0220",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "다. 녹조 기술 선정"
+    ],
+    "text": "**표 3.7. 녹조 기술 선정(경제성 평가)**\n\n| 구분 |  | 예시 |\n| --- | --- | --- |\n| 구매비용 |  | ◦ 기기, 약품 구매 비용 |\n| 총 시설비 | 설치비 | ◦ 설치비용 |\n| 총 시설비 | 설치비 | ◦ 설치기간 |\n| 총 시설비 | 공사비 | ◦ 공사비용 |\n| 총 시설비 | 공사비 | ◦ 설치기간 |\n| 일 운영비용 | 인건비 | ◦ 기술자 급수(초급, 중급, 고급) X 인원수 |\n| 일 운영비용 | 전력비 | ◦ 가동비/hr X 가동시간 |\n| 실 처리단가 |  | ◦ (부피) ton/day = 일 운영비용/일 처리 용량<br>◦ (면적) m2/day = 일 운영비용/일 처리 면적 |\n| 기타 | 수선보수비 | ◦ 수리비 |\n| 기타 | 이전비 | ◦ 크레인비 |\n| 기타 | 소모품비 | ◦ 여재비, 약품비 |\n| 기타 | 폐액처리비용 | ◦ 슬러지, 폐액 처리 |\n| 기타 | 운영비 | ◦ 예초, 제초 비용 |",
+    "blockRange": [
+      509,
+      509
+    ],
+    "page": 58,
+    "table": {
+      "rows": 14,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0221",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시"
+    ],
+    "text": "라. 실행 및 결과 보고",
+    "blockRange": [
+      510,
+      510
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0222",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "라. 실행 및 결과 보고"
+    ],
+    "text": "의사결정 프로세스 중 기술평가를 통해 선정된 기술로 대체 될 것이며, 피코시아닌 값도 먼저 측정센서 값의 모니터링 및 예측을 통해 해당 관리 수역에 맞게 수정되어 활용될 것이다. 본 프로세스는 예시로 작성 하였다 (그림 3.15, 그림 3.16). 또한 이를 바탕으로 관계기관별로 알림을 설정하여 제시하였다 (표 3.8).\n\n그림 3.15. 녹조 모니터링 및 대응 프로세스 예시(센서 기반)\n\n\n![image](image_073.png)\n\n그림 3.16. 녹조 모니터링 및 대응 프로세스 예시(예측 기반)",
+    "blockRange": [
+      511,
+      514
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0223",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "라. 실행 및 결과 보고"
+    ],
+    "text": "**표 3.8. 관계 기관 알림 예시**\n\n| 구분 | 메일 내용 및 조치 사항 |\n| --- | --- |\n| 관심<br>(1단계) | - 조류가 심한 지점에 대한 관심 단계에서 투입될 장치 투입 등 조류 제거 조치 실시<br>- 주변오염원(가축분뇨배출시설, 환경기초시설, 폐수배출업소 등)에 대한 지도ㆍ단속<br>- (취수장ㆍ정수장관리자) 정수 처리 강화(활성탄 처리, 오존 처리) |\n| 경계<br>(2단계) | - 조류가 심한 지점에 대한 경계 단계에서 투입될 장치 투입 등 조류 제거 조치 실시<br>- 조류세포수 분석 실시(필요시)-(취수장ㆍ정수장관리자)<br>- 주변오염원(가축분뇨배출시설, 환경기초시설, 폐수배출업소 등)에 대한 지도ㆍ단속강화<br>- 낚시ㆍ수상스키ㆍ수영등 친수활동, 어패류 어획ㆍ식용, 가축 방목 등의 자제 권고<br>및 이에 대한 공지(현수막 설치 등)<br>1) 조류증식 수심 이하로 취수구이동<br>2) 정수 처리 강화(활성탄 처리, 오존 처리)<br>3) 정수의 독소분석 실시 |\n| 대발생<br>(3단계) | - 조류가 심한 지점에 대한 대발생단계에서 투입될 장치 투입 등 조류 제거 조치 실시<br>- 조류세포수 분석 실시, 수심별센서 측정(필요시)<br>- 조류가 심한 지역에 대한 차단막설치-황토 등 조류제거물질 살포, 조류 제거선등을<br>이용한 조류 제거 조치 실시<br>- 조류증식 수심 이하로 취수구이동, 정수 처리 강화(활성탄 처리, 오존 처리) 알림<br>- 주변오염원(가축분뇨배출시설, 환경기초시설, 폐수배출업소 등)에 대한 지속적인<br>단속 강화<br>- 낚시ㆍ수상스키ㆍ수영등 친수활동, 어패류 어획ㆍ식용, 가축 방목 등의 자제 권고<br>및 이에 대한 공지(현수막 설치 등)-(취수장ㆍ정수장관리자)<br>1) 조류증식 수심 이하로 취수구이동<br>2) 정수 처리 강화(활성탄 처리, 오존 처리)<br>3) 정수의 독소분석 실시 |",
+    "blockRange": [
+      515,
+      515
+    ],
+    "page": 59,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0224",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "라. 관계 기관 알림 제공",
+      "3.1.3 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시",
+      "라. 실행 및 결과 보고"
+    ],
+    "text": "![image](image_074.png)",
+    "blockRange": [
+      516,
+      516
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0225",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과"
+    ],
+    "text": "## 3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+    "blockRange": [
+      517,
+      517
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0226",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축"
+    ],
+    "text": "(수행자 : 이희숙, 박연정, 윤석제, 위촉연구원)",
+    "blockRange": [
+      518,
+      518
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0227",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축"
+    ],
+    "text": "### 3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용",
+    "blockRange": [
+      519,
+      519
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0228",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용"
+    ],
+    "text": "- 가. 녹조 제어 물질 평가 결과",
+    "blockRange": [
+      520,
+      520
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0229",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용",
+      "가. 녹조 제어 물질 평가 결과"
+    ],
+    "text": "조류 및 부유물을 응집·침전으로 제거하는 기술인 응집제를 평가한 결과, 소형 및 중형에서 실험을 수행한 결과 최대 조류 저감율은 중형 60%, 소형 23%였으며, 최대 인 감소율은 중형 79% 및 소형 65%로 인 감소율은 중형과 소형 모두에서 60% 이상의 효율을 보였다 (표 3.9).\n\n광물질이 수체내 인과 결합하여 인농도를 감소하는 기술을 평가한 결과, 최대 조류 저감율은 중형 84%, 소형 26% 이었다. 또한 최대 인 감소율은 중형 23% 및 소형 19%로 중형이 소형보다 높은 효율을 보였다.\n\n천연광물질을 활용하여 영양염류나 중금속 용출을 억제하는 기술인 수질정화블럭을 평가한 결과 조류 저감율은 중형 최대 0%, 소형 최대 87%로 3가지 물질 소형 수조 중 효율이 가장 높았음. 또한 인 감소율은 중형 최대 56% 및 소형 최대 9%로 나타났다.",
+    "blockRange": [
+      521,
+      523
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0230",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용",
+      "가. 녹조 제어 물질 평가 결과"
+    ],
+    "text": "**표 3.9. 녹조 제어 물질별 효율 평가 결과**\n\n| 구분 | 응집제 |  | 인제거물질 |  | 수질정화블럭 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 구분 | 중형 (%) | 소형 (%) | 중형 (%) | 소형 (%) | 중형 (%) | 소형 (%) |\n| ① 조류 저감율(최대) | 60 | 32 | 84 | 26 | 0 | 87 |\n| ② 인 감소율(최대) | 79 | 65 | 23 | 19 | 56 | 9 |",
+    "blockRange": [
+      524,
+      524
+    ],
+    "page": 60,
+    "table": {
+      "rows": 4,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0231",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용"
+    ],
+    "text": "- 나. 녹조 제거 장치 평가 결과",
+    "blockRange": [
+      525,
+      525
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0232",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용",
+      "나. 녹조 제거 장치 평가 결과"
+    ],
+    "text": "녹조 퇴치밭 효과 분석 결과 퇴치밭 내 조류 증식으로 상류(퇴치밭) 대비 하류 총인 농도가 감소하여 퇴치밭 운영에 따른 영양염류 제어 가능함을 알 수 있었다. 상류 대비 하류에서 표층 총인 농도는 53% (0.057 mg/L →0.027 mg/L, 9월), 43% (0.030 mg/L →0.017 mg/L, 10월) 저감되는 효과 확인하였다 (표 3.10).",
+    "blockRange": [
+      526,
+      526
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0233",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용",
+      "나. 녹조 제거 장치 평가 결과"
+    ],
+    "text": "**표 3.10. 녹조퇴치밭 총인 분석 결과**\n\n| 수심 | T-P(mg/L)\\_9월 |  |  | T-P(mg/L)\\_10월 |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 수심 | W3<br>(퇴치밭 내) | W5<br>(퇴치밭직하류) | W8<br>(부소담악) | W3<br>(퇴치밭 내) | W5<br>(퇴치밭직하류) | W8<br>(부소담악) |\n| 상 | 0.057 | 0.053 | 0.027 | 0.030 | 0.061 | 0.017 |\n| 중 | 0.025 | 0.022 | 0.030 | 0.061 | 0.053 | 0.013 |\n| 하 | 0.028 | 0.025 | 0.021 | 0.066 | 0.076 | 0.049 |",
+    "blockRange": [
+      527,
+      527
+    ],
+    "page": 60,
+    "table": {
+      "rows": 5,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0234",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용",
+      "나. 녹조 제거 장치 평가 결과"
+    ],
+    "text": "또한, 퇴치밭 내 조류생물량 및 영양염류 농도가 하류 대비 높게 유지되어 인위적인 차단을\n\n통한 녹조 확산 방지 가능성 확인하였다 (그림 3.17). 이를 통해 조류차단막 설치로 녹조 확산을 방지하고 녹조 과증식을 통한 영양염류 소비 가능함을 알 수 있었으나, 과증식한 녹조를 적기에 제거하지 않으면 차단막 하부 유출로 재확산이 우려됨 또한 확인할 수 있었다.",
+    "blockRange": [
+      528,
+      529
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0235",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+      "3.2.1 K-water Test-Bed 제공을 통한 녹조관련 기술 현장 적용",
+      "나. 녹조 제거 장치 평가 결과"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| <조류생물량(피코시아닌) 분포_9월> | <조류생물량(클로로필) 분포_10월> |\n| \\* 조류차단막 깊이 : 2m 내외 |  |\n\n**그림 3.17. 녹조 퇴치밭 조류생물량(피코시아닌 및 클로로필-a) 수심별 농도 분포**",
+    "blockRange": [
+      530,
+      530
+    ],
+    "page": 61,
+    "table": {
+      "rows": 3,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0236",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과"
+    ],
+    "text": "## 3.3 기업 보유기술 효율 검증 지원 방안 마련",
+    "blockRange": [
+      531,
+      531
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0237",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련"
+    ],
+    "text": "(수행자 : 이희숙, 이승재, 최정규, 박연정, 윤석제, 위촉연구원)",
+    "blockRange": [
+      532,
+      532
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0238",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련"
+    ],
+    "text": "### 3.3.1 보유기술의 현장적용성 평가",
+    "blockRange": [
+      533,
+      533
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0239",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "3.3.1 보유기술의 현장적용성 평가"
+    ],
+    "text": "물환경관련 사업 아이템 중 실제 현장 적용성이 높거나 시제품 성능시험이 가능한 수준의 기술 보유 기업로 기술성숙도가 TRL6 이상(대표적인 모델 또는 시제품이 유사 운용 환경에서 시험하는 단계) 매칭하여 D댐에서 현장 적용을 실시하였다 (표 3.11).\n\n중소기업이 보유한 기술인 센서 탑재 수질 정화 로봇과 공동 연구 수행 중인 센서 탑재 무인 선박을 현장 적용하였다. 센서 탑재 수질정화 로봇은 모니터링 기능과 녹조를 제거할 수 있는 필터가 탑재 되어 있으며, 태양광 설비 활용함으로써 무인으로 운영이 가능하였다.",
+    "blockRange": [
+      534,
+      535
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0240",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "3.3.1 보유기술의 현장적용성 평가"
+    ],
+    "text": "**표 3.11. 센서 탑재 무인정화 로봇 운영 계획**\n\n| 구 분 | 내 용 | 비 고 |\n| --- | --- | --- |\n| 작동시간 | 09:00 \\~ 18:00 | 8시간(실운영시간) |\n| 작동방법 | AI기반 자율운항<br>(이동경로, 충전, 기기작동 등) | GPS 기반 이동 |\n| 점검주기 | 매주 1회 인력 점검, 필터 교체 | 상황에 따라 상이 |\n| 충전방법 | 태양광 설비 활용 작동, 정박 시 충전 |  |\n| 녹조제거 | 처리용량 : 약 230톤/일 |  |",
+    "blockRange": [
+      536,
+      536
+    ],
+    "page": 61,
+    "table": {
+      "rows": 6,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0241",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "3.3.1 보유기술의 현장적용성 평가"
+    ],
+    "text": "센서탑재 수질 정화 로봇은 자동수행 일일 면단위 모니터링이 가능한 장점 및 조류 제거 기능이 있었으며, 센서 탑재 무인 선박은 빠른 운항속도로 상황 대처 능력이 우수함을 확인 할 수 있었다. 센서탑재 수질 정화 로봇은 녹조 제거시 원격으로 조정이 가능하게 설계되어 있어, 원격 녹조 제어 모니터링의 가능성을 확인 할 수 있었다. 이를 통해 두 종류의 무인 선박 모두 면단위 혹은 입체적 모니터링에 효과적이며, 기술별로 녹조감시 및 관리 목적에 따라 활용 가능할 것으로 사료된다.\n\n\n![image](image_075.png)\n\n\n![image](image_076.png)\n\n무인을 통한 모니터링이 가능하기 위해서는 센서에 대한 검증이 필수적이다. USV에 단파장으로 측정되는 YSI 社의 피코시아닌과 BBE 社의 3개의 다파장을 활용한 남조류(Cyanobacteria)를 동시에 측정하였다 (표 3.12).\n\n농도가 낮을 때는 큰 차이가 없었으나, 남조류 농도가 높아졌을 때는 지점별로 차이를 보였다. 해당 기간 동안 최대 수심은 3.3 m(5.17), 5.0 m(6.2) 및 6.5 m(7.2)로 낮았으나, 9.28일 이후에는 수심이 12.2 m로 측정되었다.\n\n최소 피코시아닌 농도는 0.1\\~0.8 μg/L였으며, 남조류(Cyanobacteria) 농도는 0\\~17.2 μg/L 범위로 나타났으며, 최대 피코시아닌 농도는 0.4\\~2.8 μg/L였으며, 남조류 농도는 4\\~54.2 μg/L 범위로 절대값은 센서 별로 차이를 보였다. 하지만 피코시아닌 및 남조류 농도가 높게 분포하는 지점의 패턴은 면단위로 분석한 결과 비슷한 경향을 보였다.",
+    "blockRange": [
+      537,
+      542
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0242",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "3.3.1 보유기술의 현장적용성 평가"
+    ],
+    "text": "**표 3.12. 단파장(피코시아닌 센서) 및 다파장(남조류 Chl-a) 센서 측정 결과(D댐)**\n\n| 피코시아닌(PC) 센서 |  |  | 남조류 Chl-a 센서 |  |  |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |\n| 22. 5. 17. | 22. 6. 2. |  | 22. 5. 17. | 22. 6. 2. |  |\n|  |  |  |  |  |  |\n| 22. 7. 19. | 22. 9. 28. |  | 22. 7. 19. | 22. 9. 28. |  |",
+    "blockRange": [
+      543,
+      543
+    ],
+    "page": 62,
+    "table": {
+      "rows": 5,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0243",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "3.3.1 보유기술의 현장적용성 평가"
+    ],
+    "text": "| 구분 |  | 단일파장 센서 |  | 다파장 센서 |  |\n| --- | --- | --- | --- | --- | --- |\n| 구분 |  | 피코시아닌<br>(PC) | Chl-a | 남조류 Chl-a | 총조류 Chl-a |\n| ‘22. 5. 17. | 최소 | 0.3 | 1.4 | 1.0 | 8.5 |\n| ‘22. 5. 17. | 최대 | 0.6 | 10.0 | 4.0 | 33.0 |\n| ‘22. 6. 2. | 최소 | 0.1 | 1.9 | 2.4 | 11.7 |\n| ‘22. 6. 2. | 최대 | 0.4 | 4.3 | 5.4 | 22.7 |\n| ‘22. 7. 19. | 최소 | 0.0 | 1.2 | 0.0 | 3.9 |\n| ‘22. 7. 19. | 최대 | 1.0 | 8.9 | 11.4 | 35.4 |\n| ‘22. 9. 28. | 최소 | 0.8 | 2.1 | 17.2 | 34.3 |\n| ‘22. 9. 28. | 최대 | 2.8 | 10.4 | 54.2 | 81.1 |",
+    "blockRange": [
+      544,
+      544
+    ],
+    "page": 62,
+    "table": {
+      "rows": 10,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0244",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "3.3.1 보유기술의 현장적용성 평가"
+    ],
+    "text": "![image](image_077.png)\n\n\n![image](image_078.png)\n\n\n![image](image_079.png)\n\n\n![image](image_080.png)\n\n\n![image](image_081.png)\n\n\n![image](image_082.png)\n\n\n![image](image_083.png)\n\n\n![image](image_084.png)\n\n\n![image](image_085.png)\n\n\n![image](image_086.png)",
+    "blockRange": [
+      545,
+      554
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0245",
+    "type": "heading",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련"
+    ],
+    "text": "### 3.3.2 물환경관련 기업-기술 매칭을 통한 중소기업 보유 기술 지원방안 마련",
+    "blockRange": [
+      555,
+      555
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0246",
+    "type": "text",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "3.3.2 물환경관련 기업-기술 매칭을 통한 중소기업 보유 기술 지원방안 마련"
+    ],
+    "text": "현장 적용 시 활용 가능성이 높고, 기술 융합을 통한 사업성 제고가 가능하도록 기술 개발 \\~현장 적용까지 물산업 육성을 지원, 기술 보유 기업 발굴·사업화 도모하고자 하였다. 한국전자통신연구원(ETRI)가 개발한 신기술(875건)과 K-water 협력 기업 간(물환경 관련 분야 143개)의 매칭을 통해 실제 현장에 활용할 수 있도록 추진하였으며, 녹조 대응 및 모니터링 전송 기술 연계 2개 기업에 대한 기업 매칭을 실시하였다 (표 3.13).\n\n환경관련 산업대전인 국제환경산업기술 & 그린에너지전(ENVEX2022)에 K-water 8개 및 협력기업 28개가 참여(‘22. 6. 8. \\~ 10.)하여 사업화를 지원하였다. 또한 공동참여기관인 ETRI에서도 ‘22년 사업화 유망기술 설명회에 참석하여 녹조 모니터링 센서시스템에 대한 핵심기술 설명 및 수상 로봇 기술을 활용한 수질 데이터 계측 기술을 가지고 있는 업체에 대해 ETRI에서 보유한 IoT 통신 기술 및 수질센서 인터페이스 기술 지원을 수행하였다.\n\n또한, K-water에서 개발 및 적용 중인 기술에 대한 멘토링을 실시하고 현장 적용 지원 방안을 마련하였다. 이 기술들에 대해서는 현장 적용성 검토를 통해 현장에서 활용하기에 적합한지 실제 검증을 함으로써 기술 운영체계의 효율성을 제고하고자 하였다.",
+    "blockRange": [
+      556,
+      558
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0247",
+    "type": "table",
+    "breadcrumb": [
+      "제3장 연구 결과",
+      "3.3 기업 보유기술 효율 검증 지원 방안 마련",
+      "3.3.2 물환경관련 기업-기술 매칭을 통한 중소기업 보유 기술 지원방안 마련"
+    ],
+    "text": "**표 3.13. 녹조대응 및 모니터링 전송 기술 연계 2개 기업 매칭**\n\n| 구 분 |  | 기업 | 기술 |\n| --- | --- | --- | --- |\n| 매칭 1 | 이름 | A기업 | 빅데이터 기반 상황인지 기술 |\n| 매칭 1 | 개요 | AI 기반 수질 모니터링 및 정화<br>솔루션 | 빅데이터기반 녹조발생 예측 |\n| 매칭 1 | 기대효과 | 녹조 발생 예측을 통한 선제적 대응(녹조 제거 등) 가능 |  |\n| 매칭 2 | 이름 | B기업 | 무선통신 칩 기술 |\n| 매칭 2 | 개요 | 수륙양용 이동형 수질모니터링 | 저전력 광역 무선통신 칩 기술 |\n| 매칭 2 | 기대효과 | 통신불가 지역에서도 안정적인 모니터링 및 데이타 전송 가능 |  |",
+    "blockRange": [
+      559,
+      559
+    ],
+    "page": 63,
+    "table": {
+      "rows": 7,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0248",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제4장 결론",
+    "blockRange": [
+      560,
+      560
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0249",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 결론"
+    ],
+    "text": "## 4.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련",
+    "blockRange": [
+      561,
+      561
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0250",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 결론",
+      "4.1 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련"
+    ],
+    "text": "◦ 낙동강 녹조제어 플랫폼 내에 구성되어 있는 센서값 및 결과 데이터를 기준으로 의사결정시스템을 마련하였다. 본 시스템에는 ‘21년부터 고정형 센서가 설치되어 있으며, 이를 주변에서 측정되고 있는 조류경보제(조류관찰지점) 측정값과 비교하여 칠곡보 값을 기준으로 실증지점의 센서값을 설정하였다. 측정값에 의한 대응 프로세스는 피코시아닌 센서 값을 기준으로 범위를 선정하였으며, 예측 값에 따른 대응 프로세스는 남조류 세포수를 기준으로 구분하였다. 대응시 장치는 현재 플랫폼 내에서 운영이 가능한 선회 와류식 물순환장치, 육상형 녹조 제거 장치 및 조류제거선을 활용하였고 각 단계별로 관계기관에 알림을 제공하는 프로세스를 마련하였다. 이를 바탕으로 시스템에 반영하고 UI를 개선하였다.\n\n◦ 수요자 중심의 녹조관리 구역 설정은 지자체 등의 수요자 중심으로 활용하고자 할 때 기존 프로세스 이외에 지점 선정, 기술 선정 등의 추가적인 프로세스가 필요하다. 지점 선정은 평가 항목(상수원수 지점, 발생 양상 건수 등)에 따라 점수를 부여하고 그에 따라우선 지점을 선정한다. 이후 해당 관리 지점의 모니터링, 예측 값 및 제어기술에 대한 선정이 필요하다. 녹조 기술은 상수원, 농업·레크레이션 및 그 외 지점(경관 등) 에 따라 다른 기술이 적용되어야 하고 기술에 대한 평가(경제성 포함)를 통해 예산에 맞게 선정될 필요가 있다.",
+    "blockRange": [
+      562,
+      563
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0251",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 결론"
+    ],
+    "text": "## 4.2 테스트베드를 통한 녹조관리 효율평가 체계 구축",
+    "blockRange": [
+      564,
+      564
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0252",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 결론",
+      "4.2 테스트베드를 통한 녹조관리 효율평가 체계 구축"
+    ],
+    "text": "◦ K-water 테스트베드 제공을 통해 녹조관련 기술을 현장적용하였다. 녹조 제어 물질은 현장에 바로 투입하여 효과를 검증하기에 무리가 있으므로 실증시설을 활용하여 평가를 실시하였다. 측정한 녹조제어 물질은 3가지 종류로 응집제, 인제거물질 및 수질정화블럭에 대해 분석을 실시하였다. 중형 수조에서는 조류 저감율이 최소 0\\~ 최대 84%, 소형 수조는 26\\~87%의 효율을 보였다.\n\n◦ 또한, 녹조 제거 장치(녹조 퇴치밭)에 대해서 효과 분석한 결과 상류(퇴치밭) 대비 하류 총인 농도가 1차 53%, 2차 43% 감소함을 확인하였다. 조류차단막 설치로 녹조 확산을 방지하고 녹조 과증식을 통한 영양염류 소비 가능함을 알 수 있었으나, 과증식한 녹조를 적기에 제거하지 않으면 차단막 하부 유출로 재확산이 우려됨 또한 확인 할 수 있었다.",
+    "blockRange": [
+      565,
+      566
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0253",
+    "type": "heading",
+    "breadcrumb": [
+      "제4장 결론"
+    ],
+    "text": "## 4.3 기업 보유기술 효율 검증 지원 방안 마련",
+    "blockRange": [
+      567,
+      567
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0254",
+    "type": "text",
+    "breadcrumb": [
+      "제4장 결론",
+      "4.3 기업 보유기술 효율 검증 지원 방안 마련"
+    ],
+    "text": "◦ IoT 등의 자동화 기술의 발전으로 센서 활용에 대한 필요성이 증가하고 있으며, 이를 비교하기 위해 단파장 및 다파장 센서를 비교한 결과 절대값의 차이는 있었으나 피코시아닌 및 남조류 농도가 높게 분포하는 지점의 패턴은 면단위로 분석한 결과 비슷한 경향을 보였다.\n\n◦ 현장 적용 시 활용 가능성이 높고, 기술 융합을 통한 사업성 제고가 가능하도록 기술 개발 \\~ 현장 적용까지 물산업 육성을 지원, 기술 보유 기업 발굴·사업화 도모하고자 하였다. 공동 연구기관(ETRI)의 원천 기술에 대한 소개 및 기업에 대한 사업화를 지원하였으며, K-water 내에 평가 중인 기술에 대해서도 멘토링 등을 통해 현장 적용 지원방안을 마련하였다.",
+    "blockRange": [
+      568,
+      569
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0255",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참고문헌",
+    "blockRange": [
+      570,
+      570
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0256",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "1. ｢수질오염공정시험기준｣(국립환경과학원 고시 제2021-93호, 2021. 12. 27.)\n2. ｢신기술인증․기술검증의 평가절차 등에 관한 규정｣(환경부고시 제2019-238호, 2019.\n\n12. 20., 일부개정)\n\n3. 「물환경보전법」(법률 제18469호, 2021. 9. 24., 타법개정)",
+    "blockRange": [
+      571,
+      574
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0257",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌",
+      "3. 「물환경보전법」(법률 제18469호, 2021. 9. 24., 타법개정)"
+    ],
+    "text": ".",
+    "blockRange": [
+      575,
+      575
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0258",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "4. 「물환경보전법 시행령」(대통령령 제32149호, 2021. 11. 23., 일부개정)\n5. 변규덕, 김가영, 이인주, 박재로, 황태문, & 주진철. (2016). 국내 하천/호수에 적용된 조류저감기술의 조사 및 평가. 대한환경공학회지, 38(7), 387-394.\n6. 주진철, 박재로, 안창혁, 김가영 & 이민지. (2018) “수역 특성별 맞춤형 조류저감기술 의사 결정 프로토콜”, 대한토목학회지, 66(7), 26-31.\n7. ｢조류제거시설 설치·운영 및 살포용 조류제거물질 사용지침｣ (환경부 예규 697호, 2021.\n\n12. 27., 일부개정)\n\n8. 한국환경공단, “수생태 안전성 향상을 위한 조류저감기술”, pp. 229, 2012.\n9. ｢화학물질의 시험방법에 관한 규정｣ (국립환경과학원 고시 제2021-87호, 2021. 12. 14., 일부개정)\n10. ｢환경기술 및 환경산업 지원법｣(법률 제18469호, 2021. 9. 24., 타법개정)\n11. 환경부 & 한국환경산업기술원, “환경신기술인증·기술검증 안내책자”, pp. 271, 2021..\n12. Chorus, I., & Welker, M. (2021). Toxic cyanobacteria in water: a guide to their public health consequences, monitoring and management (p. 858). Taylor & Francis.\n13. KAIA, RCRAB(하천녹조연구단), 한국건설기술연구원 & 한밭대학교, “현장적용 녹조제어 기술 편람(안)”, pp. 228, 2018. 4.",
+    "blockRange": [
+      576,
+      586
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0259",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌",
+      "13. KAIA, RCRAB(하천녹조연구단), 한국건설기술연구원 & 한밭대학교, “현장적용 녹조제어 기술 편람(안)”, pp. 228, 2018. 4."
+    ],
+    "text": "![image](image_087.png)\n\n\n![image](image_088.png)",
+    "blockRange": [
+      587,
+      588
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0260",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "14. Newcombe, G., House, J., Ho, L., Baker, P., & Burch, M. (2010). Management strategies for cyanobacteria (blue-green algae): A guide for water utilities. Water Quality Research Australia (WQRA), Reserach Report, 74, 60-76.\n15. NHMRC. (2008). Guidelines for Managing Risks in Recreational Water. National Health and Medical Research Council AG, editor. Canberra: Australian Government.\n16. NHMRC. (2011). Australian Drinking water guidelines 6.\n17. OECD (2019). Guidance Document on Aqueous-Phase Aquatic Toxicity Testing of Difficult Test Chmicals. OECD Series on Testing and Assessment. No. 23(Second Edition).\n18. Vu, H. P., Nguyen, L. N., Zdarta, J., Nga, T. T., & Nghiem, L. D. (2020). Blue-green algae in surface water: problems and opportunities. Current pollution reports, 6(2), 105-122.\n19. 물산업플랫폼시스템. https://www.kwater.or.kr/wis/wq/index.do?w2xPath=/wis/ui/index.xml\n20. 물환경정보시스템. https://water.nier.go.kr/web",
+    "blockRange": [
+      589,
+      595
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0261",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참여연구원현황",
+    "blockRange": [
+      596,
+      596
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0262",
+    "type": "table",
+    "breadcrumb": [
+      "참여연구원현황"
+    ],
+    "text": "| 연구원 | 참여내역 | 비 고 |\n| --- | --- | --- |\n| 이희숙 | ◦연구업무총괄 (연구책임자)<br>◦참여분야 : 계획수립, 과제 총괄<br>◦참여내역<br>- 낙동강 녹조제어 플랫폼 보완 및<br>확대방안 마련<br>- 테스트베드를 통한 녹조관리 효율<br>평가 체계 구축<br>- 기업 보유기술 효율 검증 지원<br>방안 마련 | - '22.1 ～ '22.12.<br>- 물환경처<br>- 042-629-4290 |\n| 이승재 | ◦참여분야 : 플랫폼 확대 방안 및<br>기업 보유기술 지원<br>◦참여내역<br>- 낙동강 녹조제어 플랫폼 보완 및<br>확대방안 마련<br>- 기업 보유기술 효율 검증 지원<br>방안 마련 | - '22.1 ～ '22.12.<br>- 물환경처<br>- 042-629-4291 |\n| 박연정 | ◦참여분야 : 계획수립, 과제 실무<br>◦참여내역<br>- 낙동강 녹조제어 플랫폼 보완 및<br>확대방안 마련<br>- 테스트베드를 통한 녹조관리 효율<br>평가 체계 구축<br>- 기업 보유기술 효율 검증 지원<br>방안 마련 | - '22.1 ～ '22.12.<br>- 물환경처<br>- 042-629-4292 |\n| 윤석제 | ◦참여분야 : 효율 평가 체계 구축<br>및 기업 검증 지원<br>◦참여내역<br>- 테스트베드를 통한 녹조관리 효율<br>평가 체계 구축<br>- 기업 보유기술 효율 검증 지원<br>방안 마련 | - '22.1 ～ '22.12.<br>- 물환경처<br>- 042-629-4294 |\n| 최정규 | ◦참여분야 : 효율 평가 체계 구축<br>및 기업 검증 지원<br>◦참여내역<br>- 테스트베드를 통한 녹조관리 효율<br>평가 체계 구축<br>- 기업 보유기술 효율 검증 지원<br>방안 마련 | - '22.1 ～ '22.12.<br>- 물환경처<br>- 042-629-4293 |\n| 이영주 | ◦참여분야 : 플랫폼 확대 방안 및<br>기업 보유기술 지원<br>◦참여내역<br>- 낙동강 녹조제어 플랫폼 보완 및<br>확대방안 마련<br>- 기업 보유기술 효율 검증 지원<br>방안 마련 | - '22.1 ～ '22.12.<br>- K-water연구원<br>상하수도연구소<br>- 042-870-7532 |\n| 진덕현 | ◦참여분야<br>: 현장조사 및 수질·식물플랑크톤<br>분석<br>◦참여내역<br>- 현장 조사 및 수질 실험·분석<br>- 보고서 작성 및 연구업무 보조 | - '22.3. ～ '22.8.<br>- 물환경처 |",
+    "blockRange": [
+      597,
+      597
+    ],
+    "page": 68,
+    "table": {
+      "rows": 8,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0263",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 서지자료",
+    "blockRange": [
+      598,
+      598
+    ],
+    "page": 70
+  },
+  {
+    "id": "c0264",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "| (1) 기술분류 | (2) 수행방법<br>수탁 |  |  | (3) 제출일 |\n| --- | --- | --- | --- | --- |\n| (4) 제목/부제<br>낙동강 권역 녹조관리 최적화 방안 연구(2단계) |  |  | (5) 연구기간<br>‘22.1.1.\\~12.31. |  |\n| (6) 연구수행부서<br>한국수자원공사, 물환경처 |  |  | (7) 연구수행자(소속) |  |\n| (8) 수행부서 주소 |  |  | (9) 연구의뢰기관 |  |\n| (10) 초록<br>가. 낙동강 녹조제어 플랫폼 보완 및 확대방안 마련<br>- 녹조제어 통합플랫폼의 제어 기술 투입 의사결정시스템 고도화 지원<br>: 플랫폼 내에 가동 중인 결과 데이터 및 장치를 활용하여 의사결정시스템 구축 및 UI 개선<br>- 수요자 중심의 녹조관리 구역 설정 및 녹조관리 방안 제시<br>: 기존 의사결정시스템 이외의 지점 선정, 기술 선정 등의 프로세스 추가 및 녹조<br>기술 선정 방법 제시를 통한 수요자 중심의 방법 제시<br>나. 테스트베드를 통한 녹조관리 효율평가 체계 구축<br>- 응집제, 인제거물질 및 수질정화블럭에 대해 실증 시설을 활용하여 평가 실시<br>- 녹조 제거 장치(녹조 퇴치밭) 평가를 통해 영양염 및 조류의 효율평가를 실시하였으며,<br>운영방안 제시<br>다. 기업 보유기술 효율 검증 지원 방안 마련<br>- 센서 비교를 통해 IoT 기술의 현장 적용 가능성 확인<br>- 기술 융합 통한 사업성 제고가 가능하도록 기술 개발\\~현장 적용까지 물산업 육성지원 |  |  |  |  |\n| (11) 키워드 |  |  |  |  |\n| (12) #태그 |  |  |  |  |\n| (13) 공개여부<br>예/아니오 |  | (14) 총면수<br>XXX |  |  |",
+    "blockRange": [
+      599,
+      599
+    ],
+    "page": 70,
+    "table": {
+      "rows": 8,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0265",
+    "type": "heading",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "### BIBLIOGRAPHIC DATA SHEET",
+    "blockRange": [
+      600,
+      600
+    ],
+    "page": 71
+  },
+  {
+    "id": "c0266",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| (1) Classification of Technology | (2) Research Method |  |  | (3) Submission Date Dec. 31, 2007 |\n| --- | --- | --- | --- | --- |\n| (4) Title/Subtitle Development of Integrated Platform on the Control and Management of harmful algal blooms in Nakdong River Basin |  |  | (5) Research Period Jan. 1, 2022 \\~ Dec. 31, 2022 |  |\n| (6) Performing Organization Water Environmental Dept., K-water |  |  | (7) Author(s) |  |\n| (8) Performing Organization Address |  |  | (9) Sponsoring Agency |  |\n| (10) Abstracts<br>(1) Nakdong River algae control platform supplementation and expansion plan preparation<br>- Control technology injection of integrated platform for algae control Decision-making system advancement support : Establishment of decision-making system and UI improvement by utilizing data operated in the platform<br>- Establishment of HABs management area in perspective of costomer and proposal of algae management plan : Suggest additional methods of processes such as selection of branches and algae control technology prior to operation of the decision-making system wanted by the consumer<br>(2) Establishment of algal bloom management efficiency evaluation system through Test-Bed<br>- Performance evaluation of HABs control materials(coagulant, phosphorus removal material and water purification block) through the use of demonstration facilities<br>- Efficiency evaluation of nutrients and algae concentrations was conducted through evaluation of algae removal equipment (algae barrier boom), and operation plan was proposed<br>(3) Preparation of measures to support efficiency verification of companies with core technologies<br>- Check the field applicability of IoT technology through sensor comparison<br>- Support for nurturing the water industry from technology development to field application to improve business feasibility through technological convergence |  |  |  |  |\n| (11) Keyword |  |  |  |  |\n| (12) # Tag |  |  |  |  |\n| (13) Security Yes/No |  | (14) No. of Pages XXX |  |  |",
+    "blockRange": [
+      601,
+      601
+    ],
+    "page": 71,
+    "table": {
+      "rows": 8,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0267",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "주의사항\n\n본 보고서의 저작권은 한국수자원공사에 있으므로, 본 자료의 내용을 허가없이 인용, 복사, 전재, 재배포를 할 경우 법적 제재를 받을 수 있습니다.\n\nCopyright ⓒ 2000\n\nby\n\nKorea Water Resources Corporation",
+    "blockRange": [
+      602,
+      606
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0268",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| 발행인 | : | 한국수자원공사 | 사장 |\n| --- | --- | --- | --- |\n| 발행일 | : | 2023. | 1. |",
+    "blockRange": [
+      607,
+      607
+    ],
+    "page": 72,
+    "table": {
+      "rows": 2,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0269",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "발행처 : 한국수자원공사 환경에너지본부\n\n대전광역시 대덕구 신탄진로 200\n\n한국수자원공사는 친환경 기업윤리 이념을 구현하기 위하여 2000. 12. 00 『환경경영』을 선포하고, 모든 보고서 발간에 『재생용지 및 무코팅 방식』을 사용하고 있습니다.",
+    "blockRange": [
+      608,
+      610
+    ],
+    "page": 72
+  }
+]

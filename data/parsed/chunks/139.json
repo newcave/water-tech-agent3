@@ -1,0 +1,4535 @@
+[
+  {
+    "id": "c0001",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "<!-- <table id=\"t1\" /> -->\n| RESOURCES KOREA WATER CORPORATION | 하<br>천<br>수<br>를<br>활<br>용<br>한<br>수<br>열<br>에<br>너<br>지<br>시<br>스<br>템<br>냉<br>난<br>방<br>효<br>과<br>에<br>관<br>한<br>연<br>구 | <!-- <table parent_id=\"t1\" child_id=\"t2\" /> --> Final Report<br>하천수를 활용한<br>수열에너지시스템<br>냉난방 효과에 관한<br>연구<br>Study on the cooling and heating effect of water thermal energy system using stream water<br>2020. 8. |\n| --- | --- | --- |\n\n<!-- <table id=\"t2\" parent_id=\"t1\" /> -->\n| K-water연구원 |\n| --- |\n| KIWE-WEI-20-28 |",
+    "blockRange": [
+      0,
+      0
+    ],
+    "page": 1,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0002",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "![image](image_001.png)\n\n\n![image](image_002.png)",
+    "blockRange": [
+      1,
+      2
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0003",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 하천수를 활용한 수열에너지시스템 냉난방 효과에 관한 연구",
+    "blockRange": [
+      3,
+      3
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0004",
+    "type": "heading",
+    "breadcrumb": [
+      "하천수를 활용한 수열에너지시스템 냉난방 효과에 관한 연구"
+    ],
+    "text": "### Study on the cooling and heating effect of water thermal energy system using stream water",
+    "blockRange": [
+      4,
+      4
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0005",
+    "type": "text",
+    "breadcrumb": [
+      "하천수를 활용한 수열에너지시스템 냉난방 효과에 관한 연구",
+      "Study on the cooling and heating effect of water thermal energy system using stream water"
+    ],
+    "text": "2020. 8. 31.\n\n\n![image](image_003.png)",
+    "blockRange": [
+      5,
+      6
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0006",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제\t출\t문",
+    "blockRange": [
+      7,
+      7
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0007",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "사 장 귀하\n\n이 보고서를 2020년도 K-water연구원 물인프라‧에너지연구소에서 수행한 “하천수를 활용한 수열에너지시스템 냉난방 효과에 관한 연구”의 최종보고서로 제출합니다.\n\n2 020. 8. 31.\n\n연구책임자 : K-water연구원 기계 3급 현정재\n\n참여연구원 : K-water연구원 기계 4급 오윤령\n\nK-water연구원 기계 4급 정재훈\n\nK-water연구원 전기 4급 조연주\n\nK-water연구원 기계 5급 배강호\n\n겸직연구원 : 물에너지처 기술2급(을) 김영준\n\n물에너지처 기계 3급 정성엽\n\n부산스마트시티추진단 기계 3급 조해진\n\n물인프라처 기계 4급 이상호\n\n부산에코델타시티사업단 기계 3급 장정훈\n\n위촉연구원 : K-water연구원 위촉 연구원 안두원\n\n\n![image](image_004.png)",
+    "blockRange": [
+      8,
+      22
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0008",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구개발결과 활용보고서",
+    "blockRange": [
+      23,
+      23
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0009",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 1.<br>연구<br>총괄 | [간행물 관리번호: 2020-RE-RR-19-1033] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | [과제번호: M190028] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1.<br>연구<br>총괄 | (1)연구과제명 |  |  |  |  |  |  | 하천수를 활용한 수열에너지시스템 냉난방 효과에 관한 연구 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 |  |  |  |  |  |  | 물인프라에너지연구소 |  |  |  |  |  |  |  |  |  | (3)연구 책 임자 |  |  |  |  |  |  |  |  |  |  |  |  | 성명 |  |  |  |  |  |  |  |  | 현정재 |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 |  |  |  |  |  |  | 물인프라에너지연구소 |  |  |  |  |  |  |  |  |  | (3)연구 책 임자 |  |  |  |  |  |  |  |  |  |  |  |  | 소속 |  |  |  |  |  |  |  |  | 물인프라에너지연구소 |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 |  |  |  |  |  |  | 물인프라에너지연구소 |  |  |  |  |  |  |  |  |  | (3)연구 책 임자 |  |  |  |  |  |  |  |  |  |  |  |  | 전화번호 |  |  |  |  |  |  |  |  | 042-870-7660 |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 |  |  |  |  |  |  | 물인프라에너지연구소 |  |  |  |  |  |  |  |  |  | (3)연구 책 임자 |  |  |  |  |  |  |  |  |  |  |  |  | E-mail |  |  |  |  |  |  |  |  | coolguy04@kw ater.or.kr |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (4)연구기간 |  |  |  |  |  |  | 2018. 8. \\~ 2020. 7.<br>(총 24 개월) |  |  |  |  |  |  |  |  |  | (5)총연구개발비<br>(천원) |  |  |  |  |  |  |  |  |  |  |  |  | 총액 |  |  |  |  |  |  |  |  | 297,100 |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (6)협동기관 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (5)총연구개발비<br>(천원) |  |  |  |  |  |  |  |  |  |  |  |  | 정부 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (7)참여기업 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (5)총연구개발비<br>(천원) |  |  |  |  |  |  |  |  |  |  |  |  | 기업 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (8)기술분야 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (9)참여 연구원 |  |  |  |  |  |  |  |  |  |  |  |  | 11 명/ 1년 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (10)연구개발목표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | 부산 EDC 에코필터링 T/B를 대상으로 하천수를 활용한 수열에너지 냉난방 시스템을 시범적용하여, 수온‧수질에 따른 냉난방 효과 변화와 기존 냉난방 설비(EHP)<br>대비 수열에너지 비교를 통한 하천수 수열 모델 개발 연구를 수행하고자 한다. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | (11)주요연구내용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1.<br>연구<br>총괄 | 부산EDC 에코필터링T/B 건물동을 대상으로 하천수를 활용한 수열에너지시스템을<br>실증하고 성능분석을 수행하고자 한다.<br>1차년도<br>◦ 하천수 활용한 수열에너지 시스템 실증플랜트 구축<br>- 하천수 취수지점 선정 및 수열에너지 냉난방 시스템 구축<br>- 성능분석을 위한 모니터링 시스템 구축 및 분석 방안 도출<br>2차년도<br>하천수 수온, 탁도에 따른 수열시스템 성능변화 모니터링<br>- 수열에너지 냉난방 및 모니터링 시스템 보완 및 구축 완료<br>- 연중 하천수 계절별 수온변화에 따른 수열에너지 시스템 성능변화 모니터링<br>- 하천수 취수지점의 조건(하천수, 처리수)에 따른 열교환기 영향 모니터링<br>3차년도<br>하천수를 이용한 수열에너지 시스템 표준모델 정립<br>- 하천수의 수온변화에 따른 냉난방 최적 공급모델 수립<br>- 동절기 저수온 조건에서의 수열시스템 한계 및 보완방안 도출 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | (12) 연구결과의 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | 구분 | 기술실용화 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 교육 및<br>지도 |  |  |  |  |  | 정책활용 |  |  |  |  |  |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  |  |  |  |  |  |  |  |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | 구분 | 실용화<br>완료 |  |  | 실용화<br>추진중 |  |  |  |  | 실용화<br>보류(중단) |  |  |  |  | 선행<br>연구 |  |  |  |  | 교육 및<br>지도 |  |  |  |  |  | 정책활용 |  |  |  |  |  |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  |  |  |  |  |  |  |  |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | 구분 |  |  |  | ◯ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | (13) 주요 연구성과 및 기술 개발단계 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 |  | ∘기 술 명 : 에코필터링T/B 연계, 하천수를 활용한 수열 냉난방시스템 구축 및<br>성능분석<br>∘기술특성 : 에코필터링T/B 수처리 모듈<br>중 탁도가 다른 2개소에서 하천수를 취수하여 건물 냉난방 및 성능데이터 취득,<br>하천수 수열 현안사항 및 개선방안 도출 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ∘기술의 완성도<br>기초, 탐색연구단계 ( ), 응용연구단계 ( ),<br>개발연구단계 (◯)<br>기업화 준비단계 ( ), 상품화 완료단계 ( )<br>∘기술 수명주기<br>기술개념 정립기 ( ), 기술 실험기 ( )<br>기술적용 시작기 ( ), 기술적용 성장기 (◯)<br>기술적용 성숙기 ( ), 기술적용 쇠퇴기 ( ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | (14) 현장적용실적 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ①<br>공사현장<br>정보 |  |  | 공사명 |  |  |  |  | 공사기간 |  |  |  |  |  |  | 물량<br>(총물량) |  |  |  |  |  |  | 발주기관 |  |  |  |  |  |  |  | 시공기관 |  |  |  |  |  |  |  |  |  |  | R&D<br>참여자 역활 |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 가. 현장명 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 구분 |  |  |  | 기 존<br>(A) |  |  |  | 개 선<br>(B) |  |  |  |  |  |  | 단위효과<br>(C=A-B) |  |  |  |  | 현장<br>총물량<br>(D) |  |  |  |  |  |  |  |  | 향상도<br>$(A-BX100)$ $A$ |  |  |  |  |  |  |  |  |  | 적용현장<br>총효과<br>(C×D) |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 공사비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 유지관리비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 기타비용절감<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 사고율<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 고 용<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 공 기<br>(일/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 |  | ②<br>공사<br>현장별<br>적용효과 |  |  | 내구성<br>(年) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | (15) 기술개발목표 달성도 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | 구분 |  | 지표명<br>(단위) |  |  | 개발전<br>국내수준 |  |  |  |  | 당개발사업<br>최종목표치 |  |  |  |  |  |  |  |  |  |  | 개발결과<br>실제달성치 |  |  |  |  |  |  |  |  |  | 현재국내<br>기술수준 |  |  |  |  |  |  |  |  | 세계 최고<br>기술수준 |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | (16) 산업재산권 (발명특허‧실용신안‧의장‧s/w ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | 구분 |  | 명칭 |  |  |  |  |  |  | 출원국 |  |  | 출원 및<br>등록자 |  |  |  |  |  | 출원 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 등록 |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | 구분 |  | 명칭 |  |  |  |  |  |  | 출원국 |  |  | 출원 및<br>등록자 |  |  |  |  |  | 출원일 |  |  |  |  |  | 출원번호 |  |  |  |  |  |  |  |  |  |  | 등록일 |  |  |  |  |  |  |  | 등록번호 |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | (17) 건설신기술 지정 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | 명 칭 |  |  |  |  |  |  |  |  |  |  |  |  | 출원일 |  |  |  |  |  |  | 고시일 |  |  |  |  |  | 보호기간 |  |  |  |  |  |  |  |  |  | 지정번호 |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | (18) 기타 등록 및 지정현황(상품, 서비스 등록, KT 마크 등) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  | 명 칭 |  |  |  |  |  |  |  |  |  |  |  |  | 출원일 |  |  |  |  |  |  |  | 고시일 |  |  |  |  |  | 보호기간 |  |  |  |  |  |  |  |  |  | 기 타 |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  | (19) 국내외 전문학술지 게재 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  | 구분 |  | 논문제목 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 학술지명 |  |  |  |  |  |  |  |  |  |  | 국명 |  |  |  |  |  |  |  | 통권, 호 |  |  |  |  |  |  |  | 년,월 |  |\n| 5.<br>학술적<br>효과 |  | SCI<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  | 일반<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  | (20) 학술회의 발표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  | 논문제목 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 학술회의 명칭 |  |  |  |  |  |  |  |  |  |  |  |  |  | 국 명 |  |  |  |  | 연도‧호 |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      24,
+      24
+    ],
+    "page": 4,
+    "table": {
+      "rows": 59,
+      "cols": 48
+    }
+  },
+  {
+    "id": "c0010",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 6.<br>공공적<br>효과 | (21) 법․제도 (설계기준, 시방서, 지침) 등에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6.<br>공공적<br>효과 | 구분 | 명칭 및 조항1) |  | 시행일시 |  | 기존내용 |  |  |  | 신규내용 |  |  |\n| 6.<br>공공적<br>효과 | 법 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 규정/지침 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기준 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 시방서 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (22) 정책수립에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 정책명 | 정책추진 실적 |  | 정책추진<br>일시 |  |  | 담당부처․팀 |  |  |  | 기대효과 |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (23) 교육 및 지도에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 구분 | 교육명 | 교육내용 |  | 교육대상 |  |  | 교육시간 | 교육인원 |  |  | 교육회수 |\n| 6.<br>공공적<br>효과 | 교육훈련 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 현장기술지도 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (24) 사회적 성과 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | - 하천수 활용 수열에너지시스템 적용을 통한 온실가스 배출 저감 |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      25,
+      25
+    ],
+    "page": 7,
+    "table": {
+      "rows": 18,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0011",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      26,
+      26
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0012",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 1. 연구제목",
+    "blockRange": [
+      27,
+      27
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0013",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1. 연구제목"
+    ],
+    "text": "하천수를 활용한 수열에너지시스템 냉난방 효과에 관한 연구\n\n0",
+    "blockRange": [
+      28,
+      29
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0014",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 2. 연구기간",
+    "blockRange": [
+      30,
+      30
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0015",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "2. 연구기간"
+    ],
+    "text": "2018. 8. 1 ～ 2020. 7. 31",
+    "blockRange": [
+      31,
+      31
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0016",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 3. 연구목적",
+    "blockRange": [
+      32,
+      32
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0017",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3. 연구목적"
+    ],
+    "text": "최근 세계적으로 기후변화 등에 대응하기 위해 신재생에너지 보급량을 늘리고 있는 추세이다. 국내에서도 재생에너지 발전비중을 2030년까지 20%까지 끌어올리는 등의 재생에너지 확대를 위한 정부정책이 시행되고 있다.\n\nK-water는 미래50년 “물이 여는 미래” 비전의 달성을 위해 미래 잠재적 가치가 높고 부존량이 많은 수열에너지의 현안사항을 해결하고 新성장 동력으로 발돋움하기 위한 선제적 연구 수행이 필요한 상황이다.\n\n또한 그간 신재생에너지에 포함되는 수열에너지의 범위가 해수로 한정되었으나, ‘19.10월 신재생에너지법 개정으로 수열에너지 범위가 하천수를 포함하게 됨에 따라 하천수 활용 수열에너지시스템이 점차 확대될 것으로 예상된다.\n\n그러나 하천수를 활용한 수열에너지 냉난방을 통해 에너지 절감 및 온실가스 감축에 기여하고 있는 선진국과는 달리 국내에서는 하천수를 활용한 냉난방 사례가 적어 효과 검증을 위한 데이터가 부족한 실정이다.\n\n따라서 부산 EDC 에코필터링 T/B의 연구교육홍보시설을 대상으로 하천수를 활용한 수열에너지를 시범 적용하여, 수온・수질에 따른 냉난방 효과 변화와 운영 조건이 가혹한 하천수 활용 수열시스템의 현안을 개선할 수 있는 방안을 고려하여하천수 수열 모델을 정립하는 연구를 수행하고자 한다.",
+    "blockRange": [
+      33,
+      37
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0018",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4. 연구내용",
+    "blockRange": [
+      38,
+      38
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0019",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4.1 1차년도",
+    "blockRange": [
+      39,
+      39
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0020",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4.1 1차년도"
+    ],
+    "text": "가. 하천수를 활용한 수열에너지 냉난방 시스템 구축 (부산EDC 에코필터링T/B)\n\n- 1\\) 하천수 수질에 따른 취수지점 선정 및 수열에너지 냉난방 시스템 구축\n  - 가) 에코필터링 수처리 모듈 중 취수지점 선정(2개소)\n  - 나) 부산EDC 에코필터링T/B 건물동 수열에너지 냉난방 시스템 구축 착수\n- 2\\) 수열에너지 냉난방 시스템 성능 분석을 위한 모니터링 시스템 구축방안 검토\n\n가) 성능분석을 위한 계측기기 종류, 항목 선정\n\n- 3\\) 기존 전기 냉난방 설비와 수열시스템의 성능비교 방안 검토",
+    "blockRange": [
+      40,
+      44
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0021",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 4.2 2차년도",
+    "blockRange": [
+      45,
+      45
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0022",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4.2 2차년도"
+    ],
+    "text": "- 가. 부산EDC 에코필터링T/B 건물동 수열에너지 냉난방 시스템 구축 완료\n- 나. 하천수 수온, 취수지점에 따른 수열시스템 성능변화 모니터링\n  - 1\\) 수열에너지 설비 및 모니터링 시스템 보완 및 구축 완료\n  - 2\\) 연중 하천수 수온에 따른 수열에너지 시스템 성능변화 모니터링\n\n가) 봄, 여름, 가을, 겨울별 히트펌프 가동일수, 온도차 등 모니터링\n\n- 3\\) 하천수 취수지점의 조건(하천수, 처리수 등)에 따른 영향 모니터링\n\n가) 하천수를 이용한 1층, 처리수를 이용한 2층의 열교환기 모니터링",
+    "blockRange": [
+      46,
+      50
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0023",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4.2 2차년도",
+      "가) 하천수를 이용한 1층, 처리수를 이용한 2층의 열교환기 모니터링"
+    ],
+    "text": "4.3 3차년도",
+    "blockRange": [
+      51,
+      51
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0024",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4.2 2차년도"
+    ],
+    "text": "가. 하천수를 이용한 수열에너지 시스템 표준모델 정립\n\n- 1\\) 기존 전기히트펌프 대비 수열시스템 성능효과 분석\n\n가) 에너지 절감량, 성능계수 등 분석\n\n- 2\\) 하천수를 활용한 수열에너지 냉난방 공급 표준모델 정립\n\n가) 동절기 저수온 조건에서의 수열시스템 한계 및 보완방안 도출",
+    "blockRange": [
+      52,
+      56
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0025",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 5. 연구결과",
+    "blockRange": [
+      57,
+      57
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0026",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "본 연구에서는 하천수를 열원으로 하는 수열에너지시스템 실증플랜트를 구축하여 계절별, 탁도별 성능을 취득 및 분석하였다.\n\n실증대상지인 부산EDC 에코필터링T/B는 친환경 수처리 모듈로 인근의 평강천을 취수하여 저류지, 조류매트, 천변습지, 천변여과 과정을 거쳐 깨끗해진 물을 다시 평강천으로 배출하게 된다. 본 연구에서는 수처리 모듈 중 평강천 원수가 유입되는 저류지와 최종 처리 후 방류되는 저류수조에서 각각 하천수를 취수하여 에코필터링T/B 건물동 냉난방시스템을 운영하였다.\n\n수열시스템은 히트펌프와 열교환기 및 하천수를 취수하는 배수펌프, 열교환기와 히트펌프 사이를 순환시키는 원심펌프 등으로 구성되어 있으며 1층용 수열시스템과 2층용 수열시스템 각 1SET씩 구성하였다. 수열 히트펌프 용량은 기존에 설치되어져 있는 전기 히트펌프와 동일하게 10RT 1대(1층용), 12RT 1대(2층용)이며, 취수펌프는 3.7kW(1층용), 1.5kW(2층용) 및 순환펌프는 0.75kW(1, 2층용)이다.\n\n수열시스템의 성능데이터 취득 및 분석을 위해 ‘19.9월부터 ’20.7월까지 매월 1회씩 수열하천수 입·출구온도 및 유량과 브라인수 입·출구온도 및 유량을 측정하여 성능계수를 도출하였다.\n\n하천수 수온별 성능분석 결과 난방시 1층 수열시스템의 유입 하천수 수온이 9.1℃→6.8℃→5.0℃로 감소함에 따라 COPunit도 2.22→1.89→1.77로 감소하는 것으로 분석되었다. 2층 역시 11.2℃→7.6℃→6.7℃로 감소할 때 COPunit은 2.61→2.13→2.29로 감소하는 경향을 나타냈다. 따라서 난방시 수열 히트펌프로 유입되는 열원수 온도가 낮아질수록 성능이 떨어지는 것으로 확인되었다.\n\n냉방시는 반대로 1층 수열시스템의 유입 하천수 수온이 20.8℃→24.5℃→24.7℃로 증가할 때 COPunit은 2.39→2.10→2.13로 감소하는 것으로 분석되었으며 2층 역시 수온이 20.0℃→24.3℃→24.5℃로 증가할 때 COPunit은 4.92→3.51→3.49로 감소하였다. 따라서 냉방시에는 수열 히트펌프로 유입되는 열원수 온도가 높아질수록 성능이 떨어지는 것을 확인할 수 있다.\n\n탁도에 따른 수열시스템 성능계수 변화 분석 결과 수열시스템 성능이 이물질에 의해 26%에서 28%까지 감소하는 것으로 나타났다. 이는 이물질이 유입될 경우 원수-브라인 열교환 저하 및 취수펌프의 소비전력 상승 때문인 것으로 추정된다.\n\n본 연구과제의 실증대상지인 에코필터링T/B 건물동에는 냉난방을 위해 동일 용량과 동일 대수의 전기, 수열 히트펌프 냉난방시스템이 구축되어 있으며 외기온도가 유사할 때 가동된 시간 동안 히트펌프 소비전력을 비교하였다. 냉방시는 수열 히트펌프의 소비전력이 전기에 비해 41% 적게 소모되었으며 난방시에는 유사하거나 수열이 최대 29% 많이 소요되었다. 6월과 12월을 제외하고 수열 히트펌프가 전기 히트펌프에 비해 전력 소모량이 적었으며, 저감효과는 난방보다 냉방시 더 큰 것으로 확인되었다. 다만 수열시스템은 히트펌프 외에 부대설비(취수펌프, 브라인펌프) 소비전력이 함께 고려되어야 한다.\n\n일반적으로 물이 공기보다 비열이 높은 특성을 가지고 있어 하절기에 하천수 수온은 외기 온도보다 낮고 동절기시 하천수 수온이 외기 온도보다 높다. 그러나 에코필터링T/B 수열시스템의 취수 깊이는 1m 이내로 외기의 영향을 많이 받으며 비열이 작은 외기는 기상에 의한 온도 변화의 영향이 큰 반면 하천수는 외기의 영향을 상대적으로 작게 받아 겨울(11월\\~1월)과 여름(6월) 일부 구간에서 하천수 수온이 외기보다 불리한 조건이 발생되었다.\n\n하천수 수열시스템은 성능이 좋고 전력소비량이 적은 것으로 분석되었으나 하천수를 활용함에 따라 발생하는 제약사항이 있어 개선할 수 있는 추가적인 연구가 필요할 것으로 나타났다. 우선 수열시스템을 구성하는 요소설비(히트펌프 열교환기, 펌프 등) 각각의 성능개선과 함께 히트펌프 냉난방 부하에 따른 부대설비와의 최적 제어기술이 적용되어야 한다. 또한 하천수 수온이 불리할 때를 대비하여 축열조 활용 및 기타 신재생에너지원(태양광 등)과 복합적으로 활용할 수 있는 방안에 대한 연구가 추가적으로 필요하다.",
+    "blockRange": [
+      58,
+      67
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0027",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# S U M M A R Y",
+    "blockRange": [
+      68,
+      68
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0028",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "1. Project Title/Subtitle",
+    "blockRange": [
+      69,
+      69
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0029",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1. Project Title/Subtitle"
+    ],
+    "text": "Study on the cooling and heating effect of water thermal energy system using stream water",
+    "blockRange": [
+      70,
+      70
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0030",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "2. Research Period",
+    "blockRange": [
+      71,
+      71
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0031",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "2. Research Period"
+    ],
+    "text": "2018. 8. 1 ～ 2020. 7. 31",
+    "blockRange": [
+      72,
+      72
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0032",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "3. Objective of Research",
+    "blockRange": [
+      73,
+      73
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0033",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "3. Objective of Research"
+    ],
+    "text": "Recently, the world is increasing the supply of renewable energy to cope with climate change. In Korea, government policies are being implemented to expand renewable energy by raising the share of renewable energy generation to 20 percent by 2030.\n\nK-water needs to conduct preemptive research in order to solve the pending issues of hydrothermal energy with high potential value and high abundance in the future.\n\nIn addition, although the range of hydrothermal energy included in new and renewable energy has been limited to seawater, it is expected that the hydrothermal energy system using river water will gradually expand as the range of hydrothermal energy includes river water due to the revision of the New and Renewable Energy Act in October 19.\n\nHowever, while advanced countries contribute to energy saving and greenhouse gas reduction through hydrothermal energy using river water, there are few cases of heating and cooling using river water in Korea, so there is a lack of data to verify its effectiveness.\n\nTherefore, we will test-apply thermal energy utilizing river water to EDC Eco-filtering T/B in Busan, and consider ways to improve the current issues of the river water utilization system and changes in the cooling and heating effects depending on water temperature and water quality.",
+    "blockRange": [
+      74,
+      78
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0034",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "4. Content, Scope and Method of Research",
+    "blockRange": [
+      79,
+      79
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0035",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "4. Content, Scope and Method of Research"
+    ],
+    "text": "4.1 1st Year",
+    "blockRange": [
+      80,
+      80
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0036",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- 1\\) Installation of hydrothermal energy cooling and heating system using river water (Busan Eco-Delta-City Eco-filtering Test-Bed)",
+    "blockRange": [
+      81,
+      81
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0037",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1) Installation of hydrothermal energy cooling and heating system using river water (Busan Eco-Delta-City Eco-filtering Test-Bed)"
+    ],
+    "text": "A) Selection of water intake points according to water quality of river water and establishment of heating and cooling system of hydrothermal energy\n\na) Selection of water collection points among eco-filtering water treatment modules (2 locations)\n\nB) Start the installation of hydrothermal energy cooling and heating system in Busan Eco-Filtering test-bed building",
+    "blockRange": [
+      82,
+      84
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0038",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- 2\\) Inspection of the method to establishment of monitoring system for performance analysis of water source heating and cooling system.",
+    "blockRange": [
+      85,
+      85
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0039",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "2) Inspection of the method to establishment of monitoring system for performance analysis of water source heating and cooling system."
+    ],
+    "text": "A) Selection of measurement types and instruments for performance analysis.",
+    "blockRange": [
+      86,
+      86
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0040",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- 3\\) Inspection of erformance comparison plans between existing electric heating and cooling facilities and hydrothermal systems",
+    "blockRange": [
+      87,
+      87
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0041",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "3) Inspection of erformance comparison plans between existing electric heating and cooling facilities and hydrothermal systems"
+    ],
+    "text": "4.2 2nd Year",
+    "blockRange": [
+      88,
+      88
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0042",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- 1\\) Complete the installation of hydrothermal energy cooling and heating system in Busan Eco-Filtering test-bed building\n  - 2\\) Monitoring of changes in the performance of the water heating system according to the water temperature of the river and the intake point",
+    "blockRange": [
+      89,
+      89
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0043",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1) Complete the installation of hydrothermal energy cooling and heating system in Busan Eco-Filtering test-bed building"
+    ],
+    "text": "A) Hydrothermal energy facility and monitoring system supplementation and installation completed\n\nB) Monitoring the performance change of the hydrothermal energy system according to the water temperature of river water throughout the year\n\na) Monitoring of heat pump operation days and temperature differences by spring, summer, autumn and winter\n\nC) Monitoring the impact of the conditions of the river water intake point\n\na) Monitoring of heat exchangers on the first floor using river water and the second floor using treated water\n\n4.3 3rd Year",
+    "blockRange": [
+      90,
+      95
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "1) Establishment of standard model for hydrothermal energy system using river water",
+    "blockRange": [
+      96,
+      96
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0045",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1) Establishment of standard model for hydrothermal energy system using river water"
+    ],
+    "text": "A) Analysis of performance effect of hydrothermal system compared to existing electric heat pump\n\na) Analysis of energy savings, performance coefficient, etc.\n\nB) Establishment of standard model for supply of water heat energy cooling and heating using river water\n\na) Review of supplementary measures for hydrothermal system at low water temperature",
+    "blockRange": [
+      97,
+      100
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0046",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "5. Research Result",
+    "blockRange": [
+      101,
+      101
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0047",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "5. Research Result"
+    ],
+    "text": "In this study, a hydrothermal energy system using river water as a heat source was installed to acquire and analyze the performance by season and turbidity.\n\nBusan EDC Eco Filtering T/B, which is the target site for installation, is an eco-friendly water treatment module that takes in the nearby Pyeonggang stream and discharges the clean water back to the Pyeonggang Stream through a reservoir, algae mat, cheonbyeon wetland, and filtration process. In this study, the eco-filtering T/B building cooling and heating system was operated by intake of river water from the reservoir where the Pyeonggang stream raw water flows in and the reservoir discharged after the final treatment.\n\nThe hydrothermal system consists of a heat pump, a heat exchanger, and a drain pump that takes in river water, and a centrifugal pump that circulates between the heat exchanger and the heat pump, and consists of a water heat system for the first floor and a water heat system for the second floor. The capacity of the hydrothermal heat pump is 1 10RT (for 1st floor) and 1 12RT (for 2nd floor), the same as the existing electric heat pumps, and the intake pump is 3.7kW (for 1st floor), 1.5kW (for 2nd floor) and The circulation pump is 0.75kW (for first and second floors).\n\nIn order to acquire and analyze the performance data of the hydrothermal system, performance coefficients were derived by measuring the hydrothermal river water inlet and outlet temperatures and flow rates and brine water inlet and outlet temperatures and flow rates once a month from ‘19.9 to '20.7.\n\nAs a result of the performance analysis by river water temperature, it was analyzed that COPunit also decreased from 2.22→1.89→1.77 as the inflow river water temperature of the first-floor hydrothermal system decreased from 9.1℃→6.8℃→5.0℃ during heating. When the second floor also decreased from 11.2℃→7.6℃→6.7℃, COPunit showed a tendency to decrease from 2.61→2.13→2.29. Therefore, it was confirmed that the lower the temperature of the heat source water flowing into the hydrothermal heat pump during heating, the lower the performance.\n\nIn cooling, as opposed to heating, when the inflow water temperature of the first-floor hydrothermal system increases from 20.8℃ to 24.5℃ to 24.7℃, COPunit decreased from 2.39 to 2.10 to 2.13, and the water temperature for the second floor also increases from 20.0℃ to 24.3℃ to 24.5℃, COPunit decreased from 4.92 to 3.49 to 3.51. Therefore, it can be confirmed that the performance decreases as the temperature of the heat source water flowing into the hydrothermal heat pump increases during cooling.\n\nAs a result of analysis of the change in the coefficient of performance of the hydrothermal system according to the turbidity, it was found that the performance of the hydrothermal system decreased from 26% to 28% by foreign substances. This is presumed to be due to a decrease in raw water-brine heat exchange and an increase in power consumption of the water intake pump when foreign substances are introduced.\n\nThe Eco Filtering T/B building is equipped with the same capacity and number of electric and hydrothermal heat pump cooling and heating systems for cooling and heating, and in this research project, the power consumption of the heat pump was compared during the operating time when the outside temperature was similar. During cooling, the power consumption of the hydrothermal heat pump was 41% less than that of electricity, and the similar or the hydrothermal heat pump consumed up to 29% more during heating. Excluding June and December, the hydrothermal heat pump consumed less power than the electric heat pump, and the reduction effect was found to be greater during cooling than heating. However, in the hydrothermal system, the power consumption of auxiliary facilities(water intake pump, brine pump) must be considered together with the heat pump.\n\nIn general, since water has a higher specific heat than air, the water temperature of river water in summer is lower than the outside air temperature, and in winter, the water temperature of river water is higher than the outside air temperature. However, the water intake depth of the eco-filtering T/B hydrothermal system is within 1m and is highly affected by the outside air, and the outside air with small specific heat is greatly affected by the temperature change due to the weather, while the river water is relatively affected by the outside air, so in winter (November -January) and summer (June) in some sections, the water temperature of the river was worse than the outside air.\n\nBased on the performance analysis of the river water hydrothermal system derived through this research project, several items must be considered for the commercialization and expansion of river water heating in the future.\n\nFirst. The hydrothermal system should be optimally designed for the required flow rate and temperature difference according to the building heating and cooling load.\n\nSecond. The performance of the river water heat treatment system depends greatly on the auxiliary equipment (water intake pump, circulation pump, heat exchanger, etc.). Therefore, the pump must be designed to operate at the highest efficiency point, and efficiency management through maintenance is required.\n\nThird. Because river water contains a large amount of aquatic organisms and foreign substances, water intake facilities are more important than other hydrothermal systems. When foreign substances are introduced, the flow rate cannot flow smoothly and the efficiency of the heat exchanger decreases, so the system COP may decrease. Therefore, it is necessary to use a strainer with a screen and automatic cleaning function.\n\nFourth. In general, river water with high specific heat has advantageous conditions for cooling and heating compared to outdoor air, but when the water depth is not deep and is stagnant, some periods have disadvantageous conditions compared to outdoor air. Therefore, it is possible to improve the constraints on the water heat of the river through the use of heat storage tanks and the combined use of other renewable energy heat sources.",
+    "blockRange": [
+      102,
+      115
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0048",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# C O N T E N T S",
+    "blockRange": [
+      116,
+      116
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0049",
+    "type": "text",
+    "breadcrumb": [
+      "C O N T E N T S"
+    ],
+    "text": "Chapter 1. Introduction \t 1\n\n1.1 Background and Purpose \t 1\n\n1.2 Water Source Heat Pump(WSHP) System \t 2\n\n1.2.1 Overview of the WSHP System \t 2\n\n1.2.2 Specific Characteristic of Heat Source \t 4\n\n1.2.3 Case on the WSHP System Using River Water \t 6\n\n1.3 Performance Test of the WSHP System \t 20\n\n1.3.1 Standard Performance Test \t 20\n\n1.3.2 Case on the Standard Performance Test \t 25\n\n1.3.3 Efficiency of Heat Pump \t 31\n\n1.3.4 Method of Performance Analysis \t 33\n\nChanper 2. Installation of the WSHP System \t 40\n\n2.1 Demonstration Site \t 40\n\n2.1.1 Eco-Filtering Test Bed \t 41\n\n2.1.2 The Building for Education and Study \t 42\n\n2.2 Construction of WSHP System \t 43\n\n2.2.1 The Point of Intake River Water \t 43\n\n2.2.2 Major Equipment of the WSHP System \t 43\n\nChapter 3. Data Acquisition and Analysis \t 53\n\n3.1 Acquisition of the WSHP System Data \t 53\n\n3.1.1 Overview of Data Acquisition \t 53\n\n3.1.2 Data Acquisition Results \t 53\n\n3.2 WSHP System Data Analysis \t 63\n\n3.2.1 Seasonal Performance Change \t 63\n\n3.2.2 Performance Change by Turbidity \t 65",
+    "blockRange": [
+      117,
+      141
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0050",
+    "type": "heading",
+    "breadcrumb": [
+      "C O N T E N T S"
+    ],
+    "text": "## 3.3 Comparison of Hydrothermal and Electric Heating and Cooling System ··· 68",
+    "blockRange": [
+      142,
+      142
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0051",
+    "type": "heading",
+    "breadcrumb": [
+      "C O N T E N T S"
+    ],
+    "text": "## 4. Current Issues and Suggestions for Improving River Hydrothermal \t 70",
+    "blockRange": [
+      143,
+      143
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0052",
+    "type": "text",
+    "breadcrumb": [
+      "C O N T E N T S",
+      "4. Current Issues and Suggestions for Improving River Hydrothermal \t 70"
+    ],
+    "text": "4.1 Current Issues River Hydrothermal \t 70\n\n4.1.1 Water Temperature Characteristic \t 70\n\n4.1.2 Power Consumption of Auxiliary Facilities \t 73\n\n4.1.3 Water Intake Facilities Maintenance \t 75\n\n4.1.4 Risk of Freezing and Breaking the heat pump \t 76\n\n4.1.5 Refrigerant Flow Measurement for Comparison between WSHP and EHP \t 77 4.2 Suggestion for Improving River Hydrothermal \t 78\n\n5. Conclusions \t 79",
+    "blockRange": [
+      144,
+      150
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0053",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목",
+    "blockRange": [
+      151,
+      151
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0054",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 차",
+    "blockRange": [
+      152,
+      152
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0055",
+    "type": "text",
+    "breadcrumb": [
+      "차"
+    ],
+    "text": "1. 서론 \t 1",
+    "blockRange": [
+      153,
+      153
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0056",
+    "type": "text",
+    "breadcrumb": [
+      "차",
+      "1. 서론 \t 1"
+    ],
+    "text": "1.1 연구배경 및 목적 \t 1\n\n1.2 수열에너지시스템 \t 2\n\n1.2.1 수열에너지시스템의 개요 \t 2\n\n1.2.2 열원의 종류 및 특성 \t 4\n\n1.2.3 하천수를 활용한 수열에너지시스템\n\n사례 \t 6\n\n1.3 수열에너지시스템 성능시험 \t 20\n\n1.3.1 성능시험 기준 \t 20\n\n1.3.2 히트펌프 성능분석 사례 \t 25\n\n1.3.3 히트펌프 효율 \t 31\n\n1.3.4 성능분석 방안 \t 33",
+    "blockRange": [
+      154,
+      164
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0057",
+    "type": "text",
+    "breadcrumb": [
+      "차"
+    ],
+    "text": "2. 수열에너지시스템 구축 \t 40",
+    "blockRange": [
+      165,
+      165
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0058",
+    "type": "text",
+    "breadcrumb": [
+      "차",
+      "2. 수열에너지시스템 구축 \t 40"
+    ],
+    "text": "2.1 실증 대상지 \t 40\n\n2.1.1 에코필터링 테스트베드 \t 41\n\n2.1.2 교육연구홍보 건축동 \t 42\n\n2.2 수열에너지시스템 구성 \t 43\n\n2.2.1 취수지점 \t 43\n\n2.2.2 주요장비 \t 43",
+    "blockRange": [
+      166,
+      171
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0059",
+    "type": "text",
+    "breadcrumb": [
+      "차"
+    ],
+    "text": "3. 데이터 취득 및 분석 \t 53",
+    "blockRange": [
+      172,
+      172
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0060",
+    "type": "text",
+    "breadcrumb": [
+      "차",
+      "3. 데이터 취득 및 분석 \t 53"
+    ],
+    "text": "3.1 수열시스템 데이터 취득 \t 53\n\n3.1.1 데이터 취득 개요 \t 53\n\n3.1.2 데이터 취득 결과 \t 53\n\n3.2 수열시스템 데이터 분석 \t 63\n\n3.2.1 계절별 성능변화 \t 63\n\n3.2.2 탁도별 성능변화 \t 65\n\n3.3 수열 및 전기 냉난방시스템 비교 \t 68",
+    "blockRange": [
+      173,
+      179
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0061",
+    "type": "text",
+    "breadcrumb": [
+      "차"
+    ],
+    "text": "4. 하천수 수열 현안사항 및 개선방안 도출 \t 70",
+    "blockRange": [
+      180,
+      180
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0062",
+    "type": "text",
+    "breadcrumb": [
+      "차",
+      "4. 하천수 수열 현안사항 및 개선방안 도출 \t 70"
+    ],
+    "text": "4.1 하천수 수열 현안사항 \t 70\n\n4.1.1 수온특성 \t 70\n\n4.1.2 부대설비 소요전력 \t 73\n\n4.1.3 취수설비 유지관리 \t 75\n\n4.1.4 동절기 히트펌프 동파 위험 \t 76\n\n4.1.5 수열 및 전기히트펌프 성능비교를 위한 냉매유량 측정 \t 77\n\n4.2 하천수 수열 개선방안 도출 \t 78",
+    "blockRange": [
+      181,
+      187
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0063",
+    "type": "text",
+    "breadcrumb": [
+      "차"
+    ],
+    "text": "5. 결론 및 고찰 \t 79",
+    "blockRange": [
+      188,
+      188
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0064",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표차례",
+    "blockRange": [
+      189,
+      189
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0065",
+    "type": "text",
+    "breadcrumb": [
+      "표차례"
+    ],
+    "text": "표 1.1 열원 형태에 따른 특징 \t 5\n\n표 1.2 일본 동경 Hakozaki 지구 시스템 구성 \t 7\n\n표 1.3 일본 동경 Hakozaki 지구 시스템 \t 8\n\n표 1.4 DLWC 시스템의 연혁 \t 13\n\n표 1.5 냉방 용량의 측정을 위한 시험 조건들 \t 20\n\n표 1.6 난방 용량의 측정을 위한 시험 조건들 \t 21\n\n표 1.7 최대 냉방 시험 조건들 \t 22\n\n표 1.8 최대 난방 시험 조건들 \t 22\n\n표 1.9 최소 냉방 시험 조건들 \t 23\n\n표 1.10 최소 난방 시험 조건들 \t 23\n\n표 1.11 냉방 시, 시험 조건들 \t 24\n\n표 1.12 난방 시, 시험 조건들 \t 25\n\n표 1.13 실험 조건 \t 31\n\n표 1.14 적용 성능시험 기준 \t 34\n\n표 1.15 REFPROP에서 사용되는 항목의 단위 \t 36\n\n표 1.16 측정값의 기록 양식 \t 37\n\n표 1.17 기록값의 기록 양식 \t 37\n\n표 1.18 시스템의 비교 \t 38\n\n표 2.1 에코필터링 테스트베드 처리모듈 기술설명 \t 41\n\n표 2.2 에코필터링 테스트베드 냉‧난방 설비 사양 \t 42\n\n표 2.3 건축동 수열 및 전기 히트펌프 사양 \t 44\n\n표 2.4 수열 히트펌프 상세사양 \t 45\n\n표 2.5 기존 실내기 사양 \t 46\n\n표 2.6 신규 수열히트펌프 사양 \t 46\n\n표 2.7 수열시스템 펌프 사양 \t 47\n\n\n![image](image_005.png)\n\n표 2.8 수열시스템 계측기기 사양 \t 48\n\n표 3.1 9월 1층 수열시스템 측정값 \t 54\n\n표 3.2 9월 2층 수열시스템 측정값 \t 54\n\n표 3.3 10월 1층 수열시스템 측정값 \t 55\n\n표 3.4 10월 2층 수열시스템 측정값 \t 55\n\n표 3.5 11월 1층 수열시스템 측정값 \t 56\n\n표 3.6 11월 2층 수열시스템 측정값 \t 56\n\n표 3.7 12월 1층 수열시스템 측정값 \t 57\n\n표 3.8 12월 2층 수열시스템 측정값 \t 58\n\n표 3.9 1월 1층 수열시스템 측정값 \t 58\n\n표 3.10 1월 2층 수열시스템 측정값 \t 59\n\n표 3.11 5월 1층 수열시스템 측정값 \t 59\n\n표 3.12 5월 2층 수열시스템 측정값 \t 60\n\n표 3.13 6월 1층 수열시스템 측정값 \t 60\n\n표 3.14 6월 2층 수열시스템 측정값 \t 61\n\n표 3.15 7월 1층 수열시스템 측정값 \t 61\n\n표 3.16 7월 2층 수열시스템 측정값 \t 62\n\n표 3.17 수열시스템 난방 COP \t 63\n\n표 3.18 수열시스템 냉방 COP \t 64\n\n표 3.19 탁도에 따른 수열시스템 COP 변화 \t 65\n\n표 3.20 천변저류지 취수 하천수 수열시스템 열량 \t 65\n\n표 3.21 탁도에 따른 수열시스템 COP 변화 \t 67\n\n표 3.22 수열 및 전기 냉방시스템 소비전력 비교(9,10월) \t 68\n\n표 3.23 수열 및 전기 냉방시스템 소비전력 비교(5,6월) \t 69\n\n표 3.24 수열 및 전기 난방시스템 소비전력 비교(11월, 12월) \t 69\n\n표 4.1 난방 및 냉방시 외기온도와 하천수 수온 비교 \t 70\n\n표 4.2 에코필터링T/B 하천수 및 인근 하천수 평균수온 비교 \t 72\n\n표 4.3 동절기 및 하절기 시간경과에 따른 하천수, 수온 변화 \t 73\n\n표 4.4 수열 히트펌프 및 부대설비 전력소비량 (냉방) \t 73\n\n표 4.5 수열 히트펌프 및 부대설비 전력소비량 (난방) \t 73\n\n표 4.6 수열 히트펌프 제조사 성능데이터 \t 74\n\n표 4.7 전기 히트펌프 제조사 성능데이터 \t 74\n\n표 4.8 수열시스템 물측, 냉매측 COP 비교 \t 77\n\n표 4.9 하천수 수열 제약사항 및 개선방안 \t 78",
+    "blockRange": [
+      190,
+      249
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0066",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그림차례",
+    "blockRange": [
+      250,
+      250
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0067",
+    "type": "text",
+    "breadcrumb": [
+      "그림차례"
+    ],
+    "text": "그림 1.1 히트펌프 사이클 \t 2\n\n그림 1.2 수열에너지시스템 구성도 (물-공기 방식) \t 3\n\n그림 1.3 히트펌프의 작동원리 (냉방모드) \t 3\n\n그림 1.4 히트펌프의 작동원리 (난방모드) \t 4\n\n그림 1.5 공기열원 및 수열원 히트펌프 냉각탑 유무 \t 4\n\n그림 1.6 일본 동경 Hakozaki 지구 \t 6\n\n그림 1.7 일본 동경 Hakozaki 지구 시스템 구성 \t 6\n\n그림 1.8. 일본 동경 Hakozaki 하천수 공급 구성 \t 8\n\n그림 1.9 LSC 시스템 기본 구성 \t 9\n\n그림 1.10 취수구, 스크린 메쉬, 펌프 3기, 취수-수조 HDPE 파이프 \t 10\n\n그림 1.11. DLWC시스템 구성 \t 14\n\n그림 1.12 토론토 DLWC 모식도 \t 15\n\n그림 1.13 파리 지역 냉각 시스템 구성 \t 16\n\n그림 1.14 다양한 냉각 시스템의 COP 비교. (Source Ecole des Mines Study, 2003.) \t 17 그림 1.15. 2002년부터 2009년까지 7년간의 센강의 활용도와 에너지 절감 \t 18\n\n그림 1.16 제2롯데월드 수열에너지 공급 계통도 \t 19\n\n그림 1.17 수열에너지 시스템 히트펌프 설치 모습 \t 19\n\n그림 1.18 시스템 구성 \t 26\n\n그림 1.19 정상상태에서의 냉매 엔탈피 측정에 대한 검증 \t 27\n\n그림 1.20 차냉각 온도에 따른 COP 변화 \t 28\n\n그림 1.21 압축기 인버터 주파수에 따른 난방능력, COP, 압축일량 \t 30\n\n그림 1.22 몰리에르 선도 \t 32\n\n그림 1.23 측정지점 표시도 \t 34\n\n그림 1.24 냉매 엔탈피법 성능분석을 위한 계측기기 \t 35\n\n그림 1.25 냉매(R410A) 몰리에르 선도 \t 35\n\n그림 1.26 물 측 열량계법 성능분석 \t 37\n\n그림 1.27 수열원 히트펌프 시스템 개념도 \t 39\n\n그림 1.28 공기열 히트펌프 시스템 개념도 \t 39\n\n그림 2.1 에코필터링 테스트베드 처리모듈 \t 40\n\n그림 2.2 에코필터링 테스트베드 연구교육홍보 건축동 \t 40\n\n그림 2.3 교육연구홍보 건축동 평면도 \t 42\n\n그림 2.4 하천수 취수지점 2개소 (저류지, 방류맨홀) \t 43\n\n그림 2.5 수열에너지시스템 개략도 \t 44\n\n그림 2.6 수열 히트펌프 사이클 선도 및 계측기기 (냉방) \t 49\n\n그림 2.7 전기 히트펌프 사이클 선도 및 계측기기 (냉방) \t 50\n\n그림 2.8 수열시스템 실증플랜트(취수펌프 및 기계실) \t 51\n\n그림 2.9 수열시스템 실증플랜트(제어판넬 및 모니터링시스템) \t 52\n\n그림 3.1 시간경과에 따른 브라인 온도 및 COP 변화 (냉방) \t 66\n\n그림 3.2 시간경과에 따른 브라인 온도 및 COP 변화 (난방) \t 66\n\n그림 3.3 시간경과에 따른 브라인 온도 및 COP 변화 (냉방) \t 67\n\n그림 3.4 시간경과에 따른 브라인 온도 및 COP 변화 (난방) \t 67\n\n그림 4.1 ‘19.9\\~’20.7 측정당시 외기온도 및 하천수 수온 비교 \t 70\n\n그림 4.2 평강천 인근 하천수 수온 측정지점 \t 72\n\n그림 4.3 스트레이너 이물질 비교 \t 75\n\n그림 4.4 동절기시 저수온 유입에 따른 히트펌프 가동중지 \t 76\n\n그림 4.5 전기 및 수열 히트펌프시스템 구성도 \t 77",
+    "blockRange": [
+      251,
+      295
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0068",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 1. 서 론",
+    "blockRange": [
+      296,
+      296
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0069",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## 1.1 연구배경 및 목적",
+    "blockRange": [
+      297,
+      297
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0070",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.1 연구배경 및 목적"
+    ],
+    "text": "최근 세계적으로 기후변화 등에 대응하기 위해 신재생에너지 보급량을 늘리고 있는 추세이다. 특히 독일은 2001년 탈원전 정책 이후 6%에 불과하던 신재생에너지 비율을 현재 33%까지 늘리는 등 적극적으로 정책을 추진하고 있다. 국내에서도 재생에너지 확대를 위한 정부정책이 시행되고 있으며, 주요 목표는 2017년 7.6%에 불과한 재생에너지 발전비중을 2030년까지 20%까지 끌어올리는 것이다.\n\n신재생에너지 중 수열에너지는 여름철 수온이 대기보다 낮고 겨울철에는 높은 특성을 활용하여 물을 열원으로 히트펌프를 통해 냉난방하는 시스템이다. 연료를 직접 연소하지 않기 때문에 온실가스 감축에 기여하며, 기존의 화석연료 사용과 비교시 약 20\\~50% 에너지 절감이 가능하다. 또한 물은 대기에 비해 여름, 겨울철 계절별 온도 변화가 작아 공기열원에 비해 높은 효율을 도출할 수 있다.\n\n일본, 유럽 등 선진국은 에너지 이용 효율화를 위해 하천수를 활용한 수열에너지 냉난방을 통해 에너지 절감 및 온실가스 감축에 기여하고 있다. 그러나 국내에서는 기존에 정수장 또는 원수관로를 활용한 냉난방 공급사례는 있으나, 하천수를 직접 취수하여 수열에너지를 공급한 사례는 매우 적어 효과 검증을 위한 데이터가 부족한 실정이다.\n\n하천수 열원을 활용한 냉난방 시스템은 부존량이 풍부하며 수용가 접근이 용이하고 대규모 개발 가능성이 높다. 또한 당초 신재생에너지법상 수열에너지의 범위는 해수를 활용하는 것으로 한정되어 있었으나, 2019년 10월 수열에너지의 범위가 하천수까지 확대됨으로써 향후 하천수를 활용한 수열에너지 냉난방 공급이 확대될 것으로 기대된다.\n\n본 연구과제에서는 부산EDC 에코필터링 건물동을 대상으로 하천수를 활용한 수열에너지시스템 실증 및 하천수 수온변화에 따른 성능변화를 도출하고자 한다. 또한 기존에 설치되어 있는 전기 히트펌프와의 비교를 통해 최종적으로는 하천수를 활용한 수열에너지시스템의 최적 공급모델을 수립하는 것이 목표이다.",
+    "blockRange": [
+      298,
+      302
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0071",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## 1.2 수열에너지시스템",
+    "blockRange": [
+      303,
+      303
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0072",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.2 수열에너지시스템"
+    ],
+    "text": "### 1.2.1 수열에너지시스템의 개요",
+    "blockRange": [
+      304,
+      304
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0073",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.2 수열에너지시스템",
+      "1.2.1 수열에너지시스템의 개요"
+    ],
+    "text": "물은 에너지를 축적하는 능력, 즉 비열이 매우 큰 특성을 가지고 있어 여름철은 대기보다 시원하고 겨울철은 따뜻한 특성을 가지고 있다. 수열에너지는 이러한 물의 특성을 활용하여 히트펌프를 통해 냉난방하는 시스템으로, 연료를 직접 연소하지 않기 때문에 온실가스 감축이 가능하다.\n\n수열에너지시스템의 사이클은 그림 1.1과 같이 압축, 응축, 팽창, 증발의 과정을 반복하며 열을 방출하거나 흡수한다.\n\n그림 1.1 히트펌프 사이클\n\n- ① 압축 과정 ( 1 → 2 )",
+    "blockRange": [
+      305,
+      308
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0074",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.2 수열에너지시스템",
+      "1.2.1 수열에너지시스템의 개요",
+      "① 압축 과정 ( 1 → 2 )"
+    ],
+    "text": "저온 저압의 냉매증기를 압축기에서 흡입, 압축하여 고온 고압의 과열증기로 만들어 상온에서 액화되기 쉽게 하는 과정이다.",
+    "blockRange": [
+      309,
+      309
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0075",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.2 수열에너지시스템",
+      "1.2.1 수열에너지시스템의 개요"
+    ],
+    "text": "- ② 응축 과정 ( 2 → 3 )",
+    "blockRange": [
+      310,
+      310
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0076",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.2 수열에너지시스템",
+      "1.2.1 수열에너지시스템의 개요",
+      "② 응축 과정 ( 2 → 3 )"
+    ],
+    "text": "압축기로부터 나온 고온 고압의 냉매증기를 응축기에서 공기 또는 물로 액화시키는 과정이다.",
+    "blockRange": [
+      311,
+      311
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0077",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## ③ 팽창 과정 ( 3 → 4 )",
+    "blockRange": [
+      312,
+      312
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0078",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )"
+    ],
+    "text": "응축기에서 액화된 고온 고압의 냉매 액을 팽창밸브에서 단열팽창(감압)시켜 증발 기에서 증발하기 쉬운 상태로 냉매 압력을 감압시키는 과정이다.\n\n\n![image](image_006.png)\n\n④ 증발 과정 ( 4 → 1 )",
+    "blockRange": [
+      313,
+      315
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0079",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "④ 증발 과정 ( 4 → 1 )"
+    ],
+    "text": "팽창밸브에서 감압된 저압의 냉매 액이 증발기에서 증발하면서 주위로부터 열을 흡수하여 주위를 저온으로 만드는 과정이다.\n\n수열에너지시스템은 일반적으로 그림 1.2와 같이 원수 등의 물을 열원으로 사용하는 수열 히트펌프 시스템을 말한다.\n\n그림 1.2 수열에너지시스템 구성도 (물-공기 방식)\n\n냉방과 난방모드의 경우 사이클이 서로 반대방향이며, 열교환기가 각각 응축기, 증발기 역할을 수행한다.\n\n그림 1.3 히트펌프의 작동원리 (냉방모드)\n\n그림 1.3은 냉방모드로, 실내기(증발기)를 통해 냉매의 기화로 방 안의 열을 흡수하여 실내를 시원하게 하고 실외기(응축기)를 통해 냉매의 액화에 의한 실내에서 흡수된 열 방출이 이루어진다.\n\n\n![image](image_007.png)\n\n\n![image](image_008.png)\n\n그림 1.4 히트펌프의 작동원리 (난방모드)\n\n난방모드 시, 실외기(증발기)를 통해 냉매의 기화로 외기의 열을 흡수하고 실내기(응축기)를 통해 냉매의 액화에 의한 외기에서 흡수된 열 방출이 이루어져 실내를 따뜻하게 한다(그림 1.4).",
+    "blockRange": [
+      316,
+      325
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0080",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )"
+    ],
+    "text": "### 1.2.2 열원의 종류 및 특성",
+    "blockRange": [
+      326,
+      326
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0081",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.2 열원의 종류 및 특성"
+    ],
+    "text": "히트펌프의 열원은 크게 수열, 공기열, 지열, 태양열로 나뉠 수 있으며 여기서 다시 수열은 하천수, 지하수, 폐수 등으로 나눌 수 있다. 히트펌프의 열원 형태에 따른 특징은 표 1.1에 비교하여 나타내었다. 기존에 가장 많이 활용되고 있는 공기열원 히트펌프 대비 수열은 대형 냉방설비 필수 부속품인 냉각탑 대체가 가능하다. 냉각탑이 란 실내의 열기를 실외로 이동시키는 수냉식 열교환 설비로 대형 냉동기에 사용되며, 소형은 공랭식의 실외기를 사용한다. 이러한 냉각탑은 일반적으로 공간 활용을 위해 옥상에 설치되며, 하중, 소음‧진동, 냉각수 관리, 열섬효과 등의 문제를 일으킬 수 있다.",
+    "blockRange": [
+      327,
+      327
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0082",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.2 열원의 종류 및 특성"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| 공기열원 히트펌프 (냉각탑 O) | 수열원 히트펌프 (냉각탑 X) |\n\n**그림 1.5 공기열원 및 수열원 히트펌프 냉각탑 유무**",
+    "blockRange": [
+      328,
+      328
+    ],
+    "page": 29,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0083",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.2 열원의 종류 및 특성"
+    ],
+    "text": "![image](image_009.png)\n\n\n![image](image_010.png)\n\n\n![image](image_011.png)\n\n수열원 히트펌프는 일반적으로 대형시스템에서 활용되고 있으며, 물을 이용하기 때문에 펌프가 부수적으로 필요하게 된다. 한편, 공기열원 히트펌프는 펌프가 없어 대체로 구성이 단순하여 소형시스템에서 주로 활용되고 있다.\n\n수열원 히트펌프는 원수 등의 물에서 에너지를 얻는 히트펌프로서, 얻은 열에너지를 축열조 등의 물에 축적하는 물 대 물 방식과 실내공기에 전달하는 물 대 공기 방식으로 나눈다. 한편, 공기열원 히트펌프는 대기에서 얻은 열에너지를 실내공기로 이 송하는 공기 대 공기 방식과 축열조 등의 물에 축적하는 공기 대 물 방식으로 구분된다.",
+    "blockRange": [
+      329,
+      333
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0084",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.2 열원의 종류 및 특성"
+    ],
+    "text": "**표 1.1 열원 형태에 따른 특징**\n\n| 열원 | 하천수 | 지하수 | 폐수 | 공기 | 지열 | 태양열 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 열원유용성<br>(지역) | 일부<br>지역 | 불확실 | 제한적 | 모든<br>지역 | 건물<br>주위<br>공간이<br>있는 곳 | 모든<br>지역 |\n| 열원유용성<br>(시간) | 항상<br>가능<br>(물 부족<br>없는 한) | 항상<br>가능<br>(물 부족<br>없는 한) | 가변적 | 항상<br>가능 | 항상<br>가능 | 가변적 |\n| 초기<br>투자비용 | 낮은 편 | 높음 | 가변적 | 낮은 편 | 높음 | 높음 |\n| 운전비용 | 낮은 편 | 낮음 | 낮음 | 중간 | 낮음 | 낮음 |\n| 동절기<br>온도(개략) | 0 \\~ 15℃ | 10 \\~<br>15℃ | 좋은<br>온도<br>조건 | -15 \\~<br>15℃ | -5 \\~ 15℃ | 0℃ 이상 |\n| 공간<br>요구조건 | 적음 | 기기<br>공간은<br>적음 | 가변적 | 넓은<br>공간<br>필요 | 기기<br>공간<br>최소화 | 대형<br>구조물 |\n| 대형<br>시스템<br>적합성 | 좋음 | 좋음 | 가변적 | 좋음 | 좋음 | 중간 |",
+    "blockRange": [
+      334,
+      334
+    ],
+    "page": 30,
+    "table": {
+      "rows": 8,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0085",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )"
+    ],
+    "text": "### 1.2.3 하천수를 활용한 수열에너지시스템 사례",
+    "blockRange": [
+      335,
+      335
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0086",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례"
+    ],
+    "text": "- 가. 일본 Hakozaki 지구",
+    "blockRange": [
+      336,
+      336
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0087",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "가. 일본 Hakozaki 지구"
+    ],
+    "text": "동경전력(주)에서 사업을 추진하여 1989년 4월 열 공급(공기열)을 개시하였고 하천수열은 1990년에 가동 개시하였다. 온수와 냉난방용 냉온수를 동시에 공급하고 비상시를 대비하여 냉각탑을 구비하였다. 일본 최초 하천수(스미다강)를 열원으로 Hakozaki 지구(25.4ha)에 수열로 전 부하 공급하여 일본에서 수열원을 지역냉난방에 활용하는 표준으로 자리 잡았다.\n\nHakozaki 지구는 도시 재개발시 열수요 밀도가 높고, 계획적 개발로 열수요 예측이 정확하여 지역 냉난방 사업의 좋은 여건을 가지고 있으며, 히트펌프 1,600RT 2대, 냉동기 1,600RT 1대로 운영되고 있다. 중앙감시시스템을 도입하여 플랜트 설비의 상태나 기동정지를 집중적으로 감시하기 위해 감시점 약 500포인트에서 중앙감시를 하고 있으며 일보‧월보 작성, COP 등 자동으로 계산된다.\n\n그림 1.6 일본 동경 Hakozaki 지구\n\nHakozaki 열 공급센터 시스템의 구성 모식도는 그림 1.7과 같으며, 축열조 열펌프를 병렬로 배치, 냉온수 1차 펌프 유량 밸런스에서 방열과 축열에 따른 유량 조절을 통해 반송동력 효율을 향상시켰다.\n\n그림 1.7 일본 동경 Hakozaki 지구 시스템 구성\n\n\n![image](image_012.png)\n\n\n![image](image_013.png)\n\n\n![image](image_014.png)\n\n열 공급 대상면적, 장비용량(RT), 사용열원 및 비율, 미활용 에너지의 최대이용유량과 이용 온도차, 축열조 용량, 튜브 재질 및 제관, 세관주기, 에너지 절감 정도에 대한 자료는 표 1.2에 나타내었다.",
+    "blockRange": [
+      337,
+      345
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0088",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "가. 일본 Hakozaki 지구"
+    ],
+    "text": "**표 1.2 일본 동경 Hakozaki 지구 시스템 구성**\n\n| 구분 |  | 하코자키 | 비고 |\n| --- | --- | --- | --- |\n| 열 공급 대상면적 (㎥) |  | 278,000 |  |\n| 수열원 장비용량 (RT) |  | 히트펌프 : 3,200<br>냉동기 : 1,600 | 공기열 : 798 |\n| 사용열원 및 비율 |  | 하천수 : 약 80% 공기열원 : 20% |  |\n| 미활용<br>에너지 | 최대이용유량 | 하절기 : 67,017 ㎥/d (1.19 ㎥/s)<br>동절기 : 23,003 ㎥/d (0.64 ㎥/s) |  |\n| 미활용<br>에너지 | 이용 온도차 | 하절기 : +5℃<br>동절기 : -3℃ |  |\n| 축열조 용량 (ton) |  | 4,980 |  |\n| 튜브 재질 및 세관 |  | 티타늄 / 브러쉬 |  |\n| 세관주기 |  | 연 1\\~2회 수작업 |  |\n| 에너지 절감 |  | 29.2% |  |",
+    "blockRange": [
+      346,
+      346
+    ],
+    "page": 32,
+    "table": {
+      "rows": 10,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0089",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "가. 일본 Hakozaki 지구"
+    ],
+    "text": "Hakozaki 열 공급센터의 하천수 공급 구성을 그림 1.8에 나타내었고 취수구에서 히트펌프까지 배관길이는 120m, 210㎾ 취수펌프를 3대 설치(1.59cms 취수가능) 인버터 제어로 에너지를 절감하였다.\n\n그림 1.8. 일본 동경 Hakozaki 하천수 공급 구성\n\n1989년 4월 열 공급 개시 시, 냉각탑을 운영하였고 1990년에는 하천수 히트펌프 운영으로 열 공급을 개시하였다. 1989년 8월과 1991년 7월의 운전 데이터를 표 1.3에 비교하여 나타내었다.",
+    "blockRange": [
+      347,
+      349
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0090",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "가. 일본 Hakozaki 지구"
+    ],
+    "text": "**표 1.3 일본 동경 Hakozaki 지구 시스템**\n\n| 구분 | 1989년 8월 | 1991년 7월 |\n| --- | --- | --- |\n| 외기 평균 온도 (℃) | 26.5 | 26.3 |\n| 평균 하천수온 (℃) | - | 24.4 |\n| 총 동력 (비율) | 100 | 82 |\n| 냉각탑 보충수(순환수) (㎥) | 6,480 | 0 |",
+    "blockRange": [
+      350,
+      350
+    ],
+    "page": 33,
+    "table": {
+      "rows": 5,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0091",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "가. 일본 Hakozaki 지구"
+    ],
+    "text": "냉각탑, 하천수 히트펌프 운영 비교 시, 약 18%의 에너지 절감 효과를 입증하였고 냉각탑 보충수 6,480톤이 불필요하게 되어 수자원이 절역될 뿐만 아니라 이산화탄소도 1,520 톤/년을 절감하는 Hakozaki 열 공급센터 사업효과를 내었다.\n\n\n![image](image_015.png)",
+    "blockRange": [
+      351,
+      352
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0092",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례"
+    ],
+    "text": "- 나. 미국 코넬대학교 Lake Source Cooling System",
+    "blockRange": [
+      353,
+      353
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0093",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "나. 미국 코넬대학교 Lake Source Cooling System"
+    ],
+    "text": "CFC 사용금지, 부하량 증가, 기계의 고령화, 에너지 가격 상승 등에 의하여 냉난방 공급을 위한 변화가 필요하였고, 2005년 이전 8개의 냉동기 중 6개는 교체가 필요하였으며, 1994년부터 재생에너지 사용에 대한 연구가 시작되었다. 여러 다양한 가능성 있는 연구들 중에 Lake Source Cooling (LSC)이라는 새로운 시스템의 도입이 결정되었다. 1998년 봄여름에 실시설계 및 시공 관련 모든 인허가를 받아 착공은 1999년 봄에 시작을 하였었고, 시운전 및 조정은 2000년 7월 여름에 수행하였다. 그림 1.9는 LSC 시스템의 구성이다.\n\n그림 1.9 LSC 시스템 기본 구성\n\nLSC는 20,000RT (70,400 kW)의 부하 냉방용량과 32,000gpm (2,020 L/s)의 순환용량으로서 설계되었다. LSC의 내용연수는 75년\\~100년가량 사용가능하며, 이는 일반적인 냉각기의 내용연수인 30년\\~40년에 비해 장기간 운영이 가능하다. 뉴욕주의 Finger Lakes 중에 두 번째로 큰 Cayuga호수의 수심 250피트(76.2 m)에서 취수펌프를 설치하였으며, 이 빙하호의 길이는 약 38마일 (61 km) 길이와 폭 1마일 (1.6 km)로서 최고수심 425피트 (130 m) 깊이로서 최대 2.5조 갤런(9.48\\*L)의 수량을 가지고 있다. 화씨 39도(섭씨 4도)의 수온의 호수물은 최대 변유량은 32,000 gpm (2,020 L/s)로서, 취수펌프를 이용 3.22km의 지름 1.6m의 HDPE관을 통하여 열교환시설의 수조에 도착하게 된다.\n\n취수관의 크기는 길이 10,400피트(3,169.92m), 지름 63인치(160.02cm) HDPE 플라스틱 파이프이며, 배수관의 크기는 길이 700피트 (213.36 m), 지름 48인치(121.92cm) HDPE 플라스틱 파이프이다. 배출 파이프의 깊이는 수심 9피트 (2.7432 m)이고 취수관 파이프 위치는 모든 루트가 호수 바닥에 위치해 있다. 취수펌프 스크린 메쉬는 수직 슬롯 폭 2mm인 쐐기형 와이어이고 보리새우를 취수펌프에서 격퇴하기 위한 전구 에너지소모량은 8 와트다. 주변과 비슷한 온도로 만들기 위해 희석이 필요하므로 분배배수 방식을 이용한다. 열 융합에 사용된 파이프 개수는 200개이고 1ft 길이의 취수 플랜지에 설치된 개수는 1,200 \\~ 2,000개다. 그림 1.10는 취수구, 스크린 메쉬, 펌프3기, HDPE파이프의 모습이다.\n\n\n![image](image_016.png)\n\n열교환시설의 수조의 크기는 지름 7.62m \\* 13.716m (깊이 10.668m), 용량은 250,000gallon (946,352.946 L), 바닥에는 셰일암석을 잘라내어, 벽과 바닥을 셰일암석 층에 고정시켰다. 호수로부터 수조의 차단방식은 호수와 수조의 레벨센서를 이용하여 스테인리스 게이트 밸브 활용하였고 열 교환시설에서 수조의 물은 최대 350마력의 3개의 펌프를 이용하여 7개의 열교환기로 보내지게 된다.\n\n호수물 취수 펌프 및 열교환기로 밀어주는 펌프는 입축식 터빈사류펌프로서 총 유량이 32,000gpm이며, 80피트 (35 psi)당 13,000gpm의 수압 상승을 가지고 있다. 펌프 임펠러는 모터에서 40피트 아래에 위치해 있으며, 모터는 350마력 가변속도를 낼 수 있다. 3기의 펌프들은 같은 속도로 운영되고 있다.\n\n그림 1.10 취수구, 스크린 메쉬, 펌프 3기, 취수-수조 HDPE 파이프\n\n\n![image](image_017.png)\n\n판형열교환기는 평상시에 200\\~250psi (1,380\\~1720 kPa)압력으로 운영하고 있으며, 화씨 35도 (섭씨 1.7도)를 접근으로서 약 화씨 42도(섭씨 5.6도)의 냉수를 공급하도록 설계되어 있다. 캠퍼스 부하는 일차-이차 변유 루프를 이용하여 하절기 화씨 47도(섭씨 8.3도)의 냉수를 동절기 화씨 50도(섭씨 10도)의 냉수를 빌딩에 공급하고 있다. 빌딩들과 5마일(8.05km)의 배관으로부터 얻어진 최대 부하량은 약 800톤의 열이 낮은 수압과 호수표면의 열 교환으로 인해 호수로 배출 될 때에 호수 온도는 고정되어 있다. 하천수를 직접 열펌프의 열교환기(응축기 또는 증발기)로 유도하기 위해 열 교환 관의 재질은 티타늄 합금을 사용하며, 튜브 내에 부착이 예상되는 스케일 제거를 위해 청소용 나일론 브러쉬가 내장되어 있다. 이는 열교환기 내의 물의 흐름방향을 열펌프 외부의 4방향 밸브로 변화함으로써 브러쉬를 이동시켜 튜브 내에 부착된 스케일을 제거하는 장치이다. 10년간 1 psi (6.9 kPa) 가량 판형열교환기들의 수압이 줄어드는 것으로 현재 값을 구하였다. 향후 크게 손실되는 이유로 10 psi(69 kPa) 압력 저하로서 계산한 PHE를 선정하게 되었다.\n\nLSC 시스템의 이용효과로 CFC를 사용하지 않게 되었으며, 에너지 사용량을 기존 대비 86%나 줄이게 되었다. 이는 지역 발전소에서 발전 당시에 만들어지게 되는 오염을 줄이게 되었으며, 지구온난화 가스와 산성비 유발 물질을 줄이게 되었다. 지금까지 LSC는 냉방공급 시에 0.1 ㎾h/ton-hour로서 운영되고 있으며, 세계에서 가장 효율성 좋은 지역냉방시스템 중에 하나다. 이는 미국 내에서 이와 같은 종류 중에서 효율성 좋다고 인정받던 코넬 대학교의 기존 지역냉방시스템의 0.75kWh/ton-hour (연간 효율성)과 비교할 수 있다.\n\n전력 절감량이 연간 2,500개의 가정에서 사용량(22 백만 kWh/yr)과 비슷하다. 지역 발전소에서 19백만 파운드 (862만kg)의 석탄 사용량이 필요 없게 되었으며, 이에 따른 채굴, 수송 및 석탄재 제거의 활동이 필요 없게 되었다.\n\n연간 이산화탄소 배출량 25,400톤 절감, 연간 이산화황 배출량 293톤 절감, 연간 이산화질소 배출량 249톤 절감, 온실가스로서 오존층 파괴의 지대한 영향을 미치는 CFC냉매 18.1톤을 사용하지 않는 결과를 가져왔다.\n\nLSC건설로 인하여, \\$1.3million\\~\\$1.5million 가량의 인프라 개선에 납세자들의 부담 없이 다양한 공공기반시설 개선 (도로, 유틸리티, 공원 및 인도)하고 학군지역에 토지이용권 교환으로서 400톤의 냉방을 공급을 받을 수 있게 되었으며, 이로 인하여 지역 납세자들은 새로운 냉매 및 운영비용 절감으로서 현재가치 약 \\$750,000 넘게 절약하게 되었다.",
+    "blockRange": [
+      354,
+      367
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0094",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례"
+    ],
+    "text": "- 다. 캐나다 Enwave社 Deep Lake Water Cooling System",
+    "blockRange": [
+      368,
+      368
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0095",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "다. 캐나다 Enwave社 Deep Lake Water Cooling System"
+    ],
+    "text": "토론토市는 토론토지역난방공사(TDHC) (Enwave社의 비영리 전신으로서 1982년도에 권한을 부여받았었음)와 함께 도시의 철도 선로를 재개발하는 과정에서 기존의 지역 냉방시설을 대체하여 새로운 가능성에 대해 연구하였다.\n\n천연자원부(Department of Natural Resources Canada)는 새로운 엔지니어링 사업에 대한 \\$100만의 금융지원을 하였으며, Enwave社의 민영화로 주주들로부터 추가적인 자금이 들어왔고, 이를 총괄적인 타당성조사와 엔지니어링 설계로 \\$350만을 사용하였다. 캐나다지방정부연합회(Federation of Canadian Municipalities)는 녹색지방기 금(Green Municipal Fund)으로부터 \\$1000만의 대출을 시장금리로 받게 해 주었고 이를 나중에 Enwave社가 전액 상환하여야만 했다. Enwave社는 2002년에 시공을 시작하였으며 그 후년에는 온타리오 호수에 흡입구(intakes)를 설치하였고, 개폐장치, 제어장비, 열전도기, 펌프 등을 포함하여 추가적인 장비들이 설치되었다. 토론토市와 전략적 협력으로서 Enwave社는 시내중심부에 기존의 에너지 사용량이 많은 에어컨의 대안으로서, 친환경적이며 저렴한 가격에 고효율 시스템인 Enwave社의 Deep Lake Water Cooling(DLWC)를 제공하고 있다. Ontario 호수는 연중 내내 섭씨 4도씨정도로 유지되고 있으며, 연내 온도편차는 동절기 섭씨 2.8도, 하절기 섭씨 5도씨정도 수준이다. 지역난방시스템의 경우와 다르게, 지역냉방시스템은 2004년 8월부터가동하여 현재 약 60개정도의 빌딩에 DLWC 시스템으로 냉방을 공급하고 있다. 이 DLWC 시스템의 연혁을 다음 표 1.4에 나타내었다.",
+    "blockRange": [
+      369,
+      370
+    ],
+    "page": 37
+  },
+  {
+    "id": "c0096",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "다. 캐나다 Enwave社 Deep Lake Water Cooling System"
+    ],
+    "text": "**표 1.4 DLWC 시스템의 연혁**\n\n| 연도 | 발생 |\n| --- | --- |\n| 1988 | 토론토가 처음으로 세계 온난화 컨퍼런스를 개최 |\n| 1991 | 토론토는 기후변화에 대응하는 기관을 설립한 최초의 도시로 선정 |\n| 1997 | - 심층호수냉방(DLWC)에 대한 환경영향평가를 시작<br>- Toronto District Heating Corporation(TDHC)은 재정개편을 시작 |\n| 1998 | 심층호수냉방(DLWC)에 대한 환경영향평가가 완료 |\n| 1999 | 토론토지역난방공사(TDHC)를 Enwave社(민간회사로서 토론토市와<br>Borealis Penco社(온타리오공무원 연금공단(OMERS) 독자소유 자회사)의<br>공동소유)로 인가 |\n| 2000 | Enwave社가 심층호수냉방(DLWC)에 대한 2단계 연구를 시작 |\n| 2002 | 시공을 시작 |\n| 2003 | - 호수에 흡입구(intakes)를 설치<br>- 개폐장치(switch gear), 제어장비(control systems), 열전도기(heat<br>transfers), 펌프 등을 포함하여 추가적인 장비들을 설치 |\n| 2004 | Enwave社가 고객들에게 심층호수냉방(DLWC) 공급을 시작 |\n| 2006 | 시청건물이 심층호수냉방(DLWC)시스템에 연결 |\n| 2007 | 고객들의 증가로 60여개의 빌딩들이 연결<br>(추정 시스템 용량 : 건물면적 3,000만 제곱피트) |\n| 2009 | 2009년 코펜하겐 기후 市長 정상회담(12월 14\\~17일)에서<br>심승호수냉방(DLWC)시스템이 주제논의 됨 |",
+    "blockRange": [
+      371,
+      371
+    ],
+    "page": 38,
+    "table": {
+      "rows": 13,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0097",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "다. 캐나다 Enwave社 Deep Lake Water Cooling System"
+    ],
+    "text": "그림 1.11에 나타낸 DLWC시스템의 구성을 보면 온타리오 호숫가에서 5km 떨어진 곳에서 수심 83m에서 3개의 흡입 HDPE 파이프를 이용하여 연평균 온도 섭씨 4도 정도의 물을 끌어올려서, 토론토市의 정수장에서 정수처리를 하게 된다. 이와 같은 정수처리과정에서 토론토市는 상수도에 추가적인 열 공급을 하지 않고 있으므로, 토론토 시민들은 연중 섭씨 4도의 차가운 상수를 공급 받고 있었다. 이와 같은 냉수를 이용하여 55 John Street에 위치한 Enwave社의 Energy Transfer Station(ETS)에서 상수도의 냉기를 Enwave社의 냉방시스템에 폐회로를 이용 열 교환에 의해 냉기를 공급 받고 있다. 폐회로 시스템으로 운영되기 때문에 상수도물에 대한 오염은 발생하지 않으며, 만약에 있을 열교환기의 부식이 있을 가능성에 대비하여 Enwave社의 냉방시스템은 상수도의 수압보다 낮게 운영하고 있다. 지하수를 이용하는 Lake Water Cooling 시스템과는 다르게, Enwave社 의 공급냉수는 식수를 직접 사용하고 있어서 청소와 같은 유지관리의 필요가 많지 않으며, 또한 Enwave社의 냉방시스템에 사용되는 물 또한 식수로 사용가능할 정도로 깨끗하고 이에 따른 청소도 pH레벨과 필터를 이용하여 유지관리를 하고 있다. 만약을 대비하여 문제가 발생할 경우, 전체적인 시스템을 셧-다운 시키지만 Simcoe Street Cooling Plant를 가동하여 고객들에게 지속적인 냉방을 공급 가능케 하고 있다. 하절기에 상수도물의 온도상승에 따른 추가적인 냉방이 필요한 경우에 John Street의 열 교환센터(ETS)의 3대의 냉각기를 이용하며, 이 보완작업이 수요에 미치지 못할 경우 Simcoe Street Cooling Plant를 이용하여 운영이 가능하다. Enwave社에서 사용하고 있는 냉각기들은 백업용 냉각탑을 구성하지 않고, 오직 Enwave社 의 냉방시스템을 이용하고 있다.\n\n그림 1.11. DLWC시스템 구성\n\nDLWC시스템 이용으로 온타리오 호수 자연 상태의 낮은 온도를 이용하여, Enwave社는 토론토 시내의 2900만 제곱피트규모의 고층빌딩들에 냉방을 공급하여서 기존의 냉방시설에 대비하여 전력사용량을 90% 줄여 79,000톤의 이산화탄소배출을 줄이게 되었다. 전력사용량의 감소로 온타리오 전력망에서 61㎹ 이상은 다른 곳에 사용 가능하게 되어, 전력부하에 부담이 줄게 되었다. 게다가 오존파괴 냉매제(CFC's와 HCFC's)를 줄이게 되었고 79,000톤의 이산화탄소가 공기 중에서 제거 되었는데 이는 15,800대의 차량을 도로에서 사라진 것과 같다. 또한 연간 이산화황 배출량은 318톤이 절감, 연간 이산화질소 배출량은 145톤이 절감되었다. DLWC시스템을 공급받는 빌딩들은 심한 에너지가격 변동위험에 노출되어 있지 않으며 추후 전력요금이 올라가는 것에 대한 우려를 종식 시킬 수 있다. 고객들은 CFC규제 법률들이 증가하는 상황에서 CFC를 사용하지 않는 냉방기술인 DLWC시스템을 통해 규제를 피할 수 있게 되었다. 냉방시스템에 사용되는 물은 온타리오 호수 깊은 아래에서 끌어 쓰므로 도시에 더 깨끗하고 안락한 식수를 공급할 수도 있다. DLWC시스템은 기존의 냉각기, 환풍기와 냉각타워(cooling towers)에서 발생하던 도심의 소음, 공해 및 습도를 줄일 수 있을 뿐만 아니라 냉각탑 대체효과 연간 7,000톤으로 수자원을 절약하였고 전력 송출망 및 지역 송배전망을 포함하여 전력 인프라의 부담을 줄일 수 있다. 그 림 1.12은 토론토의 DLWC 모식도를 간략히 나타낸 것이다.\n\n\n![image](image_018.png)\n\n그림 1.12 토론토 DLWC 모식도",
+    "blockRange": [
+      372,
+      376
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0098",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례"
+    ],
+    "text": "- 라. 프랑스 Paris District Cooling System",
+    "blockRange": [
+      377,
+      377
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0099",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "라. 프랑스 Paris District Cooling System"
+    ],
+    "text": "1991년부터 파리 시로부터 사업 운영권을 받은 CLIMESPACE는 파리 지역 냉각 네 트워크를 지속적으로 개발 중이고 건축에 통합되어 완전히 보이지 않는 냉각 에너지 생산 플랜트는 호텔, 백화점, 사무실, 주 건물, 박물관 또는 극장의 냉각 요구사항을 충족하고 있다. 사무실은 Allianz, AXA, BNP Paribas, Constructa, Credit Lyonnais, Gecina, Generali, Groupama, Natixis, Scor or SFL, 상점 및 백화점은 Beaugrenelle, the Carrousel du Louvre, the Forum des Halles and Galeries Lafayette, 박물관 및 극장은 루브르, the Musee du quai Branly, the Musee Grevin, the City of Music, Olympia, Salle Pleyel or the Philharmonie 럭셔리 호텔은 The Bristol, George V, Peninsula, Meurice, and Plaza Athenee, 공공건물은 국회, 국방부, 생태부, 파리시청 등에 파리 지역 냉각 시스템을 공급하고 있다.\n\n\n![image](image_019.png)\n\n그림 1.13에 나타낸 파리 지역 냉각 시스템은 센강에서 취수 후 열 교환을 통해 건축물에 냉방에너지를 공급하여 에너지 절약, 지역 천연 자원 사용 등 독립형 에어컨 시스템에 비해 많은 이점을 제공한다. 이러한 집단적 시스템들은 지역적 필요와 상황에 적응함으로써 환경과 삶의 질을 보호하면서 건물을 시원하게 할 수 있다.\n\n그림 1.13 파리 지역 냉각 시스템 구성\n\n에너지 저장소에서는 피크 시간 동안 냉방을 공급하기 위해 기계의 사용을 제한하고 공장으로 지속적인 냉방을 공급하며, 에너지 자동 전달소에서는 냉방을 각 건물의 1차 네트워크에서 2차 네트워크로 전송한다.\n\n제어실에서는 장비에 대한 원격 감시와 중앙집중화 된 시스템을 모니터링하며, 며생산플랜트에서는 냉방 에너지를 생성하고 생산 장비에 의해 발생하는 열은 냉각탑이나 강, 바다 또는 호수와 같은 지역 수자원에 배출된다.\n\nFREE COOLING은 생산기계를 냉각하기 위해 지역 수자원으로부터의 직접 자연냉각시킨다. 센 강에서 나오는 물의 자연적인 낮은 온도를 사용하여 1년 내내 생산 장비를 냉각한다. 가장 추운 겨울 동안 CLIMESPACE는 지역 냉각 시스템에 직접 유입되는 흐름을 사용하는 것을 \"Free cooling\"이라고 한다\n\n지역 냉방 시스템(DCS, The district cooling system)은 집단 냉방 생산 및 분배 시설로 구성된다. 이는 파리 건물의 냉방 수요를 통합하는 것이며, 이것은 에너지 효율과 기후 변화에 대응하는 지역사회를 위한 필수적인 도시계획 방안이다. 그림 1.14는 CLUMESPACE의 DCS 외에 다른 냉각 시스템과의 COP 비교를 나타낸 것이다.\n\n\n![image](image_020.png)\n\n그림 1.14 다양한 냉각 시스템의 COP 비교. (Source Ecole des Mines Study, 2003.)\n\nDCS는 에너지 관리 및 온실가스 배출 감소 정책을 시행하고자 하는 개발자들과 도시들에서 뚜렷한 성공을 거두었다. 따라서 지역 냉각 시스템은 도시 공동 개발 또는 지역 간 개발과 밀접하게 연결된 자연 인프라에 의해 이루어진다. CLIMESPACE를 사용하는 파리에서는 냉방 공장에서 냉수를 생산하고 에너지 전달 스테이션이 설치된 건물에 공급되는 파이프를 통해 분배된다. 각 건물은 자체 필요에 따라 필요한 냉방 에너지를 소비한다. DCS는 두 개의 도관이 있는 폐쇄 회로에서 작동한다. 하나는 5°C의 냉각수를 사용자에게 전달하기 위한 것이고 다른 하나는 15°C의 물을 발전소로 돌려보내기 위한 것이다. 따라서 DCS는 세 가지 기본 요소로 구성된다. : ① 플랜트 생산, ② 유통망, ③ 에너지 전달소 (ETS, energy transfer stations)\n\nCLIMESPACE 냉각수 생성 공장은 분배 회로 냉각수를 15°C에서 5°C까지 냉각하는 냉방 장치로 구성되어있는 이 공장들은 펌프, 전기 장비와 같은 장비들로 구성되어있다. CLIMESPACE 저장 시스템은 냉방 용량에 대한 대규모 수요에 쉽게 대응 가능하다. 밤시간대의 냉방 요구량은 낮보다 낮기 때문에 탱크 내 저장을 위한 냉방 에너지를 생성하기 위해 냉각 장치가 계속 작동하고 낮 동안 이 저장된 냉방은 수요 피크를 처리하는 데 사용한다. 냉방 에너지는 차가운 물 또는 얼음 두 가지 형태로 저장된다. 얼음은 동일 부피에 더 많은 에너지를 저장할 수 있기 때문에 더 유리하다. 실제 적용된 저장소들 중 Tour Maubourg의 냉각수 저장소는 주차장의 최상층에 위치해 있고 90MWh에 해당하는 12,000㎥의 냉각수를 저장하는 13개의 탱크로 구성 되어있으며 물은 3°C로 저장한다. 오페라의 경우 20 MWh에 해당하는 320㎥의 얼음 저장소를 보유하고 있다. Les Halles는 30 MWh에 해당하는 얼음 저장소를 보유하고 있다. 이 외에 CLIMESPACE의 플랜트는 Les Halles plant, The Canada plant, The Tokyo plant, The Auber plant, The Opera plant, The Etoile plant, The Bercy plant, The PNE-Philharmonie 가 있다.\n\n\n![image](image_021.png)\n\n이러한 네트워크를 갖춘 DCS의 이용으로 그림 1.15에 나타낸 2002년부터 2009년까지의 자료를 보면 센강의 활용도가 냉방에너지 공급율 8%에서 83%로 증가하였고 해당 연도의 7년간 112GWh에 달하는 전력이 절감하였고 냉각탑의 대체로 수자원 3,000,000톤이 절감하였으며 온실가스 이산화탄소 56,153톤이 절감되었다. CLIMSPACE 회사 홈페이지의 자료에 의하면 CLIMESPACE dry cooling system을 파리에서 독립 실행 형 설비(stand-alone system)의 동급 모델과 비교하였을 때 에너지 효율은 50% 증가하였고, 전력 소비량은 35% 절감, 이산화탄소 배출량은 50% 절감, 물 소비량은 65% 절감 그리고 화학 제품은 80%나 감소하였다.\n\n그림 1.15. 2002년부터 2009년까지 7년간의 센강의 활용도와 에너지 절감\n\n하천수를 활용한 도시 냉난방 공급의 선진사례 조사를 위해 2019년 7월 Climespace를 방문하였으며, Climespace는 ENGIE(78% GDF SUEZ Energy Services and 22% CPCU)의 자회사로 전 세계 가장 큰 냉방 시스템 중 하나를 운영 및 개발하고 ENGIE의 냉방 시스템 프로젝트를 전문으로 하는 기업이다.\n\nClimespace는 1991년부터 파리 시로부터 사업 운영권을 받아 파리 지역의 냉각 네트워크를 지속적으로 개발하고 있으며, 현재 10개의 생산 사이트와 3개의 저장 사이트를 운영중이다. 75km의 네트워크를 통해 약 700개 빌딩에 451.6 GWh/year, 600만 m2의 냉방을 제공하며 주요 고객은 루브르 박물관, 국회, 파리시청 등이다.\n\n설비현황은 하천수 활용한 냉방시스템이 3개(148MW), 전기 냉방시스템이 5개(131MW) 보유하고 있으며, 금번 방문시 Bercy plant(44MW)를 방문하였다. 하천수 취수를 위한 수중펌프와 순환을 위한 원심펌프를 사용하고 있으며, 85% 이상의 효율로 운영중이다. 열관로 및 플랜트관로는 모두 알루미늄으로 절연되어 있어 열손실은 5% 미만으로 발생한다. 열원은 센강으로 표증에서 3\\~4m 지점에서 취수하여, 1\\~5.5℃ 수온을 사용하고 있다. 설비의 점검정비는 자체적으로 팀을 구성하여 재산 분기점까지 수행하고 있으며, 전기요금 대비 120%로 냉방을 공급하고 있으나 유지 보수, 보험, 잠재위험 등을 고려하였을 때 경쟁력이 있어 고객이 꾸준히 증가하고 있는 추세이다.\n\n\n![image](image_022.png)",
+    "blockRange": [
+      378,
+      396
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0100",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례"
+    ],
+    "text": "- 마. 서울 제2롯데월드",
+    "blockRange": [
+      397,
+      397
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0101",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "③ 팽창 과정 ( 3 → 4 )",
+      "1.2.3 하천수를 활용한 수열에너지시스템 사례",
+      "마. 서울 제2롯데월드"
+    ],
+    "text": "K-water와 ㈜롯데물산이 공동개발을 했던 사업으로 수열원은 수도권 광역1단계 원수(50,000 ㎥/d)를 이용하였고 용량은 전체부하의 10%에 달하는 3,000RT, 건설 기간은 시운전 기간을 포함하여 2011년도 3월부터 2014년 10월까지다. 그리고 2014년 11월1일부터 20년간 운영하게 된다. 수축열 시스템에 의해 심야 전력으로 히트 펌프를 가동시켜 얻은 냉온열을 일종의 물 저장탱크인 축열조(9,300㎖)에 저장했다가 주간 냉난방에 사용한다. 그림 1.16에는 수열에너지 공급 계통도를 나타냈다.\n\n그림 1.16 제2롯데월드 수열에너지 공급 계통도\n\n그림 1.17 수열에너지 시스템 히트펌프 설치 모습\n\n\n![image](image_023.png)\n\n\n![image](image_024.png)",
+    "blockRange": [
+      398,
+      402
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0102",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## 1.3 수열에너지시스템 성능시험",
+    "blockRange": [
+      403,
+      403
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0103",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험"
+    ],
+    "text": "### 1.3.1 성능시험 기준",
+    "blockRange": [
+      404,
+      404
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0104",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준"
+    ],
+    "text": "- 가. 국내표준규격 (KS B ISO 13256-1)",
+    "blockRange": [
+      405,
+      405
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0105",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "가. 국내표준규격 (KS B ISO 13256-1)"
+    ],
+    "text": "“KS B ISO 13256-1 수열원 열펌프 - 성능 시험 및 평가 – 제 1부 : 물-공기와 브라인-공기 열펌프”는 공장에서 만드는 주택용, 상업용, 공업용, 전기 운전식, 기계적 압축식, 물-공기와 브라인-공기의 열 펌프에 대한 성능 시험과 평가에 대해 규정하는 표준이다. 냉방 용량과 난방 용량을 결정하기 위한 시험 조건은 아래 표와 같으며, 시험을 위해서는 평형 상태에 도달하기 전까지 장비는 연속적으로 운전되어야 하며 최소한 1시간 가동 후 기록되어야 한다.",
+    "blockRange": [
+      406,
+      406
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0106",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "가. 국내표준규격 (KS B ISO 13256-1)"
+    ],
+    "text": "**표 1.5 냉방 용량의 측정을 위한 시험 조건들**\n\n|  | 물 순환식<br>열펌프 | 지표수 열펌프 | 지면 순환식<br>열펌프 |\n| --- | --- | --- | --- |\n| 실내로 들어가는 공기 |  |  |  |\n| - 건구 온도 | 27℃ | 27℃ | 27℃ |\n| - 습구 온도 | 19℃ | 19℃ | 19℃ |\n| 주위 공기 온도(건구) | 27℃ | 27℃ | 27℃ |\n| 표준 등급 시험<br>열교환기로 들어가는 액체 | 30℃ | 15℃ | 25℃ |\n| 부분 부하 등급 시험<br>열교환기로 들어가는 액체 | 30℃ | 15℃ | 20℃ |\n| 진동수\\* | 정격 | 정격 | 정격 |\n| 전압 | 정격 | 정격 | 정격 |",
+    "blockRange": [
+      407,
+      407
+    ],
+    "page": 45,
+    "table": {
+      "rows": 9,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0107",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "가. 국내표준규격 (KS B ISO 13256-1)"
+    ],
+    "text": "\\* 1) 이중 정격 진동수를 가진 기계는 각 진동수마다 시험한다.",
+    "blockRange": [
+      408,
+      408
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0108",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준"
+    ],
+    "text": "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다.",
+    "blockRange": [
+      409,
+      409
+    ],
+    "page": 45
+  },
+  {
+    "id": "c0109",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "난방 용량의 측정을 위한 시험 조건들은 다음 표 1.6에 나타내었다.",
+    "blockRange": [
+      410,
+      410
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0110",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "**표 1.6 난방 용량의 측정을 위한 시험 조건들**\n\n|  | 물 순환식<br>열펌프 | 지표수 열펌프 | 지면 순환식<br>열펌프 |\n| --- | --- | --- | --- |\n| 실내로 들어가는 공기 |  |  |  |\n| - 건구 온도 | 20℃ | 20℃ | 20℃ |\n| - 습구 온도 | 15℃ | 15℃ | 15℃ |\n| 주위 공기 온도(건구) | 20℃ | 20℃ | 20℃ |\n| 표준 등급 시험<br>열교환기로 들어가는 액체 | 20℃ | 10℃ | 0℃ |\n| 부분 부하 등급 시험<br>열교환기로 들어가는 액체 | 20℃ | 10℃ | 5℃ |\n| 진동수\\* | 정격 | 정격 | 정격 |\n| 전압 | 정격 | 정격 | 정격 |",
+    "blockRange": [
+      411,
+      411
+    ],
+    "page": 46,
+    "table": {
+      "rows": 9,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0111",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "\\* 1) 이중 정격 진동수를 가진 기계는 각 진동수마다 시험한다.",
+    "blockRange": [
+      412,
+      412
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0112",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준"
+    ],
+    "text": "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다.",
+    "blockRange": [
+      413,
+      413
+    ],
+    "page": 46
+  },
+  {
+    "id": "c0113",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "최대 냉방, 난방 시험 조건들을 표 1.7과 1.8에, 최소 냉방, 난방 시험 조건들을 표 1.9, 1.10에 정리하였다.",
+    "blockRange": [
+      414,
+      414
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0114",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "**표 1.7 최대 냉방 시험 조건들**\n\n|  | 물 순환식<br>열펌프 | 지표수 열펌프 | 지면 순환식<br>열펌프 |\n| --- | --- | --- | --- |\n| 실내 측 들어가는 공기 |  |  |  |\n| - 건구 온도 | 32℃ | 32℃ | 32℃ |\n| - 습구 온도 | 23℃ | 23℃ | 23℃ |\n| 주위 공기 온도(건구) | 32℃ | 32℃ | 32℃ |\n| 열교환기로 들어가는 액체 | 40℃ | 25℃ | 40℃ |\n| 진동수 | 정격 | 정격 | 정격 |\n| 전압 |  |  |  |\n| - 단일 명판 평가 장비 | 정격 전압의<br>90%와 110% | 정격 전압의<br>90%와 110% | 정격 전압의<br>90%와 110% |\n| - 이중 명판 전압 장비 | 최솟값의 90%와<br>최댓값의 110% | 최솟값의 90%와<br>최댓값의 110% | 최솟값의 90%와<br>최댓값의 110% |",
+    "blockRange": [
+      415,
+      415
+    ],
+    "page": 47,
+    "table": {
+      "rows": 10,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0115",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "**표 1.8 최대 난방 시험 조건들**\n\n|  | 물 순환식<br>열펌프 | 지표수 열펌프 | 지면 순환식<br>열펌프 |\n| --- | --- | --- | --- |\n| 실내 측 들어가는 공기 |  |  |  |\n| - 건구 온도 | 27℃ | 27℃ | 27℃ |\n| 주위 공기 온도(건구) | 27℃ | 27℃ | 27℃ |\n| 열교환기로 들어가는 액체 | 30℃ | 25℃ | 25℃ |\n| 진동수 | 정격 | 정격 | 정격 |\n| 전압 |  |  |  |\n| - 단일 명판 평가 장비 | 정격 전압의<br>90%와 110% | 정격 전압의<br>90%와 110% | 정격 전압의<br>90%와 110% |\n| - 이중 명판 전압 장비 | 최솟값의 90%와<br>최댓값의 110% | 최솟값의 90%와<br>최댓값의 110% | 최솟값의 90%와<br>최댓값의 110% |",
+    "blockRange": [
+      416,
+      416
+    ],
+    "page": 47,
+    "table": {
+      "rows": 9,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0116",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "**표 1.9 최소 냉방 시험 조건들**\n\n|  | 물 순환식<br>열펌프 | 지표수 열펌프 | 지면 순환식<br>열펌프 |\n| --- | --- | --- | --- |\n| 실내 측 들어가는 공기 |  |  |  |\n| - 건구 온도 | 21℃ | 21℃ | 21℃ |\n| - 최대 습구 온도 | 15℃ | 15℃ | 15℃ |\n| 주위 공기 온도(건구) | 21℃ | 21℃ | 21℃ |\n| 열교환기로 들어가는 액체 | 20℃ | 10℃ | 10℃ |\n| 진동수 | 정격 | 정격 | 정격 |\n| 전압 | 정격 | 정격 | 정격 |",
+    "blockRange": [
+      417,
+      417
+    ],
+    "page": 48,
+    "table": {
+      "rows": 8,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0117",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "**표 1.10 최소 난방 시험 조건들**\n\n|  | 물 순환식<br>열펌프 | 지표수 열펌프 | 지면 순환식<br>열펌프 |\n| --- | --- | --- | --- |\n| 실내 측 들어가는 공기 |  |  |  |\n| - 습구 온도 | 15℃ | 15℃ | 15℃ |\n| 주위 공기 온도(건구) | 15℃ | 15℃ | 15℃ |\n| 열교환기로 들어가는 액체 | 15℃ | 5℃ | -5℃ |\n| 진동수 | 정격 | 정격 | 정격 |\n| 전압 | 정격 | 정격 | 정격 |",
+    "blockRange": [
+      418,
+      418
+    ],
+    "page": 48,
+    "table": {
+      "rows": 7,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0118",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "2) 이중 정격 전압을 가진 기계는 다만 1개의 등급이 공표되었을 때 전압 둘 다 또는 2개의 전압 중에 낮은 것으로 시험한다."
+    ],
+    "text": "총 냉방·난방 능력은 액체 엔탈피 시험과 실내 공기 엔탈피 시험 방법 또는 선택적으로 덕트 없는 장비를 위한 열량계 방법을 사용해 얻은 결과의 평균이여야 한다. 실내 공기 엔탈피 시험 방법의 경우 용량은 들어오고 나가는 습구·건구 온도와 관련된 공기 유량의 측정으로부터 결정된다. 엑체 엔탈피 시험 방법에서 용량은 액체 온도 변화와 관련된 유량의 측정으로부터 결정된다. 덕트 없는 장비를 위해서는 냉방모드의 경우 열의 입력과 응축수를 측정하여 장치의 냉각 효과와 제습효과를 구하며, 난방 모드의 경우 방에서 제거되는 열의 측정값으로부터 구할 수 있다.",
+    "blockRange": [
+      419,
+      419
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0119",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준"
+    ],
+    "text": "- 나. 국제표준규격 (EN 14511-2)",
+    "blockRange": [
+      420,
+      420
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0120",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "나. 국제표준규격 (EN 14511-2)"
+    ],
+    "text": "“EN 14511-2 에어컨, 액체 냉각 패키지 및 냉난방용 전기 구동 식 압축기 열펌프\n\n– 제 2부: 시험조건”의 내용 중 정격시험을 위해 냉・난방모드에서 적용할 시험 조건들을 표로 정리 하였다(표 1.11, 1.12)",
+    "blockRange": [
+      421,
+      422
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0121",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "나. 국제표준규격 (EN 14511-2)"
+    ],
+    "text": "**표 1.11 냉방 시, 시험 조건들**\n\n|  |  | 실외기 |  | 실내기 |  |\n| --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입구(건구) | 입구(습구) |\n| 표준<br>정격 조건 | 안정 | 30℃ | 35℃ | 27℃ | 19℃ |\n| 표준<br>정격 조건 | 제어실 | 15 | 20℃ | 35℃ | 24℃ |\n| 표준<br>정격 조건 | 근접제어 | 30℃ | 35℃ | 24℃ | 17℃ |\n| 적용<br>정격 조건 | 안정 | 15℃ | \\* | 27℃ | 19℃ |\n| 적용<br>정격 조건 | 안정 | 40℃ | \\* | 27℃ | 19℃ |\n| 적용<br>정격 조건 | 근접제어 | 15℃ | \\* | 21℃ | 15℃ |\n| 적용<br>정격 조건 | 근접제어 | 40℃ | \\* | 24℃ | 17℃ |",
+    "blockRange": [
+      423,
+      423
+    ],
+    "page": 49,
+    "table": {
+      "rows": 9,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0122",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "나. 국제표준규격 (EN 14511-2)"
+    ],
+    "text": "\\* 해당 표준 정격 조건에서 시험 중 얻은 유량에서 실시",
+    "blockRange": [
+      424,
+      424
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0123",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "나. 국제표준규격 (EN 14511-2)"
+    ],
+    "text": "**표 1.12 난방 시, 시험 조건들**\n\n|  |  | 실외기 |  | 실내기 |  |\n| --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입구(건구) | 입구(습구) |\n| 표준<br>정격 조건 | 물 | 15℃ | 12℃ | 20℃ | 15℃<br>(max) |\n| 표준<br>정격 조건 | 브라인 | 0℃ | -3℃ | 20℃ | 15℃<br>(max) |\n| 표준<br>정격 조건 | 물 순환 | 20℃ | 17℃ | 20℃ | 15℃<br>(max) |\n| 적용<br>정격 조건 | 물 | 10℃ | \\* | 20℃ | 15℃<br>(max) |\n| 적용<br>정격 조건 | 브라인 | 5℃ | \\* | 20℃ | 15℃<br>(max) |\n| 적용<br>정격 조건 | 브라인 | -5℃ | \\* | 20℃ | 15℃<br>(max) |",
+    "blockRange": [
+      425,
+      425
+    ],
+    "page": 50,
+    "table": {
+      "rows": 8,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0124",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.1 성능시험 기준",
+      "나. 국제표준규격 (EN 14511-2)"
+    ],
+    "text": "\\* 해당 표준 정격 조건에서 시험 중 얻은 유량에서 실시",
+    "blockRange": [
+      426,
+      426
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0125",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험"
+    ],
+    "text": "### 1.3.2 히트펌프 성능분석 사례",
+    "blockRange": [
+      427,
+      427
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0126",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.2 히트펌프 성능분석 사례"
+    ],
+    "text": "- 가. Refrigerant-based measurement method of heat pump seasonal performances\n\n(1) 요약문",
+    "blockRange": [
+      428,
+      429
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0127",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.2 히트펌프 성능분석 사례",
+      "(1) 요약문"
+    ],
+    "text": "공기-공기 히트펌프 성능분석과 관련하여 신뢰할만한 측정 방법이 없어 본 연구에서는 히트펌프 냉매 측 측정을 기반으로 시험을 수행하였다. 냉매 유량 측정을 위해 두 개의 Coriolis 질량유량계를 사용하였다. 본 방법은 시험실 조건에서 공기-물 히트펌프 성능을 측정하였으며, 이를 물 측 엔탈피와 비교하여 타당성을 검증하였다.",
+    "blockRange": [
+      430,
+      430
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0128",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.2 히트펌프 성능분석 사례"
+    ],
+    "text": "(2) 성능분석",
+    "blockRange": [
+      431,
+      431
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0129",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.2 히트펌프 성능분석 사례",
+      "(2) 성능분석"
+    ],
+    "text": "히트펌프 성능분석을 위한 공기-물 히트펌프 시스템을 아래 그림과 같이 구성하였다. 실외기는 Climate chamber에 설치되었으며, 실내기는 다른 방에 설치하였다. 두 개의 Coriolis 질량 유량계는 실외기와 실내기 사이에 설치되었으며, 하나는 냉매 discharge line에 설치하여 유량을 측정하고 다른 하나는 liquid line에 설치하여 냉매 밀도를 측정하였다. 또한 응축기(Condenser) 입구, 출구에서 냉매 압력과 온도를 측정하였다. 물 측에서는 물의 유량과 입, 출구 측 온도를 측정하였다.\n\n그림 1.18 시스템 구성\n\n물 측에서 발생되는 난방능력은 아래 식과 같다.\n\n$Q_{w}=q_{w}\\rho _{w}c_{p,w}(T_{w,ex}-T_{w,su})$\n\n위 식에서 q는 유량, w는 물을 의미한다.\n\n응축기 입구 측에서 냉매 엔탈피는 온도와 압력으로부터 구할 수 있으며 아래 식과 같이 엔탈피 차를 이용하여 난방능력을 구할 수 있다.\n\n$Q_{m}=m_{m}[(1-Cg)(h_{r,su}-h_{r,ex})+Cg(h_{oil,su}-h_{oil,ex})]$\n\n정상상태(Steady state)에서는 냉매 측과 물 측의 난방 능력이 동일해야 한다. 아래 그림 1.19는 양측에서 측정된 난방 능력에 대한 비교를 나타낸다.\n\n\n![image](image_025.png)\n\n그림 1.19 정상상태에서의 냉매 엔탈피 측정에 대한 검증\n\n냉매 측의 난방능력과 물 측의 난방능력의 차이는 ±2σ로 이는 95% 신뢰 구간을 나타낸다.",
+    "blockRange": [
+      432,
+      442
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0130",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3 수열에너지시스템 성능시험",
+      "1.3.2 히트펌프 성능분석 사례"
+    ],
+    "text": "- 나. 증기 분리 식 예냉 증기압축 냉동 사이클의 성능 특성 연구",
+    "blockRange": [
+      443,
+      443
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0131",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## (1) 요약문",
+    "blockRange": [
+      444,
+      444
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0132",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "증기 압축식 냉동 사이클은 압축기, 응축기, 팽창장치, 증발기 등으로 구성되며, 냉동기 용량에 따라 많은 전기 에너지가 소비되므로 지속적인 에너지 절약의 노력을 필요로 한다. 증기 압축식 냉동 사이클에서 팽창과정 중 발생하는 냉매 기체는 증발기 내부에서 냉동효과를 제공하지 못하며, 액체만이 기체로 상태가 바뀌면서 냉동 역할을 수행한다. 그러므로 본 연구에서는 증발기 유입 전에 기체 냉매를 분리하는 새로운 2단 팽창 사이클을 고안하여 성능계수 향상 효과를 분석하였다.\n\n분석 결과, 증기 분리 식 예냉 냉동 사이클은 중간 팽창 압력 5 bar에서 현재 사이클 대비 약 30 % 이상의 성능 향상을 보였다. 비교 기준 사이클은 가정용 R-134a 냉장고 냉동 공간으로 고압은 10.166bar, 예냉이 5℃된 응축온도 35℃, 그리고 저압은 1.064bar, -25℃를 기준하였다. 또한, 증기 분리 2단 팽창 사이클 경우 증발기 내부에 흐르는 냉매 질량유량흐름이 15 \\~ 20%가 감소하게 되어 증발기의 규격이 크게 감소하게 되었다.\n\n\n![image](image_026.png)\n\n(2) 성능분석",
+    "blockRange": [
+      445,
+      448
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0133",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "(2) 성능분석"
+    ],
+    "text": "효율 향상 효과를 분석하기 위하여 다양한 냉동기 중 대표적으로 냉장고의 냉동 공간을 기준하였으며 냉매는 R-134a로 하여 분석하였다. 해석에 적용 기준한 온도로는 저압 측 증발기 온도 –25 ℃, 고압 측 응축 포화온도 40 ℃, 과냉각 5 ℃, 질량유량흐름은 1 kg/s로 하여 증기 분리 식 2단 팽창 냉동사이클의 효율 향상과 성능에 미치는 인자들을 파악하고 분석하였다. 모든 공정 해석은 열손실과 압력손실이 없는 이론적 사이클로 기준하여 해석하였고 열역학 물성 값은 REFPROP을 사용하여 산정하였다. 다음 그림 1.20에는 차냉각 응결온도에 따른 증기 분리 예냉 2단계 팽창 사이클의 COP변화를 나타내었다.\n\n그림 1.20 차냉각 온도에 따른 COP 변화",
+    "blockRange": [
+      449,
+      450
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0134",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "- 다. 고효율 열펌프에서 HFC와 탄화수소로 구성된 혼합냉매의 성능평가",
+    "blockRange": [
+      451,
+      451
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0135",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## (1) 요약문",
+    "blockRange": [
+      452,
+      452
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0136",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "본 연구에서는 R502를 대체하기 위해 R502를 기본으로 탄화수소계열의 자연냉매인 Propylene, Propane 순수냉매와 탄화수소와 HFC 계열냉매를 혼합한 2원 및 3원혼합매체를 REFPROP 6.0을 이용해서 선정하여 그 성능을 측정했다. 이를 위해 스크롤 압축기가 장착된 수냉식 breadboard 열펌프를 제작하였으며 증발기 냉매온도와 응축기 냉매온도를 각각 –25℃와 45℃ 조건에서 총 13가지 냉매의 성능을 측정하고 그 특성을 분석하였다.\n\nR32/R125/R134a의 3원 혼합냉매는 냉동능력과 성능계수가 각각 5.9%, 12.8% 감소하므로 대체냉매로 적합하지 않다고 판명되었다. 마지막으로 Propylene/Propane\n\n\n![image](image_027.png)\n\n2원혼합 냉매의 경우는 Propylene의 조성이 큰 경우가 0.9%의 성능계수 향상과 2.7%의 냉동능력 향상을 가져왔다.\n\n(2) 성능분석",
+    "blockRange": [
+      453,
+      457
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0137",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "(2) 성능분석"
+    ],
+    "text": "지구온난화의 원인이며 오존층을 파괴시키는 R502를 효과적으로 대체하기 위해서는 염소를 포함하지 않는 HFC 냉매를 사용하거나 자연냉매를 사용해야만 한다. 이를 위해 본 연구에서는 R32, R125, R143a, R134a, R152a 등의 HFC 계열의 냉매들과 Propane, Propylene 등의 탄화수소계열의 순수냉매를 사용하여 ‘Drop-in 대체’가 가능한 혼합냉매를 선정했다. 실험에 앞서 혼합냉매의 조성비를 정확하게 정하기 위해 미국표준연구소에서 개발한 혼합냉매의 물성치 계산프로그램인 REFPROP 6.0을 이용하여 먼저 공조기 사이클 프로그램을 만들었고 이를 바탕으로 다양한 혼합냉매의 성능을 예측했다.",
+    "blockRange": [
+      458,
+      458
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0138",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "- 다. 인버터 주파수 제어에 따른 CO2용 수냉식 열펌프의 성능 특성",
+    "blockRange": [
+      459,
+      459
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0139",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## (1) 요약문",
+    "blockRange": [
+      460,
+      460
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0140",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "본 논문은 압축기 인버터 주파수 제어에 따른 CO2용 수냉식 열펌프의 성능 특성에 대해서 실험적으로 조사하였다. 실험 장치는 압축기, 가스냉각기, 팽창밸브, 증발기, 내부 열교환기, 수액기로 구성된다. 실험 장치에 사용된 모든 열교환기는 동관으로 제작된 이중관식 대향류형이다. 가스냉각기와 증발기는 2.4m인 소시험부 6개와 4 개로 각각 구성된다. 실험결과를 요약하면, 우선 증발기와 가스냉각기의 입구온도와 냉매유량이 일정한 조건하에서 압축기 인버터 주파수가 증가할수록 압축비와 토출압력이 증가한다. 또한 인버터 주파수가 증가할수록 난방능력과 압축일량은 증가하는 반면 성능계수는 감소한다. 그리고 증발기 입구 2차 유체의 온도가 15℃에서 25℃로 증가함에 따라 압축비와 압축일량은 감소하지만 질량유량, 난방능력, 성능계수는 증가한다. 위의 이러한 경향은 종래의 프레온계 냉매 시스템의 성능 변화와 유사하다.\n\n(2) 성능분석",
+    "blockRange": [
+      461,
+      462
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0141",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "(2) 성능분석"
+    ],
+    "text": "CO2의 열물성치는 NIST에서 개발한 냉매물성계산 프로그램인 REFPROP를 이용하였고, CO2 열펌프 시스템의 성능 특성을 파악하기 위한 실험 데이터 분석에는 다음과 같은 수식을 이용하였다. 열펌프 시스템의 성능을 예측하는데 있어서 가스냉각기와 증발기의 난방용량과 냉방용량, 그리고 압축기 소비전력은 중요한 인자이다. 그림 1.21은 압축기 인버터 주파수 제어에 따른 난방능력, COP, 압축일량을 나타낸 것이다.\n\n그림 1.21 압축기 인버터 주파수에 따른 난방능력, COP, 압축일량",
+    "blockRange": [
+      463,
+      464
+    ],
+    "page": 54
+  },
+  {
+    "id": "c0142",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "- 라. 환경친화형 자연냉매를 이용한 초저온 냉각기술개발에 관한 연구\n\n(1) 요약문",
+    "blockRange": [
+      465,
+      466
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0143",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "(1) 요약문"
+    ],
+    "text": "초저온 냉각기에 사용되는 냉매의 경우 국제적인 환경협약 조건이 까다로워지고 이에 관하여 우리나라도 적극적으로 대체해야 한다. 본 연구는 환경적으로 무해한 자연 냉매를 사용하는 초저온용 냉각기술 개발로서 초저온 냉각 기술의 핵심은 저압 증발 측에 에탄을 냉매로 하여 작동되는 2원 냉동 시스템으로서 초저온 온도 -100℃를 구현할 수 있는 냉각기술개발로서 다음과 같은 주요 내용을 담고 있다.",
+    "blockRange": [
+      467,
+      467
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0144",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "• 초저온 구동용 2원 냉동 시스템 제작\n\n- R22 + R23 냉매에 의한 특성 자료 도출\n- R22 + R508b 냉매에 의한 특성 자료 도출\n- R22 + Ethane 냉매에 의한 특성 자료 도출\n- Ammonia + Ethane 냉매에 의한 특성 자료 도출\n\n• 초저온하의 냉동기유 특성 분석 성능 도출\n\n• 저압측 증발 압력에 대한 운전특성 선도 작성\n\n• 증발 압력에 대한 냉동성능 선도(COP)의 작성\n\n• Cascade 열교환기 제작 및 특성 실험",
+    "blockRange": [
+      468,
+      476
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0145",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "• Cascade 열교환기 제작 및 특성 실험"
+    ],
+    "text": "![image](image_028.png)",
+    "blockRange": [
+      477,
+      477
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0146",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "• 진공형 증발기의 제작 및 특성 실험\n\n• 초저온 냉각 시스템 내구성능 실험\n\n(2) 성능분석",
+    "blockRange": [
+      478,
+      480
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0147",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "(2) 성능분석"
+    ],
+    "text": "본 캐스케이드 열교환기 성능 실험에서 사용한 작동 유체 R-170과 R-717의 열 물성 값 계산은 NIST(National Institute of Standards and Technology)에서 개발한 냉매물성 계산 프로그램인 REFPROP(version 6.02)를 이용하였으며 표 1.13에는 실험 조건을 나타내었다.",
+    "blockRange": [
+      481,
+      481
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0148",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "(2) 성능분석"
+    ],
+    "text": "**표 1.13 실험 조건**\n\n| 조건 | 기준 |\n| --- | --- |\n| 냉매 | R-170, R-717 |\n| 시험 구간 | 캐스케이드 열 교환기 |\n| 질량 유량 | 100 \\~ 200 |\n| 증발 온도 Te,sat (℃) | -5, -10, -15 |",
+    "blockRange": [
+      482,
+      482
+    ],
+    "page": 56,
+    "table": {
+      "rows": 5,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0149",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "### 1.3.3 히트펌프 효율",
+    "blockRange": [
+      483,
+      483
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0150",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.3 히트펌프 효율"
+    ],
+    "text": "1.3.3.1 성능계수\n\n히트펌프 효율비교를 위해서는 일반적으로 COP가 주로 사용된다. COP란 Coefficient of Performance의 약자로 히트펌프 효율을 나타내며, 히트펌프에서 투입된 전력 대비 발생된 열량으로 계산된다.\n\n히트펌프에 입력되는 전력소비량, 생산열량(유량, 온도차)을 측정하여 투입된 전력량 대비 생산열량과 그림 1.22의 몰리에르 선도(Mollier chart)를 이용한 냉동 사이클의 계산식으로 히트펌프의 성능계수(COP: Coefficient of performance)를 산정한다.\n\n그림 1.22 몰리에르 선도\n\n1.3.3.2 냉방 시 히트펌프 성능계수\n\n냉방 시에는 히트펌프의 가스관(측정지점 “①”) 및 액관(측정지점 “③”)의 온도 및 압력을 측정하여 h1과 h3의 엔탈피 값을 R-410A냉매의 몰리에르선도(아래 그림 1.25)에서 도출하며 냉매유량을 액관에서 측정하여 냉동능력(Q2)을 산정한다. 냉동능력(Q2)을 측정된 전력(W)으로 나누어 COP를 산정하여 다음과 같이 구할 수 있다.\n\n$q_{2}($냉동효과 $)[kJkg]=h1-h3$\n\n$G($냉매순환량$)[kgs]:$ 냉매액관에서측정\n\n$Q2($냉동능력$)[kW]=G\\times q_{2}$\n\n$COPc($냉방$)=\\frac{Q_{2}}{W}$\n\n($W($전력 $)[kW]:$ 전력량계로측정)\n\n1.3.3.3 난방 시 히트펌프 성능계수\n\n난방 시에는 히트펌프의 가스관(측정지점 “②”) 및 액관(측정지점 “③”)의 온도 및 압력을 측정하여 그림 1.25와 같은 몰리에르선도에서 R-410A냉매의 h2와 h3의 엔탈피 값을 도출하고 냉매유량을 액관에서 측정하여 응축부하(Q1)을 산정한다. 응축부하(Q1)을 측정된 전력(W)으로 나누어 COP를 산정하여 다음과 같이 구할 수 있다.\n\n\n![image](image_029.png)\n\n$q_{1}($응축기의방열량$)[kJkg]=h2-h3$\n\n$G($냉매순환량$)[kgs]:$ 냉매액관에서측정 $Q_{1}($응축부하$)[kW]=G\\times q_{1}$\n\n$COP_{H}($난방$)=\\frac{Q_{1}}{W}$\n\n( $W($전력$)[kW]:$ 전력량계로측정)\n\n1.3.3.4 카르노(Carnot) 효율\n\n최대 이론적 효율은 흔히 $COP_{carnot}$ 이라고 하는데, 다음 식을 통해 계산한다.\n\n$COP_{carnotheat}=\\frac{T_{hot}}{T_{hot}-T_{cold}}$\n\n$T_{cold}$ : 냉각 저장소의 온도. [°C],\t$T_{hot}$ : 열 저장소의 온도. [°C]\n\n예를 들어 $T_{cold}$가 +7°C이고 $T_{hot}$이 87°C인 경우 $COP_{carnotheat}$ = 360K / 80K = 4.5이다.",
+    "blockRange": [
+      484,
+      506
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0151",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문"
+    ],
+    "text": "### 1.3.4 성능분석 방안",
+    "blockRange": [
+      507,
+      507
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0152",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안"
+    ],
+    "text": "1.3.4.1 성능시험 및 분석\n\n일반적으로 실험실에서의 히트펌프 성능시험은 KS 기준을 적용하나, 본 연구과제는 현장에서 운영되는 히트펌프의 효율을 측정하기 위함으로 KS 기준의 적용은 어려운 상황이다. 그러나 성능 시험의 기록자료, 성능시험 주기 및 시간 등은 KS기준을 반영 할 수 있도록 하였다. 실제 운영 중인 히트펌프의 효율은 실험실의 기준에서 수행하는 시험조건보다 악조건에서 운전되므로, 실험실에서 측정된 효율 값보다 적게 나오는 경우가 많은 것이 일반적으로 알려진 사실이다.\n\n위의 성능시험 기준에 적용하여 필요한 성능시험 기록자료, 주기 그리고 시간을 표 1.14에, 측정 지점은 그림 1.23에 나타내었다.",
+    "blockRange": [
+      508,
+      510
+    ],
+    "page": 58
+  },
+  {
+    "id": "c0153",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안"
+    ],
+    "text": "**표 1.14 적용 성능시험 기준**\n\n| 구분 | 수열에너지 | 공기열 |\n| --- | --- | --- |\n| 성능시험<br>기록자료 | • 자료가 기록된 시간<br>• 시스템의 전력소비량 [㎾]<br>• 적용한 전압 [V]<br>• 히트펌프의 냉매가스 압력 [㎪]<br>• 히트펌프의 냉매가스 온도 [℃]<br>• 히트펌프의 냉매액 압력 [㎪]<br>• 히트펌프의 냉매액 온도 [℃]<br>• 히트펌프의 냉매유량 [N㎥/h]<br>• 원수열교환기 원수의 입・출구온도[℃]<br>• 원수유량 [㎥/h] | • 자료가 기록된 시간<br>• 시스템의 전력소비량 [㎾]<br>• 적용한 전압 [V]<br>• 히트펌프의 냉매가스 압력 [㎪]<br>• 히트펌프의 냉매가스 온도 [℃]<br>• 히트펌프의 냉매액 압력 [㎪]<br>• 히트펌프의 냉매액 온도 [℃]<br>• 히트펌프의 냉매유량 [N㎥/h] |\n| 성능시험<br>주기 | • 모든 자료를 10초 간격으로 기록 |  |\n| 성능시험<br>시간 | • 최소 1일 이상 (냉・난방 별도) |  |",
+    "blockRange": [
+      511,
+      511
+    ],
+    "page": 59,
+    "table": {
+      "rows": 4,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0154",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안"
+    ],
+    "text": "|  |\n| --- |",
+    "blockRange": [
+      512,
+      512
+    ],
+    "page": 59,
+    "table": {
+      "rows": 1,
+      "cols": 1
+    }
+  },
+  {
+    "id": "c0155",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안"
+    ],
+    "text": "그림 1.23 측정지점 표시도\n\n1.3.4.2 냉매 엔탈피법에 의한 성능분석\n\n히트펌프와 실내기 사이는 냉매(R410A)의 압축, 팽창 등을 통해 열을 이동시키며, 액관 및 가스관으로 구성되어 있다. 냉매 엔탈피 차이를 활용한 열량 계산을 위해 냉매 액관에는 유량계, 온도계, 압력계를 설치하였으며 가스관에는 온도계, 압력계를 설치하였다.\n\n\n![image](image_030.png)\n\n그림 1.24 냉매 엔탈피법 성능분석을 위한 계측기기\n\n측정된 냉매의 압력, 온도로부터 엔탈피를 추출하기 위해서는 냉매에 대한 몰리에르 선도에서 확인이 가능하다.\n\n그림 1.25 냉매(R410A) 몰리에르 선도\n\n본 연구과제에서는 냉매 가스관과 액관에서 측정된 압력과 온도값을 NIST1) (National Institute of Standards and Technology)에서 개발한 냉매 물성 계산 프로그램인 REFPROP에 입력하여 히트펌프 시스템의 냉매가스 엔탈피, 냉매액 엔탈피 및 냉매밀도 등을 도출하여 측정된 냉매유량을 대입하여 COP계산을 통한 성능분석\n\n- 1\\) 1901년에 설립된, 미국 상무부(United States Department of Commerce) 기술관리국 산하에 있는 표준 기술 연구소(http://www.nist.gov/)",
+    "blockRange": [
+      513,
+      521
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0156",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안",
+      "1) 1901년에 설립된, 미국 상무부(United States Department of Commerce) 기술관리국 산하에 있는 표준 기술 연구소(http://www.nist.gov/)"
+    ],
+    "text": "![image](image_031.png)\n\n\n![image](image_032.png)\n\n을 수행하였다. REFPROP은 REFerence fluid PROPerties의 약어이며, 2)REFPROP은 NIST에서 제공하는 기준 참조 데이터를 활용하는 프로그램으로 액체, 기체 및 초임 계상을 포함한 광범위한 유체 조건에서 순수한 유체 및 혼합물의 열 물리학적 특성을 제공한다. 각 항목에 대한 단위는 표 1.15에 나타내었다.",
+    "blockRange": [
+      522,
+      524
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0157",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안",
+      "1) 1901년에 설립된, 미국 상무부(United States Department of Commerce) 기술관리국 산하에 있는 표준 기술 연구소(http://www.nist.gov/)"
+    ],
+    "text": "**표 1.15 REFPROP에서 사용되는 항목의 단위**\n\n| 구분 | 단위 |\n| --- | --- |\n| temperature | K |\n| pressure, fugacity | kPa |\n| density | mol/L |\n| composition | mole fraction |\n| quality | mole basis |\n| enthalpy, internal energy | J/mol |\n| Gibbs, Helmholtz free energy | J/mol |\n| entropy, heat capacity | J/(mol⋅K) |\n| speed of sound | m/s |\n| Joule-Thompson coefficitent | K/kPa |\n| d(p)/d(rho) | kPa⋅L/mol |\n| d2(p)/d2(rho) | kPa⋅(L/mol)2 |\n| viscosity | μPa⋅s (10-6 Pa⋅s) |\n| thermal conductivity | W/(m⋅K) |\n| dipole moment | debye |\n| surface tension | N/m |",
+    "blockRange": [
+      525,
+      525
+    ],
+    "page": 61,
+    "table": {
+      "rows": 17,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0158",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안"
+    ],
+    "text": "- 2\\)",
+    "blockRange": [
+      526,
+      526
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0159",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안",
+      "2)"
+    ],
+    "text": "https://www.nist.gov/programs-projects/reference-fluid-thermodynamic-and-transpo rt-properties-database-refprop\n\n측정값들에 대한 기록 양식과 그 측정값들을 REFPROP에 의해 분석 값들을 정리하는 양식을 표 1.16과 표 1.17에 나타내었다.",
+    "blockRange": [
+      527,
+      528
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0160",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안",
+      "2)"
+    ],
+    "text": "**표 1.16 측정값의 기록 양식**\n\n| 운전<br>모드 | 압력(kPaG) |  | 온도(℃) |  | 체적<br>유량<br>[㎥/h] | 히트펌프<br>소전<br>[kW] | 원수펌프<br>소전<br>[kW] | 브라인펌프<br>소전<br>[kW] | 계<br>소전<br>[kW] |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 운전<br>모드 | 고압 | 저압 | 액관 | 가스관 | 체적<br>유량<br>[㎥/h] | 히트펌프<br>소전<br>[kW] | 원수펌프<br>소전<br>[kW] | 브라인펌프<br>소전<br>[kW] | 계<br>소전<br>[kW] |\n|  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      529,
+      529
+    ],
+    "page": 62,
+    "table": {
+      "rows": 3,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0161",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안",
+      "2)"
+    ],
+    "text": "**표 1.17 기록값의 기록 양식**\n\n| 포화온도(℃) |  | 밀도(kg/m3) |  | 과냉/과열도 |  | 냉매건도 | 엔탈피(kJ/kg) |  |  |  | 엔탈피차<br>(kJ/kg) |  | 질량<br>유량<br>[kg/S] | COP |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 액관 | 가스관 | 액관 | 가스관 | 과냉 | 과열 | 냉매건도 | h1 | h2 | h3 | h4 | 응축 | 증발 | 질량<br>유량<br>[kg/S] | COP |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      530,
+      530
+    ],
+    "page": 62,
+    "table": {
+      "rows": 3,
+      "cols": 15
+    }
+  },
+  {
+    "id": "c0162",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "(1) 요약문",
+      "1.3.4 성능분석 방안",
+      "2)"
+    ],
+    "text": "1.3.4.3 물 측 열량계법에 의한 성능분석 방법\n\n수열원 히트펌프의 성능분석방법으로 원수배관에 유량계, 원수열교환기 입・출구에 온도계를 설치하여 원수의 열량을 산정하여 성능분석을 수행하였다. 물 측 열량계법 성능분석에 대한 모식도는 그림 1.26에 나타내었다.\n\n그림 1.26 물 측 열량계법 성능분석\n\n\n![image](image_033.png)\n\n수열시스템 물(원수)측의 유량과 온도차를 측정하여 물(원수)측의 열량을 계산하고 시스템의 전력소비량으로 나누어 COP를 산정한다. 물(원수)측은 냉방 시에는 히트펌프 시스템의 Heat sink로 시스템의 열을 흡수하여 외부로 배출하는 냉각수의 역할을 하므로 측정 후 전력소비량을 제외하여야만 냉동능력이 된다. 난방 시에는 Heat source로 시스템에 열을 공급하는 역할을 하므로 전력소비량을 더하여 난방능력을 산출한다.",
+    "blockRange": [
+      531,
+      535
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0163",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## 1.3.4.4 성능비교",
+    "blockRange": [
+      536,
+      536
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0164",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3.4.4 성능비교"
+    ],
+    "text": "히트펌프의 성능비교를 위해서는 세 가지 조건이 고려되어야 한다. 먼저, 두 시스템을 비교하기 위해서는 동일한 냉난방 능력을 기준으로 선정되어야 하며, 제조사의 기술력 차이를 최소화하기 위해 시중에서 판매되고 있는 동일 제조사의 수열 히트펌 트와 공기열 히트펌프를 선정해야 한다. 그리고 실내온도 및 외기온도 조건에 따라 시스템 효율이 변하므로 실내온도와 외기온도 조건이 유사한 조건에서 비교하는 것이 바람직하다. 마지막으로 실내온도와 외기온도 조건이 상이한 경우 각 시스템의 측정데이터를 분석하여 보정한다.\n\n시스템의 성능비교하기에 앞서 세 가지 조건을 고려해야한다. 먼저, 두 시스템을 비교하기 위하여 동일한 용량을 기준을 선정했으며 시중에서 판매되고 있는 동일 제조사의 수열히트펌프와 공기열 히트펌프를 선정한다. 그리고 실내온도 조건 및 외기온도 조건에 따라 시스템의 효율이 변화하므로 실내온도 조건과 외기온도 조건이 동일한 조건에서 비교한다. 마지막으로 실내온도 설정조건과 외기조건이 상이한 경우 각 시스템의 측정데이터를 분석하여 보정한다. 각 시스템의 비교는 표 1.18에, 수열원, 공기열 히트펌프 시스템 개념도를 그림 1.27, 그림 1.28에 나타내었다.",
+    "blockRange": [
+      537,
+      538
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0165",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3.4.4 성능비교"
+    ],
+    "text": "**표 1.18 시스템의 비교**\n\n| 구 분 | 수열원 히트펌프 | 공기열 히트펌프 | 비 고 |\n| --- | --- | --- | --- |\n| Heat Source | 하천수 | 공기 | 동절기 |\n| Heat Sink | 하천수 | 공기 | 하절기 |\n| 냉・온열 공급 | 공기 | 공기 |  |\n| 에너지원 | 전기 | 전기 |  |",
+    "blockRange": [
+      539,
+      539
+    ],
+    "page": 63,
+    "table": {
+      "rows": 5,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0166",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "1.3.4.4 성능비교"
+    ],
+    "text": "그림 1.27 수열원 히트펌프 시스템 개념도\n\n그림 1.28 공기열 히트펌프 시스템 개념도\n\n시스템 성능비교는 동일한 외기조건에서 측정된 자료로 산정된 히트펌프 소비전력 및 COP를 비교하거나 수열원 히트펌프 및 공기열 히트펌프의 제조사에서 제공하는 성능시험 데이터와 비교하는 방법이 있다.\n\n\n![image](image_034.png)\n\n\n![image](image_035.png)\n\n2. 수열에너지시스템 구축",
+    "blockRange": [
+      540,
+      545
+    ],
+    "page": 64
+  },
+  {
+    "id": "c0167",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## 2.1 실증 대상지",
+    "blockRange": [
+      546,
+      546
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0168",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지"
+    ],
+    "text": "하천수 수열을 활용한 냉난방 시스템 구축 대상지로 K-water에서 수행하고 있는 부산 에코델타시티 내 에코필터링 테스트베드를 선정하였다. 에코필터링 테스트베드는 근처의 평강천을 취수하여 자연 정화기능을 거쳐 다시 평강천으로 방류함으로써 하천수질 개선을 위한 친환경수처리 설비이다. 주요모듈은 저류지, 조류매트, 천변습지, 천변여과, 저류수조로 구성되어 있다. 테스트베드에는 연구활동과 교육‧세미나 및 홍보공간을 위해 구축되어 있는 연구교육홍보 건축동에 수열에너지시스템을 활용한 냉난방설비를 구축하였다.",
+    "blockRange": [
+      547,
+      547
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0169",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지"
+    ],
+    "text": "| ① 저류지 | 수질‧수량 안정화,<br>사고대비 물안보 확보 | ④ 천변여과<br>(중속) | 조립여재 포설로 여과<br>(입자성물질 제거) |\n| --- | --- | --- | --- |\n| ② 조류매트 | 조류증식 이용한 N,P 처리 | 저류수조 | 수질개선 비교 ‧ 평가 |\n| ③ 천변습지 | 식물생장 등 자연형처리<br>이용한 N,P 처리 |  |  |\n\n**그림 2.1 에코필터링 테스트베드 처리모듈**",
+    "blockRange": [
+      548,
+      548
+    ],
+    "page": 65,
+    "table": {
+      "rows": 3,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0170",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지"
+    ],
+    "text": "그림 2.2 에코필터링 테스트베드 연구교육홍보 건축동\n\n\n![image](image_036.png)\n\n\n![image](image_037.png)\n\n\n![image](image_038.png)",
+    "blockRange": [
+      549,
+      552
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0171",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지"
+    ],
+    "text": "### 2.1.1 에코필터링 테스트베드",
+    "blockRange": [
+      553,
+      553
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0172",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지",
+      "2.1.1 에코필터링 테스트베드"
+    ],
+    "text": "K-water는 부산 에코델타시티를 관류하는 평강천의 수질개선을 위해 친환경수처리 설비인 에코필터링 테스트베드를 구축하였다. 하천수질 개선 및 상수원으로 활용하기 위한 친환경수처리 기술의 국내 적용성 검토를 위해 테스트베드를 구축‧운영중이며, 자연여과, 천변습지 등 자연 정화기능을 갖춘 저류공간이 조성되어 있다.\n\n테스트베드의 수처리 모듈은 저류지, 조류매트, 천변습지, 천변여과로 구성되어 있다. 저류지는 착수정 역할로 수량‧수질을 안정화시키며 침전으로 인한 일부 탁질 제거의 효과가 있다. 저류지를 통과한 하천수는 조류매트와 천변습지로 나누어져 유입된다. 조류매트는 조류증식을 역이용하여 N, P를 제거하며, 천변습지는 식물생장‧미생물‧토양층에 의한 자연형 처리 모듈이다. 조류매트와 천변습지를 통과한 하천수는 천변여과에서 합쳐져 모래 및 자갈을 이용하여 탁도, 조류성체 등 입자성 물질의 80%를 제거하여 평강천으로 방류한다.",
+    "blockRange": [
+      554,
+      555
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0173",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지",
+      "2.1.1 에코필터링 테스트베드"
+    ],
+    "text": "**표 2.1 에코필터링 테스트베드 처리모듈 기술설명**\n\n| 요소기술 | 기술설명 |\n| --- | --- |\n|  | ①저류지<br>∘(설명) 착수정 역할로 수량‧수질 안정화<br>상수원에 수질사고시 물안보 확보 기능<br>∘(효율) 침전으로 인한 일부 탁질 제거 효과 |\n|  | ② 조류매트<br>∘(설명) 조류증식(활성화)을 역이용한 N,P 제거<br>∘(효율) T-N 28%, T-P 42% |\n|  | ③천변습지<br>∘(설명) 식물생장‧미생물‧토양층에의한자연형처리<br>∘(효율) BOD 10\\~30%, T-N 20\\~40%, T-P 40% |\n|  | ④천변여과(중속)<br>∘(설명) 자갈 및 굵은 모래를 이용한 여과<br>- 여과속도 증가 위해 조립여재 활용<br>∘(효율) 탁도, 조류성체 등 입자성 물질 80% 제거 |",
+    "blockRange": [
+      556,
+      556
+    ],
+    "page": 66,
+    "table": {
+      "rows": 5,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0174",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지",
+      "2.1.1 에코필터링 테스트베드"
+    ],
+    "text": "![image](image_039.png)\n\n\n![image](image_040.png)\n\n\n![image](image_041.png)\n\n\n![image](image_042.png)\n\n\n![image](image_043.png)\n\n\n![image](image_044.png)\n\n본 연구과제에서는 하천수 수질에 따른 수열에너지시스템 효과 분석을 위해 수처리 모듈 중 평강천이 최초로 유입되는 저류지와 최종 수처리되어 방류를 위한 저류수조 2개소에서 취수하였다.",
+    "blockRange": [
+      557,
+      563
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0175",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지"
+    ],
+    "text": "### 2.1.2 교육연구홍보 건축동",
+    "blockRange": [
+      564,
+      564
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0176",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지",
+      "2.1.2 교육연구홍보 건축동"
+    ],
+    "text": "에코필터링의 원활한 연구활동과 교육, 세미나 및 홍보공간으로 활용하기 위해 지상 2층으로 이루어진 건축동이 구축되어 있다. 1층에는 연구분석실, 탕비 및 휴게실, 홀, 전기실, 화장실, 카트보관실, 물탱크실으로 구성되어 있다. 2층은 세미나실, 준비실, 홀, 휴게데크로 구성되어 있다.\n\n그림 2.3 교육연구홍보 건축동 평면도\n\n교육연구홍보 건축동은 냉‧난방설비로 전기히트펌프(E.H.P)가 구축되어 있으며 사양은 아래와 같다.",
+    "blockRange": [
+      565,
+      567
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0177",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지",
+      "2.1.2 교육연구홍보 건축동"
+    ],
+    "text": "**표 2.2 에코필터링 테스트베드 냉‧난방 설비 사양**\n\n| 분 류 |  |  | 동력 | 수량<br>(대) | 냉방능력<br>(W) | 난방능력<br>(W) | 설치위치 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| E<br>H<br>P | 실내기 | 1-WAY | 0.6HP | 1 | 2,000 | 2,200 | 2층 준비실 |\n| E<br>H<br>P | 실내기 | 1-WAY | 2.5HP | 1 | 7,200 | 7,200 | 1층 사무실 |\n| E<br>H<br>P | 실내기 | 4-WAY | 2.0HP | 2 | 6,000 | 6,800 | 1층 연구분석실 |\n| E<br>H<br>P | 실내기 | 4-WAY | 2.5HP | 1 | 7,200 | 8,100 | 1층 홀 |\n| E<br>H<br>P | 실내기 | 4-WAY | 3.5HP | 3 | 10,000 | 11,200 | 2층 세미나실, 2층 홀 |\n| E<br>H<br>P | 실외기 | 냉난방<br>절환형 | 10HP | 1 | 29,200 | 32,800 | 건물외부 |\n| E<br>H<br>P | 실외기 | 냉난방<br>절환형 | 12HP | 1 | 34,800 | 39,200 | 건물외부 |",
+    "blockRange": [
+      568,
+      568
+    ],
+    "page": 67,
+    "table": {
+      "rows": 8,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0178",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.1 실증 대상지",
+      "2.1.2 교육연구홍보 건축동"
+    ],
+    "text": "![image](image_045.png)\n\n\n![image](image_046.png)",
+    "blockRange": [
+      569,
+      570
+    ],
+    "page": 67
+  },
+  {
+    "id": "c0179",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## 2.2 수열에너지시스템 구성",
+    "blockRange": [
+      571,
+      571
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0180",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성"
+    ],
+    "text": "### 2.2.1 취수지점",
+    "blockRange": [
+      572,
+      572
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0181",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.1 취수지점"
+    ],
+    "text": "하천수 수질에 따른 수열에너지시스템의 성능 비교를 위해 에코필터링 테스트베드의 수처리 모듈 중 하천수 원수가 유입되는 저류지와 최종 수처리 후 하천으로 다시방출되는 방류맨홀을 취수지점으로 선정하였다.\n\n하천수 인입배관의 거리는 저류지에서 수열 히트펌프까지는 25m, 방류맨홀에서 수열 히트펌프까지는 180m 이다. 인입배관은 겨울철 동파방지를 위하여 동결심도인 1.5m 이상 확보하였다.\n\n그림 2.4 하천수 취수지점 2개소 (저류지, 방류맨홀)",
+    "blockRange": [
+      573,
+      575
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0182",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성"
+    ],
+    "text": "### 2.2.2 주요장비",
+    "blockRange": [
+      576,
+      576
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0183",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "부산EDC 수열시스템은 1층용 냉난방을 위한 수열시스템 1식과 2층용 냉난방을 위한 수열시스템 1식으로 구성되어 있다. 각 수열시스템의 주요 장비는 히트펌프, 실내기, 펌프(취수 펌프 및 순환 펌프), 열교환기로 구성되어 있으며, 개략도는 아래 그림 2.5와 같다.\n\n\n![image](image_047.png)\n\n그림 2.5 수열에너지시스템 개략도\n\n2.2.2.1 히트펌프\n\n교육연구홍보 건축동 냉난방을 위한 수열히트펌프는 기존에 설치되어 있는 전기히 트펌프와의 비교를 위해 동일 용량, 개수의 히트펌프를 설치하였다.",
+    "blockRange": [
+      577,
+      581
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0184",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "**표 2.3 건축동 수열 및 전기 히트펌프 사양**\n\n| 구 분 | 건물 소요부하(W) |  | 설비능력(W) |  |  |  | 비 고 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 구 분 | 냉 방 | 난 방 | 냉 방 |  | 난 방 |  | 비 고 |\n| 구 분 | 냉 방 | 난 방 | 전기 | 수열 | 전기 | 수열 | 비 고 |\n| 1층 | 19,926 | 6,723 | 29,200 | 29,000 | 32,800 | 32,600 | 10RT |\n| 2층 | 25,287 | 9,282 | 34,800 | 34,800 | 39,200 | 39,200 | 12RT |",
+    "blockRange": [
+      582,
+      582
+    ],
+    "page": 69,
+    "table": {
+      "rows": 5,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0185",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "![image](image_048.png)\n\n수열 히트펌프의 상세사양은 다음과 같다(표 2.4).",
+    "blockRange": [
+      583,
+      584
+    ],
+    "page": 69
+  },
+  {
+    "id": "c0186",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "**표 2.4 수열 히트펌프 상세사양**\n\n| 항목 |  | 단위 | 수열 히트펌프 1 | 수열 히트펌프 2 |\n| --- | --- | --- | --- | --- |\n| 전원 |  | 상,선식,V,Hz | 3,4,380,60 | 3,4,380,60 |\n| 냉방능력 | 냉방(정격) | kW | 29.0 | 34.8 |\n| 냉방능력 | 냉방(정격) | kcal/h | 24,900 | 29,900 |\n| 난방능력 | 난방(정격) | kW | 32.6 | 39.2 |\n| 난방능력 | 난방(정격) | kcal/h | 28,000 | 33,700 |\n| 소비전력 | 냉방(정격) | kW | 5.28 | 6.70 |\n| 소비전력 | 난방(정격) | kW | 5.54 | 7.00 |\n| 운전전류 | 냉방(정격) | A | 9.90 | 11.70 |\n| 운전전류 | 난방(정격) | A | 9.70 | 12.50 |\n| 운전전류 | 최대 | A | 24.5 | 25 |\n| 압축기 | 형식 | - | DC인버터스크롤 | DC인버터스크롤 |\n| 압축기 | Piston 범위 | cc/Rev | 43.8 | 43.8 |\n| 압축기 | 모터출력 | kW | 4.2 | 4.2 |\n| 압축기 | 오일명칭 | - | FVC68D(PVE) | FVC68D(PVE) |\n| 압축기 | 오일충전량 | cc | 1,200 | 1,200 |\n| 응축기 | 형식 | - | 판형 | 판형 |\n| 응축기 | 수두손실 | kPa | 15.8 | 21.8 |\n| 응축기 | 사용 최대 압력 | kg/cm2 | 45 | 45 |\n| 응축기 | 유량 | ℓ/min | 96 | 116 |\n| 응축기 | 입/출구 배관경 | mm | PT 40/40 | PT 40/40 |\n| 배관경 | 액관 | mm | Ø 9.52 | Ø 12.7 |\n| 배관경 | 가스관 | mm | Ø 22.2 | Ø 25.4 |\n| 냉매 | 종류 | - | R410A | R410A |\n| 냉매 | 제품봉입량 | kg | 5.8 | 5.8 |",
+    "blockRange": [
+      585,
+      585
+    ],
+    "page": 70,
+    "table": {
+      "rows": 25,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0187",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "2.2.2.2 실내기\n\n교육연구홍보 건축동에는 소요부하에 따라 다음과 같이 전기히트펌프(EHP)에 대한 실내기가 설치 및 구동되고 있다(표 2.5).",
+    "blockRange": [
+      586,
+      587
+    ],
+    "page": 70
+  },
+  {
+    "id": "c0188",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "**표 2.5 기존 실내기 사양**\n\n| 구 분 | 소요부하(W) |  | 설비능력(W) |  | 비 고 |\n| --- | --- | --- | --- | --- | --- |\n| 구 분 | 냉 방 | 난 방 | 냉 방 | 난 방 | 비 고 |\n| 사무실 | 2,416 | 1,380 | 7,200 | 7,200 |  |\n| 연구분석실 | 11,874 | 2,941 | 6,000×2대 | 6,800×2대 |  |\n| 홀 | 6,211 | 2,402 | 7,200 | 8,100 |  |\n| 2층 홀 | 8,701 | 2,664 | 10,000 | 11,200 |  |\n| 준비실 | 1,303 | 615 | 2,000 | 2,200 |  |\n| 홍보‧세미나실 | 17,325 | 6,003 | 10,000×2대 | 11,200×2대 |  |",
+    "blockRange": [
+      588,
+      588
+    ],
+    "page": 71,
+    "table": {
+      "rows": 8,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0189",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "본 연구과제는 기존에 설치되어 있는 전기히트펌프(EHP)와 수열히트펌프의 성능 비교를 위해 기존 설치되어 있는 실내기와 동일한 제품을 설치하였다.",
+    "blockRange": [
+      589,
+      589
+    ],
+    "page": 71
+  },
+  {
+    "id": "c0190",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "**표 2.6 신규 수열히트펌프 사양**\n\n| 구 분 | 항 목 |  | 설비능력(W) |  | 비 고 |\n| --- | --- | --- | --- | --- | --- |\n| 구 분 | 위치 | 대수 | 냉 방 | 난 방 | 비 고 |\n| 1층 | 사무실 | 1 | 7,200 | 7,200 |  |\n| 1층 | 연구분석실 | 2 | 6,000 | 6,800 |  |\n| 1층 | 홀 | 1 | 7,200 | 8,100 |  |\n| 2층 | 준비실 | 1 | 2,000 | 2,200 |  |\n| 2층 | 세미나실 | 2 | 10,000 | 11,200 |  |\n| 2층 | 홀 | 1 | 10,000 | 11,200 |  |",
+    "blockRange": [
+      590,
+      590
+    ],
+    "page": 71,
+    "table": {
+      "rows": 8,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0191",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "2.2.2.3 펌프\n\n수열시스템은 취수를 위한 배수펌프, 열교환기와 히트펌프 사이의 브라인수를 순환시키기 위한 인라인펌프로 구성되어 있다. 1층용 수열시스템의 취수지점은 건물과 180m 떨어져있는 방류맨홀이며, 취수를 위하여 유량 96ℓ/min, 양정 34m, 출력 3.7kW의 배수펌프를 설치하였고, 브라인 순환펌프는 유량 96ℓ/min, 양정 11m, 출력 0.75kW 인라인 펌프를 설치하였다. 2층용 수열시스템의 취수지점은 건물과 25m 떨어져있는 저류지이며, 취수를 위하여 유량 116 ℓ/min, 양정 15m, 출력 1.5kW의 배수펌프를 설치하였고, 브라인 순환펌프는 116 ℓ/min, 양정 11m, 출력 0.75kW 인라인 펌프를 설치하였다.",
+    "blockRange": [
+      591,
+      592
+    ],
+    "page": 71
+  },
+  {
+    "id": "c0192",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2 수열에너지시스템 구성",
+      "2.2.2 주요장비"
+    ],
+    "text": "**표 2.7 수열시스템 펌프 사양**\n\n| 구 분 |  | 형식 | 구경(A) |  | 유량<br>(LPM) | 양정(m) | 동력(kW) |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 구 분 |  | 형식 | 입구 | 출구 | 유량<br>(LPM) | 양정(m) | 동력(kW) |\n| 1층용 | 원수펌프 | 수중펌프 | - | 80 | 96 | 34 | 3.7 |\n| 1층용 | 브라인<br>순환펌프 | 인라인<br>펌프 | 40 | 40 | 96 | 11 | 0.75 |\n| 2층용 | 원수펌프 | 수중펌프 | - | 80 | 116 | 15 | 1.5 |\n| 2층용 | 브라인<br>순환펌프 | 인라인<br>펌프 | 40 | 40 | 116 | 11 | 0.75 |",
+    "blockRange": [
+      593,
+      593
+    ],
+    "page": 72,
+    "table": {
+      "rows": 6,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0193",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## 2.2.2.4 열교환기",
+    "blockRange": [
+      594,
+      594
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0194",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2.2.4 열교환기"
+    ],
+    "text": "하천수 열교환을 위하여 히트펌프 전단에 판형 열교환기를 설치하였다. 판형 열교환기와 히트펌프 사이를 순환하는 브라인의 에틸렌글리콜 농도는 10%이며, 1층용 열교환기 용량은 28,800 Kcal/h 이고, 2층용 열교환기 용량은 34,800 Kcal/h 이다.",
+    "blockRange": [
+      595,
+      595
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0195",
+    "type": "heading",
+    "breadcrumb": [
+      "1. 서 론"
+    ],
+    "text": "## 2.2.2.5 계측기기",
+    "blockRange": [
+      596,
+      596
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0196",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2.2.5 계측기기"
+    ],
+    "text": "수열에너지시스템 성능 모니터링을 위해서 유량계 및 온도계를 설치하였다. 유량은 열교환기로 유입되는 하천수의 유량과 열교환기와 히트펌프를 순환하는 브라인수의 유량을 측정하기 위해 유량계를 설치하였다. 온도차를 측정하기 위해 하천수와 브라인수 유입, 유출 배관에 온도계를 설치하였다. 또한 수열원 히트펌프와 원수펌프, 순환펌프 전력량을 측정하기 위해 전력량계를 설치하였다.\n\n수열히트펌프와 전기히트펌프의 성능비교를 위해 추가적으로 냉매배관에 유량계, 온도계, 압력계 및 히트펌프 전력량계를 설치하였으며 각 계측기기에 대한 사양은 아래 표 2.8과 같다.",
+    "blockRange": [
+      597,
+      598
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0197",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2.2.5 계측기기"
+    ],
+    "text": "**표 2.8 수열시스템 계측기기 사양**\n\n| 번호 | 품 명 | 모델명 | 용 도 | 정확도 |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1 | PLC | XBC-DR3 2H / XBF-RD0 4A | P L C원격제어반<br>(AI:온도 / DI:상태,<br>디지털 입력모듈) | 상온(25℃) : ±0.3% 이내<br>전 범위(0\\~55℃) : ±0.5% 이내 |  |  |\n| 2 | SOFTWARE | info-u | 중앙 모니터링<br>시스템 |  |  |  |\n| 3 | 배관용<br>온도센서 | GPT-100 | 배관 온도 검출 | 상온(25℃) : ±0.3℃ |  |  |\n| 4 | 실내용<br>온도센서 | GST-100 | 실내 온도 검출 | 0℃ : ±0.3℃ |  |  |\n| 5 | 온습도<br>센서 | GOTHO-<br>1420 | 실내외 온습도<br>검출 | 상온(25℃) : ±0.3%℃ 이내<br>10\\~90% RH : ±3% RH |  |  |\n| 6 | 압력센서 | QBE2002<br>-P60 | 냉매배관 압력<br>검출 |  |  |  |\n| 7 | 유량계 | MTL-040 | 수배관 유량검출<br>(터빈) | 액체 : ±0.2%, ±0.5%, 1%<br>기체 : ±0.5%, ±1% |  |  |\n| 8 | 유량계 | TUV-1204 | 냉매 유량검출<br>(터빈) | Linearity : ±1% of reading |  |  |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | Parameters | Accuracy | Resolution |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | Voltage | ±0.2% | 0.1V |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | Current | ±0.2% | 0.001A |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | kW, kVA | ICE62053-21 Class 1 | 0.1k |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | kWh, kVAh | ICE62053-21 Class 1 | 0.1kXh |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | kvar / kvarh | ICE62053-21 Class 2 | 0.1k /<br>0.1kvarh |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | P.F. | ICE62053-21 Class 1 | 0.001 |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | Frequency | ±0.02 Hz reading | 0.01Hz |\n| 9 | 전력량계 | PMC-D72 3M | 수열히트펌프1,2,<br>브라인펌프, 원수펌프 전력량 검출 | AO | ±1% F.S. | - |",
+    "blockRange": [
+      599,
+      599
+    ],
+    "page": 73,
+    "table": {
+      "rows": 18,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0198",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2.2.5 계측기기"
+    ],
+    "text": "그림 2.6 수열 히트펌프 사이클 선도 및 계측기기 (냉방)\n\n\n![image](image_049.png)\n\n유량계\n\n온 도\n\n계압 력\n\n계\n\n그림 2.7 전기 히트펌프 사이클 선도 및 계측기기 (냉방)\n\n\n![image](image_050.png)",
+    "blockRange": [
+      600,
+      607
+    ],
+    "page": 74
+  },
+  {
+    "id": "c0199",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2.2.5 계측기기"
+    ],
+    "text": "| 취수펌프 (저류수조) | 취수펌프 (저류지) |\n| --- | --- |\n|  |  |\n| 기계실 | 기계실 |\n|  |  |\n\n**그림 2.8 수열시스템 실증플랜트(취수펌프 및 기계실)**",
+    "blockRange": [
+      608,
+      608
+    ],
+    "page": 76,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0200",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2.2.5 계측기기"
+    ],
+    "text": "![image](image_051.png)\n\n\n![image](image_052.png)\n\n\n![image](image_053.png)\n\n\n![image](image_054.png)",
+    "blockRange": [
+      609,
+      612
+    ],
+    "page": 76
+  },
+  {
+    "id": "c0201",
+    "type": "table",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2.2.5 계측기기"
+    ],
+    "text": "| 제어판넬(외부) | 제어판넬(내부) |\n| --- | --- |\n|  |  |\n| 모니터링 시스템 | 모니터링 시스템 |\n|  |  |\n\n**그림 2.9 수열시스템 실증플랜트(제어판넬 및 모니터링시스템)**",
+    "blockRange": [
+      613,
+      613
+    ],
+    "page": 77,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0202",
+    "type": "text",
+    "breadcrumb": [
+      "1. 서 론",
+      "2.2.2.5 계측기기"
+    ],
+    "text": "![image](image_055.png)\n\n\n![image](image_056.png)\n\n\n![image](image_057.png)\n\n\n![image](image_058.png)",
+    "blockRange": [
+      614,
+      617
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0203",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 3. 데이터 취득 및 분석",
+    "blockRange": [
+      618,
+      618
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0204",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석"
+    ],
+    "text": "## 3.1 수열시스템 데이터 취득",
+    "blockRange": [
+      619,
+      619
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0205",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득"
+    ],
+    "text": "### 3.1.1 데이터 취득 개요",
+    "blockRange": [
+      620,
+      620
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0206",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.1 데이터 취득 개요"
+    ],
+    "text": "부산EDC 에코필터링 테스트베드 건물동 내 수열에너지시스템에서 데이터를 취득 할시 바람의 세기는 최대로 설정하였고 10초의 주기로 데이터를 취득하였다. 히트펌프 안정화 시간을 고려하여 가동을 시작한 1시간 이후부터 취득한 데이터를 사용하였으며 일정한 운전 상태를 유지하기 위해 창문을 열어 실내외 공기를 순환시켰다.\n\n데이터 취득은 수온에 따른 성능 변화를 확인하기 위해 매달 측정하였으며, 1층용 수열히트펌프, 2층용 수열히트펌프, 1층용 전기히트펌프, 2층용 전기히트펌프를 각각 1일씩 측정하였다.\n\n수열시스템 구축 및 일부 계측기기 보완이 완료된 ‘19년 8월 이후 9월부터 ’20년 7월까지 데이터 취득을 수행하였으며, 냉방시 실내온도는 16℃, 풍량 최대로 설정하였으며 냉방시 실내온도는 30℃, 풍량 최대로 설정하였다.",
+    "blockRange": [
+      621,
+      623
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0207",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득"
+    ],
+    "text": "### 3.1.2 데이터 취득 결과",
+    "blockRange": [
+      624,
+      624
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0208",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "수열에너지시스템의 물측(1차측) 성능분석을 위해 원수와 브라인수의 입・출구온도(℃), 유량(LPM)과 히트펌프, 원수 취수펌프, 브라인 순환펌프 각각의 소비전력량(kW)을 측정하였다. 원수, 브라인수의 밀도와 비열은 1000㎏/㎥, 4.184kJ/㎏℃로 가정하였다.\n\n3.1.2.1 냉방 데이터 취득 결과\n\n3.1.2.1.1 2019년 9월 냉방데이터\n\n1층 수열시스템의 9월 냉방데이터 취득 결과 하천수 평균 입구 온도는 22.5℃, 출구 온도는 23.7℃로 평균 입·출구 온도차는 1.2℃ 발생하였다. 브라인수 입구 온도는 22.7℃, 출구온도는 25.0℃로 평균 입·출구 온도차는 2.3℃ 발생하였으며 측정 당시 외기온도 평균은 26.6℃ 였다.\n\n2층 수열시스템의 하천수 평균 입구 온도는 22.2℃, 출구 온도는 27.8℃로 평균 입·출구 온도차는 5.6℃ 발생하였다. 브라인수 입구 온도는 26.8℃, 출구온도는 28.4℃로 평균 입·출구 온도차는 1.6℃ 발생하였으며 측정 당시 외기온도는 평균 23.6℃ 였다.\n\n2층 수열시스템의 하천수 평균 입·출구 온도차(5.6℃)와 브라인수 평균 입·출구 온 도차(1.6℃) 차이가 발생하는 것은 2층 수열시스템 취수지점인 저류지는 평강천 원수로 이물질이 많이 유입되어 열교환이 원활하지 않은 것으로 추정된다.",
+    "blockRange": [
+      625,
+      630
+    ],
+    "page": 78
+  },
+  {
+    "id": "c0209",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "**표 3.1 9월 1층 수열시스템 측정값**\n\n| 항목 |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 항목 |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 23.8 | 24.9 | 1.3 | 98.0 | ‘19.9.25<br>(14:00\\~<br>16:55),<br>’19.9.26<br>(10:08\\~<br>11:56) |\n| 원수 | 최소 | 21.5 | 22.6 | 1.0 | 92.2 | ‘19.9.25<br>(14:00\\~<br>16:55),<br>’19.9.26<br>(10:08\\~<br>11:56) |\n| 원수 | 평균 | 22.5 | 23.7 | 1.2 | 97.4 | ‘19.9.25<br>(14:00\\~<br>16:55),<br>’19.9.26<br>(10:08\\~<br>11:56) |\n| 브라인수 | 최대 | 24.0 | 26.2 | 2.5 | 96.6 | ‘19.9.25<br>(14:00\\~<br>16:55),<br>’19.9.26<br>(10:08\\~<br>11:56) |\n| 브라인수 | 최소 | 21.7 | 23.9 | 2.2 | 94.3 | ‘19.9.25<br>(14:00\\~<br>16:55),<br>’19.9.26<br>(10:08\\~<br>11:56) |\n| 브라인수 | 평균 | 22.7 | 25.0 | 2.3 | 95.8 | ‘19.9.25<br>(14:00\\~<br>16:55),<br>’19.9.26<br>(10:08\\~<br>11:56) |\n| 외기 | 평균 | 26.6 |  | - | - | ‘19.9.25<br>(14:00\\~<br>16:55),<br>’19.9.26<br>(10:08\\~<br>11:56) |",
+    "blockRange": [
+      631,
+      631
+    ],
+    "page": 79,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0210",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "**표 3.2 9월 2층 수열시스템 측정값**\n\n| 항목 |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 항목 |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 23.0 | 29.8 | 7.0 | 115.5 | ‘19.9.24<br>(14:20\\~17:10),<br>’19.9.25<br>(10:20\\~<br>12:00) |\n| 원수 | 최소 | 21.4 | 26.0 | 4.5 | 113.0 | ‘19.9.24<br>(14:20\\~17:10),<br>’19.9.25<br>(10:20\\~<br>12:00) |\n| 원수 | 평균 | 22.2 | 27.8 | 5.6 | 114.9 | ‘19.9.24<br>(14:20\\~17:10),<br>’19.9.25<br>(10:20\\~<br>12:00) |\n| 브라인수 | 최대 | 28.8 | 30.4 | 1.7 | 118.1 | ‘19.9.24<br>(14:20\\~17:10),<br>’19.9.25<br>(10:20\\~<br>12:00) |\n| 브라인수 | 최소 | 25.0 | 26.5 | 1.5 | 115.5 | ‘19.9.24<br>(14:20\\~17:10),<br>’19.9.25<br>(10:20\\~<br>12:00) |\n| 브라인수 | 평균 | 26.8 | 28.4 | 1.6 | 117.4 | ‘19.9.24<br>(14:20\\~17:10),<br>’19.9.25<br>(10:20\\~<br>12:00) |\n| 외기 | 평균 | 23.6 |  |  |  | ‘19.9.24<br>(14:20\\~17:10),<br>’19.9.25<br>(10:20\\~<br>12:00) |",
+    "blockRange": [
+      632,
+      632
+    ],
+    "page": 79,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0211",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "3.1.2.1.2 2019년 10월 냉방데이터\n\n1층 수열시스템의 10월 냉방데이터 취득 결과 하천수 평균 입구 온도는 19.9℃, 출구 온도는 20.5℃로 평균 입·출구 온도차는 0.6℃ 발생하였다. 브라인수 입구 온도는 19.7℃, 출구 온도는 21.4℃로 평균 입·출구 온도차는 1.6℃ 발생하였으며 측정 당시 외기온도 평균은 20.4℃였다. 하천수 평균 입·출구 온도차(0.6℃)와 브라인수 평균 입·출구 온도차(1.6℃)가 상이하여 온도센서 점검 및 교정을 수행하였다.\n\n2층 수열시스템의 하천수 평균 입구 온도는 18.0℃, 출구 온도는 19.4℃로 평균 입·출구 온도차는 1.5℃ 발생하였다. 브라인수 입구 온도는 19.0℃, 출구온도는 19.9℃로 평균 입·출구 온도차는 0.9℃ 발생하였으며 측정 당시 외기온도는 평균 18.9℃ 였다.",
+    "blockRange": [
+      633,
+      635
+    ],
+    "page": 80
+  },
+  {
+    "id": "c0212",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "**표 3.3 10월 1층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 21.5 | 22.3 | 0.9 | 97.9 | ‘19.10.17<br>(10:00\\~<br>16:55) |\n| 원수 | 최소 | 17.6 | 18.3 | 0.4 | 92.2 | ‘19.10.17<br>(10:00\\~<br>16:55) |\n| 원수 | 평균 | 19.9 | 20.5 | 0.6 | 97.4 | ‘19.10.17<br>(10:00\\~<br>16:55) |\n| 브라인수 | 최대 | 21.4 | 23.2 | 2.0 | 96.4 | ‘19.10.17<br>(10:00\\~<br>16:55) |\n| 브라인수 | 최소 | 17.5 | 19.4 | 1.3 | 94.3 | ‘19.10.17<br>(10:00\\~<br>16:55) |\n| 브라인수 | 평균 | 19.7 | 21.4 | 1.6 | 95.9 | ‘19.10.17<br>(10:00\\~<br>16:55) |\n| 외기 | 평균 | 20.4 |  |  |  | ‘19.10.17<br>(10:00\\~<br>16:55) |",
+    "blockRange": [
+      636,
+      636
+    ],
+    "page": 80,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0213",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "**표 3.4 10월 2층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 18.1 | 20.4 | 2.5 | 115.8 | ‘19.10.15<br>(10:00\\~<br>17:00) |\n| 원수 | 최소 | 17.8 | 18.7 | 0.7 | 113.0 | ‘19.10.15<br>(10:00\\~<br>17:00) |\n| 원수 | 평균 | 18.0 | 19.4 | 1.5 | 114.9 | ‘19.10.15<br>(10:00\\~<br>17:00) |\n| 브라인수 | 최대 | 19.8 | 20.9 | 1.2 | 118.3 | ‘19.10.15<br>(10:00\\~<br>17:00) |\n| 브라인수 | 최소 | 18.4 | 19.0 | 0.4 | 115.5 | ‘19.10.15<br>(10:00\\~<br>17:00) |\n| 브라인수 | 평균 | 19.0 | 19.9 | 0.9 | 117.4 | ‘19.10.15<br>(10:00\\~<br>17:00) |\n| 외기 | 평균 | 18.9 |  |  |  | ‘19.10.15<br>(10:00\\~<br>17:00) |",
+    "blockRange": [
+      637,
+      637
+    ],
+    "page": 80,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0214",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "3.1.2.1.3 2019년 11월 난방데이터\n\n1층 수열시스템의 11월 난방데이터 취득 결과 하천수 평균 입구 온도는 9.1℃, 출구 온도는 8.2℃로 평균 입·출구 온도차는 1.0℃ 발생하였다. 브라인수 입구 온도는 7.8℃, 출구 온도는 6.7℃로 평균 입·출구 온도차는 1.1℃ 발생하였으며 측정당시 외기온도 평균은 12.9℃ 였다.\n\n2층 수열시스템의 하천수 평균 입구 온도는 11.2℃, 출구 온도는 8.1℃로 평균 입·출구 온도차는 3.0℃ 발생하였다. 브라인수 입구 온도는 8.8℃, 출구온도는 7.1℃로 평균 입·출구 온도차는 1.7℃ 발생하였으며 측정 당시 외기온도는 평균 9.1℃ 였다.",
+    "blockRange": [
+      638,
+      640
+    ],
+    "page": 81
+  },
+  {
+    "id": "c0215",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "**표 3.5 11월 1층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 9.8 | 9.1 | 1.2 | 97.9 | ‘19.11.21<br>(10:00\\~<br>17:00) |\n| 원수 | 최소 | 8.3 | 7.2 | 0.7 | 95.6 | ‘19.11.21<br>(10:00\\~<br>17:00) |\n| 원수 | 평균 | 9.1 | 8.2 | 1.0 | 97.3 | ‘19.11.21<br>(10:00\\~<br>17:00) |\n| 브라인수 | 최대 | 8.7 | 7.8 | 1.4 | 96.2 | ‘19.11.21<br>(10:00\\~<br>17:00) |\n| 브라인수 | 최소 | 6.8 | 5.5 | 0.8 | 93.9 | ‘19.11.21<br>(10:00\\~<br>17:00) |\n| 브라인수 | 평균 | 7.8 | 6.7 | 1.1 | 95.6 | ‘19.11.21<br>(10:00\\~<br>17:00) |\n| 외기 | 평균 | 12.9 |  |  |  | ‘19.11.21<br>(10:00\\~<br>17:00) |",
+    "blockRange": [
+      641,
+      641
+    ],
+    "page": 81,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0216",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "**표 3.6 11월 2층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 11.5 | 9.2 | 4.8 | 115.3 | ‘19.11.20<br>(10:35\\~<br>17:00) |\n| 원수 | 최소 | 10.8 | 6.3 | 1.8 | 112.5 | ‘19.11.20<br>(10:35\\~<br>17:00) |\n| 원수 | 평균 | 11.2 | 8.1 | 3.0 | 114.6 | ‘19.11.20<br>(10:35\\~<br>17:00) |\n| 브라인수 | 최대 | 9.8 | 8.2 | 2.0 | 117.9 | ‘19.11.20<br>(10:35\\~<br>17:00) |\n| 브라인수 | 최소 | 7.1 | 5.5 | 1.4 | 115.0 | ‘19.11.20<br>(10:35\\~<br>17:00) |\n| 브라인수 | 평균 | 8.8 | 7.1 | 1.7 | 117.2 | ‘19.11.20<br>(10:35\\~<br>17:00) |\n| 외기 | 평균 | 9.1 |  |  |  | ‘19.11.20<br>(10:35\\~<br>17:00) |",
+    "blockRange": [
+      642,
+      642
+    ],
+    "page": 81,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0217",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1 수열시스템 데이터 취득",
+      "3.1.2 데이터 취득 결과"
+    ],
+    "text": "1층 수열시스템의 하천수 입·출구 온도차는 평균 1.0℃, 브라인 입·출구 온도차는 평균 1.1℃로 유사하나 2층 수열시스템의 하천수 입·출구 온도차는 평균 3.0℃, 브라인 입·출구 온도차는 1.7℃로 차이가 발생하였다. 이는 2층 수열시스템의 취수지점인 저류지는 평강천 원수가 유입되는 부분으로 이물질이 많이 유입되어 열교환이 원활하지 못한 것으로 추정된다.",
+    "blockRange": [
+      643,
+      643
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0218",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석"
+    ],
+    "text": "## 3.1.2.1.4 2019년 12월 난방데이터",
+    "blockRange": [
+      644,
+      644
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0219",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.4 2019년 12월 난방데이터"
+    ],
+    "text": "1층 수열시스템의 12월 난방데이터 취득 결과 하천수 평균 입구 온도는 6.8℃, 출구 온도는 6.0℃로 평균 입·출구 온도차는 0.8℃ 발생하였다. 브라인수 입구 온도는 5.6℃, 출구 온도는 4.7℃로 평균 입·출구 온도차는 1.0℃ 발생하였으며 측정 당시 외기온도 평균은 16.6℃ 였다.\n\n2층 수열시스템의 하천수 평균 입구 온도는 7.6℃, 출구 온도는 5.9℃로 평균 입·출구 온도차는 1.7℃ 발생하였다. 브라인수 입구 온도는 6.2℃, 출구온도는 5.0℃로 평균 입·출구 온도차는 1.2℃ 발생하였으며 측정 당시 외기온도는 평균 7.5℃ 였다.",
+    "blockRange": [
+      645,
+      646
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0220",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.4 2019년 12월 난방데이터"
+    ],
+    "text": "**표 3.7 12월 1층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 8.4 | 7.6 | 1.0 | 97.9 | ‘19.12.11<br>(09:50\\~<br>16:58) |\n| 원수 | 최소 | 6.1 | 5.3 | 0.7 | 95.6 | ‘19.12.11<br>(09:50\\~<br>16:58) |\n| 원수 | 평균 | 6.8 | 6.0 | 0.8 | 97.4 | ‘19.12.11<br>(09:50\\~<br>16:58) |\n| 브라인수 | 최대 | 7.2 | 6.3 | 1.2 | 96.2 | ‘19.12.11<br>(09:50\\~<br>16:58) |\n| 브라인수 | 최소 | 4.9 | 3.8 | 0.8 | 93.9 | ‘19.12.11<br>(09:50\\~<br>16:58) |\n| 브라인수 | 평균 | 5.6 | 4.7 | 1.0 | 95.6 | ‘19.12.11<br>(09:50\\~<br>16:58) |\n| 외기 | 평균 | 16.6 |  |  |  | ‘19.12.11<br>(09:50\\~<br>16:58) |",
+    "blockRange": [
+      647,
+      647
+    ],
+    "page": 82,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0221",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.4 2019년 12월 난방데이터"
+    ],
+    "text": "**표 3.8 12월 2층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 7.8 | 6.1 | 2.0 | 115.5 | ‘19.12.12<br>(09:50\\~<br>16:55) |\n| 원수 | 최소 | 6.9 | 5.1 | 1.5 | 112.5 | ‘19.12.12<br>(09:50\\~<br>16:55) |\n| 원수 | 평균 | 7.6 | 5.9 | 1.7 | 114.6 | ‘19.12.12<br>(09:50\\~<br>16:55) |\n| 브라인수 | 최대 | 6.5 | 5.4 | 1.6 | 118.1 | ‘19.12.12<br>(09:50\\~<br>16:55) |\n| 브라인수 | 최소 | 5.6 | 4.0 | 1.1 | 115.0 | ‘19.12.12<br>(09:50\\~<br>16:55) |\n| 브라인수 | 평균 | 6.2 | 5.0 | 1.2 | 117.1 | ‘19.12.12<br>(09:50\\~<br>16:55) |\n| 외기 | 평균 | 7.5 |  |  |  | ‘19.12.12<br>(09:50\\~<br>16:55) |",
+    "blockRange": [
+      648,
+      648
+    ],
+    "page": 83,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0222",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석"
+    ],
+    "text": "## 3.1.2.1.5 2020년 1월 난방데이터",
+    "blockRange": [
+      649,
+      649
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0223",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "1층 수열시스템의 1월 난방데이터 취득 결과 하천수 평균 입구 온도는 5.0℃, 출구 온도는 4.3℃로 평균 입·출구 온도차는 0.8℃ 발생하였다. 브라인수 입구 온도는 3.9℃, 출구 온도는 2.9℃로 평균 입·출구 온도차는 0.9℃ 발생하였으며 측정 당시 외기온도 평균은 5.6℃ 였다.\n\n2층 수열시스템의 하천수 평균 입구 온도는 6.7℃, 출구 온도는 4.5℃로 평균 입·출구 온도차는 2.2.℃ 발생하였다. 브라인수 입구 온도는 5.0℃, 출구온도는 3.6℃로 평균 입·출구 온도차는 1.4℃ 발생하였으며 측정 당시 외기온도는 평균 6.4℃ 였다.\n\n1월 데이터 측정당시 하천수 수온이 낮아 히트펌프가 자동으로 정지되는 현상이 발생하였다. 데이터 측정은 ‘19.01.13\\~15, 3일간 수행하였으나 14\\~15일 수열시스템 가동 시 히트펌프 정지현상이 발생하여 13일 데이터를 활용하였으며 당시에는 데이터 취득 전 설비점검을 위해 가동한 것이라 취득기간이 짧다.",
+    "blockRange": [
+      650,
+      652
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0224",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "**표 3.9 1월 1층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 5.1 | 4.3 | 0.8 | 97.9 | ‘20.01.13<br>(17:20\\~<br>17:33) |\n| 원수 | 최소 | 5.0 | 4.2 | 0.7 | 96.0 | ‘20.01.13<br>(17:20\\~<br>17:33) |\n| 원수 | 평균 | 5.0 | 4.3 | 0.8 | 97.4 | ‘20.01.13<br>(17:20\\~<br>17:33) |\n| 브라인수 | 최대 | 4.0 | 3.1 | 1.0 | 96.2 | ‘20.01.13<br>(17:20\\~<br>17:33) |\n| 브라인수 | 최소 | 3.8 | 2.9 | 0.8 | 94.3 | ‘20.01.13<br>(17:20\\~<br>17:33) |\n| 브라인수 | 평균 | 3.9 | 2.9 | 0.9 | 95.7 | ‘20.01.13<br>(17:20\\~<br>17:33) |\n| 외기 | 평균 | 5.6 |  |  |  | ‘20.01.13<br>(17:20\\~<br>17:33) |",
+    "blockRange": [
+      653,
+      653
+    ],
+    "page": 83,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0225",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "**표 3.10 1월 2층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 6.7 | 4.8 | 2.3 | 115.3 | ‘20.01.13<br>(16:25\\~<br>16:30) |\n| 원수 | 최소 | 6.7 | 4.4 | 1.9 | 113.2 | ‘20.01.13<br>(16:25\\~<br>16:30) |\n| 원수 | 평균 | 6.7 | 4.5 | 2.2 | 114.7 | ‘20.01.13<br>(16:25\\~<br>16:30) |\n| 브라인수 | 최대 | 5.2 | 4.0 | 1.5 | 117.9 | ‘20.01.13<br>(16:25\\~<br>16:30) |\n| 브라인수 | 최소 | 5.0 | 3.5 | 1.1 | 115.7 | ‘20.01.13<br>(16:25\\~<br>16:30) |\n| 브라인수 | 평균 | 5.0 | 3.6 | 1.4 | 117.3 | ‘20.01.13<br>(16:25\\~<br>16:30) |\n| 외기 | 평균 | 6.4 |  |  |  | ‘20.01.13<br>(16:25\\~<br>16:30) |",
+    "blockRange": [
+      654,
+      654
+    ],
+    "page": 84,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0226",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "3.1.2.1.6 2020년 5월 냉방데이터\n\n1층 수열시스템의 5월 냉방데이터 취득 결과 하천수 평균 입구 온도는 20.8℃, 출구 온도는 21.6℃로 평균 입·출구 온도차는 0.8℃ 발생하였다. 브라인수 입구 온도는 20.7℃, 출구 온도는 21.6℃로 평균 입·출구 온도차는 0.9℃ 발생하였으며 측정 당시 외기온도 평균은 24.5℃ 였다.\n\n2층 수열시스템의 하천수 평균 입구 온도는 20.0℃, 출구 온도는 20.5℃로 평균 입·출구 온도차는 0.5.℃ 발생하였다. 브라인수 입구 온도는 20.2℃, 출구온도는 21.1℃로 평균 입·출구 온도차는 0.9℃ 발생하였으며 측정 당시 외기온도는 평균 23.1℃ 였다.",
+    "blockRange": [
+      655,
+      657
+    ],
+    "page": 84
+  },
+  {
+    "id": "c0227",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "**표 3.11 5월 1층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 21.2 | 22.1 | 1.0 | 97.9 | ‘20.05.13<br>(15:45\\~<br>16:30) |\n| 원수 | 최소 | 20.4 | 21.1 | 0.7 | 95.8 | ‘20.05.13<br>(15:45\\~<br>16:30) |\n| 원수 | 평균 | 20.8 | 21.6 | 0.8 | 97.4 | ‘20.05.13<br>(15:45\\~<br>16:30) |\n| 브라인수 | 최대 | 21.2 | 22.1 | 1.0 | 96.2 | ‘20.05.13<br>(15:45\\~<br>16:30) |\n| 브라인수 | 최소 | 20.3 | 21.2 | 0.7 | 94.1 | ‘20.05.13<br>(15:45\\~<br>16:30) |\n| 브라인수 | 평균 | 20.7 | 21.6 | 0.9 | 95.7 | ‘20.05.13<br>(15:45\\~<br>16:30) |\n| 외기 | 평균 | 24.5 |  |  |  | ‘20.05.13<br>(15:45\\~<br>16:30) |",
+    "blockRange": [
+      658,
+      658
+    ],
+    "page": 84,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0228",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "**표 3.12 5월 2층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 20.1 | 20.7 | 0.7 | 115.3 | ‘21.05.13<br>(11:20\\~<br>12:35) |\n| 원수 | 최소 | 19.8 | 20.2 | 0.2 | 113.0 | ‘21.05.13<br>(11:20\\~<br>12:35) |\n| 원수 | 평균 | 20.0 | 20.5 | 0.5 | 114.7 | ‘21.05.13<br>(11:20\\~<br>12:35) |\n| 브라인수 | 최대 | 20.4 | 21.4 | 1.1 | 117.9 | ‘21.05.13<br>(11:20\\~<br>12:35) |\n| 브라인수 | 최소 | 20.0 | 20.6 | 0.5 | 115.5 | ‘21.05.13<br>(11:20\\~<br>12:35) |\n| 브라인수 | 평균 | 20.2 | 21.1 | 0.9 | 117.2 | ‘21.05.13<br>(11:20\\~<br>12:35) |\n| 외기 | 평균 | 23.1 |  |  |  | ‘21.05.13<br>(11:20\\~<br>12:35) |",
+    "blockRange": [
+      659,
+      659
+    ],
+    "page": 85,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0229",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "3.1.2.1.7 2020년 6월 냉방데이터\n\n1층 수열시스템의 6월 냉방데이터 취득 결과 하천수 평균 입구 온도는 24.5℃, 출구 온도는 25.4℃로 평균 입·출구 온도차는 0.9℃ 발생하였다. 브라인수 입구 온도는 24.4℃, 출구 온도는 25.6℃로 평균 입·출구 온도차는 1.2℃ 발생하였으며 측정 당시 외기온도 평균은 24.1℃ 였다.\n\n2층 수열시스템의 하천수 평균 입구 온도는 24.3℃, 출구 온도는 25.2℃로 평균 입·출구 온도차는 0.8.℃ 발생하였다. 브라인수 입구 온도는 24.7℃, 출구온도는 26.3℃로 평균 입·출구 온도차는 1.6℃ 발생하였으며 측정 당시 외기온도는 평균 19.7℃ 였다.",
+    "blockRange": [
+      660,
+      662
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0230",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "**표 3.13 6월 1층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 24.7 | 25.7 | 1.2 | 97.9 | ‘20.06.16<br>(13:15\\~<br>16:50)<br>’20.06.18<br>(12:50\\~<br>15:55) |\n| 원수 | 최소 | 24.0 | 24.8 | 0.7 | 93.9 | ‘20.06.16<br>(13:15\\~<br>16:50)<br>’20.06.18<br>(12:50\\~<br>15:55) |\n| 원수 | 평균 | 24.5 | 25.4 | 0.9 | 97.4 | ‘20.06.16<br>(13:15\\~<br>16:50)<br>’20.06.18<br>(12:50\\~<br>15:55) |\n| 브라인수 | 최대 | 24.7 | 26.0 | 1.5 | 96.3 | ‘20.06.16<br>(13:15\\~<br>16:50)<br>’20.06.18<br>(12:50\\~<br>15:55) |\n| 브라인수 | 최소 | 23.9 | 24.8 | 0.9 | 94.1 | ‘20.06.16<br>(13:15\\~<br>16:50)<br>’20.06.18<br>(12:50\\~<br>15:55) |\n| 브라인수 | 평균 | 24.4 | 25.6 | 1.2 | 95.7 | ‘20.06.16<br>(13:15\\~<br>16:50)<br>’20.06.18<br>(12:50\\~<br>15:55) |\n| 외기 | 평균 | 24.1 |  |  |  | ‘20.06.16<br>(13:15\\~<br>16:50)<br>’20.06.18<br>(12:50\\~<br>15:55) |",
+    "blockRange": [
+      663,
+      663
+    ],
+    "page": 85,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0231",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "**표 3.14 6월 2층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 24.4 | 25.5 | 1.1 | 115.5 | ‘20.06.18<br>(09:20\\~<br>12:35) |\n| 원수 | 최소 | 24.3 | 24.8 | 0.5 | 112.8 | ‘20.06.18<br>(09:20\\~<br>12:35) |\n| 원수 | 평균 | 24.3 | 25.2 | 0.8 | 114.7 | ‘20.06.18<br>(09:20\\~<br>12:35) |\n| 브라인수 | 최대 | 24.9 | 27.2 | 2.3 | 118.1 | ‘20.06.18<br>(09:20\\~<br>12:35) |\n| 브라인수 | 최소 | 24.5 | 25.6 | 1.1 | 115.3 | ‘20.06.18<br>(09:20\\~<br>12:35) |\n| 브라인수 | 평균 | 24.7 | 26.3 | 1.6 | 117.2 | ‘20.06.18<br>(09:20\\~<br>12:35) |\n| 외기 | 평균 | 19.7 |  |  |  | ‘20.06.18<br>(09:20\\~<br>12:35) |",
+    "blockRange": [
+      664,
+      664
+    ],
+    "page": 86,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0232",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "3.1.2.1.8 2020년 7월 냉방데이터\n\n1층 수열시스템의 7월 냉방데이터 취득 결과 하천수 평균 입구 온도는 26.5℃, 출구 온도는 27.7℃로 평균 입·출구 온도차는 1.2℃ 발생하였다. 브라인수 입구 온도는 26.6℃, 출구 온도는 28.4℃로 평균 입·출구 온도차는 1.8℃ 발생하였으며 측정 당시 외기온도 평균은 30.9℃ 였다.\n\n2층 수열시스템의 하천수 평균 입구 온도는 23.7℃, 출구 온도는 25.5℃로 평균 입·출구 온도차는 1.8.℃ 발생하였다. 브라인수 입구 온도는 24.5℃, 출구온도는 27.1℃로 평균 입·출구 온도차는 2.6℃ 발생하였으며 측정 당시 외기온도는 평균 24.7℃ 였다.",
+    "blockRange": [
+      665,
+      667
+    ],
+    "page": 86
+  },
+  {
+    "id": "c0233",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "**표 3.15 7월 1층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 26.7 | 27.9 | 1.4 | 97.9 | ‘20.07.21<br>(14:55\\~<br>16:08) |\n| 원수 | 최소 | 26.2 | 27.6 | 1.1 | 92.2 | ‘20.07.21<br>(14:55\\~<br>16:08) |\n| 원수 | 평균 | 26.5 | 27.7 | 1.2 | 97.4 | ‘20.07.21<br>(14:55\\~<br>16:08) |\n| 브라인수 | 최대 | 26.7 | 28.5 | 2 | 96.4 | ‘20.07.21<br>(14:55\\~<br>16:08) |\n| 브라인수 | 최소 | 26.4 | 28.2 | 1.6 | 94.1 | ‘20.07.21<br>(14:55\\~<br>16:08) |\n| 브라인수 | 평균 | 26.6 | 28.4 | 1.8 | 95.7 | ‘20.07.21<br>(14:55\\~<br>16:08) |\n| 외기 | 평균 | 30.9 |  |  |  | ‘20.07.21<br>(14:55\\~<br>16:08) |",
+    "blockRange": [
+      668,
+      668
+    ],
+    "page": 86,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0234",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.1.2.1.5 2020년 1월 난방데이터"
+    ],
+    "text": "**표 3.16 7월 2층 수열시스템 측정값**\n\n|  |  | 온도(℃) |  | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 입구 | 출구 | 입・출구<br>온도차<br>(℃) | 유량<br>(LPM) | 취득<br>기간 |\n| 원수 | 최대 | 23.7 | 25.6 | 1.9 | 115.3 | ‘20.07.22<br>(09:50\\~<br>10:32) |\n| 원수 | 최소 | 23.6 | 25.4 | 1.7 | 113.0 | ‘20.07.22<br>(09:50\\~<br>10:32) |\n| 원수 | 평균 | 23.7 | 25.5 | 1.8 | 114.6 | ‘20.07.22<br>(09:50\\~<br>10:32) |\n| 브라인수 | 최대 | 24.6 | 27.2 | 2.7 | 117.9 | ‘20.07.22<br>(09:50\\~<br>10:32) |\n| 브라인수 | 최소 | 24.5 | 26.9 | 2.3 | 115.5 | ‘20.07.22<br>(09:50\\~<br>10:32) |\n| 브라인수 | 평균 | 24.5 | 27.1 | 2.6 | 117.1 | ‘20.07.22<br>(09:50\\~<br>10:32) |\n| 외기 | 평균 | 24.7 |  |  |  | ‘20.07.22<br>(09:50\\~<br>10:32) |",
+    "blockRange": [
+      669,
+      669
+    ],
+    "page": 87,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0235",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석"
+    ],
+    "text": "## 3.2 수열시스템 데이터 분석",
+    "blockRange": [
+      670,
+      670
+    ],
+    "page": 88
+  },
+  {
+    "id": "c0236",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2 수열시스템 데이터 분석"
+    ],
+    "text": "### 3.2.1 계절별 성능변화",
+    "blockRange": [
+      671,
+      671
+    ],
+    "page": 88
+  },
+  {
+    "id": "c0237",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2 수열시스템 데이터 분석",
+      "3.2.1 계절별 성능변화"
+    ],
+    "text": "수열시스템을 활용한 난방 및 냉방시 성능계수를 분석하였다. 성능계수는 COPunit, COPH.P+B.P, COPsystem 으로 구분하였으며 COPunit은 수열시스템의 히트펌프 소비전력만 고려, COPH.P+B.P 는 히트펌프와 브라인 순환펌프 소비전력만 고려, COPsystem는 히트펌프와 브라인 순환펌프 및 하천수 취수펌프 소비전력을 모두 고려한 시스템 성능계수를 나타낸다.\n\n3.2.1.1 난방\n\n난방 취득기간인 ‘19.11 \\~ ’20.1 동안 수열시스템 성능계수 변화를 아래 표와 같이 표시하였다. 1층 수열시스템의 하천수 수온은 11월 9.1℃, 12월 6.8℃, 1월 5.0℃로 감소함에 따라 COPunit도 11월 2.22, 12월 1.89, 1월 1.77로 감소하는 것으로 분석되었다. 2층 수열시스템 역시 하천수 수온이 11월 11.2℃, 12월 7.6℃, 1월 6.7℃로 감소함에 따라 COPunit도 11월 2.61, 12월 2.13, 1월 2.29로 감소하였다.\n\n따라서 난방시에는 수열에너지시스템으로 유입되는 열원수 온도가 낮아질수록 성능도 떨어지는 것을 확인할 수 있다.",
+    "blockRange": [
+      672,
+      675
+    ],
+    "page": 88
+  },
+  {
+    "id": "c0238",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2 수열시스템 데이터 분석",
+      "3.2.1 계절별 성능변화"
+    ],
+    "text": "**표 3.17 수열시스템 난방 COP**\n\n| 항 목 | 1층 |  |  | 2층 |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 항 목 | ‘19.11 | ‘19.12 | ‘20.01 | ‘19.11 | ‘19.12 | ‘20.01 |\n| 수온(℃) | 9.1 | 6.8 | 5.0 | 11.2 | 7.6 | 6.7 |\n| 온도차(℃) | 1.13 | 0.98 | 0.91 | 1.74 | 1.23 | 1.40 |\n| COPunit | 2.22 | 1.89 | 1.77 | 2.61 | 2.13 | 2.29 |\n| COPH.P+B.P | 1.89 | 1.65 | 1.56 | 2.33 | 1.91 | 2.04 |\n| COPsystem | 1.17 | 1.08 | 1.04 | 2.02 | 1.65 | 1.77 |\n| (참고) 외기 | 12.9 | 16.6 | 5.6 | 9.1 | 7.5 | 6.4 |",
+    "blockRange": [
+      676,
+      676
+    ],
+    "page": 88,
+    "table": {
+      "rows": 8,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0239",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2 수열시스템 데이터 분석",
+      "3.2.1 계절별 성능변화"
+    ],
+    "text": "동절기에는 하천수 수온이 외기보다 높은 것이 일반적이나, 측정당시 일정기간은 하천수 수온이 외기보다 낮은 것으로 측정되었다. 11월 수열시스템 1층 운영데이터 취득시 오전 10시에는 하천수 수온은 8.9℃, 외기온도는 7.3℃로 하천수 수온이 더 높았으나 오후 17시는 하천수 수온이 9.8℃, 외기온도는 14℃로 외기 온도가 더 높게 측정되었다. COP 계산 결과 하천수 수온이 8.9℃였던 오전 10시는 2.04, 9.8℃였던 오후 17시는 2.53으로 도출되었다. 이를통해 비열이 작은 외기는 날씨 영향에 의해 온도가 크게 변화 되지만 비열이 높은 하천수는 상대적으로 변화량이 작으며, 난방 시에는 히트펌프로 유입되는 하천수 수온이 높고 온도차가 클 수록 COP가 향상되는 것을 추론할 수 있다.",
+    "blockRange": [
+      677,
+      677
+    ],
+    "page": 89
+  },
+  {
+    "id": "c0240",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석"
+    ],
+    "text": "## 3.2.1.2 냉방",
+    "blockRange": [
+      678,
+      678
+    ],
+    "page": 89
+  },
+  {
+    "id": "c0241",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방"
+    ],
+    "text": "냉방 취득기간인 ‘20.5 \\~ ’20.7 동안 수열시스템 성능계수 변화를 아래 표와 같이 표시하였다. 1층 수열시스템의 하천수 수온은 5월 20.8℃, 6월 24.5℃, 7월 24.7℃로 증가함에 따라 COPunit도 5월 2.39, 6월 2.10, 7월 2.13로 감소하는 것으로 분석되었다. 2층 수열시스템 역시 하천수 수온이 5월 20.0℃, 6월 24.3℃, 7월 24.5℃로 증가함에 따라 COPunit도 5월 4.92, 6월 3.51, 7월 3.49로 감소하였다.\n\n따라서 냉방시에는 수열에너지시스템으로 유입되는 열원수 온도가 높아질수록 성능도 떨어지는 것을 확인할 수 있다.",
+    "blockRange": [
+      679,
+      680
+    ],
+    "page": 89
+  },
+  {
+    "id": "c0242",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방"
+    ],
+    "text": "**표 3.18 수열시스템 냉방 COP**\n\n| 항 목 | 1층 |  |  | 2층 |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 항 목 | ‘20.05 | ‘20.06 | ‘20.07 | ‘20.05 | ‘20.06 | ‘20.07 |\n| 수온(℃) | 20.8 | 24.5 | 24.7 | 20.0 | 24.3 | 24.5 |\n| 온도차(℃) | 0.90 | 1.22 | 1.57 | 0.86 | 1.63 | 2.6 |\n| COPunit | 2.39 | 2.10 | 2.13 | 4.92 | 3.51 | 3.49 |\n| COPH.P+B.P | 1.50 | 1.48 | 1.64 | 2.60 | 2.61 | 2.89 |\n| COPsystem | 0.58 | 0.67 | 0.82 | 1.51 | 1.85 | 2.27 |\n| (참고) 외기 | 24.5 | 24.1 | 27.8 | 23.1 | 19.7 | 24.7 |",
+    "blockRange": [
+      681,
+      681
+    ],
+    "page": 89,
+    "table": {
+      "rows": 8,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0243",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방"
+    ],
+    "text": "### 3.2.2 탁도별 성능변화",
+    "blockRange": [
+      682,
+      682
+    ],
+    "page": 90
+  },
+  {
+    "id": "c0244",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방",
+      "3.2.2 탁도별 성능변화"
+    ],
+    "text": "수열에너지시스템의 취수지점인 에코필터링T/B의 천변저류지(평강천 유입부)와 저류수조(평강천 유출부)의 탁도를 비교하고 탁도에 따라 COP 성능이 어떻게 변화되는지 분석하였다.\n\n‘18년 9월부터 ’20년 3월까지 에코필터링T/B 모듈별 탁도 분석 결과 천변저류지(평강천 유입부) 탁도는 평균 9.81, 저류수조(평강천 유출부) 탁도는 평균 1.27로 저류수조가 천변저류지에 비해 약 7.7배 탁도가 좋은 것으로 분석되었다.\n\n이물질이 많고 탁도가 나쁜 천변저류지에서 취수한 수열시스템의 COP 분석 결과 시간에 따라 COP가 감소하는 것으로 나타났다. 냉방시 가동직후 브라인수 온도는 25.4℃ 였으나 가동 후 180분 경과시 31.8℃로 6.4℃ 상승되었으며 COP는 가동직후 2.60에서 1.88로 28% 감소하였다. 난방시 가동직후 브라인수 온도는 9.4℃ 였으나 가동 후 220분 경과시 7.3℃로 2.1℃ 감소하였으며 COP는 가동직후 2.76에서 2.05로 26% 감소하였다.",
+    "blockRange": [
+      683,
+      685
+    ],
+    "page": 90
+  },
+  {
+    "id": "c0245",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방",
+      "3.2.2 탁도별 성능변화"
+    ],
+    "text": "**표 3.19 탁도에 따른 수열시스템 COP 변화**\n\n| 천변저류지<br>(2층) | 냉방 |  | 난방 |  |\n| --- | --- | --- | --- | --- |\n| 천변저류지<br>(2층) | 가동 직후 | 가동 후 180분 | 가동 직후 | 가동 후 220분 |\n| 브라인 온도 (℃) | 25.4 | 31.8 (6.4↑) | 9.4 | 7.3 (2.1↓) |\n| COP | 2.60 | 1.88 (28%↓) | 2.76 | 2.05 (26%↓) |",
+    "blockRange": [
+      686,
+      686
+    ],
+    "page": 90,
+    "table": {
+      "rows": 4,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0246",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방",
+      "3.2.2 탁도별 성능변화"
+    ],
+    "text": "COP가 감소한 원인으로는 이물질로 인해 하천수 유량 저하에 따른 냉방시 브라인수 온도의 지속 상승, 난방시 지속 하강과 취수펌프 소비전력의 상승 때문으로 추정된다. 천변저류지의 취수펌프는 이물질로 인해 소비전력이 ‘19년 9월 1.38kW에서 ’20년 5월 1.62kW로 지속적으로 상승되었다.\n\n천변저류지에서 취수한 수열시스템의 운영시 하천수 수열의 온도차가 최대 8.9℃까지 증가하였으며 이 때 하천수와 브라인수 취득 데이터는 아래 표와 같다.",
+    "blockRange": [
+      687,
+      688
+    ],
+    "page": 90
+  },
+  {
+    "id": "c0247",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방",
+      "3.2.2 탁도별 성능변화"
+    ],
+    "text": "**표 3.20 천변저류지 취수 하천수 수열시스템 열량**\n\n| 하천수 |  |  |  |  | 브라인 |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 유량<br>(m3/s) | 밀도<br>(kg/m3) | 비열<br>(kJ/kg·℃) | 온도차<br>(℃) | 열량<br>(kJ/s) | 유량<br>(m3/s) | 밀도<br>(kg/m3) | 비열<br>(kJ/kg·℃) | 온도차<br>(℃) | 열량<br>(kJ/s) |\n| 0.002 | 1000 | 4.184 | 8.9 | 74.48 | 0.002 | 1000 | 4.184 | 1.6 | 13.40 |",
+    "blockRange": [
+      689,
+      689
+    ],
+    "page": 90,
+    "table": {
+      "rows": 3,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0248",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방",
+      "3.2.2 탁도별 성능변화"
+    ],
+    "text": "브라인은 부동액을 넣지 않은 물을 사용했기 때문에 하천수와 브라인의 유량이 같다면 열교환시 유사한 온도차가 발생하여야 한다. 그러나 브라인 온도차가 1.6℃ 발생한 것에 비해 하천수 온도차는 8.9℃까지 증가한 것은 하천수 유량 감소한 것으로 추측할 수 있으며, 이러한 유량 변화가 적절히 측정되지 않은 것으로 보여진다.\n\n그림3.1과 3.2은 냉방과 난방시 시간경과에 따른 브라인 온도와 COP 변화를 나타낸다. 브라인 온도가 상승 또는 하강하는 시간동안 COP가 하락하는 것으로 확인되었다.\n\n그림 3.1 시간경과에 따른 브라인 온도 및 COP 변화 (냉방)\n\n그림 3.2 시간경과에 따른 브라인 온도 및 COP 변화 (난방)\n\n\n![image](image_059.png)\n\n\n![image](image_060.png)\n\n그림3.3과 3.4은 비교를 위해 탁도가 좋은 저류수조의 COP 변화를 분석한 결과로 가동시간 경과에 따른 COP 변화는 미미한 것으로 도출되었다.",
+    "blockRange": [
+      690,
+      696
+    ],
+    "page": 91
+  },
+  {
+    "id": "c0249",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방",
+      "3.2.2 탁도별 성능변화"
+    ],
+    "text": "**표 3.21 탁도에 따른 수열시스템 COP 변화**\n\n| 천변저류지<br>(2층) | 냉방 |  | 난방 |  |\n| --- | --- | --- | --- | --- |\n| 천변저류지<br>(2층) | 가동 직후 | 가동 후 210분 | 가동 직후 | 가동 후 150분 |\n| 브라인 온도 (℃) | 25.6 | 26.8 (1.2↑) | 9.2 | 9.8 (0.6↑) |\n| COP | 1.90 | 1.78 (6%↓) | 2.32 | 2.53 (9%↑) |",
+    "blockRange": [
+      697,
+      697
+    ],
+    "page": 92,
+    "table": {
+      "rows": 4,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0250",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.2.1.2 냉방",
+      "3.2.2 탁도별 성능변화"
+    ],
+    "text": "그림 3.3 시간경과에 따른 브라인 온도 및 COP 변화 (냉방)\n\n그림 3.4 시간경과에 따른 브라인 온도 및 COP 변화 (난방)\n\n\n![image](image_061.png)\n\n\n![image](image_062.png)",
+    "blockRange": [
+      698,
+      701
+    ],
+    "page": 92
+  },
+  {
+    "id": "c0251",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석"
+    ],
+    "text": "## 3.3 수열 및 전기 냉난방시스템 비교",
+    "blockRange": [
+      702,
+      702
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0252",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.3 수열 및 전기 냉난방시스템 비교"
+    ],
+    "text": "부산EDC 에코필터링T/B 건물동은 수열 히트펌프와 전기 히트펌프의 성능을 비교하기 위해 동일용량과 개수의 전기, 수열 히트펌프가 구축되어 있다.\n\n당초 본 연구과제를 통해 수열시스템과 전기시스템의 COP를 비교하기 위해 냉매 측 배관에 유량계, 압력계, 온도계를 설치하였으나 냉방, 난방시 냉매 유량의 변화폭이 크고 수열시스템의 물측 COP와 냉매측 COP 차이가 많이 발생하여 데이터 신뢰성 확보의 어려움이 발생하였다.\n\n수열과 전기 냉난방 시스템 비교를 위해서는 각각의 COP를 도출하여 비교해야 하지만 데이터 신뢰성 저하로 외기온도가 유사할 때 히트펌프의 소비전력만으로 단순 비교 하였다.\n\n히트펌프 소비전력만 비교하였을 때 냉방시 수열이 전기 히트펌프에 비해 41% 적게 소모되었다. 다만 6월은 측정 당시 외기 온도에 비해 하천수 수온이 높아 수열 히트펌프가 전기 히트펌프보다 소비전력이 높게 측정되었다.\n\n수열 냉난방시스템 구동을 위해서는 히트펌프 외에 브라인 순환펌프와 취수펌프가 추가적으로 필요하다. 시스템 소비전력으로 비교했을 때는 냉방시 수열이 전기 냉난방시스템에 비해 1층이 2.1배, 2층이 1.4배 많이 소비하는 것으로 도출되었다.\n\n금번 연구과제를 통해 구축된 수열시스템의 순환펌프와 취수펌프는 규격품을 사용함에 따라 최적 운영점에서 벗어난 지점에서 운영 중이다. 1층 수열시스템의 취수펌프 효율은 17.5%, 순환펌프 효율은 44.5% 이며 2층 수열시스템의 취수펌프 효율은 32.2%, 순환펌프 효율은 44.5%로 낮은 지점에서 운영되었다. 이를 통해 수열시스템의 구성 중 순환펌프와 취수펌프의 효율이 전체 시스템 성능에 미치는 영향을 큰 것을 알 수 있다.",
+    "blockRange": [
+      703,
+      708
+    ],
+    "page": 93
+  },
+  {
+    "id": "c0253",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.3 수열 및 전기 냉난방시스템 비교"
+    ],
+    "text": "**표 3.22 수열 및 전기 냉방시스템 소비전력 비교(9,10월)**\n\n| 전력량<br>(kWh) | 9월 |  |  |  | 10월 |  |  |  | 비고 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 전력량<br>(kWh) | 1층 |  | 2층 |  | 1층 |  | 2층 |  | 비고 |\n| 전력량<br>(kWh) | 수열 | 전기 | 수열 | 전기 | 수열 | 전기 | 수열 | 전기 | 비고 |\n| 히트펌프 | 2.9 | 3.8 | 4.0 | 5.5 | 1.5 | 4.2 | 1.2 | 2.8 | 50분 |\n| 순환펌프 | 0.9 |  | 0.9 |  | 0.9 |  | 0.8 |  | 50분 |\n| 취수펌프 | 3.7 |  | 1.2 |  | 3.8 |  | 1.2 |  | 50분 |\n| 합계 | 7.5 |  | 6.1 | 5.5 | 6.2 | 4.2 | 3.2 | 2.8 | 50분 |\n| 외기온도 | 25.6 |  | 23.0 | 23.0 | 18.7 | 17.3 | 18.9 | 18.7 | 50분 |",
+    "blockRange": [
+      709,
+      709
+    ],
+    "page": 93,
+    "table": {
+      "rows": 8,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0254",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.3 수열 및 전기 냉난방시스템 비교"
+    ],
+    "text": "**표 3.23 수열 및 전기 냉방시스템 소비전력 비교(5,6월)**\n\n| 전력량<br>(kWh) | 5월 |  |  |  | 6월 |  |  |  | 비고 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 전력량<br>(kWh) | 1층 |  | 2층 |  | 1층 |  | 2층 |  | 비고 |\n| 전력량<br>(kWh) | 수열 | 전기 | 수열 | 전기 | 수열 | 전기 | 수열 | 전기 | 비고 |\n| 히트펌프 | 1.2 | 1.5 | 0.9 | 2.0 | 2.3 | 2.0 | 3.3 | 1.6 | 40분 |\n| 순환펌프 | 0.7 |  | 0.7 |  | 0.7 |  | 0.6 |  | 40분 |\n| 취수펌프 | 3.0 |  | 1.0 |  | 3.0 |  | 0.9 |  | 40분 |\n| 합계 | 4.9 | 1.5 | 2.6 | 2.0 | 6.0 | 2.0 | 4.8 | 1.6 | 40분 |\n| 외기온도 | 24.5 | 24.8 | 23.1 | 23.6 | 27.7 | 27.7 | 26.9 | 26.7 | 40분 |",
+    "blockRange": [
+      710,
+      710
+    ],
+    "page": 94,
+    "table": {
+      "rows": 8,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0255",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.3 수열 및 전기 냉난방시스템 비교"
+    ],
+    "text": "난방시 히트펌프의 소비전력을 비교했을 때 수열 및 전기 히트펌프의 전력소비량이 유사하거나 수열이 최대 29% 많이 소요되었다.",
+    "blockRange": [
+      711,
+      711
+    ],
+    "page": 94
+  },
+  {
+    "id": "c0256",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.3 수열 및 전기 냉난방시스템 비교"
+    ],
+    "text": "**표 3.24 수열 및 전기 난방시스템 소비전력 비교(11월, 12월)**\n\n| 전력량<br>(kWh) | 11월 |  |  |  | 12월 |  |  |  | 비고 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 전력량<br>(kWh) | 1층 |  | 2층 |  | 1층 |  | 2층 |  | 비고 |\n| 전력량<br>(kWh) | 수열 | 전기 | 수열 | 전기 | 수열 | 전기 | 수열 | 전기 | 비고 |\n| 히트펌프 | 4.2 | 4.6 | 9.4 | 9.5 | 5.4 | 4.2 | 7.1 | 7.2 | 50분 |\n| 순환펌프 | 0.9 |  | 0.9 |  | 0.9 |  | 0.8 |  | 50분 |\n| 취수펌프 | 3.8 |  | 1.3 |  | 3.7 |  | 1.3 |  | 50분 |\n| 합계 | 8.9 | 4.6 | 11.6 | 9.5 | 10.0 | 4.2 | 9.2 | 7.2 | 50분 |\n| 외기온도 | 16.5 | 16.5 | 9.3 | 9.3 | 16.3 | 16.3 | 8.4 | 8.3 | 50분 |",
+    "blockRange": [
+      712,
+      712
+    ],
+    "page": 94,
+    "table": {
+      "rows": 8,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0257",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "3.3 수열 및 전기 냉난방시스템 비교"
+    ],
+    "text": "냉난방시 수열 및 전기 냉난방시스템 소비전력을 비교한 결과 6월과 12월을 제외하고 수열 히트펌프가 전기 히트펌프에 비해 소모량이 적었으며, 저감효과는 난방보다 냉방시 더 큰 것으로 확인되었다.\n\n4. 하천수 수열 현안사항 및 개선방안 도출",
+    "blockRange": [
+      713,
+      714
+    ],
+    "page": 94
+  },
+  {
+    "id": "c0258",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석"
+    ],
+    "text": "## 4.1 하천수 수열 현안사항",
+    "blockRange": [
+      715,
+      715
+    ],
+    "page": 95
+  },
+  {
+    "id": "c0259",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항"
+    ],
+    "text": "### 4.1.1 수온특성",
+    "blockRange": [
+      716,
+      716
+    ],
+    "page": 95
+  },
+  {
+    "id": "c0260",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.1 수온특성"
+    ],
+    "text": "에코필터링T/B 수열시스템 데이터 취득 기간인 ‘19년 9월부터 ’20년 3월까지 하천수 수온과 외기 온도를 비교해 보았다.\n\n대부분 하절기의 경우 하천수가 외기보다 온도가 낮고 동절기는 하천수가 외기보다 온도가 높아 수열시스템 운영에 유리한 조건을 갖는다.\n\n하지만 에코필터링T/B 수열시스템의 취수 깊이는 1m 이내로 외기의 영향을 많이 받으며, 비열이 작은 외기는 기상에 의해 온도의 영향이 큰 반면 하천수는 비열이 커 외기의 영향을 상대적으로 작게 받는다.\n\n다음 그림은 취득기간 동안의 하천수 수온과 외기 변화를 나타낸다. 겨울(11월\\~1\n\n월), 여름(6월) 일부 구간에서 하천수 수온이 외기보다 불리한 조건이 발생하는 것을 확인할 수 있다.\n\n그림 4.1 ‘19.9\\~’20.7 측정당시 외기온도 및 하천수 수온 비교\n\n\n![image](image_063.png)",
+    "blockRange": [
+      717,
+      723
+    ],
+    "page": 95
+  },
+  {
+    "id": "c0261",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.1 수온특성"
+    ],
+    "text": "**표 4.1 난방 및 냉방시 외기온도와 하천수 수온 비교**\n\n| 측정시간 | 11월 (난방) |  | 측정시간 | 6월 (냉방) |  |\n| --- | --- | --- | --- | --- | --- |\n| 측정시간 | 외기<br>온도 | 하천수<br>수온 | 측정시간 | 외기<br>온도 | 하천수<br>수온 |\n| 11/21 10:10 | 7.0 | 9.0 | 6/18 9:20 | <u>19.4</u> | <u>24.3</u> |\n| 11/21 10:15 | 7.3 | 8.9 | 6/18 9:25 | <u>19.7</u> | <u>24.4</u> |\n| 11/21 10:20 | 7.8 | 8.9 | 6/18 9:30 | <u>19.3</u> | <u>24.4</u> |\n| 11/21 10:25 | 7.5 | 8.9 | 6/18 9:35 | <u>19.1</u> | <u>24.4</u> |\n| 11/21 10:30 | 7.7 | 8.9 | 6/18 9:40 | <u>18.8</u> | <u>24.4</u> |\n| 11/21 10:35 | 8.3 | 8.9 | 6/18 9:45 | <u>18.8</u> | <u>24.4</u> |\n| 11/21 10:40 | 8.5 | 8.8 | 6/18 9:50 | <u>18.9</u> | <u>24.4</u> |\n| 11/21 10:45 | 8.9 | 8.7 | 6/18 9:55 | <u>18.8</u> | <u>24.4</u> |\n| 11/21 10:50 | 9.0 | 8.7 | 6/18 10:00 | <u>18.8</u> | <u>24.4</u> |\n| 11/21 10:55 | 9.3 | 8.7 | 6/18 10:05 | <u>18.8</u> | <u>24.4</u> |\n| 11/21 11:00 | 9.7 | 8.7 | 6/18 10:10 | <u>18.8</u> | <u>24.4</u> |\n| 11/21 11:05 | 9.6 | 8.6 | 6/18 10:15 | <u>18.8</u> | <u>24.4</u> |\n| 11/21 11:10 | 9.6 | 8.6 | 6/18 10:20 | <u>19.1</u> | <u>24.4</u> |\n| 11/21 11:15 | <u>10.0</u> | 8.5 | 6/18 10:25 | <u>19.1</u> | <u>24.4</u> |\n| 11/21 11:20 | <u>10.0</u> | 8.5 | 6/18 10:30 | <u>19.1</u> | <u>24.3</u> |\n| 11/21 11:25 | <u>10.2</u> | 8.5 | 6/18 10:35 | <u>19.3</u> | <u>24.3</u> |\n| 11/21 11:30 | <u>10.3</u> | 8.5 | 6/18 10:40 | <u>19.4</u> | <u>24.3</u> |\n| 11/21 11:35 | <u>10.8</u> | 8.4 | 6/18 10:45 | <u>19.8</u> | <u>24.3</u> |\n| 11/21 11:40 | <u>10.7</u> | 8.4 | 6/18 10:50 | <u>20.1</u> | <u>24.3</u> |\n| 11/21 11:45 | <u>11.1</u> | 8.3 | 6/18 10:55 | <u>20.5</u> | <u>24.3</u> |\n| 11/21 11:50 | <u>11.1</u> | 8.3 | 6/18 11:00 | <u>20.4</u> | <u>24.3</u> |\n| 11/21 11:55 | <u>11.3</u> | 8.3 | 6/18 11:05 | <u>20.3</u> | <u>24.3</u> |",
+    "blockRange": [
+      724,
+      724
+    ],
+    "page": 96,
+    "table": {
+      "rows": 24,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0262",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.1 수온특성"
+    ],
+    "text": "하천수 수온 비교를 위해 에코필터링T/B 평강천 주변지역 하천수와 수온을 비교해 보았다. 에코필터링 T/B 평강천 수온은 주변 하천과 평균 수온은 유사한 수준이나 주변 하천에 비해 물 흐름이 정체되어 있고 체적이 작아 겨울철 온도 변화량이 큰 것으로 나타났다.",
+    "blockRange": [
+      725,
+      725
+    ],
+    "page": 97
+  },
+  {
+    "id": "c0263",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.1 수온특성"
+    ],
+    "text": "**표 4.2 에코필터링T/B 하천수 및 인근 하천수 평균수온 비교**\n\n| 위치 | ‘19.9 | ‘19.10 | ‘19.11 | ‘19.12 | ‘20.01 | ‘20.05 | ‘20.06 | 수심 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 신하구둑 | 21.3 | 19.3 | 13.7 | 9.0 | 5.1 | 18.7 | 25.6 | 4\\~5m |\n| 맥도수문 | 21.5 | 19.2 | 11.7 | 7.7 | 4.5 | 20.9 | 24.0 | 1m 내 |\n| 순아수문 | 20.8 | 18.3 | 10.6 | 7.0 | 5.0 | 20.7 | 24.7 | 1\\~2m |\n| 에코필터링<br>T/B<br>(천변저류지) | 22.8 | 18.0 | 11.2 | 7.6 | 3.9 | 20.8 | 24.3 | 1m |",
+    "blockRange": [
+      726,
+      726
+    ],
+    "page": 97,
+    "table": {
+      "rows": 5,
+      "cols": 9
+    }
+  },
+  {
+    "id": "c0264",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.1 수온특성"
+    ],
+    "text": "그림 4.2 평강천 인근 하천수 수온 측정지점\n\n\n![image](image_064.png)",
+    "blockRange": [
+      727,
+      728
+    ],
+    "page": 97
+  },
+  {
+    "id": "c0265",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.1 수온특성"
+    ],
+    "text": "**표 4.3 동절기 및 하절기 시간경과에 따른 하천수, 수온 변화**\n\n| 1월 (동절기) | 6월 (하절기) |\n| --- | --- |\n|  |  |",
+    "blockRange": [
+      729,
+      729
+    ],
+    "page": 98,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0266",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항"
+    ],
+    "text": "### 4.1.2 부대설비 소요전력",
+    "blockRange": [
+      730,
+      730
+    ],
+    "page": 98
+  },
+  {
+    "id": "c0267",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.2 부대설비 소요전력"
+    ],
+    "text": "수열에너지 냉난방 시스템 구동을 위해서는 히트펌프 외에 열원 공급을 위한 취수 펌프, 열교환기와 히트펌프를 사이의 브라인 순환을 위한 순환펌프가 부가적으로 필요하다.\n\n에코필터링T/B 수열시스템의 히트펌프와 부대설비(취수펌프, 순환펌프)의 전력소비량은 아래와 같다.",
+    "blockRange": [
+      731,
+      732
+    ],
+    "page": 98
+  },
+  {
+    "id": "c0268",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.2 부대설비 소요전력"
+    ],
+    "text": "**표 4.4 수열 히트펌프 및 부대설비 전력소비량 (냉방)**\n\n| 전력량<br>(kWh) | 1층 |  |  |  | 2층 |  |  |  | 비고 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 전력량<br>(kWh) | 9월 | 10월 | 5월 | 6월 | 9월 | 10월 | 5월 | 6월 | 비고 |\n| 히트펌프 | 2.9 | 1.5 | 1.2 | 2.3 | 4.0 | 1.2 | 0.9 | 3.3 | 냉방 |\n| 부대설비 | 4.6 | 4.7 | 3.7 | 3.7 | 2.1 | 2.0 | 1.7 | 1.5 | 냉방 |\n| 부대설비<br>비중(%) | 61 | 76 | 76 | 62 | 34 | 63 | 65 | 31 | 냉방 |",
+    "blockRange": [
+      733,
+      733
+    ],
+    "page": 98,
+    "table": {
+      "rows": 5,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0269",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.2 부대설비 소요전력"
+    ],
+    "text": "**표 4.5 수열 히트펌프 및 부대설비 전력소비량 (난방)**\n\n| 전력량<br>(kWh) | 1층 |  | 2층 |  | 비고 |\n| --- | --- | --- | --- | --- | --- |\n| 전력량<br>(kWh) | 11월 | 12월 | 11월 | 12월 | 비고 |\n| 히트펌프 | 4.2 | 5.4 | 9.4 | 7.1 | 난방 |\n| 부대설비 | 4.7 | 4.6 | 2.2 | 2.1 | 난방 |\n| 부대설비<br>비중(%) | 53 | 46 | 19 | 23 | 난방 |",
+    "blockRange": [
+      734,
+      734
+    ],
+    "page": 98,
+    "table": {
+      "rows": 5,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0270",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.2 부대설비 소요전력"
+    ],
+    "text": "![image](image_065.png)\n\n\n![image](image_066.png)\n\n부대설비 비중을 분석한 결과 냉방·난방 수요가 비교적 적은 5월, 10월은 히트펌프 대비 부대설비가 전체 소비전력의 최대 76%를 차지하였으며 냉방·난방 수요가 높은 11월, 12월은 부대설비가 최소 19%를 차지하였다. 부대설비 비중이 크게 차이나는 이유는 부대설비의 소비전력은 항상 일정하나 히트펌프 소비전력은 냉난방 부하에 따라 크게 달라지기 때문이다.\n\n금번 연구과제를 위해 구축한 에코필터링T/B 수열시스템의 부대설비(취수펌프, 브라인펌프)는 히트펌프 냉난방 수요에 대한 인버터 제어가 불가하며 저효율점에서 운영 등 불리한 조건을 가지고 있다. 1층 수열시스템의 취수펌프 효율은 17.5%, 2층 수열시스템의 취수펌프 효율은 32.2%로 낮은 지점에서 운영되었다.\n\n수열시스템의 부대설비는 실증지 여건에 따라 달라지며 향후 사업화를 위해서는 냉난방 수요량에 따라 열원수 취수량이 제어 가능해야 하며 원심펌프 사용 등을 통해 고효율점에서 운영되도록 개선되어야 한다.\n\n제조사 성능데이터에 따르면 정격운전시 수열 히트펌프와 전기 히트펌프의 능력, 소비전력, COP는 아래와 같다.",
+    "blockRange": [
+      735,
+      740
+    ],
+    "page": 98
+  },
+  {
+    "id": "c0271",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.2 부대설비 소요전력"
+    ],
+    "text": "**표 4.6 수열 히트펌프 제조사 성능데이터**\n\n|  | 10 RT (1층) |  |  | 12 RT (2층) |  |  | 기준 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 능력<br>(kW) | 소비전력<br>(kW) | COP | 능력<br>(kW) | 소비전력<br>(kW) | COP | 기준 |\n| 냉방 | 29.0 | 5.28 | 5.49 | 34.8 | 6.70 | 5.19 | · 실내 27℃ DB<br>/ 19℃ WB<br>· 열원수 입구온도<br>30℃ 기준 |\n| 난방 | 32.6 | 5.54 | 5.88 | 39.2 | 7.00 | 5.60 | · 실내 20℃ DB<br>/ 15℃ WB<br>· 열원수 입구온도<br>20℃ 기준 |",
+    "blockRange": [
+      741,
+      741
+    ],
+    "page": 99,
+    "table": {
+      "rows": 4,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0272",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.2 부대설비 소요전력"
+    ],
+    "text": "**표 4.7 전기 히트펌프 제조사 성능데이터**\n\n|  | 10 RT (1층) |  |  | 12 RT (2층) |  |  | 기준 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 능력<br>(kW) | 소비전력<br>(kW) | COP | 능력<br>(kW) | 소비전력<br>(kW) | COP | 기준 |\n| 냉방 | 29.2 | 6.60 | 4.42 | 34.8 | 9.00 | 3.87 | · 실내 27℃ DB<br>/ 19℃ WB<br>· 실외 35℃ DB<br>/ 24℃ WB |\n| 난방 | 32.8 | 7.20 | 4.56 | 39.2 | 9.50 | 4.13 | · 실내 20℃ DB<br>/ 15℃ WB<br>· 실외 7℃ DB<br>/ 6℃ WB |",
+    "blockRange": [
+      742,
+      742
+    ],
+    "page": 99,
+    "table": {
+      "rows": 4,
+      "cols": 8
+    }
+  },
+  {
+    "id": "c0273",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.2 부대설비 소요전력"
+    ],
+    "text": "제조사 성능데이터에 따르면 10RT 용량의 수열 및 전기 히트펌프에 대하여 냉방시 수열이 전기 히트펌프에 비해 1.24배, 난방시 1.29배 성능이 좋은 것으로 나타났고 12RT 용량의 수열 및 전기 히트펌프의 경우 수열이 전기에 비해 냉방시 1.34배, 난방시 1.36배 좋은 것으로 나타났다. 이는 동일한 능력을 발휘한다고 가정했을 때 전기 히트펌프가 수열에 비해 24\\~36% 전력소비량이 많다는 것을 의미한다.\n\n하지만, 전체 냉난방시스템을 비교하게 된다면, 전기 히트펌프는 Fan의 소요동력을 포함하고 있으므로, 수열에너지 시스템도 히트펌프, 취수펌프, 브라인펌프의 소요동력을 합산하여 비교하여야 한다. 앞에서도 기술한 바와 같이 본 과제에서의 취수펌프와 브라인펌프의 효율은 극히 낮게 적용되었는바, 본 과제에서 취득된 취수 및 브라인펌프 소요동력을 직접 비교하는 것에는 한계가 있다고 판단되며, 수열에너지 시스템이 전기 히트펌프 시스템에 비하여 전력소비를 절감하기 위하여는 브라인 및 취수펌프 소요동력을 전체 수열시스템의 20\\~30% 이내로 제어하는 것이 필요하다.",
+    "blockRange": [
+      743,
+      744
+    ],
+    "page": 100
+  },
+  {
+    "id": "c0274",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항"
+    ],
+    "text": "### 4.1.3 취수설비 유지관리",
+    "blockRange": [
+      745,
+      745
+    ],
+    "page": 100
+  },
+  {
+    "id": "c0275",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.3 취수설비 유지관리"
+    ],
+    "text": "이물질 등이 포함되어 있는 하천수를 열원으로 하는 수열시스템 운영을 위해서는 취수설비에 대한 유지관리가 필수적이다.\n\n금번 연구과제를 통한 수열시스템 구축시 하천수 이물질을 걸러주기 위한 스트레이너를 하천수 유입배관에 설치하였으며 매월 분해하여 청소를 수행하였다. 저류지 스트레이너는 분해시 이물질이 많아 유량 흐름이 원활하지 않은 상태였으며 최종저류조 스트레이너는 이물질이 거의 확인되지 않았다.\n\n하천수의 이물질에 의한 영향으로 열교환기 효율저하, 유량감소 등에 의한 수열에너지시스템 COP가 감소하는 것으로 분석됨에 따라 하천수를 활용한 수열시스템의 사업화를 위하여 취수설비에 대한 추가 연구가 필요하다.",
+    "blockRange": [
+      746,
+      748
+    ],
+    "page": 100
+  },
+  {
+    "id": "c0276",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.3 취수설비 유지관리"
+    ],
+    "text": "| 저류수조(처리수) 스트레이너 | 저류조(평강천 원수) 스트레이너 |\n| --- | --- |\n|  |  |\n\n**그림 4.3 스트레이너 이물질 비교**",
+    "blockRange": [
+      749,
+      749
+    ],
+    "page": 100,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0277",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.3 취수설비 유지관리"
+    ],
+    "text": "![image](image_067.png)\n\n\n![image](image_068.png)",
+    "blockRange": [
+      750,
+      751
+    ],
+    "page": 100
+  },
+  {
+    "id": "c0278",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항"
+    ],
+    "text": "### 4.1.4 동절기 히트펌프 동파 위험",
+    "blockRange": [
+      752,
+      752
+    ],
+    "page": 101
+  },
+  {
+    "id": "c0279",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.4 동절기 히트펌프 동파 위험"
+    ],
+    "text": "연중 하천수 온도가 가장 낮은 1월 수열시스템 운영시 열원수 온도가 5℃ 미만으로 떨어짐에 따라 히트펌프 가동이 중지되는 현상이 발생하였다.\n\n본 연구과제 히트펌프의 제조사(L사) 문의 결과 L사의 히트펌프는 열원수 온도가 낮은 경우 히트펌프 내부 열교환기 동파 방지를 위해 자동으로 트립되는 기능을 가지고 있는 것으로 나타났다.\n\n그림 4.4 동절기시 저수온 유입에 따른 히트펌프 가동중지\n\n동절기시 하천수 수열시스템 운영을 위해서는 브라인수에 동파방지 부동액 첨가가 필요하며 보조적으로 보일러와 혼용 운영이 필요할 것으로 사료된다.\n\n\n![image](image_069.png)\n\n\n![image](image_070.png)",
+    "blockRange": [
+      753,
+      758
+    ],
+    "page": 101
+  },
+  {
+    "id": "c0280",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항"
+    ],
+    "text": "### 4.1.5 수열 및 전기히트펌프 성능비교를 위한 냉매유량 측정",
+    "blockRange": [
+      759,
+      759
+    ],
+    "page": 102
+  },
+  {
+    "id": "c0281",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.5 수열 및 전기히트펌프 성능비교를 위한 냉매유량 측정"
+    ],
+    "text": "당초 본 연구과제 수행시 수열 및 전기 냉난방시스템의 성능비교를 위해 냉매측 엔탈피를 측정하여 COP를 비교하고자 하였다. 냉매측 엔탈피를 계산하기 위해서는 냉매유량, 압력, 온도를 측정해야 하므로 수열 및 전기 히트펌프 냉매 액관에 질량유량계를 설치하였고 냉매 액관·기체관에 압력계와 온도계를 설치하였다.",
+    "blockRange": [
+      760,
+      760
+    ],
+    "page": 102
+  },
+  {
+    "id": "c0282",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.5 수열 및 전기히트펌프 성능비교를 위한 냉매유량 측정"
+    ],
+    "text": "| 수열히트펌프 물측, 냉매측 COP | 전기히트펌프 냉매측 COP |\n| --- | --- |\n|  |  |\n\n**그림 4.5 전기 및 수열 히트펌프시스템 구성도**",
+    "blockRange": [
+      761,
+      761
+    ],
+    "page": 102,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0283",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.5 수열 및 전기히트펌프 성능비교를 위한 냉매유량 측정"
+    ],
+    "text": "본 보고서의 1.3.3절에 서술되어 있는 것과 같이 냉매 엔탈피를 통해 냉방시 수열 히트펌프의 COP를 계산한 결과 7.11으로 도출되었다. 엔탈피를 통한 COP의 신뢰성을 확인하기 위해 수열시스템의 물측 COP와 냉매측 COP를 비교한 결과 오차가 195% 발생하였다.",
+    "blockRange": [
+      762,
+      762
+    ],
+    "page": 102
+  },
+  {
+    "id": "c0284",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.5 수열 및 전기히트펌프 성능비교를 위한 냉매유량 측정"
+    ],
+    "text": "**표 4.8 수열시스템 물측, 냉매측 COP 비교**\n\n| 수열<br>히트펌프 | 물측 |  |  |  |  | 냉매측 |  |  | 비고 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 수열<br>히트펌프 | 유량<br>(m3/s) | 밀도<br>(kg/m3) | 비열<br>(kJ/kg\\*℃) | 온도차<br>(℃) | COP | 유량<br>(kg/s) | 엔탈피차<br>(kJ/kg) | COP | 비고 |\n| 냉방 | 0.002 | 1000 | 4.184 | 1.0 | 3.65 | 0.064 | 195.9 | 7.11 |  |\n| 난방 | 0.002 | 1000 | 4.184 | 1.2 | 2.69 | 측정불가 | 220.2 | 계산불가 |  |",
+    "blockRange": [
+      763,
+      763
+    ],
+    "page": 102,
+    "table": {
+      "rows": 4,
+      "cols": 10
+    }
+  },
+  {
+    "id": "c0285",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.1 하천수 수열 현안사항",
+      "4.1.5 수열 및 전기히트펌프 성능비교를 위한 냉매유량 측정"
+    ],
+    "text": "또한 난방시 냉매 유량이 냉방에 비해 크게 증가되었으며 유량계 측정범위를 초과하여 데이터 취득에 어려움이 있었다. 이는 액관의 냉매 유량 측정시 일부 기체가 섞여있어 정확한 냉매 유량 측정이 어려웠던 것으로 추측된다. 수열 히트펌프와 전기 히트펌프 각각의 COP를 도출하여 비교하는 것이 가장 정확하나 냉매 유량 측정의 어려움이 있어 단순 소비전력만으로 비교했기 때문에 정확한 비교에는 어려움이 있다.\n\n\n![image](image_071.png)\n\n\n![image](image_072.png)",
+    "blockRange": [
+      764,
+      766
+    ],
+    "page": 102
+  },
+  {
+    "id": "c0286",
+    "type": "heading",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석"
+    ],
+    "text": "## 4.2 하천수 수열 개선방안 도출",
+    "blockRange": [
+      767,
+      767
+    ],
+    "page": 103
+  },
+  {
+    "id": "c0287",
+    "type": "text",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.2 하천수 수열 개선방안 도출"
+    ],
+    "text": "본 연구를 통해 도출된 하천수 수열시스템의 제약사항을 극복하기 위한 개선방안 또는 추가적인 연구가 필요한 사항은 아래 표와 같다.",
+    "blockRange": [
+      768,
+      768
+    ],
+    "page": 103
+  },
+  {
+    "id": "c0288",
+    "type": "table",
+    "breadcrumb": [
+      "3. 데이터 취득 및 분석",
+      "4.2 하천수 수열 개선방안 도출"
+    ],
+    "text": "**표 4.9 하천수 수열 제약사항 및 개선방안**\n\n| 하천수 수열 | 제약사항 | 개선방안 |\n| --- | --- | --- |\n| ①<br>수열원 취수<br>및 열교환 | - 하천수 이물질 유입에 따른<br>설비효율 저하<br>- 취수 및 열교환 설비에 대한<br>지속적인 유지관리, 점검 필요 | - 이물질 필터기능 및 자동 역세척<br>(Back-flusing) 기능의 스트레이너 적용<br>- 취수 연계 열교환 시스템 개발,<br>수온·수질 모니터링 시스템 구축 |\n| ②<br>시스템 | - 연중 외기온도 보다 수온 조건이 불리한 경우 발생<br>- 수온조건, 냉난방부하량 등<br>입지 환경에 따른 시스템 최적<br>설계 필요 | - 실증지 여건(하천수 취수거리,<br>연중 수온, 냉난방부하량 등)에<br>따른 수열시스템 최적 설계<br>- 축열조를 활용한 열저장 및<br>저효율 조건시 공급<br>- 기타 신재생에너지(태양열 등)<br>복합열원 활용 |\n| ③<br>운영 | - 부대설비(취수펌프, 순환펌프)<br>전력 소모<br>- 히트펌프 냉난방 수요량에 따른<br>부대설비 최적제어 필요 | - 냉난방 부하에 따른 유량·부대설비 전력량 제어시스템 구축<br>- 시스템 요소설비(히트펌프, 열<br>교환기, 펌프, 제어시스템 등)<br>성능개선 |\n| ④<br>안정성 | - 동절기 저온의 하천수 유입시설비 동파위험 | - 열교환기 히팅시스템<br>- 친환경 냉매 사용<br>- 보일러 등 보조설비 활용 |",
+    "blockRange": [
+      769,
+      769
+    ],
+    "page": 103,
+    "table": {
+      "rows": 5,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0289",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 5. 결론 및 고찰",
+    "blockRange": [
+      770,
+      770
+    ],
+    "page": 104
+  },
+  {
+    "id": "c0290",
+    "type": "text",
+    "breadcrumb": [
+      "5. 결론 및 고찰"
+    ],
+    "text": "본 연구에서는 하천수를 열원으로 하는 수열에너지시스템 실증플랜트를 구축하여 계절별, 탁도별 성능을 취득 및 분석하였다.\n\n실증대상지인 부산EDC 에코필터링T/B는 친환경 수처리 모듈로 인근의 평강천을 취수하여 저류지, 조류매트, 천변습지, 천변여과 과정을 거쳐 깨끗해진 물을 다시 평강천으로 배출하게 된다. 본 연구에서는 수처리 모듈 중 평강천 원수가 유입되는 저류지와 최총 처리 후 방류되는 저류수조에서 각각 하천수를 취수하여 에코필터링 T/B 건물동 냉난방시스템을 운영하였다.\n\n수열시스템은 히트펌프와 열교환기 및 하천수를 취수하는 배수펌프, 열교환기와 히트펌프 사이를 순환시키는 원심펌프 등으로 구성되어 있으며 1층용 수열시스템과 2층용 수열시스템 각 1SET씩 구성하였다. 수열 히트펌프 용량은 기존에 설치되어져있는 전기 히트펌프와 동일하게 10RT 1대(1층용), 12RT 1대(2층용)이며, 취수펌프는 3.7kW(1층용), 1.5kW(2층용) 및 순환펌프는 0.75kW(1, 2층용)이다.\n\n수열시스템의 성능데이터 취득 및 분석을 위해 ‘19.9월부터 ’20.7월까지 매월 1회씩 수열하천수 입·출구온도 및 유량과 브라인수 입·출구온도 및 유량을 측정하여 성능계수를 도출하였다.\n\n하천수 수온별 성능분석 결과 난방시 1층 수열시스템의 유입 하천수 수온이 9.1℃→6.8℃→5.0℃로 감소함에 따라 COPunit도 2.22→1.89→1.77로 감소하는 것으로 분석되었다. 2층 역시 11.2℃→7.6℃→6.7℃로 감소할 때 COPunit은 2.61→2.13→2.29로 감소하는 경향을 나타냈다. 따라서 난방시 수열 히트펌프로 유입되는 열원수 온도가 낮아질수록 성능이 떨어지는 것으로 확인되었다.\n\n냉방시는 반대로 1층 수열시스템의 유입 하천수 수온이 20.8℃→24.5℃→24.7℃로 증가할 때 COPunit은 2.39→2.10→2.13로 감소하는 것으로 분석되었으며 2층 역시 수온이 20.0℃→24.3℃→24.5℃로 증가할 때 COPunit은 4.92→3.51→3.49로 감소하였다. 따라서 냉방시에는 수열 히트펌프로 유입되는 열원수 온도가 높아질수록 성능이 떨어지는 것을 확인할 수 있다.\n\n탁도에 따른 수열시스템 성능계수 변화 분석 결과 수열시스템 성능이 이물질에 의해 26%에서 28%까지 감소하는 것으로 나타났다. 이는 이물질이 유입될 경우 원수-브라인 열교환 저하 및 취수펌프의 소비전력 상승 때문인 것으로 추정된다.\n\n본 연구과제의 실증대상지인 에코필터링T/B 건물동에는 냉난방을 위해 동일 용량과 동일 대수의 전기, 수열 히트펌프 냉난방시스템이 구축되어 있으며 외기온도가 유사할 때 가동된 시간 동안 히트펌프 소비전력을 비교하였다. 냉방시는 수열 히트펌프의 소비전력이 전기에 비해 41% 적게 소모되었으며 난방시에는 유사하거나 수열이 최대 29% 많이 소요되었다. 6월과 12월을 제외하고 수열 히트펌프가 전기 히트펌프에 비해 전력 소모량이 적었으며, 저감효과는 난방보다 냉방시 더 큰 것으로 확인되었다. 다만 수열시스템은 히트펌프 외에 부대설비(취수펌프, 브라인펌프) 소비전력이 함께 고려되어야 한다.\n\n일반적으로 물이 공기보다 비열이 높은 특성을 가지고 있어 하절기에 하천수 수온은 외기 온도보다 낮고 동절기시 하천수 수온이 외기 온도보다 높다. 그러나 에코필터링T/B 수열시스템의 취수 깊이는 1m 이내로 외기의 영향을 많이 받으며 비열이 작은 외기는 기상에 의한 온도 변화의 영향이 큰 반면 하천수는 외기의 영향을 상대적으로 작게 받아 겨울(11월\\~1월)과 여름(6월) 일부 구간에서 하천수 수온이 외기보다 불리한 조건이 발생되었다.\n\n본 연구과제를 통해 도출한 하천수 수열시스템 성능분석을 토대로 향후 하천수 수열의 사업화 및 확대를 위해서는 몇가지 사항이 고려되어야 할 것이다.\n\n첫째. 수열시스템은 건물 냉난방 부하량에 따라 필요 유량과 온도차가 최적 설계되어야 한다. 특히 최적의 유량, 온도차로 운영될 수 있도록 부대설비가 히트펌프와 연동 및 제어될 수 있도록 설계하는 것이 필요하다.\n\n둘째. 하천수 수열시스템은 부대설비(취수펌프, 순환펌프, 열교환기 등)에 따라 성능이 크게 좌우된다. 따라서 펌프는 최고 효율점에서 운영될 수 있도록 설계되어야 하며 유지보수를 통한 효율 관리가 필요하다. 또한 열교환기 효율을 높여 발생 열량을 증대시킴으로써 시스템 성능을 높일 수 있다.\n\n셋째. 하천수는 수중생물 및 이물질이 다량 포함되어 있어 취수설비가 다른 수열시스템에 비해 중요하다. 이물질이 유입될 경우 유량이 원활히 흐르지 못하고 열교환기 효율이 떨어져 시스템 COP가 감소할 수 있어 스크린 및 자동 세척기능이 있는 스트레이너 사용이 필요하다.\n\n넷째. 일반적으로 비열이 큰 하천수를 외기에 비해 냉난방을 위한 유리한 조건을 가지고 있지만 수심이 깊지 않고 정체되어 있을 경우 일부기간은 외기에 비해 불리한 조건을 가지게 된다. 따라서 하천수를 활용할 경우 취수수심 및 지점 선정이 중요하며, 축열조 사용 및 기타 신재생에너지 열원 복합 사용을 통해 하천수 수열의 제약사항을 개선할 수 있다.",
+    "blockRange": [
+      771,
+      784
+    ],
+    "page": 104
+  },
+  {
+    "id": "c0291",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참고문헌",
+    "blockRange": [
+      785,
+      785
+    ],
+    "page": 106
+  },
+  {
+    "id": "c0292",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "1. 한국수자원공사, 수열 에너지를 활용한 도시 열 공급 모델 개발\n2. 산업통상자원부, 2017년도(2016년기준) 에너지 총 조사 보고서, 2018\n3. 한국에너지공단, 2018 에너지통계 핸드북, 2018\n4. 에너지경제연구원, 에너지통계 월보, VOL. 35-03, 2019.03\n5. 정성엽, 수열에너지 개론, 한국수자원공사, 2017\n6. 문경록, 운상국, 증기 분리식 예냉 증기압축 냉동 사이클의 성능 특성 연구, 2019년도 한국마린엔지니어링학회지, 2019\n7. 하종철, 황지환, 백인철, 정동수, 고효율 열펌프에서 하이드로카본 혼합냉매의 성능평가, 2004년도 대한설비공학회 학술발표대회논문집, 2004\n8. 손창효, 인버터 주파수 제어에 따른 CO2용 수냉식 열펌프의 성능 특성, 2010년도 한국산학기술학회논문지, 2010\n9. 장석준, 김필환, 김철수, 정효민, 정한식, 환경 친화형 자연냉매를 이용한 이 원냉동 시스템의 성능특성에 관한 연구, 2008년도 대한기계학회 춘추학술대회, 2008\n10. KS, B ISO 13256-1, 2002\n11. CEN, EUROPEAN STANDARD NBN EN 14511-1,2,3, 2008\n12. CIBSE, Surface water source heat pumps: Code of Practice for the UK, CP2, 2015\n13. CLIMESPACE-ENGIE, Cooling in the heart of the City, Publication of CLIMESPACE, 2018\n14. Andrey Soldatenkov, Equipment Design/Implementation of Air Source Heat Pump, Bachelor’s Thesis Energy Engineering, University of Applied Sciences, KYAMK, 2015\n15. C. T. Tran, P. Riviere, D. Marchio, C. Arzano-Daurelle, “Refrigerant-Based Measurement Method of Heat Pump Seasonal Performances”, International Journal of Refrigeration, 2012",
+    "blockRange": [
+      786,
+      800
+    ],
+    "page": 106
+  },
+  {
+    "id": "c0293",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참여연구원현황",
+    "blockRange": [
+      801,
+      801
+    ],
+    "page": 107
+  },
+  {
+    "id": "c0294",
+    "type": "table",
+    "breadcrumb": [
+      "참여연구원현황"
+    ],
+    "text": "| 연구원 | 참여내역 | 비 고 |\n| --- | --- | --- |\n| 현정재 | ◦연구업무총괄 (연구책임자)<br>◦참여내역<br>- 수열시스템 성능분석 방안 검토<br>- 수열시스템 성능데이터 분석 및 결과도출<br>- 최종 보고서 작성 | - '18.8 ～ '20.7<br>- K-water연구원<br>물인프라에너지연구소<br>- 042-870-7660 |\n| 오윤령 | ◦참여내역<br>- 수열시스템 성능분석 방안 검토<br>- 수열시스템 성능데이터 분석 및 결과도출<br>- 최종 보고서 작성 | - '18.8 ～ '20.7<br>- K-water연구원<br>물인프라에너지연구소<br>- 042-870-7662 |\n| 정재훈 | ◦참여내역<br>- 수열시스템 성능데이터 분석<br>- 하천수 수열 현안사항 검토 | - '20.3 ～ '20.7<br>- K-water연구원<br>물인프라에너지연구소<br>- 042-870-7663 |\n| 조연주 | ◦참여내역<br>- 수열 및 전기 냉난방시스템 설비 검토<br>- 수열시스템 성능데이터 분석 | - '18.8 ～ '20.7<br>- K-water연구원<br>물인프라에너지연구소<br>- 042-870-7668 |\n| 배강호 | ◦참여내역<br>- 수열시스템 성능데이터 분석<br>- 하천수 수열 현안사항 검토 | - '18.8 ～ '20.7<br>- K-water연구원<br>물인프라에너지연구소<br>- 042-870-7666 |\n| 김영준 | ◦참여내역<br>- 하천수 수열 현안사항 및 개선점 검토 | - '18.8 ～ '20.7<br>그린에너지처<br>- 042-629-3371 |\n| 정성엽 | ◦참여내역<br>- 하천수 수열 현안사항 및 개선점 검토 | - '18.8 ～ '20.7<br>그린에너지처<br>- 042-629-3372 |\n| 조해진 | ◦참여내역<br>- 하천수 수열 현안사항 및 개선점 검토 | - '18.8 ～ '20.7<br>스마트시티처<br>- 042-629-3313 |\n| 이상호 | ◦참여내역<br>- 수열시스템 성능분석 방안 검토<br>- 성능분석 결과 검토 | '18.8 ～ '20.7<br>수도개발처<br>- 042-629-3244 |\n| 장정훈 | ◦참여내역<br>- 수열 및 전기 냉난방시스템 설비 검토<br>- 성능데이터 취득 방안 검토 | - '18.8 ～ '20.7<br>부산에코델타시티사업단<br>- 051-220-0761 |\n| 안두원 | ◦참여내역<br>- 수열시스템 성능 데이터 취득 및 분석<br>- 과제 진행사항 회의 및 진도보고 실시<br>- 최종 보고서 작성 | - '18.8 ～ '20.7<br>- K-water연구원<br>물인프라에너지연구소<br>- 042-870-7675 |",
+    "blockRange": [
+      802,
+      802
+    ],
+    "page": 107,
+    "table": {
+      "rows": 12,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0295",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 서지자료",
+    "blockRange": [
+      803,
+      803
+    ],
+    "page": 109
+  },
+  {
+    "id": "c0296",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "| (1) 출판물 고유번호<br>2020-RE-RR-19-1033 | (2) 사업분류<br>신재생에너지 개발 |  | (3) 발행일<br>2020.8.31 |  |\n| --- | --- | --- | --- | --- |\n| (4) 제목/부제<br>하천수를 활용한 수열에너지시스템의 냉난방 효과에<br>관한 연구 |  |  | (5) 연구기간<br>2020.01 \\~ 2020.07 |  |\n| (6) 연구수행기관<br>K-water연구원 물인프라에너지연구소 |  |  | (7) 연구 수행자(소속)<br>물인프라에너지연구소 현정재 외 10명 |  |\n| (8) 수행기관 주소<br>대전광역시 유성구 유성대로 1689번길 125 |  |  | (9) 연구의뢰기관 및 주소 |  |\n| (10) 공동 수행기간<br>2018.08 \\~ 2020.07 (24개월) |  |  | (11) 계약 또는 인가번호 |  |\n| (12) 초록<br>최근 세계적으로 기후변화 등에 대응하기 위해 신재생에너지 보급량을 늘리고 있는 추세이다. 국내에서도 재생에너지 발전비중을 2030년까지 20%까지 끌어올리는 등의 재생에너지 확대를 위한 정부정책이 시행되고 있다.<br>K-water는 미래50년 “물이 여는 미래” 비전의 달성을 위해 미래 잠재적 가치가 높고<br>부존량이 많은 수열에너지의 적극적 사업추진이 필요함에 따라, 현안사항을 해결하고 新성장 동력으로 발돋움하기 위한 선제적 연구 수행이 필요하다.<br>또한 그간 신재생에너지에 포함되는 수열에너지의 범위가 해수로 한정되었으나, ‘19.10월 신재생에너지법 개정으로 수열에너지 범위가 하천수를 포함하게 됨에 따라 하천수<br>활용 수열에너지시스템이 점차 확대될 것으로 예상된다.<br>그러나 하천수를 활용한 수열에너지 냉난방을 통해 에너지 절감 및 온실가스 감축에<br>기여하고 있는 선진국과는 달리 국내에서는 하천수를 활용한 냉난방 사례가 적어 효과<br>검증을 위한 데이터가 부족한 실정이다.<br>따라서 부산 EDC 에코필터링 T/B의 연구교육홍보시설을 대상으로 하천수를 활용한<br>수열에너지를 시범 적용하여, 수온・수질에 따른 냉난방 효과 변화와 운영 조건이 가혹한 하천수 활용 수열시스템의 현안을 개선할 수 있는 방안을 고려하여 표준모델 정립<br>연구를 수행하고자 한다. |  |  |  |  |\n| (13) 키-워드<br>수열, 온도차, 히트펌프, 성능계수, 하천수 |  |  |  |  |\n| (14) 사업고유번호 |  |  |  |  |\n| (15) 공개여부<br>예 | (16) 총면수 | (17) 발행부수 |  | (18) 가격 |",
+    "blockRange": [
+      804,
+      804
+    ],
+    "page": 109,
+    "table": {
+      "rows": 9,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0297",
+    "type": "heading",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "### BIBLIOGRAPHIC DATA SHEET",
+    "blockRange": [
+      805,
+      805
+    ],
+    "page": 110
+  },
+  {
+    "id": "c0298",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| (1) Report ID 2020-RE-RR-2-79 |  | (2) Project Classification New renewable energy Development |  |  | (3) Report Date Jan. 31, 2020 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (4) Title/Subtitle Study on the cooling and heating effect of water thermal energy system using stream water (2nd year) |  |  |  | (5) Research Period Jan. 1, 2020 \\~ Dec. 31, 2020 |  |  |\n| (6) Performing Organization Water Energy & Infrastructure Research Center, KWRI, K-water |  |  |  | (7) Author(s) 17 people except, Jung-Jae HYUN |  |  |\n| (8) Performing Organization Address 125, 1689beon-gil, Yuseong-daero, Yuseong-gu, Daejeon |  |  |  | (9) Sponsoring Agency and address |  |  |\n| (10) Co-performing Organization(s) Aug. 1, 2018 \\~ Jul. 31, 2020(24Months) |  |  |  | (11) Contract or Authorization |  |  |\n| (12) Abstracts Recently, the supply of renewable energy has been increasing globally to cope with climate change. In Korea, government policies are also being implemented to expand renewable energy, including raising the share of renewable energy generation to 20 percent by 2030. As K-water needs active business pursuit of water source thermal energy with high potential future value and high existent capacity to achieve its vision of \"More prosperous future with water.\" it needs to carry out preemptive research to resolve pending issues and emerge as a dynamic force for new growth. In addition, while the scope of water thermal energy contained in renewable energy was limited to seawater, it is expected that the water thermal energy system using river water will be gradually expanded as the scope of water thermal energy will be included with the revision of the Renewable Energy Act in October 2019. However, unlike advanced countries, which currently contribute to energy reduction and reduction of greenhouse gas through heating and cooling of water using river water to improve energy use, there are not enough data to verify the effects in Korea. Therefore, the research and education promotion facilities of EDC Eco-filtering T/B in Busan will be applied on a trial basis to establish a standard model through changes in the effect of heating and cooling due to water temperature and water quality and comparison of the performance of water heating and cooling system(EHP). |  |  |  |  |  |  |\n| (13) Keyword Hydrothermal, Temperature Difference, Heat Pump, COP, River Water |  |  |  |  |  |  |\n| (14) Project ID |  |  |  |  |  |  |\n| (15) Security Yes | (16) No. of Pages |  | (17) Circulation |  |  | (18) Price |",
+    "blockRange": [
+      806,
+      806
+    ],
+    "page": 110,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0299",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "주의사항\n\n본 보고서의 저작권은 한국수자원공사에 있으므로, 본 자료의 내용을 허가없이 인용, 복사, 전재, 재배포를 할 경우 법적 제재를 받을 수 있습니다.\n\nCopyright ⓒ 2020\n\nby\n\nKorea Water Resources Corporation\n\n발행인 : K-water 사장 박재현\n\n발행일 : 2020. 8. 31\n\n발행처 : 한국수자원공사 K-water연구원\n\n대전광역시 유성구 유성대로 1689번길 125 Tel. (042) 870-7662\n\nK-water는 친환경 기업윤리 이념을 구현하기 위하여 2020. 1. 31 『환경경영』을 선포하고, 모든 보고서 발간에 『재생용지 및 무코팅\n\n방식』을 사용하고 있습니다.",
+    "blockRange": [
+      807,
+      817
+    ],
+    "page": 111
+  }
+]

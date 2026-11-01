@@ -1,0 +1,3649 @@
+[
+  {
+    "id": "c0001",
+    "type": "table",
+    "breadcrumb": [],
+    "text": "<!-- <table id=\"t1\" /> -->\n| HY견고딕 20pt<br>↓<br>KOREA WATER RESOURCES CORPORATION | 실<br>시<br>간<br>스<br>마<br>트<br>모<br>니<br>터<br>링<br>구<br>축<br>에<br>따<br>른<br>계<br>측<br>데<br>이<br>터<br>관<br>리<br>체<br>계<br>연<br>구<br>↑<br>3cm<br>↓ | <!-- <table parent_id=\"t1\" child_id=\"t2\" /> --> Final Report ↑<br>5cm<br>↓<br>실시간 스마트<br>모니터링 구축에<br>따른 신‧구(新‧舊)<br>계측데이터 관리체계<br>연구<br>A Study on the Measurement Data Management System according to The real-Time Smart Monitoring Installation<br>2022. 12<br>↑<br>9cm<br>↓<br>↑<br>4cm<br>↓ |\n| --- | --- | --- |\n\n<!-- <table id=\"t2\" parent_id=\"t1\" /> -->\n| K-water연구원 |  |\n| --- | --- |\n| 2022-WR-RR-25-148 | (중고딕, 12pt) |\n| GS1075 |  |",
+    "blockRange": [
+      0,
+      0
+    ],
+    "page": 1,
+    "table": {
+      "rows": 1,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0002",
+    "type": "text",
+    "breadcrumb": [],
+    "text": "![image](image_001.png)\n\n\n![image](image_002.png)\n\n\n![image](image_003.png)",
+    "blockRange": [
+      1,
+      3
+    ],
+    "page": 1
+  },
+  {
+    "id": "c0003",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 실시간 스마트 모니터링 구축에 따른 신‧구(新‧舊) 계측데이터 관리체계 연구",
+    "blockRange": [
+      4,
+      4
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0004",
+    "type": "heading",
+    "breadcrumb": [
+      "실시간 스마트 모니터링 구축에 따른 신‧구(新‧舊) 계측데이터 관리체계 연구"
+    ],
+    "text": "### A Study on the Measurement Data Management System according to The real-Time Smart Monitoring Installation",
+    "blockRange": [
+      5,
+      5
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0005",
+    "type": "text",
+    "breadcrumb": [
+      "실시간 스마트 모니터링 구축에 따른 신‧구(新‧舊) 계측데이터 관리체계 연구",
+      "A Study on the Measurement Data Management System according to The real-Time Smart Monitoring Installation"
+    ],
+    "text": "2022. 12",
+    "blockRange": [
+      6,
+      6
+    ],
+    "page": 2
+  },
+  {
+    "id": "c0006",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제\t출\t문",
+    "blockRange": [
+      7,
+      7
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0007",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "사 장 귀하\n\n이 보고서를 2022 년도 K-water연구원 물인프라안전연구소에서 수행한 “실시간 스마트 모니터링 구축에 따른 신‧구(新‧舊) 계측데이터 관리체계 연구”의 연구보고서로 제출합니다.\n\n2022. 12\\. 31.",
+    "blockRange": [
+      8,
+      10
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0008",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "2022. 12. 31."
+    ],
+    "text": "연구책임자 : K-water연구원 책임 연구원 이종욱\n\n연구수행자 : K-water연구원 책임 연구원 조성배\n\nK-water연구원 선임 연구원 유호준",
+    "blockRange": [
+      11,
+      13
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0009",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문"
+    ],
+    "text": "- i -",
+    "blockRange": [
+      14,
+      14
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0010",
+    "type": "text",
+    "breadcrumb": [
+      "제\t출\t문",
+      "- i -"
+    ],
+    "text": "![image](image_004.png)",
+    "blockRange": [
+      15,
+      15
+    ],
+    "page": 3
+  },
+  {
+    "id": "c0011",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 연구개발결과 활용보고서",
+    "blockRange": [
+      16,
+      16
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0012",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "| 1.<br>연구<br>총괄 | [간행물 관리번호: 2022-WR-RR-25-148] |  | [과제번호 : G21075] |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1.<br>연구<br>총괄 | (1)연구과제명 | 실시간 스마트 모니터링 구축에 따른 신‧구 계측데이터 관리체계 연구 |  |  |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 | K-water연구원<br>물인프라안전연구소 | (3)연구 책 임자 | 성명 | 이종욱 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | K-water연구원<br>물인프라안전연구소 | (3)연구 책 임자 | 소속 | K-water연구원 |\n| 1.<br>연구<br>총괄 | (2)수행부서 | K-water연구원<br>물인프라안전연구소 | (3)연구 책 임자 | 전화번호 |  |\n| 1.<br>연구<br>총괄 | (2)수행부서 | K-water연구원<br>물인프라안전연구소 | (3)연구 책 임자 | E-mail |  |\n| 1.<br>연구<br>총괄 | (4)연구기간 | 2022. 1 . \\~ 2022. 12.<br>(총 12개월) | (5) 총연구개발비<br>(천원) | 총액 | 7.969백만원 |\n| 1.<br>연구<br>총괄 | (6)협동기관 |  | (5) 총연구개발비<br>(천원) | 정부 |  |\n| 1.<br>연구<br>총괄 | (7)참여기업 |  | (5) 총연구개발비<br>(천원) | 기업 |  |\n| 1.<br>연구<br>총괄 | (8)기술분야 | EI1191 | (9)참여 연구원 | 3명 / 1년 |  |\n| 1.<br>연구<br>총괄 | (10)연구개발목표 |  |  |  |  |\n| 1.<br>연구<br>총괄 | ◦ 신규 스마트 모니터링 (GPS, 경사계) 실시간 운영방안 제시<br>◦ 신‧구(新‧舊) 계측데이터(침하점/GPS/경사계) 관리체계 제시 |  |  |  |  |\n| 1.<br>연구<br>총괄 | (11)주요연구내용 |  |  |  |  |\n| 1.<br>연구<br>총괄 | ◦ 신규 스마트 모니터링 (GPS, 경사계) 실시간 운영방안 제시<br>- 초기 계측 데이터 신뢰성 분석에 의한 정확도/정밀도 등 초기치 설정<br>- GPS변위계 실시간 계측치 최적 분석빈도 제시 등<br>◦ 신‧구(新‧舊) 계측데이터(침하점/GPS/경사계) 관리체계 제시<br>- TS침하점과 GPS변위계 계측데이터 비교분석 및 데이터 관리방안 제시<br>- GPS변위계와 경사계 상호보완 분석방안 제시 등 |  |  |  |  |",
+    "blockRange": [
+      17,
+      17
+    ],
+    "page": 4,
+    "table": {
+      "rows": 14,
+      "cols": 6
+    }
+  },
+  {
+    "id": "c0013",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 연구개발결과 활용보고서 작성시, 지면이 부족하거나 또는 상기 문항 이외의 성과 활용 사항이 있는 경우 별지를 사용하여 작성해 주시기 바랍니다.\n- ※ 해당사항이 없을 경우 공란으로 비워두시기 바랍니다.\n- ii -",
+    "blockRange": [
+      18,
+      20
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0014",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- ii -"
+    ],
+    "text": "![image](image_005.png)",
+    "blockRange": [
+      21,
+      21
+    ],
+    "page": 4
+  },
+  {
+    "id": "c0015",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- ii -"
+    ],
+    "text": "| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (12) 연구결과의 활용 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 기술실용화 |  |  |  |  |  |  |  |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 | 실용화<br>완료 |  | 실용화<br>추진중 |  |  | 실용화<br>보류<br>(중단) |  | 선행<br>연구 |  |  | 교육 및<br>지도 |  |  | 정책활용 |  |  | 설계기준,<br>시방서,<br>지침에 활용 |  |  | 기타 |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 구분 |  |  | O |  |  |  |  |  |  |  | O |  |  |  |  |  |  |  |  | O |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | 조정지댐 및 부댐 무인 상시 계측시스템 정기하자검사 지원(2022) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | (13) 주요 연구성과 및 기술 개발단계 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 2.<br>연구성과<br>활용<br>유형<br>및<br>주요<br>연구성과 | ∘기술명:<br>∘기술특성 : |  |  |  |  |  |  |  |  | ∘기술의 완성도<br>기초, 탐색연구단계 ( ), 응용연구단계 ( ),<br>개발연구단계 ( )<br>기업화 준비단계 ( ), 상품화 완료단계 ( )<br>∘기술 수명주기<br>기술개념 정립기 ( ), 기술 실험기 ( )<br>기술적용 시작기 ( ), 기술적용 성장기 ( )<br>기술적용 성숙기 ( ), 기술적용 쇠퇴기 ( ) |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | (14) 현장적용실적 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  | 공사명 |  |  | 공사기간 |  |  |  | 물량<br>(총물량) |  |  | 발주기관 |  |  | 시공기관 |  |  | R&D<br>참여자 역활 |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ①<br>공사현장<br>정보 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 가. 현장명 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 구분 |  | 기 존<br>(A) |  |  | 개 선<br>(B) |  |  | 단위효과<br>(C=A-B) |  |  | 현장<br>총물량<br>(D) |  |  | 향상도<br>$(A-BX100)$ $A$ |  |  | 적용현장<br>총효과<br>(C×D) |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공사비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 유지관리비<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 기타비용절감<br>(백만원/㎡)1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 사고율<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 고 용<br>(명/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 공 기<br>(일/UC) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 3.<br>경제적<br>효과 | ②<br>공사<br>현장별<br>적용효과 |  | 내구성<br>(年) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      22,
+      22
+    ],
+    "page": 5,
+    "table": {
+      "rows": 20,
+      "cols": 22
+    }
+  },
+  {
+    "id": "c0016",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- ※ 개별 공사에 가장 적합한 척도 사용가능 ex) m2, Km\n- ※ 적용 현장이 여러 곳일 경우 위 서식 복사해서 사용\n- iii -",
+    "blockRange": [
+      23,
+      25
+    ],
+    "page": 5
+  },
+  {
+    "id": "c0017",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iii -"
+    ],
+    "text": "| 4.<br>기술적<br>효과 | (15) 기술개발목표 달성도 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 4.<br>기술적<br>효과 | 구분 | 지표명<br>(단위) | 개발전<br>국내수준 |  | 당개발사업<br>최종목표치 |  |  |  |  |  | 개발결과<br>실제달성치 |  |  |  |  | 현재국내<br>기술수준 |  |  |  |  |  | 세계 최고<br>기술수준 |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 기술<br>성능<br>지표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (16) 산업재산권 (발명특허‧실용신안‧의장‧s/w ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 |  | 출원 및<br>등록자 |  |  | 출원 |  |  |  |  |  |  |  |  | 등록 |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 구분 | 명칭 |  | 출원국 |  | 출원 및<br>등록자 |  |  | 출원일 |  |  | 출원번호 |  |  |  |  |  | 등록일 |  |  |  |  | 등록번호 |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (17) 건설신기술 지정 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  |  | 출원일 |  |  | 고시일 |  |  | 보호기간 |  |  |  |  |  | 지정번호 |  |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | (18) 기타 등록 및 지정현황(상품, 서비스 등록, KT 마크 등) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 4.<br>기술적<br>효과 | 명 칭 |  |  |  |  |  | 출원일 |  |  |  | 고시일 |  |  | 보호기간 |  |  |  |  |  | 기 타 |  |  |  |  |\n| 4.<br>기술적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (19) 국내외 전문학술지 게재 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 구분 | 논문제목 |  |  |  |  |  | 학술지명 |  |  |  |  |  |  | 국명 |  |  |  | 통권, 호 |  |  |  |  | 년,월 |\n| 5.<br>학술적<br>효과 | SCI<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 일반<br>학술지 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | (20) 학술회의 발표 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| 5.<br>학술적<br>효과 | 논문제목 |  |  |  |  |  |  |  |  | 학술회의 명칭 |  |  |  |  |  |  | 국 명 |  |  |  | 연도‧호 |  |  |  |\n| 5.<br>학술적<br>효과 | 스마트 모니터링 기술에 의한 물 인프라의<br>장기적인 안전관라에 관한 연구 |  |  |  |  |  |  |  |  | 대한토목학회<br>/가을학술발표 |  |  |  |  |  |  | 한국 |  |  |  | 2022 |  |  |  |\n| 5.<br>학술적<br>효과 | 강우 영향을 배제한 필댐 침투수량의 계측과<br>분석 |  |  |  |  |  |  |  |  | 한국지반공학회<br>/가을학술발표 |  |  |  |  |  |  | 한국 |  |  |  | 2022 |  |  |  |",
+    "blockRange": [
+      26,
+      26
+    ],
+    "page": 6,
+    "table": {
+      "rows": 23,
+      "cols": 25
+    }
+  },
+  {
+    "id": "c0018",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- iv -",
+    "blockRange": [
+      27,
+      27
+    ],
+    "page": 6
+  },
+  {
+    "id": "c0019",
+    "type": "table",
+    "breadcrumb": [
+      "연구개발결과 활용보고서",
+      "- iv -"
+    ],
+    "text": "| 6.<br>공공적<br>효과 | (21) 법ㆍ제도 (설계기준, 시방서, 지침) 등에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 6.<br>공공적<br>효과 | 구분 | 명칭 및 조항1) |  | 시행일시 |  | 기존내용 |  |  |  | 신규내용 |  |  |\n| 6.<br>공공적<br>효과 | 법 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 규정/지침 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 기준 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 시방서 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (22) 정책수립에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 정책명 | 정책추진 실적 |  | 정책추진<br>일시 |  |  | 담당부처ㆍ팀 |  |  |  | 기대효과 |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (23) 교육 및 지도에 활용 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 구분 | 교육명 | 교육내용 |  | 교육대상 |  |  | 교육시간 | 교육인원 |  |  | 교육회수 |\n| 6.<br>공공적<br>효과 | 교육훈련 | 댐 안전관리자과정 | 계측기기<br>관리기준 |  | 사내직원<br>공무원 |  |  | 1시간 | 약20명 |  |  | 2 |\n| 6.<br>공공적<br>효과 | 기술상담 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | 현장기술지도 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 | (24) 사회적 성과 |  |  |  |  |  |  |  |  |  |  |  |\n| 6.<br>공공적<br>효과 |  |  |  |  |  |  |  |  |  |  |  |  |",
+    "blockRange": [
+      28,
+      28
+    ],
+    "page": 7,
+    "table": {
+      "rows": 18,
+      "cols": 13
+    }
+  },
+  {
+    "id": "c0020",
+    "type": "text",
+    "breadcrumb": [
+      "연구개발결과 활용보고서"
+    ],
+    "text": "- v -",
+    "blockRange": [
+      29,
+      29
+    ],
+    "page": 7
+  },
+  {
+    "id": "c0021",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 요\t약\t문",
+    "blockRange": [
+      30,
+      30
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0022",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "1. 연구제목",
+    "blockRange": [
+      31,
+      31
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0023",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "1. 연구제목"
+    ],
+    "text": "실시간 스마트 모니터링 구축에 따른 신‧구(新‧舊) 계측데이터 관리체계 연구",
+    "blockRange": [
+      32,
+      32
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0024",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "2. 연구기간\n2022. 1\\. 1 ∼ 2022. 12. 31\n3. 연구목적",
+    "blockRange": [
+      33,
+      35
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0025",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "3. 연구목적"
+    ],
+    "text": "본 연구과제의 목표는 스마트 모니터링 시스템의 성공적 운영과 데이터 분석 및 관리의 효율성을 위해 신규 설치되는 스마트 모니터링(GPS변위계, 경사계)의 운영방안 제시와 신‧구(新‧舊) 계측 데이터 관리체계를 제시하는 것",
+    "blockRange": [
+      36,
+      36
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0026",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "4. 연구내용",
+    "blockRange": [
+      37,
+      37
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0027",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "본 연구의 연구목표 및 연구내용은 다음과 같다.",
+    "blockRange": [
+      38,
+      38
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0028",
+    "type": "table",
+    "breadcrumb": [
+      "요\t약\t문",
+      "4. 연구내용"
+    ],
+    "text": "| 구분 | 연구개발 목표 | 연구개발 내용 | 연구개발 범위 |\n| --- | --- | --- | --- |\n| 1차년도<br>(2022) | ◦운영방안 제시<br>◦관리체계 제시 | ◦ 스마트 모니터링 운영방안<br>-초기 데이터 신뢰성 분석 및 초기치 설정<br>-GPS 계측 데이터 실시간 최적 분석빈도 제시<br>◦ 신･구(新･舊) 계측데이터 관리체계 제시<br>-TS침하점(구)과 GPS변위계(신) 계측데이터 비교분석 및 데이터 관리방안 제시<br>-GPS변위계와 경사계(기울기) 상호보완 분석방안<br>제시 등 | ◦데이터 분석<br>및 계기 운영방안 제시<br>◦데이터 분석<br>및 데이터 관리방안 제시 |",
+    "blockRange": [
+      39,
+      39
+    ],
+    "page": 8,
+    "table": {
+      "rows": 2,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0029",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "- vi -",
+    "blockRange": [
+      40,
+      40
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0030",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "- vi -"
+    ],
+    "text": "![image](image_006.png)\n\n\n![image](image_007.png)",
+    "blockRange": [
+      41,
+      42
+    ],
+    "page": 8
+  },
+  {
+    "id": "c0031",
+    "type": "heading",
+    "breadcrumb": [
+      "요\t약\t문"
+    ],
+    "text": "## 5. 연구결과",
+    "blockRange": [
+      43,
+      43
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0032",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "본 연구과제의 목표는 스마트 모니터링 시스템의 성공적 운영과 데이터 분석 및 관리의 효율성을 위해 신규 설치되는 스마트 모니터링(GPS변위계, 경사계)의 운영방안 제시와 신‧구(新‧舊) 계측 데이터 관리체계를 제시하는 것이며 그 결과는 다음과 같다.\n\n현재 시험 운영 중인 967개의 GPS변위계와 180개의 경사계에 대해 초기 계측 데이터를 검토한 결과 GPS변위계는 일단변동, 일단변동 후 복구, 다단변동, 단기간 급등 사인파(Sinusoidal)형, 무변동, 변동폭 증가, 단기간 급등, 일부 계기 데이터 없음, 전체 계기 데이터 없음의 이상패턴을 나타내었다. 이상패턴을 나타내는 GPS변위계의 보완방안은 GPS수신기 원 시데이터 GPS품질을 확인하고 시스템 재설정 및 복구 후 이상패턴의 재발 여부를 확인하는 것이다. 이상 패턴의 재발생시 GPS변위계의 교체가 필요할 것이다. 경사계는 단기간 급등, 비정상적으로 높은 값, 일부 계기 데이터 없음, 전체 계기 데이터 없음의 이상패턴을 나타내었다. 이상패턴을 나타내는 경사계의 보완 방안은 초기치 재설후 재발 여부를 확인하고 재발 시에는 센서의 교체가 필요하다.\n\n스마트 모니터링 운영방안으로 계측 데이터 유형에 대한 제안과 GPS변위계 상태 모니터링과 관측환경 점검에 대해 제시하였다. GPS변위계는 [X,Y,Z], [X,Y,Z,V], [V]의 3가지 유형으로 되어 있으며 단위는 [mm]이다. 경시도분석의 데이터 유형도 [X,Y,Z,V]로 통일하는 것을 제안하였다. 경사계는 기본 단위인 경사각(degree, )와 함께 GPS변위계와의 비교‧검토를 위해 구조물의 기울어짐 수평변위(mm)로 환산된 데이터도 같이 관리하는 방안을 제안하였다. 댐 실시간 스마트 모니터링 시스템(2022)의 GPS변위계는 GPS수신기 외관부 지시등을 통해 전원상태, 이더넷통신상태, GPS동작상태, RTK 서버연결 상태를 확인할 수 있다.\n\n신(新)‧구(舊) 계측 데이터 관리방안으로는 GPS변위계와 기존 자동광파기(TS) 데이터 연계 방안과 GPS변위계와 경사계의 상호보완 분석방안을 제안하였다. GPS변위계는 기존 자동광파기(TS) 데이터와의 연계성을 위해 기존 침하점(광파타겟)에 병설하여 물리적으로 연계성을 강화하였다. 기존 자동광파기의 마지막 데이터 변위값에 GPS변위계에 의한 변위량을 더하여 관리하는 것이 가능하다. GPS변위계 계측 데이터는 앞서 설명한 다양한 원인으로 인해 일단변동 또는 다단변동의 이상패턴을 나타내는 경우가 많으며 이때 GPS관측환경 개선과 GPS변위계 초기치 재설정을 하게 되는데 GPS측정점(Rover)의 경우 기존의 초기치는 기록되지 않아 삭제되는 문제가 있으므로 시스템 복구 및 재가동시 GPS측정점(Rover)의 절대좌표도 기\n\n- vii -",
+    "blockRange": [
+      44,
+      48
+    ],
+    "page": 9
+  },
+  {
+    "id": "c0033",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과",
+      "- vii -"
+    ],
+    "text": "록이 되도록 개선할 필요가 있다. GPS변위계와 경사계의 계측 데이터를 상호보완 분석하기 위해서는 경사각을 수평변위로 변환하는 등 계측 데이터를 같은 형태로 환산해야 한다. GPS변위계의 수평변위는 E(동서)방향과 N(남북)방향으로 계측되며 경사계는 구조물에 설치되는 방향에 따라 서로 직교하는 수평방향으로 계측한다. 따라서 GPS변위계와 경사계의 계측데이터를 직접 비교하기 위해서는 같은 계측방향으로 환산해야 한다.",
+    "blockRange": [
+      49,
+      49
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0034",
+    "type": "text",
+    "breadcrumb": [
+      "요\t약\t문",
+      "5. 연구결과"
+    ],
+    "text": "- viii -",
+    "blockRange": [
+      50,
+      50
+    ],
+    "page": 10
+  },
+  {
+    "id": "c0035",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# S U M M A R Y",
+    "blockRange": [
+      51,
+      51
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0036",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "1. Project Title/Subtitle",
+    "blockRange": [
+      52,
+      52
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0037",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "1. Project Title/Subtitle"
+    ],
+    "text": "A Study on the Measurement Data Management System according to The real-Time Smart Monitoring Installation",
+    "blockRange": [
+      53,
+      53
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0038",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "2. Research Period",
+    "blockRange": [
+      54,
+      54
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0039",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "2. Research Period"
+    ],
+    "text": "2022. 1. 1 ∼ 2022. 12. 31",
+    "blockRange": [
+      55,
+      55
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0040",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "3. Objective of Research",
+    "blockRange": [
+      56,
+      56
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0041",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "3. Objective of Research"
+    ],
+    "text": "The goal of this research project is to propose an operation plan for newly installed smart monitoring (GPS displacement gauge, inclinometer) for the successful operation of the smart monitoring system and the efficiency of data analysis and management, and to develop new and old measurement data management systems.",
+    "blockRange": [
+      57,
+      57
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0042",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "4. Content, Scope and Method of Research\n\n(1) Smart monitoring operation plan\n\n- Initial data reliability analysis and initial value setting\n\n- GPS measurement data real-time optimal analysis frequency presentation\n\n(2) Proposal of new and old measurement data management system\n\n- TS subsidence point (old) and GPS displacement gauge (new) measurement data comparison analysis and data management plan proposal\n\n- GPS displacement gauge and inclinometer (slope) mutually complementary analysis method proposal, etc.\n\n5. Research Result",
+    "blockRange": [
+      58,
+      65
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0043",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y",
+      "5. Research Result"
+    ],
+    "text": "The goal of this research project is to propose an operation plan for newly installed smart monitoring (GPS displacement gauge, inclinometer) for the successful operation of the smart monitoring system and the efficiency of data analysis and management, and to develop new and old measurement data management systems. presented, and the results are as follows.\n\nAs a result of reviewing the initial measurement data for 967 GPS displacement gauges and 180 inclinometers currently in test operation, the GPS displacement gauges are one-time fluctuation, recovery after one-time fluctuation, multi-step fluctuation, short-term sinusoidal, no change, increased fluctuation, short-term Abnormal patterns of rapid rise, no data for some instruments, and no data for all instruments were shown. The supplementary method of the GPS displacement gage showing the abnormal pattern is to check the GPS quality of the original data of the GPS receiver and to check whether the abnormal pattern reoccurs after the system is reset and restored. If the abnormal pattern reoccurs, the GPS displacement gauge will need to be replaced. The inclinometer showed an abnormal pattern of short-term spikes, abnormally high values, no data for some instruments, and no data for all instruments. To supplement the inclinometer that shows the abnormal pattern, after resetting the initial value, check for recurrence, and in case of recurrence, replace the sensor.\n\nAs a smart monitoring operation plan, proposals for measurement data types, GPS displacement gauge status monitoring, and observation environment inspection were presented. There are three types of GPS displacement gauges: [X,Y,Z], [X,Y,Z,V], and [V], and the unit is [mm]. The data type of time series analysis was also proposed to be unified into [X,Y,Z,V]. The inclinometer proposes a method of managing the data converted to tilt horizontal displacement (mm) of the structure for comparison with the GPS displacement meter along with the basic unit of inclination angle (degree, ). The GPS displacement meter of the dam real-time smart monitoring system (2022) can check the power status, Ethernet communication status, GPS operation status, and RTK server connection status through the external indicator light of the GPS receiver.\n\nAs new and old measurement data management methods, a GPS displacement gauge and existing automatic Total Station(TS) data linkage method and a mutually complementary analysis method of GPS displacement gauge and inclinometer were proposed. The GPS displacement meter was physically strengthened by installing it alongside the existing target point (light wave target) for linkage with the existing automatic Total Station (TS) data. It is possible to manage by adding the displacement amount by the GPS displacement meter to the last data displacement value of the existing automatic Total Station. GPS displacement meter measurement data often shows an abnormal pattern of single-stage or multi-stage variation due to the various causes described above. At this time, the GPS observation environment is improved and the initial value of the GPS displacement meter is reset. Since there is a problem that the data is deleted due to errors, it is necessary to improve so that the absolute coordinates of the GPS measurement point (Rover) are also recorded when the system is restored and restarted. In order to mutually analyze the measurement data of the GPS displacement meter and the inclinometer, the measurement data must be converted into the same form, such as converting the inclination angle into horizontal displacement. The horizontal displacement of the GPS displacement meter is measured in the E(East-West) direction and the N (North-South) direction, and the inclinometer is measured in the horizontal direction orthogonal to each other according to the direction in which it is installed on the structure. Therefore, in order to directly compare the measurement data of the GPS displacement meter and the inclinometer, they must be converted to the same measurement direction.",
+    "blockRange": [
+      66,
+      69
+    ],
+    "page": 11
+  },
+  {
+    "id": "c0044",
+    "type": "text",
+    "breadcrumb": [
+      "S U M M A R Y"
+    ],
+    "text": "- x -",
+    "blockRange": [
+      70,
+      70
+    ],
+    "page": 12
+  },
+  {
+    "id": "c0045",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# C O N T E N T S",
+    "blockRange": [
+      71,
+      71
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0046",
+    "type": "text",
+    "breadcrumb": [
+      "C O N T E N T S"
+    ],
+    "text": "Submission ···························································································· i Abstract ······························································································· vi Contents ······························································································ xii Table List ······························································································ xiii Figure List ····························································································· xiv\n\n1. Introduction \t 1\n2. GPS displacement meter principal and technology trend \t 3\n3. Smart monitoring installation status \t 26\n4. Smart monitoring operation and management improvement plan \t 35\n\n6. Conclusions \t 61",
+    "blockRange": [
+      72,
+      77
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0047",
+    "type": "text",
+    "breadcrumb": [
+      "C O N T E N T S",
+      "6. Conclusions \t 61"
+    ],
+    "text": "References \t 63",
+    "blockRange": [
+      78,
+      78
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0048",
+    "type": "text",
+    "breadcrumb": [
+      "C O N T E N T S"
+    ],
+    "text": "- xi -",
+    "blockRange": [
+      79,
+      79
+    ],
+    "page": 13
+  },
+  {
+    "id": "c0049",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 목\t차",
+    "blockRange": [
+      80,
+      80
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0050",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차"
+    ],
+    "text": "제 출 문 ······························································································ i 요 약 문 ······························································································ vi 목 차 ······························································································ xii 표 목 차 ······························································································ xii 그림목차 ······························································································ xiv\n\n제 1 장 서 론 \t 1\n\n1.1 연구배경 및 목적 \t 1\n\n1.2 연구내용 및 범위 \t 2\n\n제 2 장 GPS변위계 원리 및 기술동향 \t 3\n\n2.1 GPS와 GNSS 개요 \t 3\n\n2.2 GPS변위계 기술동향 \t 4\n\n2.3 GPS 기본원리 \t 11\n\n제 3 장 스마트 모니터링 현황 \t 26\n\n3.1 스마트 모니터링 구축 \t 26\n\n3.2 스마트 모니터링 제원 \t 29\n\n제 4 장 스마트 모니터링 운영 및 관리체계 개선방안 \t 35\n\n4.1 스마트 모니터링 초기 데이터 분석 \t 35\n\n4.2 스마트 모니터링 운영방안 제시 \t 47\n\n4.3 신‧구(新‧舊) 계측 데이터 관리방안 \t 47\n\n제 5 장 결 론 \t 61\n\n참 고 문 헌 \t 63\n\n- xii -",
+    "blockRange": [
+      81,
+      98
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0051",
+    "type": "text",
+    "breadcrumb": [
+      "목\t차",
+      "- xii -"
+    ],
+    "text": "![image](image_008.png)",
+    "blockRange": [
+      99,
+      99
+    ],
+    "page": 14
+  },
+  {
+    "id": "c0052",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 표\t목\t차",
+    "blockRange": [
+      100,
+      100
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0053",
+    "type": "text",
+    "breadcrumb": [
+      "표\t목\t차"
+    ],
+    "text": "[표 1.1] 연차별 연구개발 목표 및 내용 \t 2\n\n[표 2.1] GPS 활용분야 \t 3\n\n[표 2.2] 전세계 위성항법시스템(GNSS) 현황 \t 4\n\n[표 2.3] GPS 위성 반송파 신호 \t 12\n\n[표 2.4] NTRIP(Network Transport of RTCM via Internet Protocol) \t 13\n\n[표 2.5] GPS 오차 종류 \t 16\n\n[표 2.6] GPS 측위방식별 비교 \t 21\n\n[표 2.7] 상대측위와 실시간 이동측위(RTK) \t 22\n\n[표 3.1] 다목적댐 GPS변위계와 경사계 설치현황 \t 27\n\n[표 3.2] 용수전용댐 GPS변위계와 경사계 설치수량 \t 28\n\n[표 3.3] 조정지댐과 부댐 GPS변위계, 경사계, 지하수위계 설치수량 \t 28\n\n[표 3.4] GPS변위계 모델별 제원과 특징 \t 30\n\n[표 3.5] GPS변위계의 모델별 적용 측위방식과 변위 계산 과정 \t 31\n\n[표 3.6] AK920K(2022) 데이터 처리 및 변환 과정 \t 32\n\n[표 3.7] AK920K(2022) GPS 수신기 생성 원시 데이터(Raw Data) 내용 \t 33 [표 3.8] 경사계 제원 \t 34\n\n[표 4.1] 다목적댐 GPS변위계 데이터 경시변화 특성 \t 36\n\n[표 4.2] 용수전용댐 GPS변위계 데이터 경시변화 특성 \t 39\n\n[표 4.3] 조정지댐 및 부댐 GPS변위계 데이터 경시변화 특성 \t 42\n\n[표 4.4] 다목적댐 경사계 데이터 경시변화 검토 \t 44\n\n[표 4.5] 용수전용댐 경사계 데이터 경시변화 검토 \t 45\n\n[표 4.6] 조정지댐 및 부댐 경사계 데이터 경시변화 검토 \t 46\n\n[표 4.7] GPS변위계 이상패턴 계측기 보완방안 검토 \t 47\n\n[표 4.8] 경사계 이상패턴 계측기 보완방안 검토 \t 48\n\n[표 4.9] 경시도분석에서 표출되는 GPS변위계 계측 데이터 형태 \t 50\n\n[표 4.10] 경사계 계측 데이터 유형 \t 52\n\n- xiii -",
+    "blockRange": [
+      101,
+      126
+    ],
+    "page": 15
+  },
+  {
+    "id": "c0054",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 그\t림\t목\t차",
+    "blockRange": [
+      127,
+      127
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0055",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "[그림 2.1] Steenbrass댐 GPS변위계 전경 \t 6\n\n[그림 2.2] Steenbrass댐 GPS변위계 설치위치 \t 6\n\n[그림 2.3] Steenbrass댐 GPS변위계 계측성과 \t 6\n\n[그림 2.4] Victoria댐(스리랑카) GPS변위계(녹색) 및 광파기(TS) 관측지점(붉은색) \t 7 [그림 2.5] Shunangwangcheng Reservoir댐 GSP변위계 계측결과 \t 7\n\n[그림 2.6] 영종대교 GPS변위계 설치위치 \t 8\n\n[그림 2.7] 영종대교 GPS변위계 상세 \t 8\n\n[그림 2.8] 인천대교 종단면도 \t 9\n\n[그림 2.9] Baishazou Yangtze River Bridge(중국) GPS변위계 설치위치 \t 9\n\n[그림 2.10] Baishazou Yangtze River Bridge(중국) GPS변위계 계측결과 \t 9 [그림 2.11] Republic Plaza GPS변위계 설치현황 \t 10\n\n[그림 2.12] Republic Plaza GPS변위계 계측결과 \t 10\n\n[그림 2.13] GPS 위성과 GPS 수신기 사이의 거리계산 \t 12\n\n[그림 2.14] GPS 위성 신호의 생성 \t 12\n\n[그림 2.15] GPS 측량 : 삼변측량(Trilateration) \t 14\n\n[그림 2.16] 실제거리(R)의 계산 \t 14\n\n[그림 2.17] 의사거리(Pseudo-range)의 계산 \t 15\n\n[그림 2.18] GPS 오차 종류 \t 16\n\n[그림 2.19] NEMA-0183(GPS 통신 표준 프로토콜) 예시 \t 18\n\n[그림 2.20] GPGGA 데이터 타입 예시 \t 18\n\n[그림 2.21] GPGGA 데이터 상세설명 \t 19\n\n[그림 2.22] 측위의 신호에 사용하는 신호 종류에 따른 구분 \t 22\n\n[그림 2.23] 상대측위(DGPS) 방식의 모식도 \t 23\n\n[그림 2.24] 국토지리정보원 위성기준점 전경 \t 24\n\n[그림 2.25] 위성기준점 위치(국토지리정보원 77개, 해양측위정보원 12개) ··· 24 [그림 2.26] GNSS 데이터 통합센터(http://www.gnssdata.or.kr) \t 25\n\n[그림 3.1] 다목적댐(소양강댐) GPS변위계와 경사계 설치위치 \t 26\n\n[그림 3.2] 용수전용댐(광동댐) GPS변위계와 경사계 설치위치 \t 29\n\n[그림 3.3] 조정지 및 부댐(합천조정지) GPS변위계와 경사계 설치위치 \t 29\n\n[그림 3.4] 댐 실시간 스마트 모니터링 시스템(AK920K, 2022) 개요 \t 31\n\n[그림 3.5] 위성배열이 좋은 경우와 나쁜 경우 \t 33\n\n- xiv -",
+    "blockRange": [
+      128,
+      156
+    ],
+    "page": 16
+  },
+  {
+    "id": "c0056",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xiv -"
+    ],
+    "text": "[그림 3.6] 경사계(RST Instrument, MEMS Biaxial) \t 34\n\n[그림 4.1] 일단변동(비정상적으로 높은 값), 소양강댐 AA0208 \t 37\n\n[그림 4.2] 일단변동(비정상적으로 높은 값) 후 복구, 주암조절지댐, AA0105 37 [그림 4.3] 일단변동(약 20 mm), 군남댐, 전체계기 \t 37\n\n[그림 4.4] 일단변동(약 200 mm) 후 복구, 남강댐 AA0002 \t 38\n\n[그림 4.5] 다단변동, 안동댐 AA0213 \t 38\n\n[그림 4.6] 사인파(Sinusoidal)형, 장흥댐, AA0102 \t 38\n\n[그림 4.7] 일단변동(비정상적으로 높은 값), 영천댐 AA0001 \t 39\n\n[그림 4.8] 일단변동(비정상적으로 높은 값) 후 복구, 달방댐, AA0001 \t 40\n\n[그림 4.9] 일단변동(약 20 mm), 달방댐, AA0208 \t 40\n\n[그림 4.10] 일단변동 후 복구, 광동댐 AA0302 \t 40\n\n[그림 4.11] 무변동, 안계댐, AA0203(X), AA0203(Y) \t 41\n\n[그림 4.12] 변동폭 증가, 감포댐, AA0003(Z) \t 41\n\n[그림 4.13] 단기급등, 평림댐, AA0301 \t 41\n\n[그림 4.14] 일단변동후 복구, 대청부댐, SS0001 \t 42\n\n[그림 4.15] 다단변동, 안계부댐, SS088 \t 42\n\n[그림 4.16] 단기간급등, 평화의댐, IC0101 \t 43\n\n[그림 4.17] 비정상적으로 큰 값(-470 ), 보현산댐, IC0102 \t 43\n\n[그림 4.18] 시설관리시스템 수자원안전정보 계측결과관리 화면 \t 49\n\n[그림 4.19] 시설관리시스템 수자원안전정보 경시도분석 화면 \t 49\n\n[그림 4.20] 시설관리시스템 수자원안전정보 계측기기관리 화면 \t 49\n\n[그림 4.21] GPS변위계 경시도분석(X,Y,Z) 표출화면(소양강댐) \t 50\n\n[그림 4.22] GPS변위계 경시도분석(X,Y,Z,V) 표출화면(충주댐) \t 51\n\n[그림 4.23] GPS변위계 경시도분석(V) 표출화면(합천조정지댐) \t 51\n\n[그림 4.24] 경사계 경시도분석(측정각A,B deg) 표출화면(횡성댐) \t 52\n\n[그림 4.25] 경사계 경시도분석(수평변위, mm) 표출화면(군남댐) \t 52\n\n[그림 4.26] 경사계 경시도분석(A[좌안], B[우안], deg) 표출화면(임하댐) \t 53 [그림 4.27] 경사계 경시도분석(x, y, mm) 표출화면(주암조절지댐) \t 53\n\n[그림 4.28] 경사계 경시도분석(수평축A, degree) 표출화면(김천부황댐) \t 53 [그림 4.29] 경사계 경시도분석(수평축A, degree 표출화면(보령댐) ············ 54) [그림 4.30] GPS변위계 현장 서버 모니터링 시스템의 기능 예시 \t 54\n\n[그림 4.31] GPS변위계 센서 상태모니터링 \t 55\n\n[그림 4.32] GPS변위계 시스템 운용상 이상 발생시 자동알람 기능 \t 55\n\n[그림 4.33] 후처리데이터를이용한GPS변위계의품질관리(Quality Control) 예시( \t 55\n\n[그림 4.34] GPS변위계 지시램프등 동작상태 점검 \t 56",
+    "blockRange": [
+      157,
+      187
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0057",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xv -",
+    "blockRange": [
+      188,
+      188
+    ],
+    "page": 17
+  },
+  {
+    "id": "c0058",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차",
+      "- xv -"
+    ],
+    "text": "[그림 4.35] 기존 자동광파기(TS, Total Staton)의 설치 및 운영 \t 57\n\n[그림 4.36] 기존 침하점(광파타겟)과 GPS변위계 설치전경 \t 58\n\n[그림 4.37] GPS기준점(Base) 설정화면 \t 58\n\n[그림 4.38] GPS측정점(Base) 설정화면 \t 58\n\n[그림 4.39] GPS측정점 절대좌표 기록(최초 설치, 시스템 복구 및 재가동시) 및 관리\t 59 [그림 4.40] GPS변위계와 경사계 상호보완 분석방안 \t 60",
+    "blockRange": [
+      189,
+      193
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0059",
+    "type": "text",
+    "breadcrumb": [
+      "그\t림\t목\t차"
+    ],
+    "text": "- xvi -",
+    "blockRange": [
+      194,
+      194
+    ],
+    "page": 18
+  },
+  {
+    "id": "c0060",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제1장서론",
+    "blockRange": [
+      195,
+      195
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0061",
+    "type": "heading",
+    "breadcrumb": [
+      "제 1장 서 론"
+    ],
+    "text": "## 1.1 연구배경 및 목적",
+    "blockRange": [
+      196,
+      196
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0062",
+    "type": "text",
+    "breadcrumb": [
+      "제 1장 서 론",
+      "1.1 연구배경 및 목적"
+    ],
+    "text": "K-water에서는 총 58개 댐과 보에 23종 3,476개의 계측기를 설치하여 운영 중으로 시설물 안전관리와 계측기 유지관리 효율화를 위해 필수 계측항목을 선정하여 관리하고 있다. 외부변위는 침투수량과 함께 댐과 같은 수리시설물의 전반적인 거동을 모니터링하는 계측안전관리에 필요한 계측항목이다.\n\n기존의 외부변위 모니터링 방법은 자동 광파기(Robotic Total Station)을 활용하여 3시간 간 격으로 계측하여 데이터 관리 및 분석하였으나, 기상여건(강우,강설,안개)과 하절기 식생발달 등으로 결측이 자주 발생하였으며, 자동 광파기의 설치위치에 따라 거리 및 측각 오차가 불균 등하게 발생하고 광파타겟 시준을 위한 자동 광파기 회전 시에 기울어짐 오차가 추가 발생하는 등 계측 데이터 품질이 개선이 시급한 상황이었다. 또한 본댐 외에 취수탑, 여수로, 발전소 등 부속시설에 대한 안점감시체계 마련이 필요한 상황이었다.\n\nK-water는 관리중인 댐 및 부속시설물 전체에 대해 실시간 스마트 모니터링 및 위기상황에 적기 대응이 가능하도록 GPS변위계와 경사계 기반 스마트 모니터링 시스템 구축을 2021년 9월 시작하여 2022년 11월에 완료하였다. 이번 사업으로 구축되는 GPS변위계와 경사계는 기존의 외부변위 모니터링(자동 광파기 등) 계측기와의 상호연관성 분석, 관리기준 재정립 등 신‧구(新‧舊) 계측데이터 관리체계에 대한 연구가 필요한 실정이다.\n\n본 연구과제의 목표는 구축이 완료된 실시간 스마트 모니터링의 성공적 운영과 데이터 분석 및 관리의 효율성을 위해 신규 설치되는 스마트 모니터링(GPS변위계, 경사계)의 운영방안 제시와 신‧구(新‧舊) 계측 데이터 관리체계를 제시하는 것이다.",
+    "blockRange": [
+      197,
+      200
+    ],
+    "page": 19
+  },
+  {
+    "id": "c0063",
+    "type": "heading",
+    "breadcrumb": [
+      "제 1장 서 론"
+    ],
+    "text": "## 1.2 연구내용 및 범위",
+    "blockRange": [
+      201,
+      201
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0064",
+    "type": "text",
+    "breadcrumb": [
+      "제 1장 서 론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "본 연구의 목표 및 연구내용은 다음과 같다.",
+    "blockRange": [
+      202,
+      202
+    ],
+    "page": 20
+  },
+  {
+    "id": "c0065",
+    "type": "table",
+    "breadcrumb": [
+      "제 1장 서 론",
+      "1.2 연구내용 및 범위"
+    ],
+    "text": "**[표 1.1] 연차별 연구개발 목표 및 내용**\n\n| 구분 | 연구개발 목표 | 연구개발 내용 | 연구개발 범위 |\n| --- | --- | --- | --- |\n| 1차년도<br>(2022) | ◦운영방안 제시<br>◦관리체계 제시 | ◦ 스마트 모니터링 운영방안<br>-초기 데이터 신뢰성 분석 및 초기치 설정<br>-GPS 계측 데이터 실시간 최적 분석빈도 제시<br>◦ 신･구(新･舊) 계측데이터 관리체계 제시<br>-TS침하점(구)과 GPS변위계(신) 계측데이터 비교분석 및 데이터 관리방안 제시<br>-GPS변위계와 경사계(기울기) 상호보완 분석방안<br>제시 등 | ◦데이터 분석<br>및 계기 운영방안 제시<br>◦데이터 분석<br>및 데이터 관리방안 제시 |",
+    "blockRange": [
+      203,
+      203
+    ],
+    "page": 20,
+    "table": {
+      "rows": 2,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0066",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제 2장 GPS변위계 원리 및 기술동향",
+    "blockRange": [
+      204,
+      204
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0067",
+    "type": "heading",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향"
+    ],
+    "text": "## 2.1 GPS와 GNSS 개요",
+    "blockRange": [
+      205,
+      205
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0068",
+    "type": "text",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.1 GPS와 GNSS 개요"
+    ],
+    "text": "GPS는 Global Positioning System의 약어로, GPS 위성에서 보내는 신호를 수신해 사용자의 현위치를 알 수 있는 위성항법시스템(GNSS)의 일종이다. 1973년 미국 국방부에서 군사용으로 개발을 시작하였다. 현재는 초기 군사목적을 벗어나 자동차, 선박, 비행기 등의 항법은 물론 측량분야, 지각 및 구조물의 변위 감시, 우주, 통신, 국방분야 등 매우 광범위한 분야에서 활용되 고 있으며, 민간 부분에 개방되면서 그 활용분야가 급속히 증가하는 추세에 있다. 특히 SA (Selective Availability)의 해제 이후, GPS를 이용하여 수 mm의 정도로 위치 및 변위 관측이 가능하므로 지각, 단층 등의 자연물은물론 가스시설, 교량, 건축물, 댐 등 각종 구조물의 미세 변위 관측 및 모니터링에 의해 재해를 사전에 예방하고자 하는 방재분야에서의 응용이 국내외적으로 큰 주목을 받고 있다(박운용, 2003).\n\nGPS의 대표적 활용분야는 다음의 <표 2.1> 같다. 모든 GPS 위성은 12시간 주기로 20,800 km 고도로 지구 주위를 돌며, 지구 적도면과 55 의 각도를 이루는 궤도면을 갖는다. 궤도는 총 6개로 60 씩 1개의 궤도면 당 4개의 위성을 위치시킨다. 따라서 지구 어느 지점에서도 동시에 5∼8개의 위성을 볼 수 있다.",
+    "blockRange": [
+      206,
+      207
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0069",
+    "type": "table",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.1 GPS와 GNSS 개요"
+    ],
+    "text": "**[표 2.1] GPS 활용분야**\n\n| 구 분 | 내 용 | 비고 |\n| --- | --- | --- |\n| 시각동기(Time Synchronization) | -GPS 위성에 탑재된 원자시계로 초정밀 시<br>계를 맞추는데 사용함, 현재 전 세계 국가<br>표준 시계의 동기는 GPS에 의해 이루어짐 |  |\n| 측위(Positioning) | -위성으로부터 수신기까지 전파의 도달거리로 수신기의 3차원적 위치 결정 |  |\n| 측량(Surveying) | -기지점의 좌표를 기준으로 미지점의 좌표<br>산출, 4개 이상의 위성을 동시 관측해 위상<br>차를 이용 |  |\n| 항법(Naviation) | -자세결정, 위치기반 서비스 등 |  |",
+    "blockRange": [
+      208,
+      208
+    ],
+    "page": 21,
+    "table": {
+      "rows": 5,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0070",
+    "type": "text",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.1 GPS와 GNSS 개요"
+    ],
+    "text": "GPS는 미국의 시스템이나 다른 국가들도 자체적 측위 시스템을 구축하였고 이를 모두 합쳐 GNSS(Global Navigation Satellite System)라고 한다. GNSS는 위성항법시스템이라 부르며 범지구적인 측위정보 서비스 시스템으로 위성에서 발사하는 전파를 이용하여 정밀한 측위정보를 제공한다. 지구 궤도 상에서 수십 개의 위성군이 전 지구를 관측할 수 있도록 함으로써 사용자에게 위치, 항법, 시각 정보를 제공한다. 이를 위해 배치된 위성군을 일정한 형상으로 배치 및 유지하고, 통신 링크를 통해 위성의 정확한 궤도 정보를 실시간으로 탑재된 원자 시계로 동 기시켜 송출한다.\n\n현재 글로벌 GNSS로는 표 2.2와 같이 GPS(Global Positioning System), GLONAS(GLObal NAvigation Satellite System, 러시아), Galileo(유럽연합), BeiDou(중국)가 있으며, 이 외에도 QZSS(Quazi-Zenith Satellite System, 일본), NAVIC(Navigation Indian Constellation, 인도) 등이 존재한다. 2020년 기준으로 113개의 항법 위성이 지구 주위를 돌고 있다. 2022년에는 125개의 위성이 있을 것으로 예상되어, 2002년 32개였던 것에 비해 4배 이상의 증가세이다. 따라서 Urban Canyon 처럼 가시 위성의 수가 적은 등이 문제를 완화하고 그 정확도를 높일 수 있을 것으로 보인다. 또한 각 국은 GPS의 현대화를 위해 기술 개발 및 위성 업데이트를 진행하고 있다.",
+    "blockRange": [
+      209,
+      210
+    ],
+    "page": 21
+  },
+  {
+    "id": "c0071",
+    "type": "table",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.1 GPS와 GNSS 개요"
+    ],
+    "text": "**[표 2.2] 전세계 위성항법시스템(GNSS) 현황**\n\n| 구 분 | 위 성 | 기준국 | 개발국가 |\n| --- | --- | --- | --- |\n| GPS(Global Positioning System) | 31기 | - | 미국 |\n| GLONAAS(Global NAvigation Satellite System) | 24기 |  | 러시아 |\n| Galileo Project(Euro Satellite Navigation System) | 30기 |  | 유럽 |\n| WAAS(Wide Area Augmentation System), LAAS(Local Area Augmentation system) | 3기 | >1개소 | 미국 |\n| EGNOS(European Geostationary Navigation Overlay Service) | 3기 | 1개소 | 유럽 |\n| BeiDou(BeiDou Navigation Satellite System) | 55기 |  | 중국 |\n| QZSS(Quazi-Zenith Satellite System) | 5기 |  | 일본 |\n| NAVIC(NAVigation Indian Constellation) | 7기 |  | 인도 |",
+    "blockRange": [
+      211,
+      211
+    ],
+    "page": 22,
+    "table": {
+      "rows": 9,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0072",
+    "type": "heading",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향"
+    ],
+    "text": "## 2.2 GPS변위계 기술동향",
+    "blockRange": [
+      212,
+      212
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0073",
+    "type": "heading",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.2 GPS변위계 기술동향"
+    ],
+    "text": "### 2.2.1 개요",
+    "blockRange": [
+      213,
+      213
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0074",
+    "type": "text",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.2 GPS변위계 기술동향",
+      "2.2.1 개요"
+    ],
+    "text": "GPS는 기존 측량법의 문제점인 측점간의 시계확보, 장거리 측정문제, 우천이나 야간 측정문제 등의 환경의 영향을 거의 받지 않으며 인공위성으로부터 송신되는 신호를 수신함으로써 관측지점의 3차원 위치를 정확하게 결정할 수 있다. GPS는 광역적 위치 측정시스템으로, 24시간 연속 관측 및 실시간으로 위치정보를 획득할 수 있을 뿐만 아니라 다른 초기 변위 또는 변화하는 동적 특성에 따라 평가할 수 있으며, 실시간 모니터링은 불규칙한 구조물 활동에 대한 조기경보 시스템으로 활용 가능하다. 구조물 내부에 설치하는 가속도계나 변형율계 등을 사용하는 방법의 경우 재설치 어려우나 GPS변위계의 경우 원하는 위치에 설치 가능하며 다른 위치로 변경 등 유지관리가 용이하다는 장점이 있다.\n\nGPS변위계는 GPS수신기를 통해 수신한 위치정보를 활용하여 변위 값을 계산하고 변위 모니터링에 활용한다. 초기에는 DGPS(Static) 방식을 사용했으나 최근에는 RTK(Real-Time Kinematic) 기술을 활용하며 실시간 데이터 취득이 가능하다.",
+    "blockRange": [
+      214,
+      215
+    ],
+    "page": 22
+  },
+  {
+    "id": "c0075",
+    "type": "heading",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.2 GPS변위계 기술동향"
+    ],
+    "text": "### 2.2.2 댐 외부변위 모니터링 사례",
+    "blockRange": [
+      216,
+      216
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0076",
+    "type": "text",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.2 GPS변위계 기술동향",
+      "2.2.2 댐 외부변위 모니터링 사례"
+    ],
+    "text": "- 가. 한국중부발전(주)",
+    "blockRange": [
+      217,
+      217
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0077",
+    "type": "text",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.2 GPS변위계 기술동향",
+      "2.2.2 댐 외부변위 모니터링 사례",
+      "가. 한국중부발전(주)"
+    ],
+    "text": "한국중부발전(주) 산하 양양양수발전소 상부댐 제체에 GPS 계측 시스템을 운영하면서 저 수위 변화에 따른 댐 제체의 변위 발생량 및 계절별 변위 발생량을 파악하여 댐 안전성 평가 및 과학적인 댐 유지관리 활용의 적용성을 분석하였으며 그 결과는 다음과 같다.\n\nGPS 시스템의 경우 기계적 장치가 아닌 전자부품으로 구성되어 보정이 불필요하며 장치가 외부로 노출되어 유지보수 측면이나 장기적인 안정적 운용 측면에서 유리하여, 댐 제체의 장기적인 모니터링에 GPS 시스템을 이용하는 것이 효용성이 있을 것으로 판단하였다(박성욱, 2006).",
+    "blockRange": [
+      218,
+      219
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0078",
+    "type": "text",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.2 GPS변위계 기술동향",
+      "2.2.2 댐 외부변위 모니터링 사례"
+    ],
+    "text": "- 나. 한국수자원공사",
+    "blockRange": [
+      220,
+      220
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0079",
+    "type": "text",
+    "breadcrumb": [
+      "제 2장 GPS변위계 원리 및 기술동향",
+      "2.2 GPS변위계 기술동향",
+      "2.2.2 댐 외부변위 모니터링 사례",
+      "나. 한국수자원공사"
+    ],
+    "text": "K-water는 GPS변위계를 댐 외부변위관측시스템으로 도입하기 위한 현장적용을 실시하였으며 그 결과는 다음과 같다. GPS변위계에 의해 계측된 변위는 기존 TS(토탈스테이션)의 데이터 보다 정밀하고 신뢰성이 높으며, 외부영향(거리, 시준상태 등)을 받지 않으므로 기존의 TS에 의한 변위계측시스템보다 우수한 성능을 나타내었다. GPS변위계의 경우도 측정오차에 의한 자료 변동성이 발생할 수 있으므로 향후 축적된 데이터 활용하여 측정오차 소거방법에 대한 추가적인 연구 필요할 것으로 판단된다(강기천 등, 2018).",
+    "blockRange": [
+      221,
+      221
+    ],
+    "page": 23
+  },
+  {
+    "id": "c0080",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 다. Steenbrass댐(남아프리카공화국)",
+    "blockRange": [
+      222,
+      222
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0081",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "Steenbrass댐은 높이 28 m, 길이 415 m의 콘크리트댐이다. 그림 2.1과 그림 2.2와 같이 12개의 GPS변위계를 댐 정상부와 아버트먼트에 설치하여 운영중이며 후처리(static) 방법으로 측점의 절대좌표를 산정하여 관리하고 있다. 그림 2.3은 GPS변위계 계측결과의 경시변화 그 리프이다.\n\n[그림 2.1] Steenbrass댐 GPS변위계 전경\n\n[그림 2.2] Steenbrass댐 GPS변위계 설치위치\n\n(a) 수평방향 변위 (b) 수직방향 변위\n\n[그림 2.3] Steenbrass댐 GPS변위계 계측성과\n\n- 라. Victoria댐(스리랑카)",
+    "blockRange": [
+      223,
+      228
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0082",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "라. Victoria댐(스리랑카)"
+    ],
+    "text": "![image](image_009.png)\n\n\n![image](image_010.png)\n\n\n![image](image_011.png)\n\n\n![image](image_012.png)\n\nVictoria댐은 높이 122 m, 길이 520 m의 콘크리트댐이다. 그림 2.4와 같이 댐 정상부 20개소에 GPS변위계를 설치하였고, 하류사면 표면부에는 광파타겟을 설치하여 광파기(토탈스테이\n\n션)으로 변위를 측량하고 있다. GPS변위계는 3시간 간격으로 후처리(Static) 방법으로 측점의 절대좌표를 산정하며 광파기(토탈스테이션)는 3시간 간격으로 변위를 측량한다.\n\n[그림 2.4] Victoria댐(스리랑카) GPS변위계(녹색) 및 광파기(TS) 관측지점(붉은색)",
+    "blockRange": [
+      229,
+      235
+    ],
+    "page": 24
+  },
+  {
+    "id": "c0083",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "- 마. Shuangwangcheng Reservoir댐(중국, 산둥성)",
+    "blockRange": [
+      236,
+      236
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0084",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "마. Shuangwangcheng Reservoir댐(중국, 산둥성)"
+    ],
+    "text": "Shuangwangcheng Reservoir댐의 GPS변위계는 후처리(Static) 방식으로 절대좌표를 산정한다. 계측을 통해 부등변위 발생을 확인하였으며 저수위 변동을 주된 원인으로 추정하였다(그림 2.5).\n\n[그림 2.5] Shunangwangcheng Reservoir댐 GSP변위계 계측결과",
+    "blockRange": [
+      237,
+      238
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0085",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "- 바. 영종대교(한국)",
+    "blockRange": [
+      239,
+      239
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0086",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "바. 영종대교(한국)"
+    ],
+    "text": "![image](image_013.png)\n\n\n![image](image_014.png)\n\n영종대교 현수교는 세계 최대 3차원 자정식 현수교로서 일반적인 타정식 현수교와는 다른 독특한 구조적 특성이 있어, 설계기법의 유효성 검증, 구조건전도 모니터링 및 교량이 수명연장을 위하여 교량 구조 건전도 모니터링 시스템(Bridge Health Monitoring System, BHMS) 구축하여 운영하고 있다(배인환, 2008).\n\n영종대교도 대부분의 장대교량과 마찬가지로 거동 변위를 GPS를 이용해 거동변위를 계측하며, Leica의 GPS변위계를 설치하였다. 그림 2.6과 그림 2.7과 같이 총 12개소의 위치에 GPS변위계가 설치되어 있으며, 기준국(Base)은 2개소이며, 구조물에 총 10개의 이동국(Rover) 이 설치되어 변위를 계측한다. 각 GPS 이동국에서는 광케이블을 이용해 서버로 데이터가 전 송되고 있다.\n\n영종대교의 경우 다른 장대교량과 비교 시 큰 처짐 변위가 발생하지 않는데 이는 교량 중 앙에 지하철이 다니도록 설계되었기 때문에 강성이 매우 커 다른 사장교, 현수교에 비해 처짐량이 크게 발생하지는 않으나, 발생되는 변위량은 GPS 계측으로도 충분한 정밀도를 확보하고 있다.\n\n[그림 2.6] 영종대교 GPS변위계 설치위치 [그림 2.7] 영종대교 GPS변위계 상세",
+    "blockRange": [
+      240,
+      245
+    ],
+    "page": 25
+  },
+  {
+    "id": "c0087",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 사. 인천대교(한국)",
+    "blockRange": [
+      246,
+      246
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0088",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "사. 인천대교(한국)"
+    ],
+    "text": "인천대교에는 그림 2.8과 같이 총 7개소의 GPS변위계 설치(기준국 1개소, 구조물 6개소)를 설치하였다. 인천대교에 설치된 GPS변위계는 Trimble사 제품으로 최대 20 Hz를 사용할 수 있으나 과부하 방지 등의 이유로 인해 10 Hz를 사용하였다. 모든 데이터는 광케이블을 통해 서버로 전달되며 후처리를 거치지 않은 원시 데이터들은 10분 단위로 DB화 되어 저장되며, 10분 단위로 DB화된 자료는 조회를 통해 최소 10분에서 최대 연 단위까지 환경설정(최대, 평균, 최소)을 통해 확인이 가능하다.\n\nGPS변위계를 통한 변위계측에 있어서 다른 계측기기 사이의 동기화 문제를 해결하기 위해 인천대교의 경우 관계있는 계측기기의 데이터를 모아 연관분석을 실시한 다음 분석된 계측기기에 GPS 타임 시그널 코드를 입력하여 코딩함으로써 원자시계를 사용하는 GPS변위계와의 시각 동기화 문제를 해결하였다.\n\n\n![image](image_015.png)\n\n\n![image](image_016.png)\n\n[그림 2.8] 인천대교 종단면도\n\n- 아. Baishazou Yangtze River Bridge(중국)",
+    "blockRange": [
+      247,
+      252
+    ],
+    "page": 26
+  },
+  {
+    "id": "c0089",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "사. 인천대교(한국)",
+      "아. Baishazou Yangtze River Bridge(중국)"
+    ],
+    "text": "중국 양쯔강의 교량을 대상으로 실시간 측위(RTK) 방식을 이용하여 그림 2.9와 같이 교량의 5개소 위치에 GPS변위계를 설치하고, 실시간으로 교량 변위 모니터링을 수행하고 있다.\n\nGPS(미국), BEIODOU(중국) 위성신호를 이용하여 10 Hz 빈도로 변위 산출하고, 활용위성 별(GPS, BDS, GPS+BDS) 계측성과 비교하여 분석한 것은 다음의 그림 2.10과 같다.\n\n[그림 2.9] Baishazou Yangtze River Bridge(중국) GPS변위계 설치위치\n\n[그림 2.10] Baishazou Yangtze River Bridge(중국) GPS변위계 계측결과\n\n\n![image](image_017.png)\n\n\n![image](image_018.png)\n\n\n![image](image_019.png)",
+    "blockRange": [
+      253,
+      259
+    ],
+    "page": 27
+  },
+  {
+    "id": "c0090",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "사. 인천대교(한국)"
+    ],
+    "text": "- 자. Republic Plaza 빌딩(싱가포르)",
+    "blockRange": [
+      260,
+      260
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0091",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "사. 인천대교(한국)",
+      "자. Republic Plaza 빌딩(싱가포르)"
+    ],
+    "text": "빌딩 옥상 3개 측점에 GPS변위계를 설치하고(그림 2.11), RTK 방식으로 실시간 변위계측(상대변위)을 하고 있으며 1 Hz와 10 Hz 빈도로 측점의 변위를 산출한다(그림 2.12).\n\n(a) Republic Plaza 전경 (b) GPS변위계 설치위치\n\n[그림 2.11] Republic Plaza GPS변위계 설치현황\n\n[그림 2.12] Republic Plaza GPS변위계 계측결과\n\n\n![image](image_020.png)\n\n\n![image](image_021.png)\n\n\n![image](image_022.png)",
+    "blockRange": [
+      261,
+      267
+    ],
+    "page": 28
+  },
+  {
+    "id": "c0092",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 2.3 GPS 기본원리",
+    "blockRange": [
+      268,
+      268
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0093",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리"
+    ],
+    "text": "### 2.3.1 개요",
+    "blockRange": [
+      269,
+      269
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0094",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.1 개요"
+    ],
+    "text": "GPS의 기본적인 원리는 GPS 위성에서 보내는 의사랜덤신호(Pseudo-Random Siganal)와 동일한 신호를 GPS 수신기에서 만들고, 위성에서 보낸 신호가 GPS 수신기에 도착하기까지는 시간이 걸리므로 두 신호는 서로 일치하지 않게 되며, 이 두 신호를 비교하여 시간 차이를 측정하고 이를 이용하여 그림 2.13과 같이 GPS 위성과 GPS 수신기 사이의 거리를 결정한다. 시간을 이용하여 거리를 결정하기 때문에 GPS가 보내는 코드에 따라 정확도가 결정된다. 현재 모든 위성은 L1(both C/A and P code)와 L2(P code only)를 서로 다른 주파수의 신호(Carrier Phase)를 통해 발신하고 있다. GPS는 1주파 수신기(Single Frequency Receiver)와 2주파 수신기(Dual Frequency Receiver)가 있으며 1주파 안테나(Single Frequency Antenna)는 L1의 C/A Code만을 사용하며 주로 네비게이션 또는 휴대폰에 들어가는 저가형 시스템이다.\n\n2주파 수신기(L1/L2 Signal)의 경우는 두 신호의 위상분석을 통하여 오차의 가장 큰 부분을 차지하는 전리층 오차(Ionospheric Delay)를 제거할 수 있으므로 정밀 측량에 유리하지만 최근 출시된 일부 1주파 수신 장비도 좋은 성능을 보여주고 있다.\n\n최근 미국의 GPS 시스템은 L1, L2C, L2E, L5의 반송파 위상(Carrier Phase)를 사용하고 구소련 연방에서 만든 GLONASS 시스템은 현재 러시아에서 운용하고 있다. 이 외에도 미국 및 러시아의 측위 시스템에서 독립하기 위해서 유럽연합(EU)이 주축이 된 갈릴레오(Galileo) 시스템이 가동되고 있다.",
+    "blockRange": [
+      270,
+      272
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0095",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리"
+    ],
+    "text": "### 2.3.2 GPS 반송파 신호",
+    "blockRange": [
+      273,
+      273
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0096",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.2 GPS 반송파 신호"
+    ],
+    "text": "GPS는 의사랜덤 코드, 즉 PRN(Pseudo Random Noise) 신호라는 Ranging Code를 사용한다. 여기서 Ranging Code는 ±1이 무작위적으로 나오는, noise와 같은 긴 주기의 코드로, 한 주기 동안 반복(중복)되는 패턴이 없다. 위성은 반송파에 의사랜덤 코드를 실어 지상의 수신기에서 송신하고, 수신기는 이를 바탕으로 계산을 수행한다. 의사랜덤 코드는 C/A 코드(Coarse/Acquisition code 또는 Standard code) 및 P 코드(Precision code) 등이 있다. C/A 코드는 1.023 Mbps의 속도, P 코드는 10.23 Mbps의 속도를 가진다. C/A 코드는 민간에 개방되어 있으나, P 코드는 군사 전용으로 공개되지 않은 W 코드로 암호화되어 있다. 암호화된 P 코드를 Y 코드 혹은 P(Y) 코드라고 한다. 이를 해독하려면 특별한 장비와 키가 필요하다. GPS 위성이 발사하는 반송파 신호는 다음의 표 2.3과 그림 2.14와 같다.\n\n[그림 2.13] GPS 위성과 GPS 수신기 사이의 거리계산\n\n[표 2.3] GPS 위성 반송파 신호",
+    "blockRange": [
+      274,
+      276
+    ],
+    "page": 29
+  },
+  {
+    "id": "c0097",
+    "type": "table",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.2 GPS 반송파 신호"
+    ],
+    "text": "| 신호 | 주파수 | 내용 |\n| --- | --- | --- |\n| L1 | 10.23 MHz × 154 = 1575.42 MHz | 항법메시지 C/A 코드, P(Y) 코드 |\n| L2 | 10.23 MHz × 120 = 1227.60 MHz | P(Y) 코드, L2C 코드 |\n| L3 | 10.23 MHz × 135 = 1381.05 MHz | 방위 지원 프로그램에 이용됨 |\n| L4 | 1379.913 MHz | 추가적 전리층 보정 |\n| L5 | 10.23 MHz × 115 = 1176.45 MHz | ARNS(Aeronautical Radio Navigation System)에 할당해 항공기 안전운항에 사용 |",
+    "blockRange": [
+      277,
+      277
+    ],
+    "page": 30,
+    "table": {
+      "rows": 6,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0098",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.2 GPS 반송파 신호"
+    ],
+    "text": "[그림 2.14] GPS 위성 신호의 생성",
+    "blockRange": [
+      278,
+      278
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0099",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리"
+    ],
+    "text": "### 2.3.3 항법 메시지",
+    "blockRange": [
+      279,
+      279
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0100",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.3 항법 메시지"
+    ],
+    "text": "항법 메시지(Navigation Message)는 GPS 위성에서 송출하는 반송파에 실리는 메시지로 2 진 부호화된 일련의 Pulse 신호의 형태이다. 50 bps의 속도로 지속적으로 방송된다. 항법 메시지 내에는 위성 탑재 시계의 시각 및 오차, 위성의 상태 정보, 모든 위성과 관련된 궤도 정보 및 상태(almanac), 각 궤도 정보와 이력(ephemeris), 오차 보정을 위한 계수 등이 있다.\n\n\n![image](image_023.png)\n\n\n![image](image_024.png)\n\nRTCM은 Radio Technical Committee for Maritime Service의 약어로, GPS 보정신호를 전송하는 데이터 포맷(규격) 이다. 약어에서도 알 수 있듯이 선박에 사용되기 위해 처음 만들어 졌고, 항공기의 경우 RTCA(Radio Technical Committe for Aeronautics)를 사용한다. RTCM의 데이터는 메시지 번호(타입)으로 구분되어 표시되며, 각 메시지들은 헤더와 데이터를 포함한다. GPS의 RTCM 데이터를 수신하려면 인터넷 프로토콜이 있어야 한다. NTRIP(Network Transport of RTCM via Internet Protocol)은 GPS(GNSS) 보정 데이터와 DGPS 등을 인터넷 프로토콜을 통해 전송하는 규약이다(표 2.4). HTTP(Hypertext Transfer Protocol) 프로토콜을 기반으로 모바일 IP 네트워크를 통해 무선 인터넷 접속을 한다. RTK 보정 전송 프로토콜이 기도 하다.",
+    "blockRange": [
+      280,
+      283
+    ],
+    "page": 30
+  },
+  {
+    "id": "c0101",
+    "type": "table",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.3 항법 메시지"
+    ],
+    "text": "**[표 2.4] NTRIP(Network Transport of RTCM via Internet Protocol)**\n\n| 내 용 | 설 명 |\n| --- | --- |\n| NTRIP Source | RTK 데이터 스트리밍을 생성하는 GNSS 고정 기준국 |\n| NTRIP Server | HTTP를 이용해 NTRIP Caster에 연결해 데이터를 전달함 |\n| NTRIP Caster | 한 서버에 너무 많은 Client가 접속하면 딜레이, 정보 유실<br>발생 가능성이 있음. 이를 방지하려 프록시 서버의 역활을<br>함. 약 1천여 명의 수신기에 동시에 데이터 유포 가능 |\n| NTRIP Client | 인터넷 접속 가능한 NTRIP 방식으로 데이터를 수신하는 이동국 단말기. TCP/IP 인터넷 프로토콜을 사용해 유동 IP 네트워크도 가능 |",
+    "blockRange": [
+      284,
+      284
+    ],
+    "page": 31,
+    "table": {
+      "rows": 5,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0102",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리"
+    ],
+    "text": "### 2.3.4 GPS 측량방법",
+    "blockRange": [
+      285,
+      285
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0103",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.4 GPS 측량방법"
+    ],
+    "text": "GPS는 그림 2.15와 같이 삼변측량(三邊測量, Trilateration)을 사용해 측량한다. 삼변측량은 물체의 상대 위치를 구하기 위해 삼각형 기하학을 사용한다. 여기엔 두 개 이상의 기준점과 각 기준점으로부터 물체까지의 거리가 필요하다. 2차원 평면에서 정확하고 유일한 위치를 특정하고 싶다면 기준점은 최소 3개가 필요하다.\n\n하나의 인공위성이 수신기에 시간 정보를 전송하면 인공위성까지의 거리는 구할 수 있으나, 같은 거리에 있는 무수한 점들이 수신기의 위치의 후보가 된다. 위성이 두 개라면 두 원의 교점 두 개가 생긴다. 후보가 2개인 것이다. 따라서 하나의 원, 즉 수신기 위치를 측정하기 위해서는 하나의 위성이 더 필요하다. 실제로는 4개의 위성을 사용한다.\n\n[그림 2.15] GPS 측량 : 삼변측량(Trilateration)",
+    "blockRange": [
+      286,
+      288
+    ],
+    "page": 31
+  },
+  {
+    "id": "c0104",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리"
+    ],
+    "text": "### 2.3.5 의사거리(Pseudo-range)",
+    "blockRange": [
+      289,
+      289
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0105",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.5 의사거리(Pseudo-range)"
+    ],
+    "text": "의사거리(ρi, Pseudo-range)는 GPS위성과 수신기 간의 거리라 볼 수 있는데, 의사거리를 \\`코드기반(시간사용)\\`과 \\`위상 기반(위치사용)\\` 거리 측정 방법으로 계산할 수 있다.\n\n코드 기반 거리 측정방법(시간사용)에서는 위성이 방사한 C/A 코드와 P 코드 등을 수신해, 수신기 자체가 발생시킨 동일한 코드와의 시간 차이로 거리를 계산한다. (의사거리) = (전파속\n\n도) × (시간 차) 인 것이다. 주로 저가의 스마트폰 내장 GPS 등 저가 수신기에서만 사용한다.\n\n위상기반 거리측정방법(위치사용), 혹은 반송파 기반 거리 측정 방법은 아래와 같은 원리를 가진다. 그림 2.16과 같이 의사 랜덤 코드를 사각함수로 나타냈을 때 +1 혹은 –1의 시간 간격 (chip, 빠르게 변화하는 파형 변화의 부분)을 Tc, 칩의 시간폭(chip width) 라고 한다. 위성과 수신기 사이의 PRN 코드 칩의 개수를 N, 즉 신호가 수신될 때 Tc가 몇 개 있었는지를 Ni라고 하자. 빛의 속도를 c라 할 때, 실제 거리 Ri는 c × Tc × Ni 가 된다. Tc × Ni는 ToAi – ToDi 라고도 할 수 있다. ToAi(Time of Arrival)는 수신기가 신호를 수신한 시간이며, ToDi(Time of Departure)는 위성이 신호를 방사한 시간이다. 따라서, 위성에서 방사한 시간에서 수신기가 수신한 시간의 차에 빛의 속도를 곱하면 거리가 된다.\n\n[그림 2.16] 실제거리(R)의 계산\n\n\n![image](image_025.png)\n\n\n![image](image_026.png)\n\n위성은 계속 움직이고 각 수신기의 내장시계와 위성 시계와의 오류가 있다. 따라서 GPS에서의 거리 계산은 정확하거나 간단하지 않다. 특정 시각에서 위성의 위치를 계산할 수 있다. 위성이 방사하는 메시지 중 궤도 이력(ephemeris) 데이터가 있는데, 이를 이용한다. 수신기는 자신이 받은 신호가 얼마만큼의 시간을 거쳐 수신되었는지 계산하고, 위성에서 방사된 시간을 역추적해 위성의 위치를 구할 수 있다. 그러나 수신기 시계 자체의 오차가 있다면 ToAi에 에러를 포함하므로 문제가 된다. 이를 보정하여 사용자와 위성 간 의사거리(ρi, Pseudo-range), 즉 시각 오차가 포함된 거리를 계산할 수 있다.\n\n의사거리 오차(bu)를 m 단위의 시각(clock) 에러에 빛의 속도 c를 곱한 것이라고 한다면, 예를 들어 1초 에러라면 c = 3 × 108 m/s 이므로 3 × 108 m 이다. 이 bu를 기존의 수식 ToAi × ToDi 에 더해 의사거리 ρi = c × (ToAi – ToDi) + bu로 표현할 수 있다. 또따른 방법으로는 위성의 위치와 수신기의 위치를 유클리드 거리로 구함으로써 의사거리를 구할 수 있다. 위성의 위치를 (xi, yi, zi), 수신기의 위치를 (xu, yu, zu)라고 할 때 의사거리는 다음의 그림 2.17과 같이 나타낼 수 있다.\n\n$_{\\rho i=}\\sqrt{(xi-xu)^{2+}(yi-yu)^{2}+(zi-zu)^{2}}_{+bu}$\n\n[그림 2.17] 의사거리(Pseudo-range)의 계산",
+    "blockRange": [
+      290,
+      300
+    ],
+    "page": 32
+  },
+  {
+    "id": "c0106",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리"
+    ],
+    "text": "### 2.3.6 GPS 오차",
+    "blockRange": [
+      301,
+      301
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0107",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.6 GPS 오차"
+    ],
+    "text": "GPS 오차는 그림 2.18과 표 2.5와 같이 구조적 오차와 기하학적 오차로 나눌 수 있으며, 구조적 오차는 위성 위치 및 시간, 전리층 및 대류층, 잡음, 다중경로 오차 등이 있고, 기하학적 오차는 위성의 배치와 관련이 있다. 위치 및 시간 오차와 전리층 및 대류층 오차의 경우, 정확\n\n한 위치를 알고 있는 또 다른 수신기가 GPS 신호를 받아 역으로 각 오차를 계산한 뒤, 현 위치를 구해야 하는 수신기(이동국)에 전달한다. 그렇다면 해당 수신기는 오차 성분을 고려해 위치를 특정할 수 있다.\n\n\n![image](image_027.png)\n\n[그림 2.18] GPS 오차 종류",
+    "blockRange": [
+      302,
+      305
+    ],
+    "page": 33
+  },
+  {
+    "id": "c0108",
+    "type": "table",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.6 GPS 오차"
+    ],
+    "text": "**[표 2.5] GPS 오차 종류**\n\n| 오차요인 | 내 용 | 오차 | 비 고 |\n| --- | --- | --- | --- |\n| Satellite Clocks | 위성탑재 원자시계 오차 | ±2 m | 오차 제거 |\n| Orbit Errors | 위성 궤도 진행 오차 | ±2.5 m | 오차 제거 |\n| Ionospheric Delays | 전리층에서 자유전자 충돌로 신호 굴절 | ±5 m | 대부분 제거 |\n| Toposheric Delays | 대규권에서의 가스, 수증기에 의한 신호 굴절 | ±0.5 m | 오차 제거 |\n| Receiver Noise | 수신기 성능에 의한 오차 | ±0.3∼2 m | 대부분 제거 |\n| Multi Path | 빌딩 등 장애물에 의한 반사경로에 의한 오차 | ±1∼5 m | 대부분 줄임 |",
+    "blockRange": [
+      306,
+      306
+    ],
+    "page": 34,
+    "table": {
+      "rows": 7,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0109",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.6 GPS 오차"
+    ],
+    "text": "- 가. 위성위치 및 시간 오차",
+    "blockRange": [
+      307,
+      307
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0110",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.6 GPS 오차",
+      "가. 위성위치 및 시간 오차"
+    ],
+    "text": "위성의 궤도에 대한 수학적 표현인 Ephemeris 오차를 포함하거나, 상대성 원리에 의해 위성의 시계에서도 오차를 가질 수 있다. 5m 이내의 오차로, 미국에서 해당 오차를 추적하여 보정 중이다.\n\n\n![image](image_028.png)",
+    "blockRange": [
+      308,
+      309
+    ],
+    "page": 34
+  },
+  {
+    "id": "c0111",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.6 GPS 오차"
+    ],
+    "text": "- 나. 전리층 및 대류층 오차",
+    "blockRange": [
+      310,
+      310
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0112",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.3 GPS 기본원리",
+      "2.3.6 GPS 오차",
+      "나. 전리층 및 대류층 오차"
+    ],
+    "text": "인공위성에서 라디오파를 전송하는데, 전리층에서는 하전입자(荷電粒子, charged particle)들이 이 신호를 끌어당겨 굴절시키고, 대류층에서는 물방울들이 굴절시킨다. 0∼15 m의 오차를 가지며, 대기 굴절 모델 및 dual-frequency 수신기를 사용하는 등으로 보정한다.",
+    "blockRange": [
+      311,
+      311
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0113",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 다. 잡음",
+    "blockRange": [
+      312,
+      312
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0114",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "다. 잡음"
+    ],
+    "text": "GPS 수신기 자차에서 발생하는 오차로, PRN 코드 잡음과 수신기 잡음이 합쳐 전체 잡음이 된다. 0∼3 m의 오차를 가지며, 수신기 대부분이 내부 필터링 장치를 가지고 보정한다.\n\n- 라. 다중경로(Multi Path) 오차",
+    "blockRange": [
+      313,
+      314
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0115",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "다. 잡음",
+      "라. 다중경로(Multi Path) 오차"
+    ],
+    "text": "인공위성에서 송신한 신호가 다른곳에서 반사되거나 산란되어 수신기에 도달하는 경우, 지연(delay)을 갖는 오차를 발생시킨다. 특히 도심의 경우 Urban Canyon(건물협곡)에 수신기가 위치할 경우 가시 위성의 수가 1∼3개 정도로 적어지고, 높은 건물에 반사 및 회절되며 신호가 전달될 수 있다. 도심의 경우 400 m 까지도 오차가 날 수 있으며, 심할 경우 Km 단위가 되기도 한다. 신호 세기에 따라 다중 경로 오차를 상쇄할 수 있다.",
+    "blockRange": [
+      315,
+      315
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0116",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "다. 잡음"
+    ],
+    "text": "- 마. 기하학적 오차",
+    "blockRange": [
+      316,
+      316
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0117",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "다. 잡음",
+      "마. 기하학적 오차"
+    ],
+    "text": "측위에 이용되는 위성들의 배치로 인해 발생하는 오차로, PDOP를 사용한다. PDOP가 3일 때 약 15 m의 오차가 발생한다. DOP(Dilution of Precision)는 위성 배치의 고른 정도를 나타내는 개념이다. DOP가 2 이하일 때 매우 우수하며 4∼5일 때 보통이고, 6 이상은 불가능하다. PDOP(Position DOP)에 거리 오차(Range Error)를 곱하면 측위 오차가 된다.",
+    "blockRange": [
+      317,
+      317
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0118",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "다. 잡음"
+    ],
+    "text": "### 2.3.7 NEMA(National Maritime Electronics Association)",
+    "blockRange": [
+      318,
+      318
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0119",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 가. NEMA-0183",
+    "blockRange": [
+      319,
+      319
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0120",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "가. NEMA-0183"
+    ],
+    "text": "NEMA(National Maritime Electronics Association)는 정확히는 \\`해양 전자공학 산업의 발달과 교육을 위해 모인 비영리 단체\\`이다. 이곳에서 정의한 프로토콜 중 NEMA-0183은 GPS 통신의 표준 프로토콜이다. GPS 수신기가 위성신호를 해석해 이 정보를 외부에 알릴 때 사용한다. 3개 레이어(Physical / DataLink / Application Layer)로 구성되어 있다. 이 중 어플리케이션 레이어는 NEMA 문장에 대한 규약을 정의하며 GPS 등의 표준 프로토콜이 된다. ASCII 코드로 직렬(Serial) 방식의 통신을 사용한다. 아래의 그림 2.19는 그 예시이다.\n\n[그림 2.19] NEMA-0183(GPS 통신 표준 프로토콜) 예시",
+    "blockRange": [
+      320,
+      321
+    ],
+    "page": 35
+  },
+  {
+    "id": "c0121",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 나. NEMA 문장",
+    "blockRange": [
+      322,
+      322
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0122",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "나. NEMA 문장"
+    ],
+    "text": "GPS수신기가 위와 같은 내용을 Serial 출력의 형태로 내보내는데 \\$로 시작하는 한줄이 NEMA 문장(메시지)라고 한다. NEMA 메시지는 여러 타입이 있고 각 타입은 고유의 프로토콜이 있으며, NEMA 메시지의 첫 글자인 Sentence ID를 읽어 타입을 알 수 있다. 데이터 필드의 구분은 , 로 하고 \\*로 끝난다. 줄바꿈 문자 \\<CR>, \\<LF>을 Linefeed라고 하여 문장의 끝에 붙인다.\n\nDevice ID, 혹은 Talker ID는 장치(제품)을 구분하는 ID로, \\$ 바로 뒤의 2개 문자이다. 예를 들어 GPS 제품은 GP, Loran-C receive는 LC, Omega Navigation receive는 OM, 레이더는 RA이다. Sentence ID, 혹은 Sentence Name은 해당 프로토콜이 가진 데이터의 종류이다(Device ID까지 합쳐 앞 5개를 Sentence ID라고 하기도 한다.). 통상적으로 GPS 수신기에는 GP, LC, OM 등 몇 가지 Device ID만 제한적으로 출력된다.",
+    "blockRange": [
+      323,
+      324
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0123",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 다. GPGGA",
+    "blockRange": [
+      325,
+      325
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0124",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "다. GPGGA"
+    ],
+    "text": "GPGGA는 그림 2.20과 그림 2.21과 같이 Global Positioning System Fix Data로 17개 필드를 가지는 데이터 타입이다.\n\n[그림 2.20] GPGGA 데이터 타입 예시\n\n\n![image](image_029.png)\n\n\n![image](image_030.png)\n\n[그림 2.21] GPGGA 데이터 상세설명\n\n\n![image](image_031.png)",
+    "blockRange": [
+      326,
+      331
+    ],
+    "page": 36
+  },
+  {
+    "id": "c0125",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 2.4 GPS 측위법",
+    "blockRange": [
+      332,
+      332
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0126",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.4 GPS 측위법"
+    ],
+    "text": "### 2.4.1 측위법의 종류",
+    "blockRange": [
+      333,
+      333
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0127",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.4 GPS 측위법",
+      "2.4.1 측위법의 종류"
+    ],
+    "text": "GPS 측위법에는 수신기에 따라 아래와 같이 분류할 수 있다.\n\n가. 단독측위",
+    "blockRange": [
+      334,
+      335
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0128",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.4 GPS 측위법",
+      "2.4.1 측위법의 종류",
+      "가. 단독측위"
+    ],
+    "text": "최초의 GPS 측량 방식으로 한 대의 GPS를 측량하고자 하는 위치에 고정시키고 장시간(일반적으로 측량 시간이 증가하면 정확도도 증가함) 측량하는 방법으로 이 방식은 현재까지도 기준점 측량을 위해 사용되고 있다. 단독측위는 표준측위(SPS, Standard Positioning System)와 정밀측위(PPS, Precise Positioning System)로 분류할 수 있다.\n\n표준측위(SPS)는 GPS 수신기 1대로 위치를 측정한다. C/A(Coarse/Acquisition code) 대역확산 코드를 사용하며 정밀도는 10∼30 m 수준이다. 정밀측위(PPS)는 표준측위(SPS)보다 칩레이트(chip rate)가 높은 p 대역확산코드를 사용하며, 군사용 신호 기반이다. 정밀도는 1∼3 m 수준이다.",
+    "blockRange": [
+      336,
+      337
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0129",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 나. 상대측위(DGPS, Differential GPS)",
+    "blockRange": [
+      338,
+      338
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0130",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "나. 상대측위(DGPS, Differential GPS)"
+    ],
+    "text": "DGPS는 기본적으로 두 대의 GPS를 사용한다. 측량하고 싶은 지역에 설치한 GPS를 이동국(Rover)라 하고 기준국(Base Station)은 기지점(Known position)에 설치한다. 기본적인 개념은 이미 알고 있는 기지점의 위치를 GPS로부터 추정하였을 때 발생하는 오차를 분석하여 이동국(Rover)의 위치를 결정할 때 보정해 주는 것이다. 주로 2대의 수신기로 측정한 데이터를 수집하여 후처리(office processing)를 통해 자료 처리하는 방식을 후처리 상대측위라 한다. 기준국(Base Station)에서 일정거리 이내에 이동국(Rover)를 설치하여 측량하는 것이 좋다. DGPS는 오차가 기선거리(Base station과 Rover 사이의 거리)에 비례하여 증가하는 특성이 있기 때문이다. 후처리 상대측위 방식은 실시간 계산은 불가능하며 정밀도는 수 mm 수준이다.\n\n다. 실시간 이동측위(RTK, Real-Time Kinematic)",
+    "blockRange": [
+      339,
+      340
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0131",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "나. 상대측위(DGPS, Differential GPS)",
+      "다. 실시간 이동측위(RTK, Real-Time Kinematic)"
+    ],
+    "text": "실시간 이동측위(RTK)는 DGPS와 매우 유사한 개념이지만 기준국(Base Station)에서 분석한 오차 보정량을 라디오 모뎀(Radio Modem) 등을 이용하여 실시간으로 Rover에 보내어 보정하는 방법이라 할 수 있다. 이중 주파수 시스템의 경우 정확도는 수평 1 cm ± 2 ppm, 수직 2 cm ± 2 ppm 정도이다. 실시간 이동 측위기법인 RTK GPS는 오차 보정을 위해 기지의 기준국에서 전송되는 데이터가 반송파 수신 자료로서 실시간 상대위치 관측방식으로 고정확도 관측을 수 초안에 신속히 수행할 수 있기 때문에 교량과 같은 대형 구조물의 거동을 모니터링할 수 있다. RTK GPS 기법은 충분한 정확도로 장기간의 연속적 모니터링이 가능하며 이를 위하여 고품질의 2주파 수신 장비가 요구된다. 기준국은 신호 차단과 반사에 의해 발생되는 측점 독립오차를 최소화하기 위하여 주변에 간섭물이 없는 곳에 설치하고 GPS 위성에 대한 원시 의사거리와 반송파 자료 또는 그 보정값은 기준에 저장되어 알맞은 메시지 형식 또는 표준형식(RTCM)으로 통신 네트워크를 통해 이동국에 전송된다. 전송된 자료를 해석하기 위하여 자체 측정값과 전송된 자료를 조합함으로써 위성시계오차, 위성궤도 오차, 전리층 및 대류권 오차 등이 상당히 감소하지만 오차의 공간적 상관성이 수신기 거리에 많이 좌우되므로 기준점과의 거리는 10 Km 미만이 바람직하다(배인환, 2009).",
+    "blockRange": [
+      341,
+      341
+    ],
+    "page": 38
+  },
+  {
+    "id": "c0132",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 라. GPS 측위방식별 비교",
+    "blockRange": [
+      342,
+      342
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0133",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "라. GPS 측위방식별 비교"
+    ],
+    "text": "GPS 측위방식별 사용 위성신호, 오차, 적용범위, 초기화 시간 등을 비교하여 표 2.6에 설명하였다. GPS의 수평 정확도를 나타내는 방식은 원형공산오차(Circular Error Probability, CEP) 라는 척도를 따른다. CEP란 본래 미사일이나 폭탄이 떨어지는 반경을 확률과 함께 나타내기 위해 고안된 것이다. 또 다른 척도로는 2승 평균오차(2dRMS, 2 Distance RMS)가 있으며 95% 오차확률 범위 내에서 위치오차를 의미한다.",
+    "blockRange": [
+      343,
+      343
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0134",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## [표 2.6] GPS 측위방식별 비교",
+    "blockRange": [
+      344,
+      344
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0135",
+    "type": "table",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교"
+    ],
+    "text": "| 구 분 | 1주파형 GNSS |  |  | 2주파형 GNSS |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 측위방식 | 단독측위 | DGPS | RTK | 단독측위 | RTK | 후처리(Static) |\n| 사용<br>위성신호 | L1 C/A<br>code | L1 C/A<br>code | L1 carrier Phase | L1 C/A<br>code, L2 C | L1, L2<br>반송파 | L1, L2 반송파 |\n| 수평 정확도 | 3 m CEP | 0.7 m CEP | 2.5 cm CEP | 1.5 m CEP | 1 cm RMS | 1 cm 2dRMS |\n| 수직 정확도 | 신뢰못함 | 수평오차의<br>2배 | 수평오차의<br>1.5배 | 수평오차의<br>2배 | 1 cm RMS | 1 cm 2dRMS |\n| 통신 | X | O | O | X | O | X |\n| 적용범위 | 전세계 | 10 km 이내 | 10 km 이내 | 전세계 | 20 km 이내 | 20 km 이내 |\n| 초기화시간 | 약 1분 | 약 3분 | 약 2분 | 약 45초 | 약 20초 | - |\n| 기타 |  |  | 이동시 RTK<br>Float-Fix 잦음 |  |  | 별도의 후처리<br>S/W필요 |",
+    "blockRange": [
+      345,
+      345
+    ],
+    "page": 39,
+    "table": {
+      "rows": 9,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0136",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교"
+    ],
+    "text": "상대측위(DGPS)와 실시간 이동측위(RTK)는 모두 일정 지역에서 수신기 하나는 정지해 있고(기준국, Base) 나머지 하나는 이동하여 위치를 측정한다(이동국, Rover). 기준국은 위성에서 수신한 데이터들의 위치 오차를 계산하고 보정 데이터를 만든다. 이동국은 이 보정값으로 위치 결정 오차를 감소시킨다. 반면 상대측위(DGPS)와 실시간 이동측위(RTK)의 차이는 다음의 표 2.7과 같다. 측위에 사용하는 신호의 종류에 따라 그림 2.22와 같이 코드 신호를 사용하면 상대측위, 반송파신호를 사용하면 실시간 이동측위로 구분한다.",
+    "blockRange": [
+      346,
+      346
+    ],
+    "page": 39
+  },
+  {
+    "id": "c0137",
+    "type": "table",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교"
+    ],
+    "text": "**[표 2.7] 상대측위와 실시간 이동측위(RTK)**\n\n| 상대측위(DGPS) | 실시간 이동측위(RTK) |\n| --- | --- |\n| 4개 이상 위성 사용 | 5개 이상 위성 사용 |\n| C/A 코드를 해석에 사용 | 반송파의 오차 보정치를 이용 |\n| 장거리(100∼200 Km)에서 사용 | 10∼20 Km 내외에서 사용 |\n| 1∼5 m 오차 | 1cm ∼ 1m 오차 |",
+    "blockRange": [
+      347,
+      347
+    ],
+    "page": 40,
+    "table": {
+      "rows": 5,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0138",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교"
+    ],
+    "text": "[그림 2.22] 측위의 신호에 사용하는 신호 종류에 따른 구분",
+    "blockRange": [
+      348,
+      348
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0139",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교"
+    ],
+    "text": "### 2.4.2 상대측위(DGPS)",
+    "blockRange": [
+      349,
+      349
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0140",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교",
+      "2.4.2 상대측위(DGPS)"
+    ],
+    "text": "상대측위(DGPS)를 더 자세히 살펴보면 DGPS는 차분(Differential) 측위법으로 GPS 관측값을 처리하는 다양한 측위법이다(그림 2.23). 신호 안에는 (1) GPS 코드 관측에 대한 보정값(PRC, Pseudo-range Correction), (2) 기준국 위치 정보인 RTCM 메시지 Type1(Differential GPS Correction), (3) Type3(GPS Reference Station Parameter)이 있다. 그러나 반송파의 위상 보정값은 없다.\n\nGPS 코드 관측에 대한 보정값은 의사거리(GPS 위성과 기준국 안테나 간 거리의 추정값)를 보정한 값이다. 이는 기준국 위치를 기준으로 계산되었기 때문에, 이동국과 기준국 사이의 거리를 고려해 이동국의 위치에서 보정값을 산술적으로 계산해야 한다. 다만 이동국과 기준국 간의 거리가 멀면 부정확해진다.\n\n\n![image](image_032.png)\n\n[그림 2.23] 상대측위(DGPS) 방식의 모식도",
+    "blockRange": [
+      350,
+      353
+    ],
+    "page": 40
+  },
+  {
+    "id": "c0141",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교"
+    ],
+    "text": "### 2.4.3 실시간 이동측위(RTK)",
+    "blockRange": [
+      354,
+      354
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0142",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교",
+      "2.4.3 실시간 이동측위(RTK)"
+    ],
+    "text": "RTK는 Real Time Kinematic의 약어이다. 위도, 경도, 고도 등 이미 정밀한 위치값을 알고 있는 기준국(예: 위성기준점)에 GPS 기지국을 설치하여 그 곳의 GPS 위상 오차를 계산하고, 근처의 이동국은 해당 데이터를 받아 GPS 오차를 계산해 실시간으로 cm단위 급의 정밀도의 좌표값을 알 수 있는 측위 기법이다. 당연히 기준국과 멀어질수록 정밀도는 낮아진다. 자세한 RTK 보정기법은 아래와 같다.\n\n- 가. 관측공간보정(OSR, Observation Space Representation) 방식\n- VRS(Virtual Reference Station) 기법 : 각 오차 요인을 모두 더해 제공하는 방식",
+    "blockRange": [
+      355,
+      357
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0143",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교",
+      "2.4.3 실시간 이동측위(RTK)",
+      "- VRS(Virtual Reference Station) 기법 : 각 오차 요인을 모두 더해 제공하는 방식"
+    ],
+    "text": "네트워크 모델링을 통해 이동국의 인근 임의의 위치에서 관측된 것과 같은 가상기준점(VRS)을 생성한다. 이 가상기준점과 이동국의 RTK를 통해 정밀한 이동국의 위치를 결정한다.",
+    "blockRange": [
+      358,
+      358
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0144",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교",
+      "2.4.3 실시간 이동측위(RTK)"
+    ],
+    "text": "- FKP(Flachen-Korrektur-Parameter) 기법",
+    "blockRange": [
+      359,
+      359
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0145",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교",
+      "2.4.3 실시간 이동측위(RTK)",
+      "- FKP(Flachen-Korrektur-Parameter) 기법"
+    ],
+    "text": "네트워크 모델링을 통해 네트워크 내부의 각 면 보정파라미터(FKP)를 생성한다. 면 보정파라미터를 이동국에 전송해 RTK의 거리에 따른 오차를 보정해 정밀한 이동국의 위치를 결정한다.\n\n\n![image](image_033.png)",
+    "blockRange": [
+      360,
+      361
+    ],
+    "page": 41
+  },
+  {
+    "id": "c0146",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교",
+      "2.4.3 실시간 이동측위(RTK)"
+    ],
+    "text": "- 나. 관측공간보정(SSR, State Space Representation) 방식",
+    "blockRange": [
+      362,
+      362
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0147",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "[표 2.6] GPS 측위방식별 비교",
+      "2.4.3 실시간 이동측위(RTK)",
+      "나. 관측공간보정(SSR, State Space Representation) 방식"
+    ],
+    "text": "각 오차 요인별 보정 정보를 생성하여 제공하는 방식, 기존 고가형 장비 측지 측량 목적외에 드론, 자율차 등의 이동체와 저가형 수신기에서 고정밀 위치 정보를 서비스할 수 있다.",
+    "blockRange": [
+      363,
+      363
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0148",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 다. VRS(Virtual Reference Station) 기법",
+    "blockRange": [
+      364,
+      364
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0149",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "다. VRS(Virtual Reference Station) 기법"
+    ],
+    "text": "VRS(Virtual Reference Station)는 말 그대로 가상의 기준점이다. 기준국이 GPS 데이터를 수신해 VRS 서버로 전송하면, VRS 서버는 그 데이터로 보정치를 만든다. 이동국은 VRS서버로 현재 위치를 전송하고(NEMA), VRS 서버는 이동국이 요청한 위치에 해당하는 보정치를 RTCM으로 전송한다. 이동국은 해당 보정치를 통해 정밀 좌표를 획득할 수 있다. 즉, 가상의 기준국을 이용해 이동국의 오차를 제거하는 것이다.",
+    "blockRange": [
+      365,
+      365
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0150",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)"
+    ],
+    "text": "## 2.5 국토정보플랫폼(국토지리정보원) 서비스",
+    "blockRange": [
+      366,
+      366
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0151",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.5 국토정보플랫폼(국토지리정보원) 서비스"
+    ],
+    "text": "### 2.5.1 위성기준점",
+    "blockRange": [
+      367,
+      367
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0152",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.5 국토정보플랫폼(국토지리정보원) 서비스",
+      "2.5.1 위성기준점"
+    ],
+    "text": "현재 국내 77개의 위성기준점이 있으며, 국토지리정보원에서는 이 위성기준점의 일별 관측 데이터를 GNSS 후처리용으로 일반에게 국토정보플랫품을 통해 제공하고 있다. 2005년부터는 위성기준점을 이용해 실시간으로 고정밀의 위치결정이 가능한 네트워크 RTK서비를 제공하고 있다. 위성기준점 지도 및 좌표 다운로드는 국토정보플랫폼 위성 기준점 현황에서 볼 수 있다.(그림 2.24, 그림 2.25)",
+    "blockRange": [
+      368,
+      368
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0153",
+    "type": "table",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.5 국토정보플랫폼(국토지리정보원) 서비스",
+      "2.5.1 위성기준점"
+    ],
+    "text": "|  |  |\n| --- | --- |",
+    "blockRange": [
+      369,
+      369
+    ],
+    "page": 42,
+    "table": {
+      "rows": 1,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0154",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.5 국토정보플랫폼(국토지리정보원) 서비스",
+      "2.5.1 위성기준점"
+    ],
+    "text": "[그림 2.24] 국토지리정보원 위성기준점 전경 [그림 2.25] 위성기준점 위치(국토지리정보원 77개, 해양측위정보원 12개)\n\n\n![image](image_034.png)\n\n\n![image](image_035.png)",
+    "blockRange": [
+      370,
+      372
+    ],
+    "page": 42
+  },
+  {
+    "id": "c0155",
+    "type": "heading",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.5 국토정보플랫폼(국토지리정보원) 서비스"
+    ],
+    "text": "### 2.5.2 GNSS 데이터 통합센터",
+    "blockRange": [
+      373,
+      373
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0156",
+    "type": "text",
+    "breadcrumb": [
+      "다. Steenbrass댐(남아프리카공화국)",
+      "2.5 국토정보플랫폼(국토지리정보원) 서비스",
+      "2.5.2 GNSS 데이터 통합센터"
+    ],
+    "text": "GNSS데이터는 고정된 위치에서 GNSS 위성신호를 연속적으로 수신하는 GNSS 상시관측소를 통해 수신된 공공데이터로 측량, 네비게이션 등의 정밀공간서비스 분야에서 사용되는 국가 중요 정보로서 국민의 토지재산권 보호 및 국토의 이활용을 위해 다양한 분야에서 활용되고 있다.\n\n기관별 업무목적에 따라 GNSS 상시관측소를 운영중인 8개기관(국토지리정보원, 국립해양측위정보원, 한국천문연구원, 서울특별시, 한국지질자원연구원, 한국국토정보공사, 국가기상위 성센터, 우주전파센터)이 참여해 그림 2.26과 같이 GNSS데이터 통합체계를 구축했으며, GNSS 상시관측소의 정보와 위성 수신 데이터를 통합적으로 민간에 제공하고 있다. 링크에 접속하면 서비스를 이용할 수 있다. NTRIP Client를 이용해 실시간 GNSS 실시간 데이터(RTCM)를 수신할 수 있으며, 일/시간 단위 GNSS 후처리 데이터(RINEX)를 수신할 수 있다. RINEX(Receiver Independent Exchange Format)는 GPS 관측지를 받는 수신기에 구애받지 않고 공통적인 양식으로 변환되는 GPS데이터 형식이다.\n\n[그림 2.26] GNSS 데이터 통합센터(http://www.gnssdata.or.kr)\n\n\n![image](image_036.png)\n\n\n![image](image_037.png)",
+    "blockRange": [
+      374,
+      378
+    ],
+    "page": 43
+  },
+  {
+    "id": "c0157",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제 3장 스마트 모니터링 현황",
+    "blockRange": [
+      379,
+      379
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0158",
+    "type": "heading",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황"
+    ],
+    "text": "## 3.1 스마트 모니터링 구축",
+    "blockRange": [
+      380,
+      380
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0159",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.1 스마트 모니터링 구축"
+    ],
+    "text": "K-water는 관리중인 댐 및 부속시설물 전체에 대해 실시간 스마트 모니터링 및 위기상황에 적기 대응이 가능하도록 GPS변위계와 경사계 기반 “댐 실시간 스마트 모니터링 시스템”의 구축을 2021년 9월 시작하여 2022년 11월에 완료하였다. 다목적댐에 설치된 GPS변위계와 경사계는 표 3.1과 같다. 용수전용댐에 설치된 GPS변위계와 경사계는 표 3.2과 같다. 이에 앞서 6개 조정지댐과 6개 부댐에는 “조정지댐 및 부댐 무인 상시 계측시스템”의 구축을 2020년 6월부터 설치를 시작하여 2021년 6월에 완료하였다. 조정지댐과 부댐에 설치된 GPS변위계와 경사계는 표 3.3과 같다. 다목적댐, 용수전용댐, 조정지댐 및 부댐의 총 50개 시설물에 967개의 GPS변위계, 180개의 경사계를 설치하였다.\n\n다목적댐과 용수전용댐에는 그림 3.1과 그림 3.2와 같이 댐체(정상부, 상‧하류사면), 여수로 수문, 취수탑에 GPS변위계와 경사계를 설치하였다. 조정지댐 및 부댐은 그림 3.3과 같이 GPS변위계와 경사계를 설치하였다.\n\n[그림 3.1] 다목적댐(소양강댐) GPS변위계와 경사계 설치위치\n\n\n![image](image_038.png)",
+    "blockRange": [
+      381,
+      384
+    ],
+    "page": 44
+  },
+  {
+    "id": "c0160",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.1 스마트 모니터링 구축"
+    ],
+    "text": "**[표 3.1] 다목적댐 GPS변위계와 경사계 설치현황**\n\n| No. | 시설물명 | GPS | 경사계 | 비 고 |\n| --- | --- | --- | --- | --- |\n| 1 | 소양강 | 32 | 5 | CCRD |\n| 2 | 충주 | 7 | 4 | CGD |\n| 3 | 횡성 | 25 | 3 | CCRD |\n| 4 | 평화 | 1 | 1 | CFRD |\n| 5 | 군남 | 20 | 11 | CGD |\n| 6 | 한탄강 | 16 | 8 | CGD |\n| 7 | 안동 | 47 | 4 | CCRD |\n| 8 | 임하 | 43 | 4 | CCRD |\n| 9 | 성덕 | 7 | 4 | CGD |\n| 10 | 영주 | 39 | 8 | CFRD+CGD |\n| 11 | 군위 | 31 | 3 | CFRD |\n| 12 | 김천부황 | 25 | 3 | CFRD |\n| 13 | 보현산 | 11 | 5 | CGD |\n| 14 | 합천 | 11 | 8 | CGD |\n| 15 | 남강 | 51 | 10 | CFRD |\n| 16 | 밀양 | 33 | 7 | CFRD |\n| 17 | 용담 | 37 | 8 | CFRD |\n| 18 | 대청 | 34 | 6 | CCRD+CGD |\n| 19 | 섬진강 | 10 | 6 | CGD |\n| 20 | 주암본 | 38 | 6 | CCRD |\n| 21 | 주암조 | 29 | 3 | CCRD |\n| 22 | 부안 | 30 | 3 | CFRD |\n| 23 | 보령 | 30 | 3 | CCRD |\n| 24 | 장흥 | 28 | 4 | CFRD |\n|  | 계 | 635 | 127 |  |",
+    "blockRange": [
+      385,
+      385
+    ],
+    "page": 45,
+    "table": {
+      "rows": 26,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0161",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.1 스마트 모니터링 구축"
+    ],
+    "text": "**[표 3.2] 용수전용댐 GPS변위계와 경사계 설치수량**\n\n| No. | 시설물명 | GPS | 경사계 | 비 고 |\n| --- | --- | --- | --- | --- |\n| 1 | 광동 | 22 | 2 | CCRD |\n| 2 | 달방 | 25 | 3 | CCRD |\n| 3 | 영천 | 21 | 6 | CCRD |\n| 4 | 안계 | 15 | 3 | CCRD |\n| 5 | 감포 | 13 | 1 | CCRD |\n| 6 | 운문 | 28 | 6 | CCRD |\n| 7 | 대곡 | 18 | 5 | CFRD |\n| 8 | 사연 | 19 | 1 | CCRD |\n| 9 | 대암 | 14 | 3 | CCRD |\n| 10 | 선암 | 21 | 2 | CCRD |\n| 11 | 연초 | 11 | 1 | CCRD |\n| 12 | 구천 | 11 | 2 | CCRD |\n| 13 | 수어 | 35 | 2 | CCRD |\n| 14 | 평림 | 20 | 2 | CCRD |\n|  | 계 | 273 | 39 |  |",
+    "blockRange": [
+      386,
+      386
+    ],
+    "page": 46,
+    "table": {
+      "rows": 16,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0162",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.1 스마트 모니터링 구축"
+    ],
+    "text": "**[표 3.3] 조정지댐과 부댐 GPS변위계, 경사계, 지하수위계 설치수량**\n\n| No. | 시설물명 | GPS | 경사계 | 비 고 |\n| --- | --- | --- | --- | --- |\n| 1 | 대청조정지댐 | 3 | 2 | CGD |\n| 2 | 대청부댐 | 4 |  | EF |\n| 3 | 섬진강부댐 | 1 |  | EF |\n| 4 | 안계부댐 | 8 |  | EF |\n| 5 | 안동조정지댐 | 3 | 2 | CGD |\n| 6 | 임하조정지댐 | 6 | 2 | CGD |\n| 7 | 임하1부댐 | 5 |  | EF |\n| 8 | 임하2부댐 | 5 |  | EF |\n| 9 | 주암역조정지댐 | 8 | 2 | CGD+EF |\n| 10 | 주암부댐 | 1 |  | EF |\n| 11 | 충주조정지댐 | 5 | 4 | CGD |\n| 12 | 합천조정지댐 | 9 | 2 | CGD+EF |\n|  | 계 | 59 | 14 |  |",
+    "blockRange": [
+      387,
+      387
+    ],
+    "page": 46,
+    "table": {
+      "rows": 14,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0163",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.1 스마트 모니터링 구축"
+    ],
+    "text": "[그림 3.2] 용수전용댐(광동댐) GPS변위계와 경사계 설치위치\n\n[그림 3.3] 조정지 및 부댐(합천조정지) GPS변위계와 경사계 설치위치",
+    "blockRange": [
+      388,
+      389
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0164",
+    "type": "heading",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황"
+    ],
+    "text": "## 3.2 스마트 모니터링 제원",
+    "blockRange": [
+      390,
+      390
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0165",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원"
+    ],
+    "text": "다목적댐 및 용수전용댐(2022년 11월 설치완료)과 조정지댐과 부댐(2021년 6월 설치완료)에 설치된 GPS변위계와 경사계의 제원과 특징은 다음과 같다.",
+    "blockRange": [
+      391,
+      391
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0166",
+    "type": "heading",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원"
+    ],
+    "text": "### 3.2.1 GPS변위계",
+    "blockRange": [
+      392,
+      392
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0167",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계"
+    ],
+    "text": "- 가. 모델별 제원과 특징",
+    "blockRange": [
+      393,
+      393
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0168",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "가. 모델별 제원과 특징"
+    ],
+    "text": "![image](image_039.png)\n\n\n![image](image_040.png)\n\n다목적댐 및 용수전용댐(2022년 11월 설치완료)과 조정지댐과 부댐(2021년 5월 설치완료)에 설치된 GPS변위계의 모델별 제원과 특징은 다음의 표 3.4와 같다. 적용된 GPS변위계 모델별 적용된 측위방식과 변위 계산과정은 표 3.5에 설명하였다.\n\nAK35x(2021)는 Static-PPK 방식을 측위방식으로 적용하여 1시간 단위로 후처리를 통해 변위데이터를 계산하므로 정밀도(수평 3 mm + 1 ppm)는 높으나 1시간 단위로 계산되기 때문에 급격하게 변화하는 변위를 계산하지 못할 수 있다. A920K(2022)는 10분 단위로 계산되기 때문에 AK35x(2021) 보다 높은 변위속도의 변위를 계산할 수 있으나 정밀도는 수평 1 cm + 1 ppm으로 낮아진다. GPS변위계의 수직 정밀도는 수평보다는 정밀도가 낮으며 보통 수평 정밀도의 2배 이다.",
+    "blockRange": [
+      394,
+      397
+    ],
+    "page": 47
+  },
+  {
+    "id": "c0169",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "가. 모델별 제원과 특징"
+    ],
+    "text": "**[표 3.4] GPS변위계 모델별 제원과 특징**\n\n| 구 분 | 조정지댐 및 부댐 무인상시<br>계측시스템 (2021) |  |  | 댐 실시간 스마트 모니터링<br>시스템(2022) |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 사용 주파수 | GPS |  | L1, L2 | GPS |  | L1,L2,L5 |\n| 사용 주파수 | GPS |  | L1, L2 | Beidou |  | B1,B2 |\n| 사용 주파수 | Beidou |  | B1, B2 | Beidou |  | B1,B2 |\n| 사용 주파수 | Beidou |  | B1, B2 | Glonass |  | L1,L2 |\n| 사용 주파수 | Beidou |  | B1, B2 | Galileo |  | E1,E5 |\n| 사용 주파수 | Glonass |  | L1, L2 | Galileo |  | E1,E5 |\n| 사용 주파수 | Glonass |  | L1, L2 | QZSS |  | L1,L2,L5 |\n| 정확도 | RTK | 수평 : 1 cm + 1 ppm<br>수직 : 2 cm + 1.5 ppm |  | RTK | 수평 : 1 cm + 1 ppm<br>수직 : 2 cm + 1.5 ppm<br>\\* 10분 데이터 처리 및 보정 |  |\n| 정확도 | Static (PPK) | 수평 : 3 mm + 1 ppm<br>수직 : 7 mm + 1.5 ppm<br>\\* 1시간 데이터 처리시 |  | Static (PPK) | 수평 : 3 mm + 1 ppm<br>수직 : 7 mm + 1.5 ppm |  |\n| 운영온도 | -32℃\\~+74℃ |  |  | -40℃\\~+85℃ |  |  |\n| 계측빈도 | 1 Hz (1초에 1회) |  |  | 20 Hz (1초에 20회) |  |  |\n| 인터페이스 | RJ45 |  |  | RJ45, USB-C |  |  |\n| 모델명 |  |  |  |  |  |  |\n| 모델명 | AK35X |  |  | AK920K |  |  |",
+    "blockRange": [
+      398,
+      398
+    ],
+    "page": 48,
+    "table": {
+      "rows": 15,
+      "cols": 7
+    }
+  },
+  {
+    "id": "c0170",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "가. 모델별 제원과 특징"
+    ],
+    "text": "![image](image_041.png)\n\n\n![image](image_042.png)",
+    "blockRange": [
+      399,
+      400
+    ],
+    "page": 48
+  },
+  {
+    "id": "c0171",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "가. 모델별 제원과 특징"
+    ],
+    "text": "**[표 3.5] GPS변위계의 모델별 적용 측위방식과 변위 계산 과정**\n\n| 구 분 | 적용 측위방식 | 변위 계산 과정 |\n| --- | --- | --- |\n| AK35x(2021) | Static-PPK | 위성 데이터(수신기) → RINEX 형태로 PC 저장 → 수집된 데이터를 알고리즘을 통해 후처리 SW(Anchor)에서 계산 → 위경도 값 및 변위 값으로 환산하여 저장<br>※ 1시간 단위로 데이터 처리<br>※RINEX : Receiver Independent Exchange Format |\n| AK920K(2022) | RTK | 위성 데이터(수신기) → 위경도 데이터 및 필요 추출(수신기) → 변위 모니터링에 필요한 실시간 값 PC에 저장 → 이동평균 및 필터링 알고리즘 적용한 통계 데이터 추출하고 저장<br>※ 10분 단위로 데이터 처리 |",
+    "blockRange": [
+      401,
+      401
+    ],
+    "page": 49,
+    "table": {
+      "rows": 3,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0172",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계"
+    ],
+    "text": "- 나. GPS변위계(AK920K) 변위데이터 처리과정",
+    "blockRange": [
+      402,
+      402
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0173",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "나. GPS변위계(AK920K) 변위데이터 처리과정"
+    ],
+    "text": "댐 실시간 스마트 모니터링 시스템(2022)에 적용된 GPS변위계(AK920K)와 서버간의 위성 데이터 처리과정은 그림 3.4와 같다. 표 3.6은 계측서버 데이터 처리과정과 데이터 변환 과정에 대해 설명한 것이다. 표 3.7은 AK920K(2022)의 원시 데이터 내용을 설명한 것이다. 원시 데이터에는 시각, 위경도, 해발고도(m), GPS 변위계 오차의 기하학적 요인에 해당되는 위성의 배치상황에 대한 정보 PDOP(Positional Dilution of Precision)와 HDOP(Horizontal Dilution of Precision), 계산에 사용된 위성의 수, GPS 품질 정보 등을 포함한다. GPS변위계에서 이상치 발생시 원시 데이터를 확인하여 이상치 및 오차원인 등을 확인할 수 있다.\n\n[그림 3.4] 댐 실시간 스마트 모니터링 시스템(AK920K, 2022) 개요\n\n\n![image](image_043.png)",
+    "blockRange": [
+      403,
+      405
+    ],
+    "page": 49
+  },
+  {
+    "id": "c0174",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "나. GPS변위계(AK920K) 변위데이터 처리과정"
+    ],
+    "text": "**[표 3.6] AK920K(2022) 데이터 처리 및 변환 과정**\n\n| 구 분 | 변위 계산 과정 |\n| --- | --- |\n| 계측서버 데이터<br>처리과정 | - 1Hz(1줄 텍스트 데이터/초) 간격으로 스트리밍 되어 수집되는 GPS<br>데이터를 PC 메모리에서 데이터 처리과정 수행함<br>- 데이터 처리 시 위성 품질 및 RTK 상태 등 데이터 품질에 영향을<br>주는 요소를 고려한 필터링 및 이상치 필터링 후 통계처리 알고리즘<br>적용 10분 단위로 서버 PC에 데이터 저장 및 변위 값 계산 후 표출 |\n| 데이터 변환 과정 | - 1Hz(1줄 텍스트 데이터/초) 간격으로 스트리밍 되는 GPS 데이터 :<br>시간, 위경도 및 해발고도(LLH), GPS 품질 정보(PDOP, HDOP)<br>- 1줄 텍스트 데이터/10분 간격으로 서버 PC 저장, 데이터는 텍스트<br>파일로 저장 : 시간 ENU(m), 위경도 및 해발고도(LLH)<br>- LLH 에서 ENU 변환시 세계측지계(GRS80 타원체)를 이용<br>- 변위 값은 ENU 값을 이용, 기준치(baseline value)에서의 변화량을<br>계산하여 표출 |\n| 용어설명 | - LLH : LaLLH : Latitude (위도), Longitude (경도), Height (고도)<br>- ENU : East (동서) / North (남북) / Up (연직)<br>- HDOP : Horizontal Dilution of Precision (수평위치오차)<br>- VDOP : Vertical Dilution of Precision (수직위치오차)<br>- PDOP : Position Dilution of Precision (3차원적위치오차)<br>- PRN : 어떠한 규칙에 의해 만들어지는 불규칙한 이진수열로<br>위성까지의 거리를 측정하는데 사용 |",
+    "blockRange": [
+      406,
+      406
+    ],
+    "page": 50,
+    "table": {
+      "rows": 4,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0175",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계"
+    ],
+    "text": "- 다. DOP의 개념",
+    "blockRange": [
+      407,
+      407
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0176",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "다. DOP의 개념"
+    ],
+    "text": "위성들의 배치상황에 따라 오차가 증가하게 되는데 이는 육상에서 육안으로(독도법) 위치를 낼 때 적당한 간격의 물표를 선택하여 독도법을 실시하면 오차삼각형이 적어져 위치가 정확해지고, 몰려있는 물표를 이용하는 경우 오차 삼각형이 커져서 위치가 부정확해지는 것과 마찬가지로 수신기 주위로 위성이 적당히 고르게 배치되어 있는 경우에 위치의 오차가 작아진다. 보이는 위성의 배치의 고른 정도를 DOP(Dilution of Precision) 이라고 한다.\n\n위성오차의 원인은 구조적인 요인인 인공위성 전리오차, 전리층과 대층의 굴절, 잡읍, 다중경로 등으로 인한 오차가 있으며 기하학적 요인으로는 그림 위성의 배치상황에 따라 나타 난다.",
+    "blockRange": [
+      408,
+      409
+    ],
+    "page": 50
+  },
+  {
+    "id": "c0177",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "다. DOP의 개념"
+    ],
+    "text": "**[표 3.7] AK920K(2022) GPS 수신기 생성 원시 데이터(Raw Data) 내용**\n\n| 구 분 | 내 용 |\n| --- | --- |\n| \\$ | 시작 |\n| NNS01 | 위치좌표전송 정보 식별자 |\n| DAM001 | 장치 ID(Serial No) |\n| DAM001 | Tag Name |\n| 1.0 | PDOP(Positional Dilution of Precision) |\n| 12.0 | Input Power voltage |\n| 24.0 | Temperature |\n| 141021 | UTC Date: 2021년 10월 14일 (DDMMYY) |\n| 004952 | UTC Time: 00시 49분 52초 |\n| 3723.1234567 | Latitude: 37도23.1234567분 |\n| N | 북위 (N=north, S=South) |\n| 12655.1234567 | Longitude: 126도 55.1234567분 |\n| E | 동경 (E=East, W=West) |\n| 1 | GPS Quality indicator: 0: Fix not valid / 1: GPS fix / 2: Differential GPS fix, OmniSTAR VBS / 4: Real-Time Kinematic, fixed integers / 5: Real-Time Kinematic, float integers, Location RTK |\n| 04 | 계산을 위해 사용한 위성의 개수 |\n| 04.7 | HDOP(Horizontal Dilution of Precision) |\n| 46.123 | 해수면 기준 고도(해발) |\n| M | 고도 단위(M=meter) |\n| 18.10 | 지오이드고도(geoid height) |\n| M | 단위(M=meter) |\n| 0 | DPGS 데이타의 Age (No DGPS) |\n| 0000 | Reference station ID, range 0000-4095. |\n| \\* | checksum 구분자 |\n| 4F | 전체 데이터 검증을 위한 checksum |\n| \\<CR> \\<LF> | 데이터 종료 |",
+    "blockRange": [
+      410,
+      410
+    ],
+    "page": 51,
+    "table": {
+      "rows": 26,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0178",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "다. DOP의 개념"
+    ],
+    "text": "|  |  |\n| --- | --- |\n| (a) 위성의 좋은 배열 | (b) 위성의 나쁜 배열 |\n\n**[그림 3.5] 위성배열이 좋은 경우와 나쁜 경우**",
+    "blockRange": [
+      411,
+      411
+    ],
+    "page": 51,
+    "table": {
+      "rows": 2,
+      "cols": 2
+    }
+  },
+  {
+    "id": "c0179",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.1 GPS변위계",
+      "다. DOP의 개념"
+    ],
+    "text": "![image](image_044.png)\n\n\n![image](image_045.png)",
+    "blockRange": [
+      412,
+      413
+    ],
+    "page": 51
+  },
+  {
+    "id": "c0180",
+    "type": "heading",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원"
+    ],
+    "text": "### 3.2.2 경사계",
+    "blockRange": [
+      414,
+      414
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0181",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.2 경사계"
+    ],
+    "text": "조정지 및 부댐 무인 상시 계측시스템(2021)과 댐 실시간 스마트 모니터링 시스템(2022)에 적용된 경사계는 표 3.8과 같이 캐나다 RST사의 경사계이며 MEMS(Micro-Electro Mechanical Systems) 기술을 적용한 2축 경사계 이다. 측정범위는 ± 15 이고 분해능은 ±0.0006° 이다.\n\n경사계는 댐축방향(A)과 상‧하류방향(B)으로 설치되었으며 댐우안과 하류방향이 (+) 방향이다.",
+    "blockRange": [
+      415,
+      416
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0182",
+    "type": "table",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.2 경사계"
+    ],
+    "text": "**[표 3.8] 경사계 제원**\n\n| 구 분 | 내 용 | 구 분 | 내 용 |\n| --- | --- | --- | --- |\n| 제조사 | RST Instrument(캐나다) | 모델명 | IC6654 |\n| 동작범위 | ±15° | 분해능 | ±2 arc sec. (±0.0006°) (0.01 mm/m) |\n| 비선형성 | ±0.0125% F.S.<br>(±0.002°)<br>(0.03 mm/m) | 재현성 | ±0.0125% F.S.<br>(±0.002°)<br>(0.03 mm/m) |\n| 타입 | MEMS Biaxial | Sensor Offset | ± 0.002 arc deg./deg. C |\n| Sensor Sensitivity | +/- 0.013 % of reading/deg. C | 전원 | 8 \\~ 15V DC |\n| 크기 | 80mm × 80mm × 61mm | 운영온도 | -40 to 85°C |",
+    "blockRange": [
+      417,
+      417
+    ],
+    "page": 52,
+    "table": {
+      "rows": 7,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0183",
+    "type": "text",
+    "breadcrumb": [
+      "제 3장 스마트 모니터링 현황",
+      "3.2 스마트 모니터링 제원",
+      "3.2.2 경사계"
+    ],
+    "text": "[그림 3.6] 경사계(RST Instrument, MEMS Biaxial)\n\n\n![image](image_046.png)",
+    "blockRange": [
+      418,
+      419
+    ],
+    "page": 52
+  },
+  {
+    "id": "c0184",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+    "blockRange": [
+      420,
+      420
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0185",
+    "type": "heading",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안"
+    ],
+    "text": "## 4.1 스마트 모니터링 초기 데이터 분석",
+    "blockRange": [
+      421,
+      421
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0186",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석"
+    ],
+    "text": "조정지댐 및 부댐 무인 상시 계측시스템(2021)과 댐 실시간 스마트 모니터링 시스템(2022)의 설치 후 초기 계측 데이터를 검토하였다. GPS변위계와 경사계로 나누고, 다목적댐, 용수전용댐, 조정지댐 및 부댐으로 구분하여 검토하였다. 데이터는 2023년 1월 20일 현재까지 기록된 데이터에 대해서만 검토하였다. 댐 실시간 스마트 모니터링 시스템(2022)의 경우 2022년 11월 설치가 완료되어 초기치 설정 및 시험운영, 수자원관리시스템으로의 데이터 연계 보완 등의 작업이 추가 진행되고 있다.",
+    "blockRange": [
+      422,
+      422
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0187",
+    "type": "heading",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석"
+    ],
+    "text": "### 4.1.1 GPS변위계",
+    "blockRange": [
+      423,
+      423
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0188",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계"
+    ],
+    "text": "- 가. 다목적댐",
+    "blockRange": [
+      424,
+      424
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0189",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "가. 다목적댐"
+    ],
+    "text": "다목적댐에 설치된 GPS변위계 데이터의 경시변화 특성은 다음의 표 4.1과 같이 검토되었다. 평화의댐과 합천댐은 설치된 전체 GPS변위계 데이터 없음으로 나타나 데이터 미연계된 상태로 보이나 향후 연계되어 데이터 추가가 될 것으로 보인다. 횡성댐(AA0302), 성덕댐(AA0308), 보현산댐(AA0004∼0010, AA0301), 대청댐(AA0005)은 데이터가 미연계된 상태로 보이므로 점검을 통한 복구가 필요하다.\n\n다목적댐 GPS변위계는 표 4.1과 같이 일단변동(비정상적으로 높은 값), 일단변동(비정상적으로 높은 값) 후 복구, 일단변동, 일단변동 후 복구, 사인파(Sinusoidal)형(장흥댐, AA0102), 다단변동(안동댐, AA0210, 0210, 0213, 0215) 형태의 데이터 특성을 나타내었다(그림 4.1∼4.6, 참\n\n조).",
+    "blockRange": [
+      425,
+      427
+    ],
+    "page": 53
+  },
+  {
+    "id": "c0190",
+    "type": "table",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "가. 다목적댐"
+    ],
+    "text": "**[표 4.1] 다목적댐 GPS변위계 데이터 경시변화 특성**\n\n| No. | 댐명 | 설치수량 | 데이터 검토 | 비고 |\n| --- | --- | --- | --- | --- |\n| 1 | 소양강댐 | 32 | -일단변동(비정상적으로 높은 값, AA0208, 0304)<br>-일단변동(비정상적으로 높은 값) 후 복구(그 외 계측기) | CCRD |\n| 2 | 충주댐 | 7 | -일단변동(약 20∼30 mm, AA0050)<br>-데이터 없음(AA0301) | CGD |\n| 3 | 횡성댐 | 25 | -일단변동(약 30∼40 mm, AA0001, 0106, 0301)<br>-일단변동(비정상적으로 높은 값, AA0208)<br>-데이터 없음(AA0302) | CCRD |\n| 4 | 평화의댐 | 1 | -전체 계기 데이터 없음 | CFRD |\n| 5 | 군남댐 | 20 | -전체 계기 일단변동(약 20mm, 그 외 계측기) | CGD |\n| 6 | 한탄강댐 | 16 | -전체계기 Y축 일단변동(비정상적으로 높은 값)<br>-일단변동(약 120 mm, AA0016) | CGD |\n| 7 | 안동댐 | 47 | -일단변동(약 40∼100 mm) 후 복구(AA0108, 0109, 0205)<br>-다단변동(AA0210, 0213, 0215) | CCRD |\n| 8 | 임하댐 | 43 | -전체 계기 Y축 일단변동(비정상적으로 높은 값)<br>-일단변동(약 40 mm, AA0101, AA0202 | CCRD |\n| 9 | 성덕댐 | 7 | -데이터 없음(AA0308) | CGD |\n| 10 | 영주댐 | 39 | -일단변동(전체 계기) | CFRD+CGD |\n| 11 | 군위댐 | 31 | -일단변동(약 30∼60 mm) 후 복구<br>-단기급등 후 복구<br>-데이터 없음(AA0212) | CFRD |\n| 12 | 김천부황 |  | -일단변동(약 40 mm) 후 복구, | CFRD |\n| 13 | 보현산댐 | 11 | -데이터 없음(AA0004∼00010, AA0301) | CGD |\n| 14 | 합천댐 | 11 | -데이터 없음 | CGD |\n| 15 | 남강댐 | 51 | -일단변동(약 200 mm) 후 복구<br>-일단변동(AA0213, AA0304) | CFRD |\n| 16 | 밀양댐 | 33 | -일단변동(비정상적으로 높은 값, AA0201, 0209, 0210,<br>0216, 0303)<br>-일단변동(설치 초기부터 높은 값, AA0301) | CFRD |\n| 17 | 용담댐 | 37 | -일단변동 후 복구<br>-일단변동(약 60, 120 mm, AA0215) | CFRD |\n| 18 | 대청댐 | 34 | -데이터 없음(AA0005)<br>-일단변동(AA0308) | CCRD+CGD |\n| 19 | 섬진강댐 | 10 | -정상 | CGD |\n| 20 | 주암(본)댐 | 38 | -일단변동(비정상적으로 높은 값, AA0102, AA0107,<br>AA0218)<br>-데이터 없음(AA0105, AA0306) | CCRD |\n| 21 | 주암(조)댐 | 29 | -일단변동 후 복구 | CCRD |\n| 22 | 부안댐 | 30 | -일단변동 후 복구<br>-일단변동(비정상적으로 높은 값) 후 복구(AA0105) | CFRD |\n| 23 | 보령댐 | 30 | -일단변동 후 복구 | CCRD |\n| 24 | 장흥댐 | 28 | -일단변동(AA0004, 0208, 0212, 0301)<br>-사인파(Sinusoidal)형(AA0102)<br>-일단변동(비정상적으로 높은 값, AA0106, 0204, 0210) | CFRD |",
+    "blockRange": [
+      428,
+      428
+    ],
+    "page": 54,
+    "table": {
+      "rows": 25,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0191",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "가. 다목적댐"
+    ],
+    "text": "[그림 4.1] 일단변동(비정상적으로 높은 값), 소양강댐 AA0208\n\n[그림 4.2] 일단변동(비정상적으로 높은 값) 후 복구, 주암조절지댐, AA0105\n\n[그림 4.3] 일단변동(약 20 mm), 군남댐, 전체계기\n\n\n![image](image_047.png)\n\n\n![image](image_048.png)\n\n\n![image](image_049.png)\n\n[그림 4.4] 일단변동(약 200 mm) 후 복구, 남강댐 AA0002\n\n[그림 4.5] 다단변동, 안동댐 AA0213\n\n[그림 4.6] 사인파(Sinusoidal)형, 장흥댐, AA0102",
+    "blockRange": [
+      429,
+      437
+    ],
+    "page": 55
+  },
+  {
+    "id": "c0192",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계"
+    ],
+    "text": "- 나. 용수전용댐",
+    "blockRange": [
+      438,
+      438
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0193",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "나. 용수전용댐"
+    ],
+    "text": "용수전용댐에 설치된 GPS변위계 데이터의 경시변화 특성은 다음의 표 4.2와 같이 검토되었다. 영천댐(AA0302, 0304, 0305), 운문댐(AA0207∼0210, 0304, 0306), 대곡댐(AA0204∼0206), 대암댐(AA0303)은 데이터가 미연계된 상태로 보이므로 점검을 통한 복구가 필요하다.\n\n\n![image](image_050.png)\n\n\n![image](image_051.png)\n\n\n![image](image_052.png)\n\n용수전용댐 GPS변위계는 표 4.2와 같이 일단변동(비정상적으로 높은 값), 일단변동(비정상적으로 높은 값) 후 복구, 일단변동, 일단변동 후 복구, 무변동(안계댐, AA0203), 변동폭 증가(감포댐, AA0003), 단기간 급등(평림댐, AA0301)형태의 데이터 특성을 나타내었다(그림 4.7∼4.13, 참조).",
+    "blockRange": [
+      439,
+      443
+    ],
+    "page": 56
+  },
+  {
+    "id": "c0194",
+    "type": "table",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "나. 용수전용댐"
+    ],
+    "text": "**[표 4.2] 용수전용댐 GPS변위계 데이터 경시변화 특성**\n\n| No. | 댐명 | 설치 수량 | 검토내용 | 비고 |\n| --- | --- | --- | --- | --- |\n| 1 | 광동댐 | 22 | -일단변동(약 20 mm, AA0001)<br>-일단변동(비정상적으로 높은 값) 후 복구<br>-일단변동 후 복구 | CCRD |\n| 2 | 달방댐 | 25 | -일단변동(비정상적으로 높은 값) 후 복구<br>-일단변동(약 20∼100 mm, 전체 계기)<br>-데이터 없음(AA0303) | CCRD |\n| 3 | 영천댐 | 21 | -일단변동(비정상적으로 높은 값, 전체계기 Y)<br>-일단변동(비정상적으로 높은 값, AA0002)<br>-데이터 없음(AA0302, 0304, 0305) | CCRD |\n| 4 | 안계댐 | 15 | -무변동(AA0203, X, Y) | CCRD |\n| 5 | 감포댐 | 13 | -변동폭 증가(AA0003, Z) | CCRD |\n| 6 | 운문댐 | 28 | -일단변동(약 30∼65 mm, AA0001, 0104, 0302)<br>-데이터 없음(AA0207∼0210, 0304, 0306) | CCRD |\n| 7 | 대곡댐 | 18 | -데이터 없음(AA0204∼0206) | CFRD |\n| 8 | 사연댐 | 19 | -정상 | CCRD |\n| 9 | 대암댐 | 14 | -데이터 없음(AA0303) | CCRD |\n| 10 | 선암댐 | 21 | -정상 | CCRD |\n| 11 | 연초댐 | 11 | -정상 | CCRD |\n| 12 | 구천댐 | 11 | -일단변동(전체 계기) | CCRD |\n| 13 | 수어댐 | 35 | -정상 | CCRD |\n| 14 | 평림댐 | 20 | -단기급등(AA0301) | CCRD |",
+    "blockRange": [
+      444,
+      444
+    ],
+    "page": 57,
+    "table": {
+      "rows": 15,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0195",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "나. 용수전용댐"
+    ],
+    "text": "[그림 4.7] 일단변동(비정상적으로 높은 값), 영천댐 AA0001\n\n\n![image](image_053.png)\n\n[그림 4.8] 일단변동(비정상적으로 높은 값) 후 복구, 달방댐, AA0001\n\n[그림 4.9] 일단변동(약 20 mm), 달방댐, AA0208\n\n[그림 4.10] 일단변동 후 복구, 광동댐 AA0302\n\n\n![image](image_054.png)\n\n\n![image](image_055.png)\n\n\n![image](image_056.png)\n\n[그림 4.11] 무변동, 안계댐, AA0203(X), AA0203(Y)\n\n[그림 4.12] 변동폭 증가, 감포댐, AA0003(Z)\n\n[그림 4.13] 단기급등, 평림댐, AA0301",
+    "blockRange": [
+      445,
+      455
+    ],
+    "page": 57
+  },
+  {
+    "id": "c0196",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계"
+    ],
+    "text": "- 다. 조정지댐 및 부댐",
+    "blockRange": [
+      456,
+      456
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0197",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "다. 조정지댐 및 부댐"
+    ],
+    "text": "조정지댐 및 부댐에 설치된 GPS변위계 데이터의 경시변화 특성은 다음의 표 4.3과 같이 검토되었다. 안동조정지댐은 설치된 전체 GPS변위계 데이터 없음으로 나타나 데이터 미연계된 상태로 보이나 향후 연계되어 데이터 추가가 될 것으로 보인다. 조정지댐 및 부댐에 설치된 GPS변위계는 표 4.3과 같이 일단변동 후 복구, 다단변동(안계부댐, SS008B) 형태의 데이터 특성을 나타내었다(그림 4.14, 4.15, 참조).\n\n\n![image](image_057.png)\n\n\n![image](image_058.png)\n\n\n![image](image_059.png)",
+    "blockRange": [
+      457,
+      460
+    ],
+    "page": 59
+  },
+  {
+    "id": "c0198",
+    "type": "table",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "다. 조정지댐 및 부댐"
+    ],
+    "text": "**[표 4.3] 조정지댐 및 부댐 GPS변위계 데이터 경시변화 특성**\n\n| No. | 댐명 | 설치수량 | 검토내용 | 비고 |\n| --- | --- | --- | --- | --- |\n| 1 | 대청조정지 | 3 | 일단변동후 복구 | CGD |\n| 2 | 대청제3부댐 | 4 | 일단변동후 복구 | EF |\n| 3 | 섬진강부댐 | 1 | 정상 | EF |\n| 4 | 안계부댐 | 8 | 다단변동(SS008B) | EF |\n| 5 | 안동조정지 | 3 | 전체 계기 데이터 없음 | CGD |\n| 6 | 임하조정지 | 6 | 정상 | CGD |\n| 7 | 임하제1부댐 | 5 | 정상 | EF |\n| 8 | 임하제2부댐 | 5 | 정상 | EF |\n| 9 | 주암역조정지 | 8 | 정상 | CGD+EF |\n| 10 | 주암조절지 부댐 | 1 | 정상 | EF |\n| 11 | 충주조정지 | 5 | 정상 | CGD |\n| 12 | 합천조정지 | 9 | 정상 | CGD+EF |",
+    "blockRange": [
+      461,
+      461
+    ],
+    "page": 60,
+    "table": {
+      "rows": 13,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0199",
+    "type": "text",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석",
+      "4.1.1 GPS변위계",
+      "다. 조정지댐 및 부댐"
+    ],
+    "text": "[그림 4.14] 일단변동후 복구, 대청부댐, SS0001\n\n[그림 4.15] 다단변동, 안계부댐, SS088\n\n\n![image](image_060.png)\n\n\n![image](image_061.png)",
+    "blockRange": [
+      462,
+      465
+    ],
+    "page": 60
+  },
+  {
+    "id": "c0200",
+    "type": "heading",
+    "breadcrumb": [
+      "제 4장 스마트 모니터링 운영 및 관리체계 개선방안",
+      "4.1 스마트 모니터링 초기 데이터 분석"
+    ],
+    "text": "### 4.1.2 경사계",
+    "blockRange": [
+      466,
+      466
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0201",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 가. 다목적댐",
+    "blockRange": [
+      467,
+      467
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0202",
+    "type": "text",
+    "breadcrumb": [
+      "가. 다목적댐"
+    ],
+    "text": "다목적댐에 설치된 경사계 데이터의 경시변화 특성은 다음의 표 4.4와 같이 검토되었다. 안동댐, 용담댐, 대청댐은 설치된 전체 경사계 데이터 없음으로 나타나 데이터 미연계된 상태로 보이나 향후 연계되어 데이터 추가가 될 것으로 보인다. 소양강댐(IC0102, 0103, 0105), 횡성댐(IC0102), 군남댐(IC0007∼0010), 주암본댐(IC0105), 주암조절지댐(IC0103), 부안댐(IC0102), 장흥댐(IC0101, 0102)은 데이터가 미연계된 상태로 보이므로 점검을 통한 복구가 필요하다.\n\n다목적댐에 설치된 경사계는 표 4.4와 같이 단기간급등(평화의댐, IC0101), 비정상적으로 높은 값(보현산댐, 약 (-)470 , IC0102) 형태의 데이터 특성을 나타내었다(그림 4.16, 4.17, 참\n\n조).\n\n[그림 4.16] 단기간급등, 평화의댐, IC0101\n\n[그림 4.17] 비정상적으로 큰 값(-470 ), 보현산댐, IC0102\n\n\n![image](image_062.png)\n\n\n![image](image_063.png)",
+    "blockRange": [
+      468,
+      474
+    ],
+    "page": 61
+  },
+  {
+    "id": "c0203",
+    "type": "table",
+    "breadcrumb": [
+      "가. 다목적댐"
+    ],
+    "text": "**[표 4.4] 다목적댐 경사계 데이터 경시변화 검토**\n\n| No. | 댐명 | 설치수량 | 검토내용 | 비고 |\n| --- | --- | --- | --- | --- |\n| 1 | 소양강댐 | 5 | -데이터 없음(IC0102, 0103, 0105) | CCRD |\n| 2 | 충주댐 | 4 | -정상 | CGD |\n| 3 | 횡성댐 | 3 | -데이터 없음(IC0102) | CCRD |\n| 4 | 평화의댐 | 1 | -단기간 급등(IC0101) | CFRD |\n| 5 | 군남댐 | 11 | -데이터 없음(IC0007, 0008, 0009, 0010) | CGD |\n| 6 | 한탄강댐 | 8 | -정상 | CGD |\n| 7 | 안동댐 | 4 | -전체 계기 데이터 없음 | CCRD |\n| 8 | 임하댐 | 4 | -정상 | CCRD |\n| 9 | 성덕댐 | 4 | -정상 | CGD |\n| 10 | 영주댐 | 8 | -정상 | CCRD+CGD |\n| 11 | 군위댐 | 3 | -정상 | CFRD |\n| 12 | 김천부황 | 3 | -정상 | CFRD |\n| 13 | 보현산댐 | 5 | -비정상으로 큰 값(약 –470도, IC0102) | CGD |\n| 14 | 합천댐 | 8 | -정상 | CGD |\n| 15 | 남강댐 | 10 | -정상 | CFRD |\n| 16 | 밀양댐 | 7 | -정상 | CFRD |\n| 17 | 용담댐 | 8 | -전체 계기 데이터 없음 | CFRD |\n| 18 | 대청댐 | 6 | -전체 계기 데이터 없음 | CCRD+CGD |\n| 19 | 섬진강댐 | 6 | -정상 | CGD |\n| 20 | 주암본댐 | 6 | -데이터 없음(IC0105) | CCRD |\n| 21 | 주암조절지댐 | 3 | -데이터 없음(IC0103) | CCRD |\n| 22 | 부안댐 | 3 | -데이터 없음(IC0102) | CFRD |\n| 23 | 보령댐 | 3 | -정상 | CCRD |\n| 24 | 장흥댐 | 4 | -데이터 없음(IC0101, 0102) | CFRD |",
+    "blockRange": [
+      475,
+      475
+    ],
+    "page": 62,
+    "table": {
+      "rows": 25,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0204",
+    "type": "text",
+    "breadcrumb": [
+      "가. 다목적댐"
+    ],
+    "text": "- 나. 용수전용댐",
+    "blockRange": [
+      476,
+      476
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0205",
+    "type": "text",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "나. 용수전용댐"
+    ],
+    "text": "용수전용댐에 설치된 경사계 데이터의 경시변화 특성은 다음의 표 4.5와 같이 검토되었다. 대곡댐, 사연댐, 대암댐, 선암댐은 설치된 전체 경사계 데이터 없음으로 나타나 데이터 미연계된 상태로 보이나 향후 연계되어 데이터 추가가 될 것으로 보인다. 영천댐(IC0102, 0104, 0105)은 데이터가 미연계된 상태로 보이므로 점검을 통한 복구가 필요하다. 용수전용댐에 설치된 경사계는 표 4.5와 같이 경시변화 이상패턴 데이터 특성을 나타내지 않았다.",
+    "blockRange": [
+      477,
+      477
+    ],
+    "page": 62
+  },
+  {
+    "id": "c0206",
+    "type": "table",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "나. 용수전용댐"
+    ],
+    "text": "**[표 4.5] 용수전용댐 경사계 데이터 경시변화 검토**\n\n| No. | 댐명 | 설치수량 | 검토내용 | 비고 |\n| --- | --- | --- | --- | --- |\n| 1 | 광동댐 | 2 | -정상 | CCRD |\n| 2 | 달방댐 | 3 | -정상 | CCRD |\n| 3 | 영천댐 | 6 | -데이터 없음(IC0102, 0104, 0105) | CCRD |\n| 4 | 안계댐 | 3 | -정상 | CCRD |\n| 5 | 감포댐 | 1 | -정상 | CCRD |\n| 6 | 운문댐 | 6 | -데이터 없음(IC0103, 0105) | CCRD |\n| 7 | 대곡댐 | 5 | -전 계기 데이터 없음 | CFRD |\n| 8 | 사연댐 | 1 | -전 계기 데이터 없음 | CCRD |\n| 9 | 대암댐 | 3 | -전 계기 데이터 없음 | CCRD |\n| 10 | 선암댐 | 2 | -전 계기 데이터 없음 | CCRD |\n| 11 | 연초댐 | 1 | -정상 | CCRD |\n| 12 | 구천댐 | 2 | -정상 | CCRD |\n| 13 | 수어댐 | 2 | -정상 | CCRD |\n| 14 | 평림댐 | 2 | -정상 | CCRD |",
+    "blockRange": [
+      478,
+      478
+    ],
+    "page": 63,
+    "table": {
+      "rows": 15,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0207",
+    "type": "text",
+    "breadcrumb": [
+      "가. 다목적댐"
+    ],
+    "text": "- 다. 조정지댐 및 부댐",
+    "blockRange": [
+      479,
+      479
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0208",
+    "type": "text",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "다. 조정지댐 및 부댐"
+    ],
+    "text": "조정지댐 및 부댐에 설치된 경사계 데이터의 경시변화 특성은 다음의 표 4.6과 같이 검토되었다. 대청제3부댐, 섬진강부댐, 안계부댐, 임하제1부댐, 임하제2부댐, 주암조절지부댐은 흙댐 형식으로 경사계는 설치하지 않았다. 임하조정지, 충주조정지는 설치된 전체 경사계 데이터 없음으로 나타나 데이터 미연계된 상태로 보이나 향후 연계되어 데이터 추가가 될 것으로 보인다. 영천댐(IC0102, 0104, 0105)은 데이터가 미연계된 상태로 보이므로 점검을 통한 복구가 필요하다.\n\n조정지댐 및 부댐에 설치된 경사계는 표 4.6와 같이 경시변화 이상패턴 데이터 특성을 나타내지 않았다.",
+    "blockRange": [
+      480,
+      481
+    ],
+    "page": 63
+  },
+  {
+    "id": "c0209",
+    "type": "table",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "다. 조정지댐 및 부댐"
+    ],
+    "text": "**[표 4.6] 조정지댐 및 부댐 경사계 데이터 경시변화 검토**\n\n| No. | 댐명 | 설치 수량 | 검토내용 | 비고 |\n| --- | --- | --- | --- | --- |\n| 1 | 대청조정지 | 2 | -정상 | CGD |\n| 2 | 대청제3부댐 | 미설치 | - | EF |\n| 3 | 섬진강부댐 | 미설치 | - | EF |\n| 4 | 안계부댐 | 미설치 | - | EF |\n| 5 | 안동조정지 | 2 | -정상 | CGD |\n| 6 | 임하조정지 | 2 | -전 계기 데이터 없음 | CGD |\n| 7 | 임하제1부댐 | 미설치 | - | EF |\n| 8 | 임하제2부댐 | 미설치 | - | EF |\n| 9 | 주암역조정지 | 2 | -정상 | CGD+EF |\n| 10 | 주암조절지 부댐 | 미설치 | - | EF |\n| 11 | 충주조정지 | 4 | -전 계기 데이터 없음 | CGD |\n| 12 | 합천조정지 | 2 | -정상 | CGD+EF |",
+    "blockRange": [
+      482,
+      482
+    ],
+    "page": 64,
+    "table": {
+      "rows": 13,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0210",
+    "type": "heading",
+    "breadcrumb": [
+      "가. 다목적댐"
+    ],
+    "text": "## 4.2 스마트 모니터링 운영방안 제시",
+    "blockRange": [
+      483,
+      483
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0211",
+    "type": "heading",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "4.2 스마트 모니터링 운영방안 제시"
+    ],
+    "text": "### 4.2.1 이상패턴 계측기 보완방안",
+    "blockRange": [
+      484,
+      484
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0212",
+    "type": "text",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "4.2 스마트 모니터링 운영방안 제시",
+      "4.2.1 이상패턴 계측기 보완방안"
+    ],
+    "text": "4.1절에서 조정지댐 및 부댐 무인 상시 계측시스템(2021)과 댐 실시간 스마트 모니터링 시스템(2022)의 설치 후 초기 계측 데이터를 검토하였다. 이상패턴 및 데이터 없음으로 검토된 계기에 대한 보완방안을 검토하였다. 검토된 보완방안은 GPS변위계는 표 4.7과 같으며 경사계는 표 4.8과 같다.\n\n이상패턴은 2023년 1월 20일 현재까지 기록된 데이터에 대해서만 검토된 것으로 댐 실시간 스마트 모니터링 시스템(2022)의 경우 2022년 11월 설치가 완료되어 초기치 설정 및 시험 운영, 수자원관리시스템으로의 데이터 연계 보완 등의 작업이 추가 진행되고 있다.",
+    "blockRange": [
+      485,
+      486
+    ],
+    "page": 65
+  },
+  {
+    "id": "c0213",
+    "type": "table",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "4.2 스마트 모니터링 운영방안 제시",
+      "4.2.1 이상패턴 계측기 보완방안"
+    ],
+    "text": "**[표 4.7] GPS변위계 이상패턴 계측기 보완방안 검토**\n\n| No. | 이상패턴 | 대상계기 | 검토내용 |\n| --- | --- | --- | --- |\n| 1 | 일단변동(비정상적으로<br>높은 값) | 소양강(0208, 0304), 횡성(0208), 임하<br>(전계기 Y축), 밀양(0201, 0209, 0210,<br>0216, 0303) 주암본(0102, 0107, 0218),<br>장흥(0106, 0204, 0210) | -수신기 원시데이터의 GPS 품질확인하여 이상시<br>GPS수신기 재검토(3.2.1절, 표 3.7<br>참조)<br>-시스템 재설정 및<br>복구 후 이상패턴<br>확인 재발여부 확인<br>-이상패턴 재발생시 GPS변위계 교체하여 재확인 |\n| 2 | 일단변동 | 충주(0050), 횡성(0001,0106, 0301), 군남(전계기), 한탄강(0016), 임하(0101,<br>0202), 영주(전계기), 남강(0213, 0304),<br>밀양(0301), 용담(0215), 대청(0308), 장흥(0004, 0208, 0301), 광동(0001), 달방<br>(전계기), 영천(전계기), 운문(0001,<br>0104, 0302), 구천(전계기) | -수신기 원시데이터의 GPS 품질확인하여 이상시<br>GPS수신기 재검토(3.2.1절, 표 3.7<br>참조)<br>-시스템 재설정 및<br>복구 후 이상패턴<br>확인 재발여부 확인<br>-이상패턴 재발생시 GPS변위계 교체하여 재확인 |\n| 3 | 다단변동 | 안동(0210, 0213, 0215)<br>안계부댐(SS008B) | -수신기 원시데이터의 GPS 품질확인하여 이상시<br>GPS수신기 재검토(3.2.1절, 표 3.7<br>참조)<br>-시스템 재설정 및<br>복구 후 이상패턴<br>확인 재발여부 확인<br>-이상패턴 재발생시 GPS변위계 교체하여 재확인 |\n| 4 | 단기간 급등 | 평림댐. AA0301 | -수신기 원시데이터의 GPS 품질확인하여 이상시<br>GPS수신기 재검토(3.2.1절, 표 3.7<br>참조)<br>-시스템 재설정 및<br>복구 후 이상패턴<br>확인 재발여부 확인<br>-이상패턴 재발생시 GPS변위계 교체하여 재확인 |\n| 5 | 사인파(Sinusoidal)형 | 장흥(0102) | -수신기 원시데이터의 GPS 품질확인하여 이상시<br>GPS수신기 재검토(3.2.1절, 표 3.7<br>참조)<br>-시스템 재설정 및<br>복구 후 이상패턴<br>확인 재발여부 확인<br>-이상패턴 재발생시 GPS변위계 교체하여 재확인 |\n| 6 | 무변동 | 안계(0203) | -수신기 원시데이터의 GPS 품질확인하여 이상시<br>GPS수신기 재검토(3.2.1절, 표 3.7<br>참조)<br>-시스템 재설정 및<br>복구 후 이상패턴<br>확인 재발여부 확인<br>-이상패턴 재발생시 GPS변위계 교체하여 재확인 |\n| 7 | 변동폭 증가 | 감포(0003) | -수신기 원시데이터의 GPS 품질확인하여 이상시<br>GPS수신기 재검토(3.2.1절, 표 3.7<br>참조)<br>-시스템 재설정 및<br>복구 후 이상패턴<br>확인 재발여부 확인<br>-이상패턴 재발생시 GPS변위계 교체하여 재확인 |\n| 8 | 단기간 급등 | 평림(0301) | -수신기 원시데이터의 GPS 품질확인하여 이상시<br>GPS수신기 재검토(3.2.1절, 표 3.7<br>참조)<br>-시스템 재설정 및<br>복구 후 이상패턴<br>확인 재발여부 확인<br>-이상패턴 재발생시 GPS변위계 교체하여 재확인 |\n| 9 | 일부 계기 데이터 없음 | 충주(0301), 횡성(0302), 성덕(0308), 군위(0212), 보현산(0004∼00010, 0301),<br>대청(0005), 주암본(0105, 0306), 영천<br>(0302, 0304, 0305), 운문(0207∼0210,<br>0304, 0306), 대곡(0204∼0206, 대암<br>(0303) | -설치업체 테스트<br>보완 중 여부 확인<br>-네트워크 연결 확인 |\n| 10 | 전 계기 데이터 없음 | 평화, 안동조정지 | -설치업체 테스트<br>보완 중 여부 확인<br>-네트워크 연결 확인 |",
+    "blockRange": [
+      487,
+      487
+    ],
+    "page": 65,
+    "table": {
+      "rows": 11,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0214",
+    "type": "table",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "4.2 스마트 모니터링 운영방안 제시",
+      "4.2.1 이상패턴 계측기 보완방안"
+    ],
+    "text": "**[표 4.8] 경사계 이상패턴 계측기 보완방안 검토**\n\n| No. | 이상패턴 | 대상계기 | 검토내용 |\n| --- | --- | --- | --- |\n| 1 | 단기간 급등 | 평화(0101) | -초기치 재설정 후<br>확인<br>-재발시 센서 교체 |\n| 2 | 비정상적으로 높은 값 | 보현산(0102) | -초기치 재설정 후<br>확인<br>-재발시 센서 교체 |\n| 3 | 일부 계기 데이터 없음 | 소양강(0102, 0103, 0105), 횡성(0102),<br>군남(0007, 0008, 0009, 0010), 주암본<br>(0105), 주암조(0103), 부안(0102), 장흥(0101, 0102), 영천(0102, , 0104,<br>0105), 운문(0103, 0105), | -설치업체 테스트<br>보완 중 여부 확인<br>-네트워크 연결 확인 |\n| 4 | 전 계기 데이터 없음 | 안동, 용담, 대청, 대곡, 사연, 대암,<br>선암, 연초, 임하조정지, 충주조정지 | -설치업체 테스트<br>보완 중 여부 확인<br>-네트워크 연결 확인 |",
+    "blockRange": [
+      488,
+      488
+    ],
+    "page": 66,
+    "table": {
+      "rows": 5,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0215",
+    "type": "heading",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "4.2 스마트 모니터링 운영방안 제시"
+    ],
+    "text": "### 4.2.2 스마트 모니터링 데이터 관리방안",
+    "blockRange": [
+      489,
+      489
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0216",
+    "type": "text",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "4.2 스마트 모니터링 운영방안 제시",
+      "4.2.2 스마트 모니터링 데이터 관리방안"
+    ],
+    "text": "가. 시설관리시스템-수자원안전정보",
+    "blockRange": [
+      490,
+      490
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0217",
+    "type": "text",
+    "breadcrumb": [
+      "가. 다목적댐",
+      "4.2 스마트 모니터링 운영방안 제시",
+      "4.2.2 스마트 모니터링 데이터 관리방안",
+      "가. 시설관리시스템-수자원안전정보"
+    ],
+    "text": "댐 실시간 스마트 모니터링 시스템(2022)은 3.2.1절의 그림 3.4와 같이 현장의 계측서버를 통해 K-water본사의 DB로 연결되어 사내정보시스템인 시설관리시스템-수자원안전정보의 계측결과관리(데이터 조회와 다운로드, 그림 4.18)와 경시도분석(저수위, 우량과 비교한 경시변화 그 래프 표출, 그림 4.19)를 통해 데이터관리와 분석을 수행할 수 있다. GPS변위계와 경사계의 설치위치는 그림 4.20과 같이 계측기기관리 화면을 통해 조회 및 각 계기의 설치정보를 확인할 수 있다.\n\n수자원안전정보의 데이터는 시간(hour)-일(day)-주(week)-월(month)-분기(quarter) 단위로 기록, 조회 및 다운로드 할 수 있다. GPS변위계는 현장 계측서버에 매 10분 단위로 데이터가 기록되나 K-water본사 DB의 최소 기록 단위는 시간(hour) 단위이다. 경사계는 모두 최소 기록단위는 시간(hour) 이다.\n\n[그림 4.18] 시설관리시스템 수자원안전정보 계측결과관리 화면\n\n[그림 4.19] 시설관리시스템 수자원안전정보 경시도분석 화면\n\n[그림 4.20] 시설관리시스템 수자원안전정보 계측기기관리 화면\n\n\n![image](image_064.png)\n\n\n![image](image_065.png)\n\n\n![image](image_066.png)",
+    "blockRange": [
+      491,
+      498
+    ],
+    "page": 66
+  },
+  {
+    "id": "c0218",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 나. 계측 데이터 유형",
+    "blockRange": [
+      499,
+      499
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0219",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "GPS변위계의 데이터 유형 및 단위는 수자원안전정보의 계측결과관리와 경시도분석에서 다른 형태를 나타내고 있다. 계측결과관리에는 데이터 유형은 [X,Y,Z,V]이며 단위는 [mm]이지만 경시도분석에서는 표 4.9와 같이 [X,Y,Z], [X,Y,Z,V], [V]의 3가지 유형으로 되어 있으며 단위는 [mm]이다. 경시도분석의 데이터 유형도 [X,Y,Z,V]로 통일하는 것이 편리할 것으로 판단된다. 댐별 GPS변위계 데이터 유형별 경시도분석 표출 화면은 그림 4.21∼4.23과 같다.",
+    "blockRange": [
+      500,
+      500
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0220",
+    "type": "table",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "**[표 4.9] 경시도분석에서 표출되는 GPS변위계 계측 데이터 형태**\n\n| 데이터 타입 | 대상댐 | 비 고 |\n| --- | --- | --- |\n| X, Y, Z<br>(mm) | 소양강, 횡성, 군남, 한탄강, 안동, 임하, 성덕, 영주,<br>군위, 김천부황, 보현산, 남강, 밀양, 용담, 대청, 섬진강. 주암(본), 주암(조), 부안, 보령, 장흥, 광동, 달방, 영천, 안계, 감포, 운문, 대곡, 사연, 대암, 선암,<br>연초, 구천, 수어, 평림 | - ENU : East (동서) /<br>North (남북) / Up (연직)<br>- X(E) : East(+방향)<br>- Y(N) : North(+방향<br>- Z(Up) : Up(+방향)<br>- V : 벡터합[sqrt(X2+Y2+Z2)] |\n| X, Y, Z, V<br>(mm) | 충주 | - ENU : East (동서) /<br>North (남북) / Up (연직)<br>- X(E) : East(+방향)<br>- Y(N) : North(+방향<br>- Z(Up) : Up(+방향)<br>- V : 벡터합[sqrt(X2+Y2+Z2)] |\n| V(mm) | 충주조정지, 안동조정지, 임하제1부댐, 임하제2부댐,<br>임하조정지, 합천조정지, 대청제3부댐, 대청조정지,<br>주암(조)부댐, 주암역조정지, 안계부댐 | - ENU : East (동서) /<br>North (남북) / Up (연직)<br>- X(E) : East(+방향)<br>- Y(N) : North(+방향<br>- Z(Up) : Up(+방향)<br>- V : 벡터합[sqrt(X2+Y2+Z2)] |",
+    "blockRange": [
+      501,
+      501
+    ],
+    "page": 68,
+    "table": {
+      "rows": 4,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0221",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "[그림 4.21] GPS변위계 경시도분석(X,Y,Z) 표출화면(소양강댐)\n\n\n![image](image_067.png)",
+    "blockRange": [
+      502,
+      503
+    ],
+    "page": 68
+  },
+  {
+    "id": "c0222",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "## [그림 4.22] GPS변위계 경시도분석(X,Y,Z,V) 표출화면(충주댐)",
+    "blockRange": [
+      504,
+      504
+    ],
+    "page": 69
+  },
+  {
+    "id": "c0223",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "## [그림 4.23] GPS변위계 경시도분석(V) 표출화면(합천조정지댐)",
+    "blockRange": [
+      505,
+      505
+    ],
+    "page": 69
+  },
+  {
+    "id": "c0224",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "[그림 4.23] GPS변위계 경시도분석(V) 표출화면(합천조정지댐)"
+    ],
+    "text": "경사계는 수자원정보의 계측결과관리와 경시분석의 데이터 유형이 같으나 댐별로 표 4.10과 같이 6가지 형태의 데이터 유형으로 나눌 수 있다. 수문 피어에 설치된 경사계는 상‧하류방향과 좌‧우안방향으로 설치되었으나, 취수탑의 경우에는 이와는 다르게 설치되었다. 경사계는 기본적으로 3.2.2절 경사계 제원에서 설명한 것과 같이 각도 단위(degree, )의 데이터를 산출한다. 경사각degree, )을 수평변위로 환산하기 위해서는 경사계가 설치된 구조물의 높이 (m)와 기울기 각도를 활용하여 계산하여야 한다. 수평변위(mm)로 설정된 댐에 대해서는 실제로 경사각을 수평변위로 환산한 것인지 확인할 필요가 있다. 댐별 GPS변위계 데이터 유형별 경시도분석 표출 화면은 그림 4.24∼4.29와 같다. 댐체에 설치된 경사계는 댐축방향(A)과 상‧하류방향(B)으로 설치되었으며 댐우안과 하류방향이 (+) 방향이다. 경사계 데이터 유형은 댐체에 설치된 경사계는 댐축방향(A), 상하류방향(B), 취수탑의 경우에는 설치된 방향으로 통일하는 것을 제안한다. 경사계 데이터는 기본 단위인 경사각(degree, )와 함께 GPS변위계와의 비교‧검토를 위해 구조물의 기울어짐 수평변위(mm)로 환산된 데이터도 같이 관리하는 방안을 제안한다.\n\n\n![image](image_068.png)\n\n\n![image](image_069.png)",
+    "blockRange": [
+      506,
+      508
+    ],
+    "page": 69
+  },
+  {
+    "id": "c0225",
+    "type": "table",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "[그림 4.23] GPS변위계 경시도분석(V) 표출화면(합천조정지댐)"
+    ],
+    "text": "**[표 4.10] 경사계 계측 데이터 유형**\n\n| 데이터 유형 | 대상댐 | 비 고 |\n| --- | --- | --- |\n| 측정각A,B<br>(deg) | 소양강, 횡성, 한탄강, 성덕, 보현산, 합천, 남강,<br>섬진강, 광동, 달방, 영천, 안계, 운문, 연초, 구천,<br>수어 | 설치방향(A), 설치방향(B), 경사각<br>(degree, ), 수평변위(mm) |\n| 수평변위<br>(mm) | 충주, 평화, 군남, 영주, 부안 | 설치방향(A), 설치방향(B), 경사각<br>(degree, ), 수평변위(mm) |\n| A(좌안), B(우안)<br>(deg) | 임하 | 설치방향(A), 설치방향(B), 경사각<br>(degree, ), 수평변위(mm) |\n| A(상류), B(우안)<br>(mm) | 군위, 평림, 밀양, 보령, 장흥, 감포 | 설치방향(A), 설치방향(B), 경사각<br>(degree, ), 수평변위(mm) |\n| 수평변위A축(상하류),<br>수평변위B축(좌우안)<br>(deg) | 김천부항 | 설치방향(A), 설치방향(B), 경사각<br>(degree, ), 수평변위(mm) |\n| x, y<br>(mm) | 주암본, 주암조, 안동조정지, 대청조정지, 주암역조정지 | 설치방향(A), 설치방향(B), 경사각<br>(degree, ), 수평변위(mm) |",
+    "blockRange": [
+      509,
+      509
+    ],
+    "page": 70,
+    "table": {
+      "rows": 7,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0226",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "[그림 4.23] GPS변위계 경시도분석(V) 표출화면(합천조정지댐)"
+    ],
+    "text": "[그림 4.24] 경사계 경시도분석(측정각A,B deg) 표출화면(횡성댐)\n\n[그림 4.25] 경사계 경시도분석(수평변위, mm) 표출화면(군남댐)\n\n\n![image](image_070.png)\n\n\n![image](image_071.png)\n\n[그림 4.26] 경사계 경시도분석(A[좌안], B[우안], deg) 표출화면(임하댐)\n\n[그림 4.27] 경사계 경시도분석(x, y, mm) 표출화면(주암조절지댐)\n\n[그림 4.28] 경사계 경시도분석(수평변위A축[상하류], 수평변위B축[좌우안], deg) 표출화면(김천부황댐)\n\n\n![image](image_072.png)\n\n\n![image](image_073.png)\n\n\n![image](image_074.png)",
+    "blockRange": [
+      510,
+      519
+    ],
+    "page": 70
+  },
+  {
+    "id": "c0227",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "## [그림 4.29] 경사계 경시도분석(수평변위A축[상하류], 수평변위B축[좌우안], deg) 표출화면(보령댐)",
+    "blockRange": [
+      520,
+      520
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0228",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "## 다. GPS변위계 상태모니터링 및 관측환경 점검",
+    "blockRange": [
+      521,
+      521
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0229",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "다. GPS변위계 상태모니터링 및 관측환경 점검"
+    ],
+    "text": "GPS변위계는 2.3.6 GPS오차에서 설명한 바와 같이 다양한 원인에 의한 오차가 발생할 수 있다. 이러한 오차와 이상치를 확인하기 위해서는 그림 4.30와 그림 4.31과 같이 GPS센서 연결 관리 및 상태 모니터링이 필요하다. 모니터링을 통해 그림 4.32와 같이 시스템 운용상 이상 발생시 담당자에게 자동알람을 통하여 적시 확인 및 복구가 가능하도록 할 필요가 있다.\n\nGPS변위계 최초 설치시 위성신호를 잘 수신할 수있도록 장애물, 전파장해 요소 등 관측 환경을 충분히 고려하여 문제점을 개선하여야 한다. 시스템 운영중에도 관측 환경의 변화로 위성신호의 수신이 어려워지는 등 문제가 발생할 수 있기 때문에 그림 4.33와 같이 후처리 데이터를 이용한 품질관리(Quality Control)나 GPS변위계 모니터링 소프트웨어에서 제공하는 관련 정보의 점검이 필요하다.\n\n댐 실시간 스마트 모니터링 시스템(2022)의 GPS변위계는 그림 4.33와 같이 GPS수신기 외관부 지시등을 통해 전원상태, 이더넷통신상태, GPS동작상태, RTK 서버연결 상태를 확인할 수 있다.",
+    "blockRange": [
+      522,
+      524
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0230",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "## [그림 4.30] GPS변위계 현장 서버 모니터링 시스템의 기능 예시",
+    "blockRange": [
+      525,
+      525
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0231",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "[그림 4.30] GPS변위계 현장 서버 모니터링 시스템의 기능 예시"
+    ],
+    "text": "![image](image_075.png)\n\n\n![image](image_076.png)\n\n[그림 4.31] GPS변위계 센서 상태모니터링\n\n[그림 4.32] GPS변위계 시스템 운용상 이상 발생시 자동알람 기능\n\n[그림 4.33] 후처리 데이터를 이용한 GPS변위계의 품질관리(Quality Control) 예시(국토지리원 수원 위성기준점)\n\n\n![image](image_077.png)\n\n\n![image](image_078.png)\n\n\n![image](image_079.png)\n\n[그림 4.34] GPS변위계 지시램프등 동작상태 점검",
+    "blockRange": [
+      526,
+      534
+    ],
+    "page": 72
+  },
+  {
+    "id": "c0232",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "## 4.3 신(新)‧구(舊) 계측 데이터 관리방안",
+    "blockRange": [
+      535,
+      535
+    ],
+    "page": 74
+  },
+  {
+    "id": "c0233",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "4.3 신(新)‧구(舊) 계측 데이터 관리방안"
+    ],
+    "text": "### 4.3.1 GPS변위계와 기존 자동광파기(TS, Total Station) 연계방안",
+    "blockRange": [
+      536,
+      536
+    ],
+    "page": 74
+  },
+  {
+    "id": "c0234",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "4.3 신(新)‧구(舊) 계측 데이터 관리방안",
+      "4.3.1 GPS변위계와 기존 자동광파기(TS, Total Station) 연계방안"
+    ],
+    "text": "댐 외부변위 계측에 사용해온 계측기는 자동광파기(TS)로서 초기 도입시에는 비숙련 인력에 의한 인력측량의 문제점(낮은 계측빈도, 데이터 신뢰성 낮음)을 해결하기 위해 도입하였으나 자동광파기 또한 광파기 설치위치에 따른 거리오차와 측각 오차가 각 측점마다 불균등하고 매일 3시간 마다 자동으로 광파타겟을 추적하기 위해 회전하면서 광파기 자체의 기울어짐 오차가 추가 발생하는 등 계측 데이터 품질이 낮은 문제가 여전히 남아 있었다(그림 4.35). 기존 자동광파기(TS)의 데이터 품질과 낮은 측정빈도를 개선하기 위해 도입된 GPS변위계는 기존 자동광파기(TS) 데이터와의 연계성을 위해 그림 4.36과 같이 기존 침하점(광파타겟)에 병설하여 물리적으로 연계성을 강화하였다. 기존 자동 광파기의 마지막 데이터 변위값에 GPS변위계에 의한 변위량을 더하여 관리하는 것이 가능하다.\n\n\n![image](image_080.png)\n\nGPS변위계를 활용한 모니터링 시스템에서 좌표 성과를 관리하는 방법은 상대좌표를 이용하는 방법과 절대좌표를 이용하는 방법이 있다. 상대좌표는 최초 GPS변위계가 설치되는 위치의 좌표를 (0, 0, 0)로 하고 변위를 모니터링하는 방법이다. 절대좌표는 최초 GPS변위계가 설치되는 위치의 실제 좌표를 입력하여 변위를 모니터링 하는 방법이다. GPS변위계 수신 안테나의 파손이나 모니터링 시스템에 이상이 발생하는 등 문제가 발생시에는 이를 복구 하고 재가동하게 되므로 연속적으로 좌표 성과를 관리하기 위해서는 절대좌표를 이용하는 방법을 적용하는 것이 권고된다.\n\n현재 K-water에 도입된 GPS변위계는 댐 좌안 또는 우안의 견고한 암반에 설치한 GPS기준점(Base)과 댐체에 설치된 GPS측정점(Rover)으로 구성된다. GPS변위계 최초 설치시 GNSS 데이터 통합센터 상시관측소와 연결하여 GPS기준점(Base)의 위도, 경도, 고도 절대좌표값을 획득하여 그림 4.37와 같이 시스템에 기록되나 GPS측정점(Rover)은 그림 4.38과 같이 절대좌표값 기록 없이 GPS기준점(Base)을 기준으로 상대적인 변위만을 계산한다.\n\nGPS변위계 계측 데이터는 앞서 설명한 다양한 원인으로 인해 일단변동 또는 다단변동의 이상패턴을 나타내는 경우가 많으며 이때 GPS관측환경 개선과 GPS변위계 초기치 재설정을 하게 되는데 GPS측정점(Rover)의 경우 기존의 초기치는 기록되지 않아 삭제되는 문제가 있으므로 그림 4.39와 같이 시스템 복구 및 재가동시 GPS측정점(Rover)의 절대좌표도 기록이 되도록 개선할 필요가 있다.",
+    "blockRange": [
+      537,
+      541
+    ],
+    "page": 74
+  },
+  {
+    "id": "c0235",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형"
+    ],
+    "text": "## [그림 4.35] 기존 자동광파기(TS, Total Staton)의 설치 및 운영",
+    "blockRange": [
+      542,
+      542
+    ],
+    "page": 75
+  },
+  {
+    "id": "c0236",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "[그림 4.35] 기존 자동광파기(TS, Total Staton)의 설치 및 운영"
+    ],
+    "text": "![image](image_081.png)\n\n\n![image](image_082.png)\n\n[그림 4.36] 기존 침하점(광파타겟)과 GPS변위계 설치전경\n\n[그림 4.37] GPS기준점(Base) 설정화면\n\n[그림 4.38] GPS측정점(Base) 설정화면\n\n\n![image](image_083.png)\n\n\n![image](image_084.png)\n\n\n![image](image_085.png)\n\n[그림 4.39] GPS측정점 절대좌표 기록(최초 설치, 시스템 복구 및 재가동시) 및 관리",
+    "blockRange": [
+      543,
+      551
+    ],
+    "page": 75
+  },
+  {
+    "id": "c0237",
+    "type": "heading",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "[그림 4.35] 기존 자동광파기(TS, Total Staton)의 설치 및 운영"
+    ],
+    "text": "### 4.3.2 GPS변위계와 경사계 상호보완 분석방안",
+    "blockRange": [
+      552,
+      552
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0238",
+    "type": "text",
+    "breadcrumb": [
+      "나. 계측 데이터 유형",
+      "[그림 4.35] 기존 자동광파기(TS, Total Staton)의 설치 및 운영",
+      "4.3.2 GPS변위계와 경사계 상호보완 분석방안"
+    ],
+    "text": "조정지댐 및 부댐 무인 상시 계측시스템(2021)과 댐 실시간 스마트 모니터링 시스템(2022)에는 GPS변위계와 경사계가 설치되었다. GPS변위계는 직접 수평변위와 수직변위를 계측하지만 경사계는 구조물 상부 등에 설치되어 구조물의 기울기를 경사각으로 계측한다. GPS변위계와 경사계의 계측 데이터를 상호보완 분석하기 위해서는 그림 4.40과 같이 경사각을 수평변위로 변환하는 등 계측 데이터를 같은 형태로 환산해야 한다.\n\nGPS변위계의 수평변위는 E(동서)방향과 N(남북)방향으로 계측되며 경사계는 구조물에 설치되는 방향에 따라 서로 직교하는 수평방향으로 계측한다. 따라서 GPS변위계와 경사계의 계측 데이터를 직접 비교하기 위해서는 같은 계측방향으로 환산해야 한다.\n\n\n![image](image_086.png)\n\n[그림 4.40] GPS변위계와 경사계 상호보완 분석방안\n\n\n![image](image_087.png)",
+    "blockRange": [
+      553,
+      557
+    ],
+    "page": 77
+  },
+  {
+    "id": "c0239",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 제5장결론",
+    "blockRange": [
+      558,
+      558
+    ],
+    "page": 79
+  },
+  {
+    "id": "c0240",
+    "type": "text",
+    "breadcrumb": [
+      "제 5장 결 론"
+    ],
+    "text": "본 연구과제의 목표는 스마트 모니터링 시스템의 성공적 운영과 데이터 분석 및 관리의 효율성을 위해 신규 설치되는 스마트 모니터링(GPS변위계, 경사계)의 운영방안 제시와 신‧구(新‧舊) 계측 데이터 관리체계를 제시하는 것이며 그 결과는 다음과 같다.\n\n현재 시험 운영 중인 967개의 GPS변위계와 180개의 경사계에 대해 초기 계측 데이터를 검토한 결과 GPS변위계는 일단변동, 일단변동 후 복구, 다단변동, 단기간 급등 사인파(Sinusoidal)형, 무변동, 변동폭 증가, 단기간 급등, 일부 계기 데이터 없음, 전체 계기 데이터 없음의 이상패턴을 나타내었다. 이상패턴을 나타내는 GPS변위계의 보완방안은 GPS수신기 원시데이터 GPS품질을 확인하고 시스템 재설정 및 복구 후 이상패턴의 재발 여부를 확인하는 것이다. 이상 패턴의 재발생시 GPS변위계의 교체가 필요할 것이다. 경사계는 단기간 급등, 비정상적으로 높은 값, 일부 계기 데이터 없음, 전체 계기 데이터 없음의 이상패턴을 나타내었다. 이상패턴을 나타내는 경사계의 보완 방안은 초기치 재설후 재발 여부를 확인하고 재발시에는 센서의 교체가 필요하다.\n\n스마트 모니터링 운영방안으로 계측 데이터 유형에 대한 제안과 GPS변위계 상태 모니터링과 관측환경 점검에 대해 제시하였다. GPS변위계는 [X,Y,Z], [X,Y,Z,V], [V]의 3가지 유형으로 되어 있으며 단위는 [mm]이다. 경시도분석의 데이터 유형도 [X,Y,Z,V]로 통일하는 것을 제안하였다. 경사계는 기본 단위인 경사각(degree, )와 함께 GPS변위계와의 비교‧검토를 위해 구조물의 기울어짐 수평변위(mm)로 환산된 데이터도 같이 관리하는 방안을 제안하였다. 댐 실시간 스마트 모니터링 시스템(2022)의 GPS변위계는 GPS수신기 외관부 지시등을 통해 전원상태, 이더넷통신상태, GPS동작상태, RTK 서버연결 상태를 확인할 수 있다.\n\n신(新)‧구(舊) 계측 데이터 관리방안으로는 GPS변위계와 기존 자동광파기(TS) 데이터 연계방안과 GPS변위계와 경사계의 상호보완 분석방안을 제안하였다. GPS변위계는 기존 자동광파기(TS) 데이터와의 연계성을 위해 기존 침하점(광파타겟)에 병설하여 물리적으로 연계성을 강화하였다. 기존 자동광파기의 마지막 데이터 변위값에 GPS변위계에 의한 변위량을 더하여 관리하는 것이 가능하다. GPS변위계 계측 데이터는 앞서 설명한 다양한 원인으로 인해 일단변동 또는 다단변동의 이상패턴을 나타내는 경우가 많으며 이때 GPS관측환경 개선과 GPS변위계 초기치 재설정을 하게 되는데 GPS측정점(Rover)의 경우 기존의 초기치는 기록되지 않아 삭제되는 문제가 있으므로 시스템 복구 및 재가동시 GPS측정점(Rover)의 절대좌표도 기록이 되도록 개선할 필요가 있다. GPS변위계와 경사계의 계측 데이터를 상호보완 분석하기 위해서는 경사각을 수평변위로 변환하는 등 계측 데이터를 같은 형태로 환산해야 한다. GPS변위계의 수평변위는 E(동서)방향과 N(남북)방향으로 계측되며 경사계는 구조물에 설치되는 방향에 따라 서로 직교하는 수평방향으로 계측한다. 따라서 GPS변위계와 경사계의 계측데이터를 직접 비교하기 위해서는 같은 계측방향으로 환산해야 한다.",
+    "blockRange": [
+      559,
+      562
+    ],
+    "page": 79
+  },
+  {
+    "id": "c0241",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참고문헌",
+    "blockRange": [
+      563,
+      563
+    ],
+    "page": 81
+  },
+  {
+    "id": "c0242",
+    "type": "text",
+    "breadcrumb": [
+      "참고문헌"
+    ],
+    "text": "1. 한국수자원공사, “댐 및 다기능보 매설계기 관리기준치 수립”, 2015.\n2. 한국수자원공사, “댐 실시간 스마트 모니터링 시스템 제조구매설치 준공성과품, 2022.\n3. 강기천, 김성진, 유민석, 안기원, 김지성, “SAMP(Single Antenna-Multi Point) GPS기반 실시간 변위계측 시스템 현장 적용 사례 연구”, 한국지적정보학회지, 제30권 제2호, 2018.\n4. 국토교통과학기술진흥원, 변위 기반 구조물 거동평가 기술 개발 최종보고서, 2014.\n5. 배인환, 하강희, “GPS를 이용한 대형 케이블교량의 구조건전도 모니터링”, 2008 대한토목학회 학술대회, 2008.\n6. 박성욱, 박정훈, 최규인, 김동회, “GPS를 이용한 댐 계측 적용 사례”, 대한토목학회 정기 학술대회, 2006.\n7. R. Xi, H. Chen, X. Meng, W. Jiang, Q.Chen, Reliable Dynamic Monitoring of Bridges with Integrated GPS and BeiDou, Journal of Surveying Engineering, Vol. 144, No.8, pp. 1-15, 2018.\n8. R. Xiao, H. Shi, X. He, Z. Li, J. Dongzhen, Z. Yang, Deformation Monitoring of Reservoir Dams Using GNSS: An Application to Southto-North Water Diversion Project, China, IEEE Access, Vol. 7, pp. 54981-54992, 2019.\n9. V. H. S. Khoo, Y. K. Tor, G. Ong, Monitoring of High Rise Building using Real-Time Differential GPS, XXIV FIG International Congress 2010 Facing the Challenges - Building the Capacity, Sydney, Australia, 11-16 April 2010\n10. H.P.8. https://csengineermag.com/comprehensive-monitoring-of-victoria-dam/\n11. https://geospatialresources.trimble.com/monitoring-power-hour-monitoring-the-steenbras-dam –with-optron\n12. [GPS] GPS 이론 : GNSS. RTK 등(velog.jo/@717lumos/series/Strudt-Sensor)",
+    "blockRange": [
+      564,
+      575
+    ],
+    "page": 81
+  },
+  {
+    "id": "c0243",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 참여연구원현황",
+    "blockRange": [
+      576,
+      576
+    ],
+    "page": 82
+  },
+  {
+    "id": "c0244",
+    "type": "table",
+    "breadcrumb": [
+      "참여연구원현황"
+    ],
+    "text": "| 연구원 | 참여내역 | 비 고 |\n| --- | --- | --- |\n| 이종욱 | ◦연구업무총괄 (연구책임자)<br>◦참여분야<br>- 제3장 스마트 모니터링 현황<br>- 제4장 스마트 모니터링 운영 및<br>관리체계 개선방안 | - '21.1 ～ '21.12<br>- K-water연구원<br>물인프라안전연구소<br>- 042-870-7606 |\n| 조성배 | ◦참여분야 : 자료조사 및 품질관리<br>◦참여내역<br>- GPS변위계 원리 및 기술동향<br>- 제4장 스마트 모니터링 운영 및<br>관리체계 개선방안 | - '21.1 ～ '21.12<br>- K-water연구원<br>물인프라안전연구소<br>- 042-870-7649 |\n| 유호준 | ◦참여분야 : 품질관리 및 기준 수립<br>◦참여내역<br>- GPS변위계 원리 및 기술동향<br>- 제3장 스마트 모니터링 현황 | - '21.1 ～ '21.12<br>- K-water연구원<br>물인프라안전연구소<br>- 042-870-7648 |",
+    "blockRange": [
+      577,
+      577
+    ],
+    "page": 82,
+    "table": {
+      "rows": 4,
+      "cols": 3
+    }
+  },
+  {
+    "id": "c0245",
+    "type": "heading",
+    "breadcrumb": [],
+    "text": "# 서지자료",
+    "blockRange": [
+      578,
+      578
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0246",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "| (1) 기술분류<br>EI1199 | (2) 수행방법<br>자체 |  |  | (3) 제출일<br>2022.12.31. |\n| --- | --- | --- | --- | --- |\n| (4) 제목/부제<br>실시간 스마트 모니터링 구축에 따른 신‧구(新‧舊) 계측데이터<br>관리체계 연구 |  |  | (5) 연구기간<br>2021.01. \\~ 2021.12. |  |\n| (6) 연구수행부서<br>한국수자원공사, K-water연구원 물인프라안전연구소 |  |  | (7) 연구수행자(소속)<br>이종욱, 조성배, 유호준 (K-water) |  |\n| (8) 수행부서 주소<br>대전광역시 유성구 유성대로 1689번길 125 |  |  | (9) 연구의뢰기관 |  |\n| (10) 초록<br>본 연구과제의 목표는 스마트 모니터링 시스템의 성공적 운영과 데이터 분석 및 관리의 효율성을 위해 신규 설치되는 스마트 모니터링(GPS변위계, 경사<br>계)의 운영방안 제시와 신‧구(新‧舊) 계측 데이터 관리체계를 제시하는 것이다.<br>스마트 모니터링 운영방안으로 계측 데이터 유형에 대한 제안과 GPS변위계<br>상태 모니터링과 관측환경 점검에 대해 제시하였다. GPS변위계는 [X,Y,Z],<br>[X,Y,Z,V], [V]의 3가지 유형으로 되어 있으며 단위는 [mm]이다. 경시도분석의<br>데이터 유형도 [X,Y,Z,V]로 통일하는 것을 제안하였다. 경사계는 기본 단위인<br>경사각(degree, )와 함께 GPS변위계와의 비교‧검토를 위해 구조물의 기울어짐<br>수평변위(mm)로 환산된 데이터도 같이 관리하는 방안을 제안하였다. 댐 실시간 스마트 모니터링 시스템(2022)의 GPS변위계는 GPS수신기 외관부 지시등을<br>통해 전원상태, 이더넷통신상태, GPS동작상태, RTK 서버연결 상태를 확인할<br>수 있다.<br>신(新)‧구(舊) 계측 데이터 관리방안으로는 GPS변위계와 기존 자동광파기<br>(TS) 데이터 연계방안과 GPS변위계와 경사계의 상호보완 분석방안을 제안하였다. GPS변위계는 기존 자동광파기(TS) 데이터와의 연계성을 위해 기존 침하점<br>(광파타겟)에 병설하여 물리적으로 연계성을 강화하였다. 기존 자동광파기의 마지막 데이터 변위값에 GPS변위계에 의한 변위량을 더하여 관리하는 것이 가능하다. GPS측정점(Rover)의 경우 기존의 초기치는 기록되지 않아 삭제되는 문제가 있으므로 시스템 복구 및 재가동시 GPS측정점(Rover)의 절대좌표도 기록이 되도록 개선할 필요가 있다. GPS변위계와 경사계의 계측데이터를 직접 비교하기 위해서는 같은 계측방향으로 환산해야 한다. |  |  |  |  |\n| (11) 키워드<br>스마트 모니터링, GPS변위계, 경사계, 계측 데이터 |  |  |  |  |\n| (12) #태그 |  |  |  |  |\n| (13) 공개여부<br>아니오 |  | (14) 총면수<br>67 |  |  |",
+    "blockRange": [
+      579,
+      579
+    ],
+    "page": 83,
+    "table": {
+      "rows": 8,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0247",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "![image](image_088.png)",
+    "blockRange": [
+      580,
+      580
+    ],
+    "page": 83
+  },
+  {
+    "id": "c0248",
+    "type": "heading",
+    "breadcrumb": [
+      "서지자료"
+    ],
+    "text": "### BIBLIOGRAPHIC DATA SHEET",
+    "blockRange": [
+      581,
+      581
+    ],
+    "page": 84
+  },
+  {
+    "id": "c0249",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| (1) Classification of Technology EI1199 | (2) Research Method |  |  | (3) Submission Date Dec. 31, 2022 |\n| --- | --- | --- | --- | --- |\n| (4) Title/Subtitle A Study on the Measurement Data Management System according to The real-Time Smart Monitoring Installation |  |  | (5) Research Period Jan. 1, 2022 \\~ Dec. 31, 2022 |  |\n| (6) Performing Organization Water Infra Reseach Center, KIWE, K-water |  |  | (7) Author(s) Lee, Jongwook, Jo Seong Bae, Yoo, Ho Joon (K-water) |  |\n| (8) Performing Organization Address 125, Yuseong-daero 1689beon-gil, Yuseong-gu, Daejeon, Republic of Korea |  |  | (9) Sponsoring Agency |  |\n| (10) Abstracts The goal of this research project is to propose an operation plan for newly installed smart monitoring (GPS displacement gauge, inclinometer) for the successful operation of the smart monitoring system and the efficiency of data analysis and management, and to develop new and old measurement data management systems. presented, and the results are as follows. As a smart monitoring operation plan, proposals for measurement data types, GPS displacement gauge status monitoring, and observation environment inspection were presented. There are three types of GPS displacement gauges: [X,Y,Z], [X,Y,Z,V], and [V], and the unit is [mm]. The data type of time series analysis was also proposed to be unified into [X,Y,Z,V]. The inclinometer proposes a method of managing the data converted to tilt horizontal displacement (mm) of the structure for comparison with the GPS displacement meter along with the basic unit of inclination angle (degree, ). The GPS displacement meter of the dam real-time smart monitoring system (2022) can check the power status, Ethernet communication status, GPS operation status, and RTK server connection status through the external indicator light of the GPS receiver. As new and old measurement data management methods, a GPS displacement gauge and existing automatic Total Station(TS) data linkage method and a mutually complementary analysis method of GPS displacement gauge and inclinometer were proposed. it is necessary to improve so that the absolute coordinates of the GPS measurement point (Rover) are also recorded when the system is restored and restarted. In order to directly compare the measurement data of the GPS displacement meter and the inclinometer, they must be converted to the same measurement direction. |  |  |  |  |\n| (11) Keyword Smart monitoring, GPS displacement meter, Tilt meter, Measurement data |  |  |  |  |\n| (12) # Tag |  |  |  |  |\n| (13) Security Yes |  | (14) No. of Pages<br>67 |  |  |",
+    "blockRange": [
+      582,
+      582
+    ],
+    "page": 84,
+    "table": {
+      "rows": 8,
+      "cols": 5
+    }
+  },
+  {
+    "id": "c0250",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "주의사항\n\n본 보고서의 저작권은 한국수자원공사에 있으므로, 본 자료의 내용을 허가없이 인용, 복사, 전재, 재배포를 할 경우 법적 제재를 받을 수 있습니다.\n\nCopyright ⓒ 2022\n\nby\n\nKorea Water Resources Corporation",
+    "blockRange": [
+      583,
+      587
+    ],
+    "page": 85
+  },
+  {
+    "id": "c0251",
+    "type": "table",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "| 발행인 | : | 한국수자원공사 | 사장 |\n| --- | --- | --- | --- |\n| 발행일 | : | 2022. | 12. |",
+    "blockRange": [
+      588,
+      588
+    ],
+    "page": 85,
+    "table": {
+      "rows": 2,
+      "cols": 4
+    }
+  },
+  {
+    "id": "c0252",
+    "type": "text",
+    "breadcrumb": [
+      "서지자료",
+      "BIBLIOGRAPHIC DATA SHEET"
+    ],
+    "text": "발행처 : 한국수자원공사 K-water연구원\n\n대전광역시 유성구 유성대로 1689번길 125 Tel. (042) 870-7649",
+    "blockRange": [
+      589,
+      590
+    ],
+    "page": 85
+  }
+]
