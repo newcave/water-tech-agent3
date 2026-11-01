@@ -15,6 +15,8 @@ K-water 연구보고서에서 **모델링 연구자산·실험 연구자산**을
 4. 토큰 절약: LLM 단계는 전문이 아니라 `metadata.jsonl` 의 `요약문_원문`(최대 3,000자)과 요약문 항목을 입력으로 쓴다. 규칙으로 뽑을 수 있는 것은 규칙으로 뽑는다.
 5. 후배 박사들이 만든 별도 메타데이터가 있다 — 아직 검토 전. 합칠 때는 번호(NNN)로 맞추고 출처 열을 남긴다.
 6. 작업 방식: 최신 main 에서 브랜치 → PR → 머지. 결정·맥락은 PR 본문과 이 파일에 남긴다.
+7. `app.py` 는 Streamlit 에 딸려 오는 패키지(pandas·altair)만 쓴다. Streamlit Cloud 는 앱을 처음 배포한 뒤 `requirements.txt` 가
+   바뀌어도 재부팅 전까지 새 패키지를 설치하지 않을 수 있다(2026-11-01 plotly ModuleNotFoundError). 새 패키지가 꼭 필요하면 머지 후 Manage app → Reboot.
 
 ## 폴더
 ```
