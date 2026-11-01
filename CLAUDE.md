@@ -5,7 +5,8 @@ K-water 연구보고서에서 **모델링 연구자산·실험 연구자산**을
 연구소별 특성과 여러 소가 함께 쓸 공통 자산을 찾고, 내부 연구자 공유·활용을 넓히는 AI연구소 역할의 기반 자료다.
 
 - 1단계(지금): ALIO 공시 K-water 보고서 147건(`alio_report/`) → kordoc 파싱 → 기본 메타데이터 → 파싱 품질 관제(`app.py`)
-- 다음: 요약문 기반 연구자산(모델·데이터·실험) 추출, 연구소별/공통 자산 지도
+- 2단계(2026-11-01 시작): 연구소별 배정 + 데이터·모델·방법 자산 지도 → **창발·협업**(같이 쓸 자산, 넘길 자산) — 규칙 기반 1차판
+- 다음: 요약문 기반 LLM 추출로 사전에 없는 자산·실험 보강
 - 나중: 실제 파일 기록, 보고서에 없는 비공개 부록·내부망 논문 — **온프렘에서만 처리**
 
 ## 꼭 지킬 것
@@ -26,6 +27,10 @@ pipeline/parse_one.sh     1건 변환: Markdown + RAG 청크
 pipeline/extract_meta.py  제출문·요약문 규칙 추출 → metadata.jsonl
 pipeline/quality.py       보고서별 파싱 품질(어절 성공·실패율 등) → quality.csv
 pipeline/write_status.py  run_info.json + 에이전트 상태 파일
+pipeline/classify_inst.py 연구소 배정 (water-tech-agent 연구소 라벨 점수 그대로) → data/assets/report_inst.csv
+pipeline/build_gazetteer.py  자산 사전 생성 → data/assets/asset_gazetteer.json (데이터 28·모델 31·방법 16)
+pipeline/asset_map.py     보고서×자산 표, 공유 자산, 연구소 연결 → report_assets.csv · shared_assets.json · edges.json
+vendor/                   다른 저장소 원본 복사본(고치지 않음): water-tech-agent label_review.py·프로필·인벤토리, 2607alioreport 데이터소스 사전
 data/parsed/md/NNN.md         kordoc Markdown (표=HTML, 그림=자리 표시만)
 data/parsed/chunks/NNN.json   kordoc RAG 청크 (제목 경로 breadcrumb, 표=GFM 독립 청크, page 번호)
 data/parsed/metadata.jsonl    보고서별 메타데이터
@@ -45,7 +50,8 @@ python pipeline/extract_meta.py data/parsed/md data/parsed/metadata.jsonl
 python pipeline/quality.py --md-dir data/parsed/md --meta data/parsed/metadata.jsonl \
   --run-log data/parsed/run_log.tsv --pdf-dir alio_report [--git-repo .] --out data/parsed/quality.csv
 python pipeline/write_status.py --out data/parsed --source-commit $(git rev-parse --short HEAD)
-streamlit run app.py
+python pipeline/classify_inst.py && python pipeline/build_gazetteer.py && python pipeline/asset_map.py
+streamlit run app.py          # 사이드바: 파싱 관제 / 연구소 협업 지도
 ```
 - kordoc 옵션: Markdown `--no-images --silent`, 청크 `--format chunks --table-format gfm --no-images`. 머리글·바닥글 자동 제거는 기본값(켜짐).
 - 그림이 필요하면 `--no-images` 를 빼고 다시 돈다(1건에 수십 MB라 저장소에는 넣지 않는다).
@@ -82,6 +88,19 @@ streamlit run app.py
   물정책연구소, 물순환연구소, 스마트워터연구소, 스마트연구소, 유역물관리연구소, 물인프라·에너지연구소, 수질안전센터,
   연구관리처 AI연구센터, 연구지원처. **사용자가 조직 개편(신설·합병·분리) 정보를 주면 이 파일의 대응 열을 채우고
   `extract_meta.py` 가 그 표를 읽어 소속구분을 다시 매기게 한다.** 외부기관(대학 산학협력단·학회) 용역도 20건쯤 있다.
+
+## 연구소 배정·협업 지도 (2단계, `classify_inst.py` · `asset_map.py`)
+- 분류 기준은 **water-tech-agent 의 연구소 라벨 점수**(`vendor/water_tech_agent/label_review.py` Scorer + 프로필)를 그대로 쓴다:
+  적합도 = 0.5 분야 친화도 + 0.5 키워드, 위성(INST-06)·AI(INST-07)는 '수단 연구소'라 분야를 갖지 않고 공유 후보로 주로 나온다.
+  보고서용 차이: 한국어 키워드는 제목 3.0 · 요약문 2회 이상 1.5 · 1회 0.6, 분야는 키워드×친화도의 **최대값**으로 추정
+  (합산하면 분야 4개를 가진 INST-02 로 쏠린다). 이관·공유 제안 문턱은 프로필 값 그대로.
+- 연구소_배정 = 수행조직이 연구소를 밝히면 그 연구소(23건), 아니면 키워드 추정 1순위. 수행조직 23건 기준 추정 일치율 70%
+  (처음 48% → 위 조정 후 70%). 불일치는 "수행 연구소 ≠ 주제상 연구소"인 경우가 섞여 있다(예: (087) 강수량계 표준화 = 물에너지연구소 수행).
+- 자산 = 사전(`asset_gazetteer.json`) 별칭이 전문에 **2회 이상** 나오면 '사용'. 영문 별칭은 대소문자 구분·단어 경계, 한글은 부분 일치.
+  2607alioreport 사전의 "현장조사·현지조사" 별칭은 61건에 걸려 수질 특정 별칭만 남겼다(`ALIAS_OVERRIDE`).
+- 1차 결과: 자산 72종 사용, 2개 이상 연구소가 쓰는 자산 34종, 연구소 연결 14쌍. 위성 영상(Sentinel·MODIS·Landsat·KOMPSAT)은
+  INST-02 보고서에서만 쓰여 INST-06 공급 후보, 딥러닝·디지털트윈은 INST-01~05 에 퍼져 INST-07 지원 후보(`provider` 열).
+- 한계: 사전에 없는 자산은 못 찾는다, '사용'과 '언급'을 가르지 못한다(참고문헌 언급도 2회면 사용). 다음 LLM 단계에서 요약문으로 보강.
 
 ## 다음 단계 메모
 - 연구자산 인벤토리 출력은 `newcave/water-tech-agent` 의 `data_seed/shared_datasources.json` 과 같은 꼴로 낸다:

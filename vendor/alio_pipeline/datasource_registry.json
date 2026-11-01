@@ -1,0 +1,221 @@
+{
+  "_comment": "K-water 연구보고서 데이터 소스 canonical registry. canonical_id 기준으로 별칭(aliases)을 정규화. 4단계 추출 시 gazetteer(사전 스캔 키워드)로도 사용됨. 새 시스템 발견 시 여기에 추가.",
+  "registry": [
+    {
+      "canonical_id": "WAMIS",
+      "name_kr": "국가수자원관리종합정보시스템",
+      "name_en": "Water Resources Management Information System",
+      "owner": "환경부/K-water",
+      "url": "wamis.go.kr",
+      "default_availability": "open",
+      "aliases": ["WAMIS", "wamis", "국가수자원관리종합정보시스템", "수자원관리종합정보시스템", "국가수자원종합정보시스템"]
+    },
+    {
+      "canonical_id": "MyWater",
+      "name_kr": "물정보포털",
+      "name_en": "National Water Information Portal",
+      "owner": "K-water",
+      "url": "water.or.kr",
+      "default_availability": "open",
+      "aliases": ["MyWater", "mywater", "물정보포털", "국가물정보포털"]
+    },
+    {
+      "canonical_id": "HDAPS",
+      "name_kr": "수문자료관리시스템",
+      "name_en": "Hydrological Data Acquisition and Processing System",
+      "owner": "K-water",
+      "url": null,
+      "default_availability": "internal_only",
+      "aliases": ["HDAPS", "수문자료관리시스템", "수문자료 관리시스템"]
+    },
+    {
+      "canonical_id": "RWIS",
+      "name_kr": "실시간수도정보시스템",
+      "name_en": "Real-time Water network Information System",
+      "owner": "K-water",
+      "url": null,
+      "default_availability": "internal_only",
+      "aliases": ["RWIS", "실시간수도정보시스템", "실시간 수도정보시스템"]
+    },
+    {
+      "canonical_id": "WEIS",
+      "name_kr": "물환경정보시스템",
+      "name_en": "Water Environment Information System",
+      "owner": "환경부(국립환경과학원)",
+      "url": "water.nier.go.kr",
+      "default_availability": "open",
+      "aliases": ["WEIS", "물환경정보시스템", "국립환경과학원 물환경정보시스템"]
+    },
+    {
+      "canonical_id": "GIMS",
+      "name_kr": "국가지하수정보센터",
+      "name_en": "Groundwater Information Management System",
+      "owner": "환경부/K-water",
+      "url": "gims.go.kr",
+      "default_availability": "open",
+      "aliases": ["GIMS", "국가지하수정보센터", "지하수정보시스템", "국가지하수정보시스템"]
+    },
+    {
+      "canonical_id": "KMA_ASOS",
+      "name_kr": "기상청 종관기상관측",
+      "name_en": "KMA Automated Synoptic Observing System",
+      "owner": "기상청",
+      "url": "data.kma.go.kr",
+      "default_availability": "open",
+      "aliases": ["ASOS", "종관기상관측", "기상청 지상관측"]
+    },
+    {
+      "canonical_id": "KMA_AWS",
+      "name_kr": "기상청 방재기상관측",
+      "name_en": "KMA Automatic Weather Station",
+      "owner": "기상청",
+      "url": "data.kma.go.kr",
+      "default_availability": "open",
+      "aliases": ["AWS", "방재기상관측", "자동기상관측"]
+    },
+    {
+      "canonical_id": "KMA_RADAR",
+      "name_kr": "기상레이더 강우자료",
+      "name_en": "KMA Weather Radar",
+      "owner": "기상청",
+      "url": "data.kma.go.kr",
+      "default_availability": "open",
+      "aliases": ["기상레이더", "레이더 강우", "radar rainfall"]
+    },
+    {
+      "canonical_id": "MODIS",
+      "name_kr": "MODIS 위성영상",
+      "name_en": "Moderate Resolution Imaging Spectroradiometer",
+      "owner": "NASA",
+      "url": "earthdata.nasa.gov",
+      "default_availability": "open",
+      "aliases": ["MODIS", "Terra MODIS", "Aqua MODIS"]
+    },
+    {
+      "canonical_id": "Landsat",
+      "name_kr": "Landsat 위성영상",
+      "name_en": "Landsat",
+      "owner": "NASA/USGS",
+      "url": "earthexplorer.usgs.gov",
+      "default_availability": "open",
+      "aliases": ["Landsat", "Landsat-8", "Landsat-9", "랜드샛"]
+    },
+    {
+      "canonical_id": "Sentinel",
+      "name_kr": "Sentinel 위성영상",
+      "name_en": "Copernicus Sentinel",
+      "owner": "ESA",
+      "url": "dataspace.copernicus.eu",
+      "default_availability": "open",
+      "aliases": ["Sentinel", "Sentinel-1", "Sentinel-2", "센티널"]
+    },
+    {
+      "canonical_id": "KOMPSAT",
+      "name_kr": "아리랑위성 영상",
+      "name_en": "Korea Multi-Purpose Satellite",
+      "owner": "한국항공우주연구원",
+      "url": null,
+      "default_availability": "restricted",
+      "aliases": ["KOMPSAT", "아리랑위성", "아리랑 위성", "다목적실용위성"]
+    },
+    {
+      "canonical_id": "NDMS",
+      "name_kr": "국가재난관리정보시스템",
+      "name_en": "National Disaster Management System",
+      "owner": "행정안전부",
+      "url": null,
+      "default_availability": "restricted",
+      "aliases": ["NDMS", "국가재난관리정보시스템", "재난관리시스템"]
+    },
+    {
+      "canonical_id": "KOSIS",
+      "name_kr": "국가통계포털",
+      "name_en": "Korean Statistical Information Service",
+      "owner": "통계청",
+      "url": "kosis.kr",
+      "default_availability": "open",
+      "aliases": ["KOSIS", "국가통계포털", "통계청 KOSIS"]
+    },
+    {
+      "canonical_id": "DATA_GO_KR",
+      "name_kr": "공공데이터포털",
+      "name_en": "Open Data Portal",
+      "owner": "행정안전부",
+      "url": "data.go.kr",
+      "default_availability": "open",
+      "aliases": ["공공데이터포털", "data.go.kr", "공공데이터 포털"]
+    },
+    {
+      "canonical_id": "VWORLD",
+      "name_kr": "브이월드 공간정보",
+      "name_en": "V-World Spatial Information Open Platform",
+      "owner": "국토교통부",
+      "url": "vworld.kr",
+      "default_availability": "open",
+      "aliases": ["브이월드", "V-World", "vworld", "국가공간정보포털"]
+    },
+    {
+      "canonical_id": "KRM",
+      "name_kr": "전사적 리스크관리 시스템",
+      "name_en": "K-water Risk Management System",
+      "owner": "K-water",
+      "url": null,
+      "default_availability": "internal_only",
+      "aliases": ["KRM", "전사적 리스크관리", "리스크관리시스템"]
+    },
+    {
+      "canonical_id": "SCADA",
+      "name_kr": "수도 SCADA 운영데이터",
+      "name_en": "Supervisory Control and Data Acquisition",
+      "owner": "K-water",
+      "url": null,
+      "default_availability": "internal_only",
+      "aliases": ["SCADA", "스카다", "원격감시제어"]
+    },
+    {
+      "canonical_id": "KHOA",
+      "name_kr": "국립해양조사원 조위자료",
+      "name_en": "Korea Hydrographic and Oceanographic Agency",
+      "owner": "해양수산부",
+      "url": "khoa.go.kr",
+      "default_availability": "open",
+      "aliases": ["KHOA", "국립해양조사원", "조위관측"]
+    },
+    {
+      "canonical_id": "BIO_MONITORING_NET",
+      "name_kr": "생물측정망 조사자료",
+      "name_en": "Aquatic Ecosystem Biomonitoring Network",
+      "owner": "환경부(국립환경과학원)",
+      "url": "water.nier.go.kr",
+      "default_availability": "open",
+      "aliases": ["생물측정망", "수생태 측정망", "수생태계 건강성 측정망", "생물측정망 조사"]
+    },
+    {
+      "canonical_id": "RIVER_BASIC_PLAN",
+      "name_kr": "하천기본계획 보고서(문헌자료)",
+      "name_en": "River Master Plan Report",
+      "owner": "국토교통부/지자체",
+      "url": null,
+      "default_availability": "restricted",
+      "aliases": ["하천기본계획", "하천기본계획 수립 보고서", "하천정비기본계획"]
+    },
+    {
+      "canonical_id": "FIELD_WQ_SURVEY",
+      "name_kr": "현장 수질조사(실측)",
+      "name_en": "Field Water Quality Survey",
+      "owner": "K-water",
+      "url": null,
+      "default_availability": "internal_only",
+      "aliases": ["현지조사", "현장조사", "현장 수질조사", "수질 현지조사", "시료채취", "수질오염공정시험"]
+    },
+    {
+      "canonical_id": "FLOW_MEASUREMENT",
+      "name_kr": "현장 유량측정(실측)",
+      "name_en": "Field Discharge Measurement",
+      "owner": "K-water",
+      "url": null,
+      "default_availability": "internal_only",
+      "aliases": ["유량측정", "유량조사", "현장 유량측정", "유속측정"]
+    }
+  ]
+}

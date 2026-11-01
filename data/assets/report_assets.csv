@@ -1,0 +1,537 @@
+﻿번호,asset_id,kind,name,언급수
+1,WAMIS,data,국가수자원관리종합정보시스템,8
+1,MyWater,data,물정보포털,3
+1,KMA_ASOS,data,기상청 종관기상관측,4
+1,SWAT,model,SWAT (유역 수문·수질),5
+1,HSPF,model,HSPF (유역 수문·수질),3
+1,HEC_HMS,model,HEC-HMS (강우-유출),7
+1,SWMM,model,SWMM (도시 유출·관거),2
+1,SSARR,model,SSARR (하천 유출),5
+1,PRMS,model,PRMS (유역 수문),3
+1,KDRUM,model,K-DRUM (분포형 유출),2
+1,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),400
+2,WEIS,data,물환경정보시스템,2
+4,DIGITAL_TWIN,method,디지털트윈,143
+5,RWIS,data,실시간수도정보시스템,2
+5,WATERNET,data,water-NET (K-water 수도 통합운영),9
+5,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,30
+5,EPANET,model,EPANET (상수관망 수리),6
+6,MyWater,data,물정보포털,13
+6,FIELD_WQ_SURVEY,data,현장 수질조사(실측),3
+10,WAMIS,data,국가수자원관리종합정보시스템,2
+10,MyWater,data,물정보포털,4
+10,WEIS,data,물환경정보시스템,3
+10,HSPF,model,HSPF (유역 수문·수질),4
+10,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),3
+10,LSTM,method,LSTM / GRU (순환신경망),15
+10,RF,method,Random Forest,6
+10,ANN,method,ANN / MLP (인공신경망),2
+10,LLM,method,LLM / 생성형 AI,5
+11,DAM_OPS,data,댐 운영자료(유입·방류·저수위),9
+11,COSFIM,model,COSFIM (댐 홍수 운영),3
+11,LSTM,method,LSTM / GRU (순환신경망),112
+11,TRANSFORMER,method,Transformer (어텐션),4
+11,RL,method,강화학습,2
+11,LLM,method,LLM / 생성형 AI,3
+11,DIGITAL_TWIN,method,디지털트윈,5
+12,TRANSFORMER,method,Transformer (어텐션),2
+13,MODFLOW,model,MODFLOW (지하수 흐름),2
+14,CFD,model,CFD (전산유체: FLOW-3D·Fluent 등),9
+15,SCADA,data,수도 SCADA 운영데이터,2
+16,MODIS,data,MODIS 위성영상,31
+16,Landsat,data,Landsat 위성영상,4
+16,Sentinel,data,Sentinel 위성영상,6
+16,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),6
+16,LSTM,method,LSTM / GRU (순환신경망),2
+16,CNN,method,CNN (합성곱신경망),3
+18,KMA_AWS,data,기상청 방재기상관측,4
+18,CNN,method,CNN (합성곱신경망),16
+18,TRANSFORMER,method,Transformer (어텐션),33
+18,LLM,method,LLM / 생성형 AI,79
+18,BAYES,method,베이지안 추론,2
+20,LSTM,method,LSTM / GRU (순환신경망),8
+20,CNN,method,CNN (합성곱신경망),11
+20,DIGITAL_TWIN,method,디지털트윈,125
+21,MODIS,data,MODIS 위성영상,16
+21,Landsat,data,Landsat 위성영상,22
+21,Sentinel,data,Sentinel 위성영상,193
+21,KOMPSAT,data,아리랑위성 영상,5
+21,LSTM,method,LSTM / GRU (순환신경망),4
+21,CNN,method,CNN (합성곱신경망),25
+21,RF,method,Random Forest,2
+21,SVM,method,SVM / SVR,4
+22,KRM,data,전사적 리스크관리 시스템,13
+22,SCADA,data,수도 SCADA 운영데이터,8
+22,OPTIM,method,최적화 (GA·PSO·LP),2
+23,RWIS,data,실시간수도정보시스템,28
+23,SCADA,data,수도 SCADA 운영데이터,10
+23,WATERNET,data,water-NET (K-water 수도 통합운영),29
+23,IWATER,data,i-water (스마트 물관리 플랫폼),7
+23,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,9
+23,EPANET,model,EPANET (상수관망 수리),19
+23,ANN,method,ANN / MLP (인공신경망),2
+23,DIGITAL_TWIN,method,디지털트윈,18
+24,FIELD_WQ_SURVEY,data,현장 수질조사(실측),3
+26,WAMIS,data,국가수자원관리종합정보시스템,3
+26,MODIS,data,MODIS 위성영상,7
+26,FLOW_MEASUREMENT,data,현장 유량측정(실측),4
+26,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,6
+26,WEAP,model,WEAP (물수급 계획),4
+26,RF,method,Random Forest,21
+26,GBM,method,XGBoost / LightGBM / GBM,38
+26,ANN,method,ANN / MLP (인공신경망),4
+27,KMA_ASOS,data,기상청 종관기상관측,22
+27,KMA_AWS,data,기상청 방재기상관측,6
+27,VWORLD,data,브이월드 공간정보,2
+27,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,2
+28,WAMIS,data,국가수자원관리종합정보시스템,3
+29,WAMIS,data,국가수자원관리종합정보시스템,43
+29,SWAT,model,SWAT (유역 수문·수질),19
+29,HSPF,model,HSPF (유역 수문·수질),6
+29,HEC_RESSIM,model,HEC-ResSim (저수지 운영),2
+29,TANK,model,TANK 모형 (강우-유출),2
+29,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),51
+30,WEIS,data,물환경정보시스템,2
+30,FIELD_WQ_SURVEY,data,현장 수질조사(실측),3
+30,RF,method,Random Forest,2
+31,WEIS,data,물환경정보시스템,8
+31,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),19
+31,FIELD_WQ_SURVEY,data,현장 수질조사(실측),4
+31,HEC_RAS,model,HEC-RAS (하천 수리),8
+32,WEIS,data,물환경정보시스템,5
+32,KOSIS,data,국가통계포털,2
+32,FLOW_MEASUREMENT,data,현장 유량측정(실측),3
+34,FIELD_WQ_SURVEY,data,현장 수질조사(실측),17
+34,DAM_OPS,data,댐 운영자료(유입·방류·저수위),4
+35,BIO_MONITORING_NET,data,생물측정망 조사자료,2
+35,BAYES,method,베이지안 추론,2
+37,WAMIS,data,국가수자원관리종합정보시스템,94
+37,HDAPS,data,수문자료관리시스템,135
+37,Sentinel,data,Sentinel 위성영상,2
+37,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),11
+37,FLOW_MEASUREMENT,data,현장 유량측정(실측),77
+37,DAM_OPS,data,댐 운영자료(유입·방류·저수위),23
+37,SWAT,model,SWAT (유역 수문·수질),73
+37,HSPF,model,HSPF (유역 수문·수질),16
+37,SWMM,model,SWMM (도시 유출·관거),7
+37,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),2
+37,EFDC,model,EFDC (3차원 수리·수질),72
+37,QUAL2,model,QUAL2E/QUAL2K (하천 수질),4
+37,WASP,model,WASP (수질),4
+37,SSARR,model,SSARR (하천 유출),7
+37,PRMS,model,PRMS (유역 수문),14
+37,MONTE_CARLO,method,몬테카를로 모의,3
+37,BAYES,method,베이지안 추론,14
+38,WEIS,data,물환경정보시스템,2
+38,KMA_ASOS,data,기상청 종관기상관측,3
+38,KMA_AWS,data,기상청 방재기상관측,5
+38,BIO_MONITORING_NET,data,생물측정망 조사자료,2
+38,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),8
+38,FIELD_WQ_SURVEY,data,현장 수질조사(실측),4
+38,FLOW_MEASUREMENT,data,현장 유량측정(실측),6
+38,HSPF,model,HSPF (유역 수문·수질),18
+39,WAMIS,data,국가수자원관리종합정보시스템,8
+40,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),2
+40,FIELD_WQ_SURVEY,data,현장 수질조사(실측),5
+41,DAM_OPS,data,댐 운영자료(유입·방류·저수위),6
+41,HEC_RAS,model,HEC-RAS (하천 수리),32
+41,HEC_RESSIM,model,HEC-ResSim (저수지 운영),2
+41,COSFIM,model,COSFIM (댐 홍수 운영),77
+41,LSTM,method,LSTM / GRU (순환신경망),57
+41,CNN,method,CNN (합성곱신경망),3
+41,SVM,method,SVM / SVR,2
+41,ANN,method,ANN / MLP (인공신경망),14
+41,OPTIM,method,최적화 (GA·PSO·LP),2
+43,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),8
+44,WAMIS,data,국가수자원관리종합정보시스템,4
+44,BIO_MONITORING_NET,data,생물측정망 조사자료,2
+44,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),18
+44,SWAT,model,SWAT (유역 수문·수질),10
+44,HSPF,model,HSPF (유역 수문·수질),57
+44,SWMM,model,SWMM (도시 유출·관거),3
+45,WAMIS,data,국가수자원관리종합정보시스템,6
+45,MyWater,data,물정보포털,2
+45,WEIS,data,물환경정보시스템,2
+45,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),22
+45,EFDC,model,EFDC (3차원 수리·수질),2
+47,WAMIS,data,국가수자원관리종합정보시스템,3
+47,HEC_RESSIM,model,HEC-ResSim (저수지 운영),12
+47,COSFIM,model,COSFIM (댐 홍수 운영),11
+48,WAMIS,data,국가수자원관리종합정보시스템,6
+48,WEIS,data,물환경정보시스템,4
+48,FLOW_MEASUREMENT,data,현장 유량측정(실측),2
+48,HSPF,model,HSPF (유역 수문·수질),8
+48,AEM3D,model,AEM3D (3차원 수질),8
+49,WAMIS,data,국가수자원관리종합정보시스템,3
+49,WEIS,data,물환경정보시스템,3
+49,FLOW_MEASUREMENT,data,현장 유량측정(실측),3
+49,DAM_OPS,data,댐 운영자료(유입·방류·저수위),3
+49,SWAT,model,SWAT (유역 수문·수질),3
+49,HSPF,model,HSPF (유역 수문·수질),30
+49,AEM3D,model,AEM3D (3차원 수질),42
+49,QUAL2,model,QUAL2E/QUAL2K (하천 수질),2
+51,WAMIS,data,국가수자원관리종합정보시스템,35
+51,MyWater,data,물정보포털,5
+51,WEIS,data,물환경정보시스템,2
+51,FLOW_MEASUREMENT,data,현장 유량측정(실측),2
+51,SWAT,model,SWAT (유역 수문·수질),5
+51,HSPF,model,HSPF (유역 수문·수질),148
+51,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),8
+51,AEM3D,model,AEM3D (3차원 수질),32
+52,FIELD_WQ_SURVEY,data,현장 수질조사(실측),2
+53,WAMIS,data,국가수자원관리종합정보시스템,29
+53,WEIS,data,물환경정보시스템,35
+53,KMA_AWS,data,기상청 방재기상관측,3
+53,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),46
+53,FLOW_MEASUREMENT,data,현장 유량측정(실측),8
+53,DAM_OPS,data,댐 운영자료(유입·방류·저수위),6
+53,HSPF,model,HSPF (유역 수문·수질),17
+53,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),157
+53,EFDC,model,EFDC (3차원 수리·수질),28
+53,WASP,model,WASP (수질),4
+55,FIELD_WQ_SURVEY,data,현장 수질조사(실측),2
+56,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),5
+57,KOSIS,data,국가통계포털,2
+57,VWORLD,data,브이월드 공간정보,2
+57,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),4
+58,WAMIS,data,국가수자원관리종합정보시스템,18
+58,WEIS,data,물환경정보시스템,3
+58,GIMS,data,국가지하수정보센터,3
+58,KOSIS,data,국가통계포털,14
+58,BIO_MONITORING_NET,data,생물측정망 조사자료,2
+58,SWMM,model,SWMM (도시 유출·관거),6
+59,MONTE_CARLO,method,몬테카를로 모의,3
+59,OPTIM,method,최적화 (GA·PSO·LP),2
+60,WATERNET,data,water-NET (K-water 수도 통합운영),4
+60,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,4
+60,SWMM,model,SWMM (도시 유출·관거),31
+60,EPANET,model,EPANET (상수관망 수리),2
+60,CFD,model,CFD (전산유체: FLOW-3D·Fluent 등),4
+60,LSTM,method,LSTM / GRU (순환신경망),6
+60,CNN,method,CNN (합성곱신경망),6
+60,PINN,method,PINN (물리기반 신경망),29
+60,DIGITAL_TWIN,method,디지털트윈,20
+61,DIGITAL_TWIN,method,디지털트윈,75
+62,KOSIS,data,국가통계포털,2
+62,VWORLD,data,브이월드 공간정보,3
+62,FIELD_WQ_SURVEY,data,현장 수질조사(실측),3
+62,FLOW_MEASUREMENT,data,현장 유량측정(실측),4
+62,SWAT,model,SWAT (유역 수문·수질),17
+63,MODFLOW,model,MODFLOW (지하수 흐름),6
+64,KRM,data,전사적 리스크관리 시스템,2
+64,HSPF,model,HSPF (유역 수문·수질),33
+64,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),24
+64,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),43
+65,WEIS,data,물환경정보시스템,4
+65,KOSIS,data,국가통계포털,3
+65,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),14
+67,SCADA,data,수도 SCADA 운영데이터,5
+67,DIGITAL_TWIN,method,디지털트윈,2
+68,HDAPS,data,수문자료관리시스템,2
+68,RWIS,data,실시간수도정보시스템,2
+68,FLOW_MEASUREMENT,data,현장 유량측정(실측),2
+68,WATERNET,data,water-NET (K-water 수도 통합운영),2
+68,SVM,method,SVM / SVR,2
+68,ARIMA,method,ARIMA (시계열),12
+69,WAMIS,data,국가수자원관리종합정보시스템,3
+69,MyWater,data,물정보포털,3
+69,KMA_ASOS,data,기상청 종관기상관측,26
+69,KMA_AWS,data,기상청 방재기상관측,185
+69,SWAT,model,SWAT (유역 수문·수질),12
+69,WEAP,model,WEAP (물수급 계획),6
+69,MODSIM,model,MODSIM / KModSim (물배분),3
+69,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),5
+69,BAYES,method,베이지안 추론,17
+70,WAMIS,data,국가수자원관리종합정보시스템,11
+70,LSTM,method,LSTM / GRU (순환신경망),9
+71,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,4
+72,FIELD_WQ_SURVEY,data,현장 수질조사(실측),2
+73,WEIS,data,물환경정보시스템,6
+73,BIO_MONITORING_NET,data,생물측정망 조사자료,73
+73,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),29
+73,FIELD_WQ_SURVEY,data,현장 수질조사(실측),8
+75,SCADA,data,수도 SCADA 운영데이터,3
+75,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,2
+75,CNN,method,CNN (합성곱신경망),5
+75,DIGITAL_TWIN,method,디지털트윈,15
+78,FLOW_MEASUREMENT,data,현장 유량측정(실측),307
+78,SVM,method,SVM / SVR,48
+79,FIELD_WQ_SURVEY,data,현장 수질조사(실측),3
+80,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,19
+80,CFD,model,CFD (전산유체: FLOW-3D·Fluent 등),34
+81,KOSIS,data,국가통계포털,4
+81,WATERNET,data,water-NET (K-water 수도 통합운영),5
+81,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,18
+81,EPANET,model,EPANET (상수관망 수리),4
+81,ANN,method,ANN / MLP (인공신경망),2
+81,DIGITAL_TWIN,method,디지털트윈,166
+81,ARIMA,method,ARIMA (시계열),2
+82,GIMS,data,국가지하수정보센터,3
+82,KOSIS,data,국가통계포털,23
+82,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,6
+83,FIELD_WQ_SURVEY,data,현장 수질조사(실측),2
+84,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),14
+85,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,3
+85,OPTIM,method,최적화 (GA·PSO·LP),10
+86,WAMIS,data,국가수자원관리종합정보시스템,2
+86,WEIS,data,물환경정보시스템,14
+86,KMA_ASOS,data,기상청 종관기상관측,10
+86,KMA_AWS,data,기상청 방재기상관측,2
+86,Sentinel,data,Sentinel 위성영상,7
+86,FIELD_WQ_SURVEY,data,현장 수질조사(실측),4
+86,DAM_OPS,data,댐 운영자료(유입·방류·저수위),7
+86,HSPF,model,HSPF (유역 수문·수질),3
+86,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),3
+86,AEM3D,model,AEM3D (3차원 수질),4
+86,EFDC,model,EFDC (3차원 수리·수질),5
+86,LSTM,method,LSTM / GRU (순환신경망),44
+86,CNN,method,CNN (합성곱신경망),4
+86,TRANSFORMER,method,Transformer (어텐션),41
+86,RF,method,Random Forest,51
+86,GBM,method,XGBoost / LightGBM / GBM,61
+86,SVM,method,SVM / SVR,5
+86,ANN,method,ANN / MLP (인공신경망),4
+86,PINN,method,PINN (물리기반 신경망),6
+86,LLM,method,LLM / 생성형 AI,12
+86,DIGITAL_TWIN,method,디지털트윈,2
+86,BAYES,method,베이지안 추론,11
+88,FIELD_WQ_SURVEY,data,현장 수질조사(실측),3
+88,CFD,model,CFD (전산유체: FLOW-3D·Fluent 등),8
+89,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),21
+89,FLOW_MEASUREMENT,data,현장 유량측정(실측),2
+89,DAM_OPS,data,댐 운영자료(유입·방류·저수위),12
+89,SWAT,model,SWAT (유역 수문·수질),10
+89,HSPF,model,HSPF (유역 수문·수질),8
+89,HEC_RAS,model,HEC-RAS (하천 수리),3
+89,EFDC,model,EFDC (3차원 수리·수질),2
+89,MIKE,model,MIKE 계열 (DHI),4
+89,TANK,model,TANK 모형 (강우-유출),55
+89,PRMS,model,PRMS (유역 수문),9
+89,WEAP,model,WEAP (물수급 계획),3
+89,MODSIM,model,MODSIM / KModSim (물배분),2
+89,KDRUM,model,K-DRUM (분포형 유출),76
+89,STORAGE_FN,model,저류함수법 (홍수 유출),2
+89,LSTM,method,LSTM / GRU (순환신경망),43
+89,ANN,method,ANN / MLP (인공신경망),3
+89,BAYES,method,베이지안 추론,2
+89,ARIMA,method,ARIMA (시계열),57
+90,KMA_ASOS,data,기상청 종관기상관측,3
+91,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),11
+92,WAMIS,data,국가수자원관리종합정보시스템,3
+92,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,3
+93,RWIS,data,실시간수도정보시스템,4
+94,WAMIS,data,국가수자원관리종합정보시스템,4
+94,GIMS,data,국가지하수정보센터,2
+94,DAM_OPS,data,댐 운영자료(유입·방류·저수위),2
+94,MODFLOW,model,MODFLOW (지하수 흐름),6
+94,FEFLOW,model,FEFLOW (지하수),2
+95,KMA_AWS,data,기상청 방재기상관측,2
+95,ANN,method,ANN / MLP (인공신경망),26
+96,WAMIS,data,국가수자원관리종합정보시스템,22
+96,WEIS,data,물환경정보시스템,21
+96,MODIS,data,MODIS 위성영상,15
+96,Landsat,data,Landsat 위성영상,94
+96,Sentinel,data,Sentinel 위성영상,430
+96,KOMPSAT,data,아리랑위성 영상,7
+96,FLOW_MEASUREMENT,data,현장 유량측정(실측),2
+96,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,9
+96,HSPF,model,HSPF (유역 수문·수질),2
+96,EFDC,model,EFDC (3차원 수리·수질),2
+96,WASP,model,WASP (수질),2
+96,TANK,model,TANK 모형 (강우-유출),57
+96,CNN,method,CNN (합성곱신경망),4
+96,RF,method,Random Forest,26
+96,GBM,method,XGBoost / LightGBM / GBM,15
+96,SVM,method,SVM / SVR,19
+96,ANN,method,ANN / MLP (인공신경망),2
+96,OPTIM,method,최적화 (GA·PSO·LP),8
+97,BIO_MONITORING_NET,data,생물측정망 조사자료,5
+98,WAMIS,data,국가수자원관리종합정보시스템,5
+98,WEIS,data,물환경정보시스템,2
+98,KMA_AWS,data,기상청 방재기상관측,2
+98,BIO_MONITORING_NET,data,생물측정망 조사자료,10
+98,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),3
+98,DAM_OPS,data,댐 운영자료(유입·방류·저수위),4
+98,SWAT,model,SWAT (유역 수문·수질),7
+98,HSPF,model,HSPF (유역 수문·수질),2
+98,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),6
+98,AEM3D,model,AEM3D (3차원 수질),31
+98,EFDC,model,EFDC (3차원 수리·수질),3
+98,QUAL2,model,QUAL2E/QUAL2K (하천 수질),4
+98,MODSIM,model,MODSIM / KModSim (물배분),3
+99,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,5
+99,DIGITAL_TWIN,method,디지털트윈,2
+100,FIELD_WQ_SURVEY,data,현장 수질조사(실측),3
+101,RWIS,data,실시간수도정보시스템,2
+101,WATERNET,data,water-NET (K-water 수도 통합운영),5
+104,WAMIS,data,국가수자원관리종합정보시스템,7
+104,GIMS,data,국가지하수정보센터,40
+104,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),4
+104,FIELD_WQ_SURVEY,data,현장 수질조사(실측),6
+107,WEIS,data,물환경정보시스템,4
+107,KRM,data,전사적 리스크관리 시스템,23
+108,SCADA,data,수도 SCADA 운영데이터,2
+108,ARIMA,method,ARIMA (시계열),2
+109,MONTE_CARLO,method,몬테카를로 모의,8
+111,WAMIS,data,국가수자원관리종합정보시스템,6
+111,WEIS,data,물환경정보시스템,11
+111,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),16
+111,FIELD_WQ_SURVEY,data,현장 수질조사(실측),4
+111,HSPF,model,HSPF (유역 수문·수질),6
+111,MODFLOW,model,MODFLOW (지하수 흐름),2
+111,SSARR,model,SSARR (하천 유출),2
+115,MyWater,data,물정보포털,3
+115,WEIS,data,물환경정보시스템,3
+115,SWAT,model,SWAT (유역 수문·수질),6
+115,HSPF,model,HSPF (유역 수문·수질),3
+115,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),3
+117,WEIS,data,물환경정보시스템,4
+117,MODIS,data,MODIS 위성영상,2
+117,Sentinel,data,Sentinel 위성영상,209
+117,SWAT,model,SWAT (유역 수문·수질),2
+117,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),2
+117,AEM3D,model,AEM3D (3차원 수질),57
+117,EFDC,model,EFDC (3차원 수리·수질),5
+117,CNN,method,CNN (합성곱신경망),102
+117,TRANSFORMER,method,Transformer (어텐션),3
+117,RF,method,Random Forest,85
+117,GBM,method,XGBoost / LightGBM / GBM,108
+117,SVM,method,SVM / SVR,3
+117,ANN,method,ANN / MLP (인공신경망),3
+117,LLM,method,LLM / 생성형 AI,2
+117,DIGITAL_TWIN,method,디지털트윈,10
+118,KMA_ASOS,data,기상청 종관기상관측,8
+118,KMA_AWS,data,기상청 방재기상관측,2
+118,MODIS,data,MODIS 위성영상,106
+118,Landsat,data,Landsat 위성영상,45
+118,Sentinel,data,Sentinel 위성영상,148
+118,KOMPSAT,data,아리랑위성 영상,3
+118,FIELD_WQ_SURVEY,data,현장 수질조사(실측),2
+118,SWAT,model,SWAT (유역 수문·수질),2
+118,VIC,model,VIC (대규모 수문),2
+118,LSTM,method,LSTM / GRU (순환신경망),13
+118,RF,method,Random Forest,3
+118,SVM,method,SVM / SVR,7
+118,ANN,method,ANN / MLP (인공신경망),16
+118,DIGITAL_TWIN,method,디지털트윈,5
+118,KRIGING,method,크리깅 (공간 보간),4
+119,WAMIS,data,국가수자원관리종합정보시스템,3
+119,WEIS,data,물환경정보시스템,3
+119,Landsat,data,Landsat 위성영상,46
+119,Sentinel,data,Sentinel 위성영상,88
+119,KOMPSAT,data,아리랑위성 영상,28
+119,DAM_OPS,data,댐 운영자료(유입·방류·저수위),2
+119,SWAT,model,SWAT (유역 수문·수질),10
+119,HSPF,model,HSPF (유역 수문·수질),5
+119,HEC_HMS,model,HEC-HMS (강우-유출),47
+119,HEC_RESSIM,model,HEC-ResSim (저수지 운영),66
+119,MODFLOW,model,MODFLOW (지하수 흐름),5
+119,QUAL2,model,QUAL2E/QUAL2K (하천 수질),2
+119,PRMS,model,PRMS (유역 수문),8
+119,KDRUM,model,K-DRUM (분포형 유출),3
+119,CNN,method,CNN (합성곱신경망),3
+119,RF,method,Random Forest,2
+119,SVM,method,SVM / SVR,2
+119,ANN,method,ANN / MLP (인공신경망),4
+120,SCADA,data,수도 SCADA 운영데이터,2
+121,DAM_OPS,data,댐 운영자료(유입·방류·저수위),3
+121,ARIMA,method,ARIMA (시계열),14
+122,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),3
+122,FIELD_WQ_SURVEY,data,현장 수질조사(실측),3
+124,WAMIS,data,국가수자원관리종합정보시스템,4
+124,MyWater,data,물정보포털,16
+124,HDAPS,data,수문자료관리시스템,2
+124,WEIS,data,물환경정보시스템,4
+124,GIMS,data,국가지하수정보센터,8
+124,KMA_ASOS,data,기상청 종관기상관측,2
+124,KMA_AWS,data,기상청 방재기상관측,4
+124,BIO_MONITORING_NET,data,생물측정망 조사자료,2
+124,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),5
+124,FLOW_MEASUREMENT,data,현장 유량측정(실측),2
+124,SWAT,model,SWAT (유역 수문·수질),118
+124,TANK,model,TANK 모형 (강우-유출),2
+124,WEAP,model,WEAP (물수급 계획),2
+124,KDRUM,model,K-DRUM (분포형 유출),5
+124,DIGITAL_TWIN,method,디지털트윈,5
+125,FIELD_WQ_SURVEY,data,현장 수질조사(실측),41
+127,SCADA,data,수도 SCADA 운영데이터,12
+127,SWIS,data,스마트워터시티·스마트미터(AMI) 데이터,21
+130,WAMIS,data,국가수자원관리종합정보시스템,7
+130,WEIS,data,물환경정보시스템,3
+130,GBM,method,XGBoost / LightGBM / GBM,19
+130,ANN,method,ANN / MLP (인공신경망),2
+131,WAMIS,data,국가수자원관리종합정보시스템,9
+131,MyWater,data,물정보포털,7
+131,GIMS,data,국가지하수정보센터,2
+131,TANK,model,TANK 모형 (강우-유출),5
+131,WEAP,model,WEAP (물수급 계획),81
+131,MODSIM,model,MODSIM / KModSim (물배분),109
+132,WAMIS,data,국가수자원관리종합정보시스템,11
+132,MyWater,data,물정보포털,2
+132,KMA_AWS,data,기상청 방재기상관측,18
+132,KMA_RADAR,data,기상레이더 강우자료,32
+132,NDMS,data,국가재난관리정보시스템,25
+132,SCADA,data,수도 SCADA 운영데이터,27
+132,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),42
+132,FLOW_MEASUREMENT,data,현장 유량측정(실측),7
+132,HEC_RAS,model,HEC-RAS (하천 수리),6
+132,HEC_HMS,model,HEC-HMS (강우-유출),3
+132,SWMM,model,SWMM (도시 유출·관거),65
+132,INFOWORKS,model,InfoWorks (관망·도시홍수),8
+132,ANN,method,ANN / MLP (인공신경망),3
+133,EPANET,model,EPANET (상수관망 수리),7
+133,MONTE_CARLO,method,몬테카를로 모의,5
+134,SWAT,model,SWAT (유역 수문·수질),57
+134,MODFLOW,model,MODFLOW (지하수 흐름),37
+134,PRMS,model,PRMS (유역 수문),8
+134,KDRUM,model,K-DRUM (분포형 유출),113
+135,FIELD_WQ_SURVEY,data,현장 수질조사(실측),22
+136,EPANET,model,EPANET (상수관망 수리),7
+137,BIO_MONITORING_NET,data,생물측정망 조사자료,6
+138,WAMIS,data,국가수자원관리종합정보시스템,8
+138,KMA_ASOS,data,기상청 종관기상관측,2
+138,KMA_AWS,data,기상청 방재기상관측,2
+138,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),3
+138,SWAT,model,SWAT (유역 수문·수질),17
+138,HSPF,model,HSPF (유역 수문·수질),93
+138,SWMM,model,SWMM (도시 유출·관거),5
+138,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),3
+138,AEM3D,model,AEM3D (3차원 수질),111
+138,EFDC,model,EFDC (3차원 수리·수질),22
+138,QUAL2,model,QUAL2E/QUAL2K (하천 수질),4
+138,WASP,model,WASP (수질),4
+140,WEAP,model,WEAP (물수급 계획),4
+141,KOSIS,data,국가통계포털,11
+141,BIO_MONITORING_NET,data,생물측정망 조사자료,10
+142,WAMIS,data,국가수자원관리종합정보시스템,2
+142,Landsat,data,Landsat 위성영상,5
+142,VWORLD,data,브이월드 공간정보,2
+142,RIVER_BASIC_PLAN,data,하천기본계획 보고서(문헌자료),9
+143,WEIS,data,물환경정보시스템,5
+143,BIO_MONITORING_NET,data,생물측정망 조사자료,5
+143,CE_QUAL_W2,model,CE-QUAL-W2 (저수지 수질),30
+143,AEM3D,model,AEM3D (3차원 수질),34
+143,RCM_SSP,model,기후변화 시나리오 (SSP/RCP·GCM),13
+143,RF,method,Random Forest,20
+144,WAMIS,data,국가수자원관리종합정보시스템,17
+144,KHOA,data,국립해양조사원 조위자료,9
+144,EFDC,model,EFDC (3차원 수리·수질),5
+144,DELFT3D,model,Delft3D (수리·수질·지형),6
+145,KMA_ASOS,data,기상청 종관기상관측,6
+145,KMA_AWS,data,기상청 방재기상관측,5
+145,COSFIM,model,COSFIM (댐 홍수 운영),9
+145,GR4J,model,GR4J (개념적 유출),17
+145,STORAGE_FN,model,저류함수법 (홍수 유출),4
+146,FLOW_MEASUREMENT,data,현장 유량측정(실측),7
+146,SWAT,model,SWAT (유역 수문·수질),16
+146,MODFLOW,model,MODFLOW (지하수 흐름),20
+146,FEFLOW,model,FEFLOW (지하수),11
+146,MIKE,model,MIKE 계열 (DHI),21
+146,PRMS,model,PRMS (유역 수문),2
+147,WAMIS,data,국가수자원관리종합정보시스템,2
+147,FLOW_MEASUREMENT,data,현장 유량측정(실측),7
+147,SWAT,model,SWAT (유역 수문·수질),16
+147,MODFLOW,model,MODFLOW (지하수 흐름),23
+147,FEFLOW,model,FEFLOW (지하수),6
+147,MIKE,model,MIKE 계열 (DHI),30
+147,PRMS,model,PRMS (유역 수문),2
