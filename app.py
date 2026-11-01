@@ -54,9 +54,13 @@ def inst_label(c):
     return f"{c} {INST_NAME.get(c, '')}".strip() if isinstance(c, str) and c and c != "미정" else "미정"
 
 
-@st.cache_data(ttl=300)
+@st.cache_data(ttl=60)
 def load_assets():
-    ri = pd.read_csv(ASSETS / "report_inst.csv", encoding="utf-8-sig")
+    import sys
+    sys.path.insert(0, str(Path(__file__).parent / "pipeline"))
+    import inst_overrides
+    ri = inst_overrides.apply(pd.read_csv(ASSETS / "report_inst.csv", encoding="utf-8-sig"),
+                              inst_overrides.read_local(Path(__file__).parent))
     shared = json.loads((ASSETS / "shared_assets.json").read_text(encoding="utf-8"))
     edges = json.loads((ASSETS / "edges.json").read_text(encoding="utf-8"))
     return ri, shared, edges
@@ -68,7 +72,8 @@ if page == "연구소 협업 지도":
         st.stop()
     ri, shared, edges = load_assets()
     st.title("연구소 협업 지도")
-    st.caption("연구소 배정은 water-tech-agent 연구소 라벨 점수(vendor/water_tech_agent, 키워드·분야 친화도)와 같은 기준 · "
+    st.caption("사람 판정(연구소 배당 판정 화면)이 있으면 그것이 우선이고, 공유 자산·연결 수는 파이프라인을 다시 돌려야 바뀝니다. "
+               "연구소 배정은 water-tech-agent 연구소 라벨 점수(vendor/water_tech_agent, 키워드·분야 친화도)와 같은 기준 · "
                "데이터·모델·방법은 자산 사전(data/assets/asset_gazetteer.json)으로 보고서 전문에서 찾음(2회 이상 언급) · LLM 없음")
     lab = ri[ri["배정근거"] == "수행조직"]
     agree = (lab["추정_1순위"] == lab["연구소_배정"]).mean() if len(lab) else float("nan")
@@ -87,8 +92,9 @@ if page == "연구소 협업 지도":
         y=alt.Y("연구소:N", title=None, sort="-x", axis=alt.Axis(labelLimit=240, labelOverlap=False)),
         x=alt.X("sum(건수):Q", title="보고서 수"),
         color=alt.Color("배정근거:N", legend=alt.Legend(orient="top", title=None),
-                        scale=alt.Scale(domain=["수행조직", "키워드추정", "미정(적합도 낮음)", "미변환"],
-                                        range=["#22C3E6", "#4F7DF3", "#8A94A6", "#4A5263"])),
+                        scale=alt.Scale(domain=["사람 판정", "사람 확인", "수행조직", "키워드추정", "사람 판정(연구소 밖)",
+                                                "미정(적합도 낮음)", "미변환"],
+                                        range=["#2BB673", "#7BD389", "#22C3E6", "#4F7DF3", "#C9A227", "#8A94A6", "#4A5263"])),
         tooltip=["연구소:N", "배정근거:N", "건수:Q"]).properties(height=34 * by["연구소"].nunique()),
         use_container_width=True)
 

@@ -1,6 +1,7 @@
 """Report x research-asset map and cross-institute sharing (rule-based, no LLM).
 
-in : data/parsed/md/NNN.md, data/assets/asset_gazetteer.json, data/assets/report_inst.csv (연구소_배정)
+in : data/parsed/md/NNN.md, data/assets/asset_gazetteer.json, data/assets/report_inst.csv (연구소_배정, 기계)
+     + data/assets/inst_overrides.csv (사람 판정, 있으면 우선)
 out: data/assets/report_assets.csv     번호, asset_id, kind, name, 언급수
      data/assets/shared_assets.json    water-tech-agent shared_datasources.json shape + kind/docs/main_inst/provider:
                                        {cid, name, kind, avail, n_docs, n_inst, institutes, main_inst, provider, docs}
@@ -13,6 +14,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+import sys; sys.path.insert(0, str(Path(__file__).resolve().parent))  # noqa: E702
 MD, ASSETS = ROOT / "data/parsed/md", ROOT / "data/assets"
 MIN_MENTIONS = 2          # one stray mention (e.g. a reference list) is not use
 LATIN = re.compile(r"[A-Za-z]")
@@ -33,10 +35,11 @@ def main():
     gaz = json.loads((ASSETS / "asset_gazetteer.json").read_text(encoding="utf-8"))["assets"]
     rx = {g["id"]: [alias_regex(a) for a in g["aliases"]] for g in gaz}
     info = {g["id"]: g for g in gaz}
-    inst = {}
-    with open(ASSETS / "report_inst.csv", encoding="utf-8-sig") as f:
-        for r in csv.DictReader(f):
-            inst[int(r["번호"])] = r["연구소_배정"]
+    import pandas as pd
+    import inst_overrides                     # 사람 판정(data/assets/inst_overrides.csv)이 기계 배정보다 우선
+    ri = inst_overrides.apply(pd.read_csv(ASSETS / "report_inst.csv", encoding="utf-8-sig", dtype={"연구소_배정": str}),
+                              inst_overrides.read_local(ROOT))
+    inst = {int(r["번호"]): (r["연구소_배정"] if isinstance(r["연구소_배정"], str) else "") for _, r in ri.iterrows()}
 
     rows, uses = [], defaultdict(list)          # uses[asset] = [(num, inst)]
     for p in sorted(MD.glob("[0-9][0-9][0-9].md")):
